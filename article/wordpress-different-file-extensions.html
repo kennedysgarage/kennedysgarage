@@ -1,0 +1,111 @@
+<!doctype html>
+<!--[if lt IE 7 ]> <html class="no-js ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]>    <html class="no-js ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]>    <html class="no-js ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>Kennedy's Garage</title>
+	<meta name="description" content="">
+	<meta name="author" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="shortcut icon" href="/favicon.ico">
+	<link rel="stylesheet" href="../css/reset.css?v=1">
+	<link rel="stylesheet" href="../css/style.css?v=1">
+	<script src="../js/libs/modernizr-1.7.min.js"></script>
+</head>
+<body onload="prettyPrint()">
+
+<div id="container">
+<div id="head-wrap">
+    <header>
+		<a href="../index.html"><h1>Kennedy's Garage</h1></a>
+		<nav>
+		<ul>
+		<li><a href="../about.html">about</a></li>
+		<li class="active"><a href="../articles.html">articles</a></li>
+		<li><a href="../projects.html">projects</a></li>
+		<li><a href="../contact.html">contact</a></li>
+		</ul>
+		</nav>
+		
+    </header>
+	<img src="../img/hr-t.png"/>
+	</div><!--/header-wrap-->
+		<div id="content">
+			<section>
+				<h2>WordPress different file extensions</h2>
+				<p id="byline">April 11th, 2011 // Christopher Kennedy</p>
+				<p>For what ever reason I had a difficult time find this solution. It seemed like most of the articles where out of date. Please let me know if you need any help. Just add this to your functions.php in your theme directory.</p>
+				<div class="full">
+				<h4>Upload .eps</h4>
+<pre><code  class="prettyprint">
+add_filter(&#39;upload_mimes&#39;, &#39;custom_upload_mimes&#39;);
+        function custom_upload_mimes ( $existing_mimes=array() ) {
+                $existing_mimes[&#39;eps&#39;] = &#39;application/postscript, application/eps, application/x-eps, image/eps, image/x-eps&#39;;
+        return $existing_mimes;
+        }
+</code></pre>
+</div><!--/full-->
+			<p>I found this solution from <a href="http://codex.wordpress.org/Plugin_API/Filter_Reference/upload_mimes">Plugin API/Filter Reference/upload mimes</a> &amp; <a href="http://reference.wolfram.com/mathematica/ref/format/EPS.html">Wolfram .eps</a></p>
+
+
+<hr/>
+<div class="social-button"><a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="kennedysgarage">Tweet</a></div>
+<div class="social-button"><div id="fb-root"></div><fb:like href="" send="false" layout="button_count" width="60" show_faces="false" font=""></fb:like></div>
+<div class="social-button"><g:plusone size="small"></g:plusone></div>
+<div class='rdbWrapper'></div>
+
+
+			</section>
+		</div><!--/content-->
+	
+	<img src="../img/hr-b.png"/>
+    <footer>
+		<ul id="bread">
+			<li><a href="../index.html"><img src="../img/logo.png"/></a></li>
+			<li><p>&raquo;</p></li>
+			<li><a href="../articles.html">articles</a></li>
+			<li><p>&raquo;</p></li>
+			<li><a href="">WordPress different file extensions</a></li>
+		</ul>
+		<ul id="social">
+			<li><a href="http://twitter.com/kennedysgarage"><img src="../img/twitter.png"/></a></li>
+			<li><a href="http://forrst.me/kennedysgarage"><img src="../img/forrst.png"/></a></li>
+			<li><a href="http://dribbble.com/kennedysgarage"><img src="../img/dribbble.png"/></a></li>
+		</ul>
+    </footer>
+</div><!--/container-->
+
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.js"></script>
+	<script>window.jQuery || document.write("<script src='../js/libs/jquery-1.5.1.min.js'>\x3C/script>")</script>
+	<script src="../js/plugins.js"></script>
+	<script src="../js/script.js"></script>
+	<script src="../js/prettify.js"></script>
+	<script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
+	<script src="http://connect.facebook.net/en_US/all.js#appId=159732377428066&amp;xfbml=1"></script>
+	<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+	<script type='text/javascript'>
+    (function() {
+    var s     = document.getElementsByTagName('script')[0],
+        rdb   = document.createElement('script');
+    rdb.type  = 'text/javascript';
+    rdb.async = true;
+    rdb.src   = document.location.protocol + '//www.readability.com/embed.js';
+    s.parentNode.insertBefore(rdb, s);
+    })();
+	</script>
+	<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-17557746-1']);
+	_gaq.push(['_setDomainName', '.kennedysgarage.com']);
+	_gaq.push(['_trackPageview']);
+	(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+	</script>
+</body>
+</html>

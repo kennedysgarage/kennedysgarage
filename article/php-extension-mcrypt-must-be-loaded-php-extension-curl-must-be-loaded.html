@@ -1,0 +1,101 @@
+<!doctype html>
+<!--[if lt IE 7 ]> <html class="no-js ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]>    <html class="no-js ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]>    <html class="no-js ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>Kennedy's Garage</title>
+	<meta name="description" content="">
+	<meta name="author" content="Christopher Kennedy">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="shortcut icon" href="/favicon.ico">
+	<link rel="stylesheet" href="../css/reset.css?v=1">
+	<link rel="stylesheet" href="../css/style.css?v=1">
+	<script src="../js/libs/modernizr-1.7.min.js"></script>
+</head>
+<body onload="prettyPrint()">
+
+<div id="container">
+<div id="head-wrap">
+    <header>
+		<a href="../index.html"><h1>Kennedy's Garage</h1></a>
+		<nav>
+		<ul>
+		<li><a href="../about.html">about</a></li>
+		<li class="active"><a href="../articles.html">articles</a></li>
+		<li><a href="../projects.html">projects</a></li>
+		<li><a href="../contact.html">contact</a></li>
+		</ul>
+		</nav>
+		
+    </header>
+	<img src="../img/hr-t.png"/>
+	</div><!--/header-wrap-->
+		<div id="content">
+			<section>
+			
+				<h2>PHP Extension "mcrypt" must be loaded <br/>PHP Extension "curl" must be loaded</h2>
+				<p id="byline">July 7th, 2010 // Christopher Kennedy</p>
+				
+				<p>I ran into this little problem after watching <a title="Easy E-Commerce With Magento" href="http://net.tutsplus.com/videos/screencasts/easy-e-commerce-with-magento/">Easy E-Commerce With Magento</a> tut over at <a title="NetTuts" href="http://net.tutsplus.com">NetTuts</a>.</p>
+				<p>I received this error during the installation process: PHP Extension "mcrypt" must be loaded &amp; PHP Extension "curl" must be loaded.</p>
+				<p><img src="../img/article/6.png"/></p>
+				<p>If you are tiring to install Magento on your localhost with WAMP here is the solution.</p>
+				
+				<ol>
+					<li>Left click on the WAMP icon in notification area.</li>
+					<li>Go to PHP</li>
+					<li>Click php.ini</li>
+					<img src="../img/article/1.png"/>
+					<li>Search for (Ctrl + F) "mcrypt" in this document.</li>
+					<img src="../img/article/2.png"/>
+					<li>You should be looking for ";extension=php_mcrypt.dll"</li>
+					<li>You need to uncomment that line of code, so remove the semicolon in front of it.</li>
+					<li>Next search for (Ctrl + F) "curl" in this document. You should be looking for ";extension=php_curl.dll"</li>
+					<li>You need to uncomment that line of code as well.</li>
+					<img src="../img/article/7.png" />
+					<li>Save and close this document.</li>
+					<li>Restart wamp</li>
+					<li>Refresh the Magento installation page.</li>
+				</ol>
+				
+			</section>
+		</div><!--/content-->
+	
+	<img src="../img/hr-b.png"/>
+    <footer>
+		<ul id="bread">
+			<li><a href="../index.html"><img src="../img/logo.png"/></a></li>
+			<li><p>&raquo;</p></li>
+			<li><a href="../articles.html">articles</a></li>
+			<li><p>&raquo;</p></li>
+			<li><a href="">PHP Extension "mcrypt" must be loaded / PHP Extension "curl" must be loaded</a></li>
+		</ul>
+		<ul id="social">
+			<li><a href="http://twitter.com/kennedysgarage"><img src="../img/twitter.png"/></a></li>
+			<li><a href="http://forrst.me/kennedysgarage"><img src="../img/forrst.png"/></a></li>
+			<li><a href="http://dribbble.com/kennedysgarage"><img src="../img/dribbble.png"/></a></li>
+		</ul>
+    </footer>
+</div><!--/container-->
+
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.js"></script>
+	<script>window.jQuery || document.write("<script src='../js/libs/jquery-1.5.1.min.js'>\x3C/script>")</script>
+	<script src="../js/plugins.js"></script>
+	<script src="../js/script.js"></script>
+	<script src="../js/prettify.js"></script>
+	<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-17557746-1']);
+	_gaq.push(['_setDomainName', '.kennedysgarage.com']);
+	_gaq.push(['_trackPageview']);
+	(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+	</script>
+</body>
+</html>
