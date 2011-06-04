@@ -6,7 +6,7 @@ body{
 }
 #container{
 	margin: 0 auto;
-	width: 960px;
+	max-width: 960px;
 }
 /* -----------------------------------------=header  */
 #head-wrap{
@@ -15,7 +15,7 @@ body{
 header{
 	background-image: url(../img/bg.png);
 	padding: 10px 30px;
-	width: 900px;
+	max-width: 900px;
 }
 /* -----------
  -- nav --
@@ -54,7 +54,7 @@ nav ul li.active a{
 /* -----------------------------------------=page  */
 #content{
 	padding: 110px 30px 15px;
-	width: 900px;
+	max-width: 900px;
 }
 #intro{
 	background-color: rgba(255,255,255,0.4);
