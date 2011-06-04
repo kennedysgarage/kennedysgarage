@@ -55,7 +55,6 @@ nav ul li.active a{
 #content{
 	padding: 110px 30px 15px;
 	width: 900px;
-	overflow: hidden;
 }
 #intro{
 	background-color: rgba(255,255,255,0.4);
@@ -111,9 +110,8 @@ nav ul li.active a{
 
 }
 section{
-	margin: 20px 0 10px ;
+	margin: 20px auto 10px ;
 	width: 450px;
-	float: right;
 }
 section h2{
 	margin: 0;
@@ -296,7 +294,8 @@ footer{
 }
 
 .full{
-	 margin: -10px 0 0 -450px;
+	 margin: -10px 0 0 -225px;
+	 width: 900px;
 }
 
 .img {
@@ -514,6 +513,10 @@ code{
 }
 .social-button{
 	float: left;
+}
+.rdbWrapper{
+	float: right;
+	width: 160px;
 }
 iframe {
 	vertical-align:bottom!important;
