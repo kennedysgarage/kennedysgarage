@@ -67,6 +67,11 @@
 				<p>Lets start where I started: <a href="http://www.w3.org/">W3C</a>. Whenever I want to know something more about HTML &amp; CSS I head over to W3C. Now granted they don't have tutorials on how to do something like this, but they do have a source code to view. I can only imagine that who ever built the site know their stuff. So after reviewing their code I decided to use it as my foundation. The only major difference between the two is how the image is being called.</p>
 				<p>The main reason why I like this method is that if the user has images disabled the text will still be their. Unlike the -999px method, where the text is no where in sight. Now the flip side to that is what if the user has the CSS disabled. Well, it will show both the image and text. Which brings me to a strange question, who browses with CSS turned off? If they are browsing with the CSS disabled, wouldn't they have images disabled to? Anyways I hope this helps.</p>				
 				
+				<hr/>
+				<div class="social-button"><a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="kennedysgarage">Tweet</a></div>
+				<div class="social-button"><g:plusone size="medium"></g:plusone></div>
+				<div class="rdbWrapper"></div>
+				
 			</section>
 		</div><!--/content-->
 	
@@ -90,8 +95,20 @@
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.js"></script>
 	<script>window.jQuery || document.write("<script src='../js/libs/jquery-1.5.1.min.js'>\x3C/script>")</script>
 	<script src="../js/plugins.js"></script>
-	<script src="../js/script.js"></script>
 	<script src="../js/prettify.js"></script>
+	<script src="../js/script.js"></script>
+	<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+	<script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
+	<script type='text/javascript'>
+    (function() {
+    var s     = document.getElementsByTagName('script')[0],
+        rdb   = document.createElement('script');
+    rdb.type  = 'text/javascript';
+    rdb.async = true;
+    rdb.src   = document.location.protocol + '//www.readability.com/embed.js';
+    s.parentNode.insertBefore(rdb, s);
+    })();
+	</script>
 	<script type="text/javascript">
 	var _gaq = _gaq || [];
 	_gaq.push(['_setAccount', 'UA-17557746-1']);
