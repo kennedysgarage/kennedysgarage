@@ -476,5 +476,7 @@ AddCharset utf-8 .html .css .js .xml .json .rss
 
 # http://www.sicanstudios.com/how-to-remove-php-html-htm-extensions-with-htaccess/
 
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
 RewriteRule ^([^\.]+)$ $1.html [NC,L]
 
