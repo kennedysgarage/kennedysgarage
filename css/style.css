@@ -53,8 +53,10 @@ nav ul li.active a{
 }
 /* -----------------------------------------=page  */
 #content{
-	padding: 110px 30px 15px;
 	max-width: 900px;
+	padding: 110px 30px 15px;
+	overflow: hidden;
+	
 }
 #intro{
 	background-color: rgba(255,255,255,0.4);
@@ -106,12 +108,9 @@ nav ul li.active a{
 	margin: 0;
 }
 
-.article {
-
-}
 section{
 	margin: 20px auto 10px ;
-	width: 450px;
+	max-width: 450px;
 }
 section h2{
 	margin: 0;
@@ -191,7 +190,7 @@ section img {
 	border: 1px solid rgba(255,255,255,0.9);
 	border-radius: 5px;
 	box-shadow: 0 1px 3px rgba(0,0,0,0.2);
-	width: 423px;
+	max-width: 423px;
 }
 #articles li a{
 
@@ -201,7 +200,7 @@ section img {
 }
 .article-excerpt{
 	border-bottom: 1px solid #E5E5E5;
-	height: 220px;
+	min-height: 220px;
 	margin: 0 0 5px;
 	padding: 0 5px;
 }
@@ -224,32 +223,6 @@ section img {
 	font-size: 13px;
 	margin: 0;
 	font-style: italic;
-}
-/* -----------
- -- search --
------------ */
-#search{
-	float: right;
-	margin: 8px 0 0 0;
-}
-#search .searchbox{
-	background-color: #E5E5E5;
-	border: 1px solid #c5c7bd;
-	border-right: none;
-	color: #b6b8ae;
-	padding: 8px 5px 5px;
-	margin: 0 0 0 0;
-	width: 200px;
-	box-shadow: 0 1px 0 #fff;
-}
-#search .button{
-	background-color: #E5E5E5;
-	border: 1px solid #c5c7bd;
-	border-left: none;
-	float: right;
-	padding: 5px;
-	cursor: pointer;
-	box-shadow: 0 1px 0 #fff;
 }
 /* -----------------------------------------=footer  */
 footer{
@@ -521,9 +494,6 @@ code{
 iframe {
 	vertical-align:bottom!important;
 	height:21px!important;
-}
-.test-img{
-
 }
 .right{
 	float: right;
