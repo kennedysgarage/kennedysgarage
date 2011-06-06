@@ -283,7 +283,16 @@ FileETag None
   RewriteEngine On
 </IfModule>
 
+# ----------------------------------------------------------------------
+# Remove .html extension
+# ----------------------------------------------------------------------
 
+# http://eisabainyo.net/weblog/2007/08/19/removing-file-extension-via-htaccess/
+# Replace html with your file extension, eg: php, htm, asp
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.html -f
+RewriteRule ^(.*)$ $1.html
 
 # ----------------------------------------------------------------------
 # Suppress or force the "www." at the beginning of URLs
@@ -470,16 +479,5 @@ AddCharset utf-8 .html .css .js .xml .json .rss
 # information about setting PHP directives.
 
 # php_flag register_globals Off
-
-# ----------------------------------------------------------------------
-# Remove .html extension
-# ----------------------------------------------------------------------
-
-# http://eisabainyo.net/weblog/2007/08/19/removing-file-extension-via-htaccess/
-# Replace html with your file extension, eg: php, htm, asp
-
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_FILENAME}\.html -f
-RewriteRule ^(.*)$ $1.html
 
 
