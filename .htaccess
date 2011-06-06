@@ -470,6 +470,11 @@ AddCharset utf-8 .html .css .js .xml .json .rss
 
 # php_flag register_globals Off
 
+# ----------------------------------------------------------------------
+# Remove .html extension
+# ----------------------------------------------------------------------
 
+# http://www.sicanstudios.com/how-to-remove-php-html-htm-extensions-with-htaccess/
 
+RewriteRule ^([^\.]+)$ $1.html [NC,L]
 
