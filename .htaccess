@@ -475,10 +475,9 @@ AddCharset utf-8 .html .css .js .xml .json .rss
 # Remove .html extension
 # ----------------------------------------------------------------------
 
-# http://www.catswhocode.com/blog/10-useful-htaccess-snippets-to-have-in-your-toolbox
+# http://eisabainyo.net/weblog/2007/08/19/removing-file-extension-via-htaccess/
 # Replace html with your file extension, eg: php, htm, asp
 
-RewriteEngine on
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.html -f
 RewriteRule ^(.*)$ $1.html
