@@ -290,9 +290,11 @@ FileETag None
 # http://eisabainyo.net/weblog/2007/08/19/removing-file-extension-via-htaccess/
 # Replace html with your file extension, eg: php, htm, asp
 
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_FILENAME}\.html -f
-RewriteRule ^(.*)$ $1.html
+<IfModule mod_rewrite.c>
+	RewriteCond %{REQUEST_FILENAME} !-d
+	RewriteCond %{REQUEST_FILENAME}\.html -f
+	RewriteRule ^(.*)$ $1.html
+</IfModule>
 
 # ----------------------------------------------------------------------
 # Suppress or force the "www." at the beginning of URLs
