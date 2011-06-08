@@ -1,0 +1,174 @@
+<!doctype html>
+<!--[if lt IE 7 ]> <html class="no-js ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]>    <html class="no-js ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]>    <html class="no-js ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>Kennedy's Garage</title>
+	<meta name="description" content="">
+	<meta name="author" content="Christopher Kennedy">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="shortcut icon" href="/favicon.ico">
+	<link rel="stylesheet" href="../css/reset.css?v=1">
+	<link rel="stylesheet" href="../css/style.css?v=1">
+	<script src="../js/libs/modernizr-1.7.min.js"></script>
+</head>
+<body onload="prettyPrint()">
+
+<div id="container">
+<div id="head-wrap">
+    <header>
+		<a href="../index.html"><h1>Kennedy's Garage</h1></a>
+		<nav>
+		<ul>
+		<li><a href="../about.html">about</a></li>
+		<li class="active"><a href="../articles.html">articles</a></li>
+		<li><a href="../projects.html">projects</a></li>
+		<li><a href="../contact.html">contact</a></li>
+		</ul>
+		</nav>
+		
+    </header>
+	<img src="../img/hr-t.png"/>
+	</div><!--/header-wrap-->
+		<div id="content">
+			<section>
+			
+				<h2>iPad Photo Credit</h2>
+				<p id="byline">June 7th, 2011 // Christopher Kennedy</p>
+				<p>A quick way to give credit where credit is do on an iPad. This is a quick little jQuery script that will show the photo credit when the image is touched.</p>
+				<p>In order to get this working just include the following snippets. Make sure you also include the jQuery library too. I have found this to be the best unobtrusive way to give the photographer credit without jeopardizing your design and layout.</p>
+
+				<h3>Features</h3>
+				<ul>
+					<li>It was made for the iPad, but it also works in webview</li>
+					<li>Works with multiple sized images</li>
+					<li>Minimal markup</li>
+				</ul>
+				
+			
+<div class="full">
+<h4>HTML</h4>
+<pre><code class="prettyprint">
+&lt;div class=&quot;imgcredit&quot;&gt;
+    &lt;img src=&quot;imagename.jpeg&quot; title=&quot;Give credit where credit is due&quot;/&gt;
+&lt;/div&gt;
+</code></pre>
+</div><!--/full-->
+
+<div class="full">
+<h4>CSS</h4>
+<pre><code class="prettyprint">
+.imgcredit {
+	position: relative;
+}
+.credit {
+	background-color: rgba(0,0,0,0.4);
+	bottom: 4px; /* depending on the reset, this might have to be adjusted */
+	color: #fff;
+	display: none;
+	left: 0;
+	padding: 10px;
+	position: absolute;
+	width: 100%;
+}
+</code></pre>
+</div><!--/full-->
+
+<div class="full">
+<h4>jQuery</h4>
+<pre><code class="prettyprint">
+// This is so it will work on the iPad (http://www.danwellman.co.uk/fixing-jquery-click-events-for-the-ipad/)
+var ua = navigator.userAgent,
+    event = (ua.match(/iPad/i)) ? &quot;touchstart&quot; : &quot;click&quot;;
+
+// This creates a span that will include the image&#39;s title
+$(&#39;.imgcredit img&#39;).each(function(){
+	$(this).after($(&#39;&lt;span/&gt;&#39;)
+		.attr(&#39;class&#39;, &#39;credit&#39;)
+		.html($(this).attr(&#39;title&#39;))
+	);
+});
+
+$(&quot;.imgcredit img&quot;).bind(event, function(e) { // this would normally be &quot;$(&quot;.imgcredit img&quot;).click( function() {&quot;, but we have to alter it for the ipad.
+		var img_width = 0; // setting the default of the variable to 0
+		var caption_width = 0; // setting the default of the variable to 0
+		img_width += $(this).width() ; // this measures the width of the image
+		caption_width += $(this).width() -20; // this measures the width of the span then minus 20px for the padding
+	$(this).parent().width(img_width); // this measures the width of the span then minus 20px for the padding
+	$(this).next().width(caption_width); // include the width to the caption
+	$(this).next().slideToggle(); // show/hide the credit
+});
+</code></pre>
+</div><!--/full-->
+
+
+				<h3>Note:</h3>
+				<p>My kickass mobile developer friend <a href="http://twitter.com/rjowens">Rich Owens</a> told me to add this note in here: In order for JavaScript to work you need to remove ".js" from "compiled source" and add them to "bundled files" in Xcode. (Source: <a href="http://stackoverflow.com/questions/843820/iphone-uiwebview-local-resources-using-javascript-and-handling-onorientationchang">http://stackoverflow.com/questions/843820/iphone-uiwebview-local-resources-using-javascript-and-handling-onorientationchang</a>)</p>
+				
+				<p class="buttons"><a href="../demo/ipad-photo-credit/index.html" class="button"><span>Demo</span></a> <a href="../download/ipad-photo-credit.zip" class="button"><span>Download</span></a></p>
+
+				<div id="disqus_thread"></div>
+				<script type="text/javascript">
+				    var disqus_shortname = 'kennedysgarage';
+				
+				    // The following are highly recommended additional parameters. Remove the slashes in front to use.
+				    // var disqus_identifier = 'unique_dynamic_id_1234';
+				    // var disqus_url = 'http://example.com/permalink-to-page.html';
+				
+				    /* * * DON'T EDIT BELOW THIS LINE * * */
+				    (function() {
+				        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+				        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+				        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+				    })();
+				</script>
+
+				
+				<hr/>
+				<div class="social-button"><a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="kennedysgarage">Tweet</a></div>
+				<div class="social-button"><g:plusone size="medium"></g:plusone></div>
+				<div class="rdbWrapper"></div>
+				
+			</section>
+		</div><!--/content-->
+	
+	<img src="../img/hr-b.png"/>
+    <footer>
+		<ul id="bread">
+			<li><a href="../index.html"><img src="../img/logo.png"/></a></li>
+			<li><p>&raquo;</p></li>
+			<li><a href="../articles.html">articles</a></li>
+			<li><p>&raquo;</p></li>
+			<li><a href=""></a></li>
+		</ul>
+		<ul id="social">
+			<li><a href="http://twitter.com/kennedysgarage"><img src="../img/twitter.png"/></a></li>
+			<li><a href="http://forrst.me/kennedysgarage"><img src="../img/forrst.png"/></a></li>
+			<li><a href="http://dribbble.com/kennedysgarage"><img src="../img/dribbble.png"/></a></li>
+		</ul>
+    </footer>
+</div><!--/container-->
+
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.js"></script>
+	<script>window.jQuery || document.write("<script src='../js/libs/jquery-1.5.1.min.js'>\x3C/script>")</script>
+	<script src="../js/plugins.js"></script>
+	<script src="../js/prettify.js"></script>
+	<script src="../js/script.js"></script>
+	<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+	<script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
+	<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-17557746-1']);
+	_gaq.push(['_setDomainName', '.kennedysgarage.com']);
+	_gaq.push(['_trackPageview']);
+	(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+	</script>
+</body>
+</html>
