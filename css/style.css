@@ -190,11 +190,14 @@ section img {
 	max-width: 890px;
 }
 .img-half{
-	margin: 0 20px 0 0;
+	margin: 0 20px 20px 0;
 }
 .img-center{
 	display: block;
 	margin: 0 auto;
+}
+.video{
+	margin: 0 0 20px;
 }
 /* -----------
  -- articles --
