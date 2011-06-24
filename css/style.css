@@ -110,7 +110,7 @@ nav ul li.active a{
 	font-weight: normal;
 }
 .last{
-	margin: 0;
+	margin-right: 0 !important;
 }
 
 section{
