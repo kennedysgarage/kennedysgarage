@@ -189,6 +189,13 @@ section img {
 	border-radius: 5px;
 	max-width: 890px;
 }
+.img-half{
+	margin: 0 20px 0 0;
+}
+.img-center{
+	display: block;
+	margin: 0 auto;
+}
 /* -----------
  -- articles --
 ----------- */
