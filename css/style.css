@@ -522,7 +522,7 @@ code{
 	float: right;
 	width: 160px;
 }
-iframe {
+.social-button iframe {
 	vertical-align:bottom!important;
 	height:21px!important;
 }
