@@ -7,6 +7,11 @@ body{
 #container{
 	margin: 0 auto;
 	max-width: 960px;
+	-webkit-animation-name: 'fade';
+	-webkit-animation-duration: 1s;
+	-webkit-animation-iteration-count: 1;
+	-webkit-animation-direction: alternate;
+	-webkit-animation-timing-function: ease-in;
 }
 /* -----------------------------------------=header  */
 #head-wrap{
@@ -15,11 +20,12 @@ body{
 	-moz-box-shadow: 0 11px 37px -34px #000000;
 	box-shadow: 0 11px 37px -34px #000000;*/
 	position: fixed;
+	width: 100%;
 }
 header{
 	background-image: url(../img/bg.png);
 	padding: 10px 30px;
-	min-width: 900px;
+	max-width: 900px;
 	
 }
 /* -----------
@@ -81,6 +87,7 @@ nav ul li.active a{
 	margin: 0 auto 20px;	
 	text-align: center;
 	display: block;
+	width: 100%; height: auto;
 }
 #intro p{
 	margin: 0;
@@ -216,7 +223,7 @@ section img {
 	border: 1px solid rgba(255,255,255,0.9);
 	border-radius: 5px;
 	box-shadow: 0 1px 3px rgba(0,0,0,0.2);
-	width: 423px;
+	max-width: 423px;
 }
 #articles li a{
 
@@ -536,4 +543,80 @@ code{
 .center{
 	display: block;
 	margin: 0 auto;
+}
+/* -----------------------------------------=media queries  */
+/* iPad [portrait + landscape] */
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+	h1{
+		display: block;
+		text-align: center;
+	}
+	nav{
+		float: none;
+	}
+	#head-wrap{
+		position: relative;
+	}
+	#content{
+		padding: 30px 30px 0;
+	}
+	.blast{
+		float: none;
+		text-align: center;
+		margin: 0 auto 20px !important;
+	}
+	.img-wrap{
+		max-width: 100%;
+	}
+	#articles li, #projects li{
+		max-width: 35%;
+	}
+	.article-excerpt{
+		min-height: 260px;
+	}
+	#projects li a img, #project img, section {
+		max-width: 100%;
+	}
+	.full, #content .img {
+		max-width: 100%;
+		margin: 0;
+	}
+}
+
+/* iPhone [portrait + landscape] */
+@media only screen and (max-device-width: 480px) {
+	h1{
+		display: block;
+		text-align: center;
+	}
+	nav{
+		float: none;
+	}
+	#head-wrap{
+		position: relative;
+	}
+	#content{
+		padding: 30px 30px 0;
+	}
+	.blast{
+		float: none;
+		text-align: center;
+		margin: 0 auto 20px !important;
+	}
+	.img-wrap{
+		max-width: 100%;
+	}
+	#articles li, #projects li{
+		max-width: 35%;
+	}
+	.article-excerpt{
+		min-height: 260px;
+	}
+	#projects li a img, #project img, section {
+		max-width: 100%;
+	}
+	.full, #content .img {
+		max-width: 100%;
+		margin: 0;
+	}
 }
