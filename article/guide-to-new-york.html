@@ -5,7 +5,7 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
 <head>
 	<meta charset="utf-8">
-	<title>Kennedy's Garage</title>
+	<title>Guide to New York | Kennedy's Garage</title>
 	<meta name="description" content="">
 	<meta name="author" content="Christopher Kennedy">
 	<meta name="viewport" content="width=device-width,initial-scale=1">
@@ -16,7 +16,7 @@
 	<link rel="stylesheet" href="../css/style.css">
 	<script src="../js/libs/modernizr-2.0.6.min.js"></script>
 </head>
-<body onload="prettyPrint()">
+<body onload="initialize()">
 
 <div id="container">
 <div id="head-wrap">
@@ -36,9 +36,12 @@
 		<div id="content">
 			<section>
 			
-				<h2></h2>
-				<p id="byline">, 2011 // Christopher Kennedy</p>
+				<h2>Guide to New York</h2>
+				<p id="byline">August 17th, 2011 // Christopher Kennedy</p>
 				
+				<div class="full">
+				<div id="map_canvas" style="width:900px; height:650px"></div>
+				</div><!--/full-->
 				
 				
 				<hr/>
@@ -56,7 +59,7 @@
 			<li><p>&raquo;</p></li>
 			<li><a href="../articles.html">articles</a></li>
 			<li><p>&raquo;</p></li>
-			<li><a href=""></a></li>
+			<li><a href="">Guide to New York</a></li>
 		</ul>
 		<ul id="social">
 			<li><a href="http://twitter.com/kennedysgarage" rel="me"><img src="../img/twitter.png"/></a></li>
@@ -73,20 +76,129 @@
 <script src="../js/script.js"></script>
 <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
 <script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
+
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+
 <script type="text/javascript">
-    var disqus_shortname = 'kennedysgarage';
+  function initialize() {
+    var latlng = new google.maps.LatLng(40.763, -73.983);
+    
+	var myOptions = {
+		zoom: 13,
+		center: latlng,
+		mapTypeControlOptions: {
+			mapTypeIds: [google.maps.MapTypeId.ROADMAP, 'nyc']
+		}
+	};
+	
+	var stylez = [
+   
+    {
+      featureType: "transit",
+      stylers: [
+        {visibility: "off"}
+      ]
+    },
+    {
+      featureType: "poi",
+      stylers: [
+        {visibility: "off"}
+      ]
+    },
+	{
+      featureType: "administrative",
+      stylers: [
+        {visibility: "off"}
+      ]
+    },
+	{
+      featureType: "landscape",
+      stylers: [
+        {visibility: "off"}
+      ]
+    },
+    {
+      featureType: "poi.park",
+      stylers: [
+        {visibility: "on"}
+      ]
+    },
+    {
+      featureType: "poi.park",
+      elementType: "labels",
+      stylers: [
+        {visibility: "off"}
+      ]
+    },
+	{
+      featureType: "water",
+      elementType: "geometry",
+      stylers: [
+        { hue: "#2bbbff" },
+        { saturation: 83 }
+      ]
+    },
+	{
+      featureType: "water",
+      elementType: "labels",
+      stylers: [
+        { visibility: "off" }
+      ]
+    },
+	{
+      featureType: "road.highway",
+      stylers: [
+        { visibility: "off" }
+      ]
+    },
+	{
+      featureType: "road.arterial",
+      stylers: [
+        { visibility: "off" }
+      ]
+    }
+  ];
 
-    // The following are highly recommended additional parameters. Remove the slashes in front to use.
-    // var disqus_identifier = 'unique_dynamic_id_1234';
-    // var disqus_url = 'http://example.com/permalink-to-page.html';
+	var map = new google.maps.Map(document.getElementById("map_canvas"),
+		myOptions);
+	
+	var mapinfo = [
+		{
+			"location" : new google.maps.LatLng(40.72869,-73.989744),
+			"title" : "McSorley's Old Ale House"
+		},
+		{
+			"location" : new google.maps.LatLng(40.72869,-73.089744),
+			"title" : "Random Rich"
+		}
+	];
+	
+	for (var i = 0; i < mapinfo.length; i += 1){
+		var marker = new google.maps.Marker({
+			position: mapinfo[i]["location"],
+			map: map, 
+			title: mapinfo[i]["title"]
+		});
+	}
 
-    /* * * DON'T EDIT BELOW THIS LINE * * */
-    (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
+	
+	var styledMapOptions = {
+		name: "Clean"
+	}
+	
+	var kennedyMapType = new google.maps.StyledMapType(
+	stylez, styledMapOptions);
+	
+	map.mapTypes.set('nyc', kennedyMapType);
+	map.setMapTypeId('nyc');
+}
+
+
+
+
+
 </script>
+
 
 <script type="text/javascript">
 var _gaq = _gaq || [];
