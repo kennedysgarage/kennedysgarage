@@ -199,8 +199,10 @@ section img {
 	border-radius: 5px;
 	max-width: 890px;
 }
-.img-half{
+.img-half a{
+	display: inline-block;
 	margin: 0 20px 20px 0;
+	max-width: 437px;
 }
 .img-center{
 	display: block;
