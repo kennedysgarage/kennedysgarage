@@ -192,6 +192,11 @@ section img {
 	padding: 110px 30px 15px;
 	overflow: hidden;
 }
+#project h2 span{
+	font-size: 17px;
+	float: right;
+	margin: 10px 0 0;
+}
 #project img{
 	padding: 5px;
 	background-color: rgba(255,255,255,0.4);
