@@ -1,7 +1,5 @@
 <?php  $title = 'Embed RSS Feeds into your website |'; include '../header.php'; ?>
 
-<div class="container">
-<?php include '../sidebar.php'; ?>
 <div id="page">
 <div id="content">
 <article>
@@ -131,6 +129,5 @@ google.setOnLoadCallback(OnLoad);
 </article>
 </div><!--/content-->
 </div><!--/page-->
-</div><!--/container-->
 
 <?php include("../footer.php"); ?>

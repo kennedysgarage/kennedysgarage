@@ -1,7 +1,5 @@
 <?php  $title = 'Stick to your guns |'; include '../header.php'; ?>
 
-<div class="container">
-<?php include '../sidebar.php'; ?>
 <div id="page">
 <div id="content">
 <article>
@@ -20,6 +18,5 @@
 </article>
 </div><!--/content-->
 </div><!--/page-->
-</div><!--/container-->
 
 <?php include("../footer.php"); ?>

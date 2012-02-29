@@ -1,7 +1,5 @@
 <?php  $title = 'E-commerce preferences from the best |'; include '../header.php'; ?>
 
-<div class="container">
-<?php include '../sidebar.php'; ?>
 <div id="page">
 <div id="content">
 <article>
@@ -187,6 +185,5 @@ FoxyCart can easily integrate with any CMS, and doesn't require any elaborate se
 </article>
 </div><!--/content-->
 </div><!--/page-->
-</div><!--/container-->
 
 <?php include("../footer.php"); ?>

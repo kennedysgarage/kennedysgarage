@@ -1,7 +1,5 @@
 <?php  $title = 'Simple Google map with custom icon |'; include '../header.php'; ?>
 
-<div class="container">
-<?php include '../sidebar.php'; ?>
 <div id="page">
 <div id="content">
 <article>
@@ -100,6 +98,5 @@ infowindow.open(map,companyMarker);
 </article>
 </div><!--/content-->
 </div><!--/page-->
-</div><!--/container-->
 
 <?php include("../footer.php"); ?>

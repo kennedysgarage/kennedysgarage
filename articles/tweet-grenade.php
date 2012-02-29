@@ -1,11 +1,8 @@
 <?php  $title = 'Tweet Grenade |'; include '../header.php'; ?>
 
-<div class="container">
-<?php include '../sidebar.php'; ?>
 <div id="page">
 <div id="content">
 <article>
-
 
 <h2>Tweet Grenade</h2>
 
@@ -24,6 +21,5 @@
 </article>
 </div><!--/content-->
 </div><!--/page-->
-</div><!--/container-->
 
 <?php include("../footer.php"); ?>

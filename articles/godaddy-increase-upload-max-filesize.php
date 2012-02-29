@@ -1,7 +1,5 @@
 <?php  $title = 'Godaddy: Increase upload max filesize |'; include '../header.php'; ?>
 
-<div class="container">
-<?php include '../sidebar.php'; ?>
 <div id="page">
 <div id="content">
 <article>
@@ -38,6 +36,5 @@ post_max_size = 64M
 </article>
 </div><!--/content-->
 </div><!--/page-->
-</div><!--/container-->
 
 <?php include("../footer.php"); ?>

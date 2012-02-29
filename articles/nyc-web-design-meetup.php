@@ -1,7 +1,5 @@
 <?php  $title = 'NYC Web Design Meetup |'; include '../header.php'; ?>
 
-<div class="container">
-<?php include '../sidebar.phpw'; ?>
 <div id="page">
 <div id="content">
 <article>
@@ -17,6 +15,5 @@
 </article>
 </div><!--/content-->
 </div><!--/page-->
-</div><!--/container-->
 
 <?php include("../footer.php"); ?>
