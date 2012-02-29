@@ -16,8 +16,6 @@
 	<link rel="shortcut icon" href="favicon.ico">
 	<link rel="stylesheet" href="/css/reset.css">
 	<link rel="stylesheet" href="/css/style.css">
-	<link rel="stylesheet" href="/css/modal.css">
-	<link rel="stylesheet" href="/css/twipsy.css">
 	<link rel="stylesheet" href="/css/prettify.css">
 	<script src="/js/modernizr.min.js"></script>
 	<script>
