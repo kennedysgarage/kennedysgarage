@@ -16,7 +16,7 @@
 		<div id="history">
 		<img src="img/theron.png"/>
         <h2>The History</h2>
-		<p>The original Kennedy’s Garage was open by my grandfather Theron Kennedy, in Lake of the Ozark, Missouri on February 29th, 1941. Granted 1941 was a different time and the business was building cars, nothing has changed as far as working hard. The key to his success was the relationships that he developed with his customers and the community.</p>
+		<p>The original Kennedy’s Garage was open by my grandfather Theron Kennedy, in Lake of the Ozark, Missouri on February 28th, 1941. Granted 1941 was a different time and the business was building cars, nothing has changed as far as working hard. The key to his success was the relationships that he developed with his customers and the community.</p>
 		<p>Today I still value those traditions and enjoy the old fashion handshake. The original Kennedy’s Garage was shut down after the passing of Theron. I later reopened the name and wanted to keep the same values of my grandfather. Since then the family has moved away from building cars, we still have a deep passion for them, but now I build amazing ideas surrounding the internet.</p>
 		<div class="clear"></div>
 		</div><!--/history-->
