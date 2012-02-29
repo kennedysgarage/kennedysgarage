@@ -6,7 +6,7 @@
         <a href="http://gradespotter.com"><img src="/projects/assets/latest.png"/></a>
         <h2>Grade Spotter</h2>
         <p>Grade Spotter is the quickest way to find a restaurant's New York City Department of Health Inspection results &amp; the reasons behind them. I am the Designer Co-founder on this project. My primary task is the logo, website, &amp; iPhone user interface.</p>
-        <p><a href="http://gradespotter.com" class="btn">Vist This Beautiful Project &raquo;</a></p>
+        <p><a href="http://gradespotter.com" class="btn">Visit This Beautiful Project &raquo;</a></p>
         <div class="clear"></div>
         </div><!--/current-project-->
     <hr/>

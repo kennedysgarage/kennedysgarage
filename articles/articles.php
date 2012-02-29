@@ -6,7 +6,7 @@
   
     <li>
         <h2><a href="/articles/nerdtree">NERDTree</a></h2>
-        <p>It seems lately that everyone is talking about responsive design and few people are actually trying to implement it. After much research, a few attempts, and some heated, yet passionate, discussions</p>
+        <p>"The NERD tree allows you to explore your filesystem and to open files and directories. It presents the filesystem to you in the form of a tree which you manipulate with the keyboard and/or mouse. It also allows you to perform simple filesystem operations."</p>
         <p class="byline">January 15th, 2012 &there4; Kennedy</p>
     </li>
   
