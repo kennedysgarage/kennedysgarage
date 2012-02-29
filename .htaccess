@@ -16,7 +16,6 @@
 ###
 
 
-
 # ----------------------------------------------------------------------
 # Better website experience for IE users
 # ----------------------------------------------------------------------
@@ -402,12 +401,13 @@ Options -MultiViews
 # ----------------------------------------------------------------------
 
 # You can add custom pages to handle 500 or 403 pretty easily, if you like.
+ErrorDocument 400 /error/bad-request
+ErrorDocument 401 /error/unauthorized
+ErrorDocument 403 /error/forbidden
+ErrorDocument 404 /error/not-found
+ErrorDocument 500 /error/internal-server-error
 
-ErrorDocument 400 /error/bad-request.html
-ErrorDocument 401 /error/unauthorized.html
-ErrorDocument 403 /error/forbidden.html
-ErrorDocument 404 /error/not-found.html
-ErrorDocument 500 /error/internal-server-error.html
+
 
 # ----------------------------------------------------------------------
 # UTF-8 encoding
@@ -504,3 +504,11 @@ Options -Indexes
 <IfModule php5_module>
 	php_value session.cookie_httponly true
 </IfModule>
+
+## Removing Extensions
+## http://sicanstudios.com/how-to-remove-php-html-htm-extensions-with-htaccess/
+
+## RewriteCond %{Request
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]

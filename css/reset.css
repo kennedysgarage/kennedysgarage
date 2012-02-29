@@ -8,16 +8,16 @@ audio:not([controls]) { display: none; }
 [hidden] { display: none; }
 
 html { font-size: 100%; overflow-y: scroll; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
-body { margin: 0; font-size: 13px; line-height: 1.231; }
+body { margin: 0; font-size: 100%; line-height: 1.4; }
 body, button, input, select, textarea { font-family: sans-serif; color: #222; }
 
 ::-moz-selection { background: #ffffa9; color:#54545e; text-shadow: none; }
 ::selection { background: #ffffa9; color:#54545e; text-shadow: none; }
 
-a { color: #00e; }
-a:visited { color: #551a8b; }
-a:hover { color: #06e; }
+a { color: #0067B0; text-decoration: none;}
+a:hover { color: #0095FF; }
 a:focus { outline: thin dotted; }
+a:active{ color: ##0067B0; }
 a:hover, a:active { outline: 0; }
 
 abbr[title] { border-bottom: 1px dotted; }
@@ -28,14 +28,14 @@ hr { display: block; height: 1px; border: 0; border-top: 1px solid #ccc; margin:
 ins { background: #ff9; color: #000; text-decoration: none; }
 mark { background: #ff0; color: #000; font-style: italic; font-weight: bold; }
 pre, code, kbd, samp { font-family: monospace, monospace; _font-family: 'courier new', monospace; font-size: 1em; }
-pre { white-space: pre; word-wrap: break-word; padding: 15px;}
+pre { white-space: pre; white-space: pre-wrap; word-wrap: break-word; }
 q { quotes: none; }
 q:before, q:after { content: ""; content: none; }
 small { font-size: 85%; }
 sub, sup { font-size: 75%; line-height: 0; position: relative; vertical-align: baseline; }
 sup { top: -0.5em; }
 sub { bottom: -0.25em; }
-ul, ol { margin: 1em 0; padding: 0 0 0 20px; }
+ul, ol { margin: 1em 0; padding: 0 0 0 40px; }
 dd { margin: 0 0 0 40px; }
 nav ul, nav ol { list-style: none; list-style-image: none; margin: 0; padding: 0; }
 img { border: 0; -ms-interpolation-mode: bicubic; vertical-align: middle; }
@@ -62,152 +62,6 @@ table { border-collapse: collapse; border-spacing: 0; }
 td { vertical-align: top; }
 
 
-/* ==|== primary styles =====================================================
-   Author: 
-   ========================================================================== */
-
-/* -----------------------------------------=links */
-a{
-	color: #0067b0;
-	margin:0;
-	padding:0;
-	text-decoration:none;
-}
-a:active {
-	color: #0067b0;
-	top:1px;
-}
-a:visited{
-	color: #0067b0;
-}
-a:hover {
-	color: #0095ff;
-	text-decoration:none;
-}
-/* -----------------------------------------=typography */
-@font-face {
-	font-family: 'GreetingsRegular';
-	src: url('../fonts/greetings/greeting-webfont.eot');
-	src: local('☺'), url('../fonts/greetings/greeting-webfont.woff') format('woff'), url('../fonts/greetings/greeting-webfont.ttf') format('truetype'), url('../fonts/greetings/greeting-webfont.svg#webfontH4XtUvzg') format('svg');
-	font-weight: normal;
-	font-style: normal;
-}
-@font-face {
-    font-family: 'GoudyBookletter1911Regular';
-    src: url('../fonts/goudy/goudy_bookletter_1911-webfont.eot');
-    src: url('../fonts/goudy/goudy_bookletter_1911-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/goudy/goudy_bookletter_1911-webfont.woff') format('woff'),
-         url('../fonts/goudy/goudy_bookletter_1911-webfont.ttf') format('truetype'),
-         url('../fonts/goudy/goudy_bookletter_1911-webfont.svg#GoudyBookletter1911Regular') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
-p{
-	color:#54545e;
-	font-size:16px;
-	-webkit-hyphens: auto;
-    -moz-hyphens: auto;
-    hyphens: auto;
-	line-height: 16pt;
-	margin:0 0 20px 0;
-	padding:0;
-	text-align: left;
-	vertical-align: baseline;
-	text-shadow: 0 1px 0 #fff;
-}
-h1{
-	color:#54545e;
-	font-size:48px;
-	font-family: 'GreetingsRegular';
-	font-weight: normal;
-	margin:0;
-	padding:0;
-	vertical-align: baseline;
-	font-weight: bolder;
-	display: inline;
-	text-shadow: 0 1px 0 #fff;
-}
-h2{
-	color:#54545e;
-	font-family: 'GoudyBookletter1911Regular', Georgia, serif;
-	font-weight: normal;
-	font-size:32px;
-	margin:0 0 20px;
-	padding:0;
-	vertical-align: baseline;
-	text-shadow: 1px 1px 0px #fff;
-}
-h3{
-	color:#54545e;
-	font-size:26px;
-	font-family: 'GoudyBookletter1911Regular', Georgia, serif;
-	line-height: 1.2;
-	margin:0;
-	padding:0 0 20px 0;
-	vertical-align: baseline;
-	font-weight: normal;
-	text-shadow: 0 1px 0 #fff;
-}
-h4{
-	color:#54545e;
-	font-family: 'GoudyBookletter1911Regular', Georgia, serif;
-	font-size:18px;
-	margin:0 0 5px 0;
-	padding:0;
-	vertical-align: baseline;
-}
-h5{
-	color:#333;
-	font-size:18px;
-	margin:0 0 20px 0;
-	padding:5px 0 5px 10px;
-	vertical-align: baseline;
-	background-color: #eaeaea;
-	border-top: 1px solid #ccc;
-	border-bottom: 3px solid #bbb;
-}
-h6{
-	color:#333;
-	font-size:16px;
-	margin:9px 0 5px 0;
-	padding:0;
-	vertical-align: baseline;
-	font-weight: bold;
-}
-ul, ol{
-	margin: 0 0 20px;
-}
-ul li{
-	color:#54545e;
-	font-size:16px;
-	line-height: 16pt;
-	list-style:disc;
-	margin: 0 0 0 20px;
-	padding:0;
-	text-shadow: 0 1px 0 #fff;
-}
-ol li{
-	color:#54545e;
-	font-size:16px;
-	line-height: 16pt;
-	list-style:decimal;
-	margin: 0 0 0 20px;
-	padding:0;
-	text-shadow: 0 1px 0 #fff;
-}
-hr{
-	background: #E5E5E5;
-	box-shadow: 0 1px 0 #fff;
-	border: none;
-	clear: both;
-	height: 1px;
-	width:100%;
-	margin: 0 0 20px 0;
-}
-.last{
-	margin: 0 !important;
-}
-
 /* ==|== non-semantic helper classes ======================================== */
 .ir { display: block; border: 0; text-indent: -999em; overflow: hidden; background-color: transparent; background-repeat: no-repeat; text-align: left; direction: ltr; }
 .ir br { display: none; }
@@ -220,6 +74,8 @@ hr{
 .clearfix { zoom: 1; }
 .clear{clear: both;}
 
+.hide {display: none;}
+.show {display: block;}
 /* ==|== print styles ======================================================= */
  
 @media print {
@@ -235,4 +91,113 @@ hr{
   @page { margin: 0.5cm; }
   p, h2, h3 { orphans: 3; widows: 3; }
   h2, h3 { page-break-after: avoid; }
+}
+
+/* ==|== typo ======================================================= */
+@font-face {
+    font-family: 'Outage';
+    src: url('../font/outage/outage-webfont.eot');
+    src: url('../font/outage/outage-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/outage/outage-webfont.woff') format('woff'),
+         url('../font/outage/outage-webfont.ttf') format('truetype'),
+         url('../font/outage/outage-webfont.svg#OutageRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'QuicksandLight';
+    src: url('../font/quicksand/Quicksand_Light-webfont.eot');
+    src: url('../font/quicksand/Quicksand_Light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/quicksand/Quicksand_Light-webfont.woff') format('woff'),
+         url('../font/quicksand/Quicksand_Light-webfont.ttf') format('truetype'),
+         url('../font/quicksand/Quicksand_Light-webfont.svg#QuicksandLight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'BitstreamVeraSansRoman';
+    src: url('../font/bitstream/Vera-webfont.eot');
+    src: url('../font/bitstream/Vera-webfont?#iefix') format('embedded-opentype'),
+         url('../font/bitstream/Vera-webfont.woff') format('woff'),
+         url('../font/bitstream/Vera-webfont.ttf') format('truetype'),
+         url('../font/bitstream/Vera-webfont.svg#BitstreamVeraSansRoman') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'BitstreamVeraSansBold';
+    src: url('../font/bitstream/Vera-Bold-webfont.eot');
+    src: url('../font/bitstream/Vera-Bold-webfont?#iefix') format('embedded-opentype'),
+         url('../font/bitstream/Vera-Bold-webfont.woff') format('woff'),
+         url('../font/bitstream/Vera-Bold-webfont.ttf') format('truetype'),
+         url('../font/bitstream/Vera-Bold-webfont.svg#BitstreamVeraSansBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+    
+html,body{
+	background: #22252b;
+	background: -moz-radial-gradient(center, ellipse cover, #22252b 0%, #1c1e20 100%);
+	background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#22252b), color-stop(100%,#1c1e20));
+	background: -webkit-radial-gradient(center, ellipse cover, #22252b 0%,#1c1e20 100%);
+	background: -o-radial-gradient(center, ellipse cover, #22252b 0%,#1c1e20 100%);
+	background: -ms-radial-gradient(center, ellipse cover, #22252b 0%,#1c1e20 100%);
+	background: radial-gradient(center, ellipse cover, #22252b 0%,#1c1e20 100%);
+	background-repeat: repeat-y;
+	width: 100%;
+	height: 100%;
+	background-attachment: fixed;
+}
+h1{
+	color: #30353d;
+	font-family: 'BitstreamVeraSansBold', Arial, sans-serif;
+	font-size: 32px;
+	font-weight: normal;
+	margin: 0 0 30px;
+	text-shadow: 0 1px 0 rgba(255,255,255,0.7);
+}
+h2{
+	color: #30353d;
+	font-family: 'BitstreamVeraSansBold', Arial, sans-serif;
+	font-size: 28px;
+	font-weight: normal;
+	margin: 0 0 20px;
+	padding: 0;
+}
+h3{
+	color: #30353d;
+	margin:0 0 5px;
+}
+h4{
+	color: #30353d;
+	margin: 0 0 5px;
+}
+p{
+	color: #474d59;
+	font-family: 'BitstreamVeraSansRoman', Arial, sans-serif;
+	font-size: 18px;
+	line-height: 1.5;
+	margin: 0 0 20px;
+	text-shadow: 0 1px 0 rgba(255,255,255,0.7);	
+}
+ul{
+    margin:0 0 20px;
+}
+li{
+	color: #474d59;
+	font-family: 'BitstreamVeraSansRoman', Arial, sans-serif;
+	font-size: 18px;
+	line-height: 1.5;
+	text-shadow: 0 1px 0 rgba(255,255,255,0.7);	
+}
+dt{
+    font-weight:bold;
+}
+dl{
+	color: #474d59;
+	font-family: 'BitstreamVeraSansRoman', Arial, sans-serif;
+	font-size: 18px;
+	line-height: 1.5;
+	margin:0 0 10px;
+	text-shadow: 0 1px 0 rgba(255,255,255,0.7);	
 }
