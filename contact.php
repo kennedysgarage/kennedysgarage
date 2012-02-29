@@ -5,7 +5,7 @@
 	
 	<div id="page">
 		<div id="content">
-			<p>Feel free to contact me anytime, my handle "kennedysgarage" for pretty much everything. Lately I have been bad at replying to emails and sometimes Twitter's @ & DM. Don't take it personally, I <strike>hate</strike> love everyone equally. If you really want to get a hold of me or just say hi, add me on Google Talk or AIM. </p>
+			<p>Feel free to contact me anytime, my handle "kennedysgarage" for pretty much everything. Lately I have been bad at replying to emails and sometimes Twitter @ &amp; DM. Don't take it personally, I <strike>hate</strike> love everyone equally. If you really want to get a hold of me or just say hi, add me on Google Talk or AIM. </p>
 			<ul class="contact">
 				<li><a href="mailto:kennedysgarage@gmail.com"><span id="email"></span></a></li>
 				<li><a href="http://twitter.com/kennedysgarage"><span id="twitter"></span></a></li>

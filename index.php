@@ -35,7 +35,7 @@
 	
     <div id="home">
         <h1>Kennedy's Garage</h1>
-        <p>My name is Christopher Kennedy.  I’m a New York City based hacker &amp; entrepreneur standing tall at 5' 18".  My focus is UX design and front-end development for web, tablet &amp; mobile applications.  I like to stay very active in a wide range of startups and I attend a lot hackathons.  I’m currently working at M. Shanken Communications as a Lead UX Strategist and I am not taking any new projects at this time (unless it is going to make fucking bank).</p>
+        <p>My name is Christopher Kennedy. I’m a New York City based hacker &amp; entrepreneur standing tall at 5'18". My focus is UX design and front-end development for web, tablet, &amp; mobile applications. I like to stay very active in a wide range of startups, and I attend a lot hackathons. I’m currently working at M. Shanken Communications as a Lead UX Strategist, and I am not taking any new projects at this time (unless it is going to make fucking bank).</p>
         <nav>
             <ul>
                 <li><a href="/about">About</a></li>
