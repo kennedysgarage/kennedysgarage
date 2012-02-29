@@ -1,7 +1,5 @@
 <?php  $title = 'Articles |'; include '../header.php';?>
 
-<div class="container">
-<?php include '../sidebar.php'; ?>
 <div id="page">
 
 <ul id="article-list">
@@ -159,6 +157,5 @@
 </ul>
 
 </div><!--/page-->
-</div><!--/container-->
 
 <?php include("../footer.php"); ?>
