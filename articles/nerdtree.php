@@ -105,12 +105,6 @@ vim ~/.vimrc
 </pre>
 <p>Then add this to the file.</p>
 <pre class="prettyprint linenums">
-" Give a shortcut key to NERD Tree
-map <F2> :NERDTreeToggle<CR>
-
-"Shortcut for NERDTreeToggle  
-"nmap <leader>nt :NERDTreeToggle <CR>
-
 "Show hidden files in NerdTree  
 let NERDTreeShowHidden=1
 
