@@ -383,9 +383,13 @@ footer{
 .btn{
     background-color: #0067B0;
     border-radius: 4px;
-    color: #FFFFFF;
+    color: #fff;
     padding: 5px 10px;
     text-shadow: 0 1px 0 rgba(0, 0, 0, 0.4);
+}
+.btn:hover{
+    background-color:#0095FF;
+    color:#fff;
 }
 .left {
     float: left;
