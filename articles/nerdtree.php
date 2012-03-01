@@ -15,8 +15,8 @@
 <h4>pathogen.vim</h4>
 <p>pathogen.vim is the recommended way to install NERD Tree. So lets talk about that first. Basically pathogen.vim is a super easy way to install plugins and runtimes files. Just paste this into you terminal.</p>
 <pre class="prettyprint linenums">
-mkdir -p ~/.vim/autoload ~/.vim/bundle; \
-curl -so ~/.vim/autoload/pathogen.vim \
+mkdir -p ~/.vim/autoload ~/.vim/bundle; \<br/>
+curl -so ~/.vim/autoload/pathogen.vim \<br/>
     https://raw.github.com/tpope/vim-pathogen/HEAD/autoload/pathogen.vim
 </pre>
 
@@ -57,8 +57,8 @@ vim ~/.vimrc
 </pre>
 <p>Add this:</p>
 <pre class="prettyprint linenums">
-" Give a shortcut key to NERD Tree
-map <F2> :NERDTreeToggle<CR>
+&quot; Give a shortcut key to NERD Tree
+map &lt;F2&gt; :NERDTreeToggle&lt;CR&gt;
 </pre>
 
 <p>Great, now we no long have to type <code>:NERDTreeToggle</code> every time, we just have to hit fn+F2.</p>
