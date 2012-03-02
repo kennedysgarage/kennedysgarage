@@ -125,10 +125,6 @@ article p{
     hyphens: auto;
 	text-align: justify;
 }
-article h1 + p:first-letter {
-   font-size: 30px;
-   line-height: 0;
-}
 .byline{
 	color: #808590;
 	font-size: 14px;
@@ -187,9 +183,6 @@ article h1 + p:first-letter {
     color:#666;
     font-size:20px;
     margin:0 0 20px;
-}
-#resume-intro p{
-    
 }
 #resume h2{
     font-size: 26px;
