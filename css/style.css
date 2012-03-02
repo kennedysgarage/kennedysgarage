@@ -98,14 +98,12 @@ article #content{
 #page{
 	background-color: rgba(255, 255, 255, 0.1);
 	border: 1px solid rgba(255, 255, 255, 0.1);
-	border-radius: 2px;
 	box-shadow: 0 0 40px 5px #323740, 0 3px 10px #000000;
 	padding: 3px;
 }
 #content{
 	background-color: #f2f2f2;
 	border: 1px solid #fff;
-	border-radius: 2px;
 	box-shadow:0 0 20px rgba(0,0,0,0.2) inset;
 	padding: 30px 30px 20px;
 }
@@ -168,6 +166,14 @@ article p{
     margin: 0 30px 5px 0;
     width: 459px;
 }
+#history img{
+    box-shadow: 0 0 0 5px #FFFFFF, 0 0 0 6px #CCCCCC, 0 13px 8px -7px rgba(0,0,0,0.9);
+    border-radius:0;
+    float: right;
+    margin: 0 0 20px 30px;
+    width: 248px;
+}
+/* ========================================================= Resume ===*/
 #resume-intro img{
     box-shadow: 0 0 0 5px #FFFFFF, 0 0 0 6px #CCCCCC, 0 13px 8px -7px rgba(0,0,0,0.9);
     border-radius:0;
@@ -226,13 +232,6 @@ article p{
     color: #666;
     font-size:15px;
     margin:0 0 10px;
-}
-#history img{
-    box-shadow: 0 0 0 5px #FFFFFF, 0 0 0 6px #CCCCCC, 0 13px 8px -7px rgba(0,0,0,0.9);
-    border-radius:0;
-    float: right;
-    margin: 0 0 20px 30px;
-    width: 248px;
 }
 /* ========================================================= Projects ===*/
 #current-project{
@@ -316,11 +315,11 @@ article p{
 	padding: 0;
 }
 #article-list li{
-	background-color: #EEEEEE;
-    border: 1px solid #FFFFFF;
-    border-radius: 2px 2px 2px 2px;
+	background-color: #f2f2f2;
+	border: 1px solid #fff;
+	box-shadow:0 0 20px rgba(0,0,0,0.2) inset;
     list-style: none;
-    margin: 0 0 20px;
+    margin: 0 0 5px;
     padding: 20px;
 }
 #article-list li:last-child{
@@ -374,14 +373,14 @@ footer{
 }
 /* ========================================================= Utility ===*/
 .btn{
-    background-color: #0067B0;
+    background-color: #0eaea2;
     border-radius: 4px;
     color: #fff;
     padding: 5px 10px;
-    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.4);
+    text-shadow: none;
 }
 .btn:hover{
-    background-color:#0095FF;
+    background-color:#10ccbc;
     color:#fff;
 }
 .left {

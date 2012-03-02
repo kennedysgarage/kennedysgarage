@@ -14,10 +14,10 @@ body, button, input, select, textarea { font-family: sans-serif; color: #222; }
 ::-moz-selection { background: #ffffa9; color:#54545e; text-shadow: none; }
 ::selection { background: #ffffa9; color:#54545e; text-shadow: none; }
 
-a { color: #0067B0; text-decoration: none;}
-a:hover { color: #0095FF; }
+a { color: #0eaea2; text-decoration: none;}
+a:hover { color: #10ccbc; }
 a:focus { outline: thin dotted; }
-a:active{ color: ##0067B0; }
+a:active{ color: #0eaea2; }
 a:hover, a:active { outline: 0; }
 
 abbr[title] { border-bottom: 1px dotted; }
