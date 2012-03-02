@@ -137,7 +137,7 @@ td { vertical-align: top; }
     
 html,body{
 	background: #22252b;
-	background: -moz-radial-gradient(center, ellipse cover, #22252b 0%, #1c1e20 100%);
+	background: -moz-radial-gradient(center, ellipse cover, #282c33 0%, #1c1e20 100%);
 	background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#22252b), color-stop(100%,#1c1e20));
 	background: -webkit-radial-gradient(center, ellipse cover, #22252b 0%,#1c1e20 100%);
 	background: -o-radial-gradient(center, ellipse cover, #22252b 0%,#1c1e20 100%);
@@ -175,7 +175,7 @@ h4{
 p{
 	color: #535b6a;
 	font-family: 'BitstreamVeraSansRoman', Arial, sans-serif;
-	font-size: 18px;
+	font-size: 17px;
 	line-height: 1.5;
 	margin: 0 0 20px;
 	text-shadow: 0 1px 0 rgba(255,255,255,0.7);	
@@ -186,7 +186,7 @@ ul{
 li{
 	color: #535b6a;
 	font-family: 'BitstreamVeraSansRoman', Arial, sans-serif;
-	font-size: 18px;
+	font-size: 17px;
 	line-height: 1.5;
 	text-shadow: 0 1px 0 rgba(255,255,255,0.7);	
 }
@@ -196,7 +196,7 @@ dt{
 dl{
 	color: #535b6a;
 	font-family: 'BitstreamVeraSansRoman', Arial, sans-serif;
-	font-size: 18px;
+	font-size: 17px;
 	line-height: 1.5;
 	margin:0 0 10px;
 	text-shadow: 0 1px 0 rgba(255,255,255,0.7);	
