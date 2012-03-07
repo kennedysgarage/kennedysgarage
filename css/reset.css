@@ -159,13 +159,14 @@ h1{
 h2{
 	color: #30353d;
 	font-family: 'BitstreamVeraSansBold', Arial, sans-serif;
-	font-size: 28px;
+	font-size: 32px;
 	font-weight: normal;
 	margin: 0 0 20px;
 	padding: 0;
 }
 h3{
 	color: #30353d;
+	font-size:24px;
 	margin:0 0 5px;
 }
 h4{
@@ -173,7 +174,7 @@ h4{
 	margin: 0 0 5px;
 }
 p{
-	color: #535b6a;
+	color: #515151;
 	font-family: 'BitstreamVeraSansRoman', Arial, sans-serif;
 	font-size: 17px;
 	line-height: 1.5;
@@ -184,7 +185,7 @@ ul{
     margin:0 0 20px;
 }
 li{
-	color: #535b6a;
+	color: #515151;
 	font-family: 'BitstreamVeraSansRoman', Arial, sans-serif;
 	font-size: 17px;
 	line-height: 1.5;
@@ -194,7 +195,7 @@ dt{
     font-weight:bold;
 }
 dl{
-	color: #535b6a;
+	color: #515151;
 	font-family: 'BitstreamVeraSansRoman', Arial, sans-serif;
 	font-size: 17px;
 	line-height: 1.5;
