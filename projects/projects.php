@@ -10,7 +10,7 @@
         <div class="clear"></div>
         </div><!--/current-project-->
     <hr/>
-        <p>Here are some logos that I have designed for clients, employers, hackathons, or myself. I currently do not all the details about these projects or others I have completed in the past online...yet. If you want to see more of my current work or previous work for the web, tablet, or mobile please let me know.</p>
+        <p>Here are some logos that I have designed for clients, employers, hackathons, or myself. I currently do not have all the details about these projects or others I have completed in the past online...yet. If you want to see more of my current work or previous work for the web, tablet, or mobile please let me know.</p>
         <ul id="logos">
             <li id="gradespotter"></li>
             <li><a href="/projects/in" id="in"></a></li>
