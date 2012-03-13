@@ -163,14 +163,14 @@ article p{
     box-shadow: 0 0 0 5px #FFFFFF, 0 0 0 6px #CCCCCC, 0 13px 8px -7px rgba(0,0,0,0.9);
     border-radius:0;
     float: left;
-    margin: 0 30px 5px 0;
+    margin: 6px 30px 5px 6px;
     width: 459px;
 }
 #history img{
     box-shadow: 0 0 0 5px #FFFFFF, 0 0 0 6px #CCCCCC, 0 13px 8px -7px rgba(0,0,0,0.9);
     border-radius:0;
     float: right;
-    margin: 0 0 20px 30px;
+    margin: 0 6px 20px 30px;
     width: 248px;
 }
 /* ========================================================= Resume ===*/
