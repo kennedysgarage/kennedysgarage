@@ -1,4 +1,4 @@
-<?php  $title = 'Sarcasm |'; include '../header.php'; ?>
+<?php  $title = 'CSS for Sarcasm |'; include '../header.php'; ?>
 
 <div id="page">
 <div id="content">
