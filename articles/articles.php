@@ -3,7 +3,12 @@
 <div id="page">
 
 <ul id="article-list">
-  
+	<li>
+        <h2><a href="/articles/sarcasm">CSS for Sarcasm</a></h2>
+        <p>Today I am suggesting some CSS to help clear this up. This morning I woke up and thought of the solution, why don't we just use Backslant or "Contra Italics". Just add the following to your stylesheet and feel free to use when needed.</p>
+        <p class="byline">March 13th, 2011 &there4; Kennedy</p>
+    </li>
+	
     <li>
         <h2><a href="/articles/nerdtree">NERDTree</a></h2>
         <p>"The NERD tree allows you to explore your filesystem and to open files and directories. It presents the filesystem to you in the form of a tree which you manipulate with the keyboard and/or mouse. It also allows you to perform simple filesystem operations."</p>

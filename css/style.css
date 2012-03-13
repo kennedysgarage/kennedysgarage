@@ -398,7 +398,7 @@ hr {
 }
 blockquote {
     padding: 0 0 0 15px;
-    margin: 0 0 18px;
+    margin: 0 0 20px;
     border-left: 5px solid #EEE;
 }
 blockquote p {
@@ -409,4 +409,12 @@ blockquote p {
 blockquote small {
     display: block;
     color: #999;
+}
+.sarcasm {
+	display:inline-block;
+	-moz-transform: scale(1) rotate(0deg) translate(0px, 0px) skew(15deg, 0deg);
+	-webkit-transform: scale(1) rotate(0deg) translate(0px, 0px) skew(15deg, 0deg);
+	-o-transform: scale(1) rotate(0deg) translate(0px, 0px) skew(15deg, 0deg);
+	-ms-transform: scale(1) rotate(0deg) translate(0px, 0px) skew(15deg, 0deg);
+	transform: scale(1) rotate(0deg) translate(0px, 0px) skew(15deg, 0deg);
 }
