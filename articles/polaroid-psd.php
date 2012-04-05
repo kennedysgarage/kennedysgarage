@@ -8,7 +8,7 @@
 
 <p>I recently had to work on a little project that I required some polaroid images. I figured I would release for all to use.</p>
 <p><img src="/articles/assets/polaroid-psd/polaroid.png"/></p>
-<div class="btns"><a href="../download/polaroid.zip" class="btn">Download</a></div>
+<div class="btns"><a href="../downloads/polaroid.zip" class="btn">Download</a></div>
 
 <p class="byline">February 20th, 2011 &there4; Kennedy</p>
 
