@@ -55,7 +55,6 @@ nav a{
 nav a:hover{
     background-color: rgba(0,0,0,0.3);
     box-shadow: 0 1px 5px rgba(0,0,0,0.1);
-    color: #999;
 }
 /* ========================================================= Home ===*/
 #home{
