@@ -3,13 +3,13 @@
     width: 1024px;
 }
 header{
-    margin: 10px 0;
+    margin: 20px 0;
 }
 header h1{
     color: #e32c00;
     display: inline;
 	font-family: 'Outage';
-	font-size: 50px;
+	font-size: 41px;
 	margin: 0;
 	text-shadow:-1px 1px 0 #991f00,
 				-2px 2px 0 #701600,
@@ -22,7 +22,7 @@ header h1 a, header h1 a:hover{
 }
 nav{
     float: right;
-    margin:20px 0 0;
+    margin:16px 0 0;
     text-align: right;
 }
 nav h1{
@@ -44,7 +44,7 @@ nav li{
 nav a{
     background-color: rgba(0,0,0,0.2);
     border-radius: 4px;
-    color: #666666;
+    color: #777;
 	font-family: 'QuicksandLight';
 	font-size: 18px;
 	padding: 10px 15px;
@@ -55,13 +55,18 @@ nav a{
 nav a:hover{
     background-color: rgba(0,0,0,0.3);
     box-shadow: 0 1px 5px rgba(0,0,0,0.1);
-    color: #858585;
+    color: #999;
 }
 /* ========================================================= Home ===*/
 #home{
 	margin: 0 auto;
 	padding: 130px 0 30px;
 	width: 1024px;
+	-webkit-animation: bounce 1s;
+	-moz-animation: bounce 1s;
+	-ms-animation: bounce 1s;
+	-o-animation: bounce 1s;
+	animation: bounce 1s;
 }
 #home h1 {
 	color: #e32c00;
@@ -85,6 +90,40 @@ nav a:hover{
 }
 #home nav{
     float: none;
+}
+@-webkit-keyframes bounce {
+	0% { opacity: 0; -moz-transform: translateY(3000px); }
+	60% { opacity: 1; -moz-transform: translateY(-30px); }
+	80% { -moz-transform: translateY(10px); }
+	100% { -moz-transform: translateY(0); }
+}
+
+@-moz-keyframes bounce {
+	0% { opacity: 0; -moz-transform: translateY(3000px); }
+	60% { opacity: 1; -moz-transform: translateY(-30px); }
+	80% { -moz-transform: translateY(10px); }
+	100% { -moz-transform: translateY(0); }
+}
+
+@-ms-keyframes bounce {
+	0% { opacity: 0; -moz-transform: translateY(3000px); }
+	60% { opacity: 1; -moz-transform: translateY(-30px); }
+	80% { -moz-transform: translateY(10px); }
+	100% { -moz-transform: translateY(0); }
+}
+
+@-o-keyframes bounce {
+	0% { opacity: 0; -moz-transform: translateY(3000px); }
+	60% { opacity: 1; -moz-transform: translateY(-30px); }
+	80% { -moz-transform: translateY(10px); }
+	100% { -moz-transform: translateY(0); }
+}
+
+@keyframes bounce {
+	0% { opacity: 0; -moz-transform: translateY(3000px); }
+	60% { opacity: 1; -moz-transform: translateY(-30px); }
+	80% { -moz-transform: translateY(10px); }
+	100% { -moz-transform: translateY(0); }
 }
 /* ========================================================= Articles ===*/
 article{
@@ -370,6 +409,15 @@ object{
 /* ========================================================= Footer ===*/
 footer{
     height:30px;
+}
+footer p{
+	font-size:12px;
+	margin:10px 0;
+	text-align:right;
+	text-shadow:none;
+}
+footer a{
+	color:#666;
 }
 /* ========================================================= Utility ===*/
 .btn{

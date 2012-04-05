@@ -2,7 +2,7 @@
 
 <footer>
     <div class="container">
-        
+        <p><a href="http://twitter.com/kennedysgarage">Follow me on twitter &raquo;</a></p>
     </div><!--/container-->
 </footer>
 
