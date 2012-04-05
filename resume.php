@@ -3,10 +3,8 @@
 <div id="page">
 	<div id="content">
 	    
-		
-		
 		<div id="resume-intro">
-		    <img src="img/portrait.png"/>
+		    <img src="img/portrait.jpg"/>
 		    <h1>Christopher M. Kennedy</h1>
 		    <h2>UX Strategist &amp; Mobile Designer<h2>
 		<p>I am currently not looking for work. I am happily employed at M. Shanken Communications as their Lead UX Strategist. Cranking out iPad apps, iPhone apps, Content Management Systems, internal tools, and public facing websites. I also keep myself extremely busy with a lot of side projects, hackathons, organizing events, meetups,  and conferences. </p>
