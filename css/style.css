@@ -348,6 +348,10 @@ article p{
 #lux:hover {background-position: 0 -2145px}
 #kg41 {background-position: 0 -6221px}
 #kg41:hover {background-position: 0 -6006px}
+
+.video{
+	margin:0 0 20px;
+}
 /* ========================================================= Article ===*/
 #article-list{
 	margin: 0;
