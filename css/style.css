@@ -140,10 +140,21 @@ article #content{
 	padding: 3px;
 }
 #content{
-	background-color: #f2f2f2;
+	background: url("../img/noise.png") repeat scroll 0 0 #f2f2f2;
 	border: 1px solid #fff;
 	box-shadow:0 0 20px rgba(0,0,0,0.2) inset;
 	padding: 30px 30px 20px;
+}
+#x:after {
+    
+    bottom: 0;
+    content: "";
+    left: 0;
+    opacity: 0.5;
+    pointer-events: none;
+    position: fixed;
+    right: 0;
+    top: 0;
 }
 #content img{
 	border-radius: 4px;
@@ -357,7 +368,7 @@ article p{
 	padding: 0;
 }
 #article-list li{
-	background-color: #f2f2f2;
+	background: url("../img/noise.png") repeat scroll 0 0 #f2f2f2;
 	border: 1px solid #fff;
 	box-shadow:0 0 20px rgba(0,0,0,0.2) inset;
     list-style: none;
@@ -414,6 +425,7 @@ footer{
     height:30px;
 }
 footer p{
+	font-family: 'QuicksandLight';
 	font-size:12px;
 	margin:10px 0;
 	text-align:right;
