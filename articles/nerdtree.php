@@ -13,8 +13,8 @@
 <h3>Install:</h3>
 
 <h4>pathogen.vim</h4>
-<p>pathogen.vim is the recommended way to install NERD Tree. So lets talk about that first. Basically pathogen.vim is a super easy way to install plugins and runtimes files. Just paste this into you terminal.</p>
-<pre class="prettyprint linenums">
+<p>pathogen.vim is the recommended way to install NERD Tree. So lets talk about that first. Basically pathogen.vim is a super easy way to install plugins and runtimes files. Just copy all three lines and paste this into you terminal.</p>
+<pre class="prettyprint">
 mkdir -p ~/.vim/autoload ~/.vim/bundle; \
 curl -so ~/.vim/autoload/pathogen.vim \
     https://raw.github.com/tpope/vim-pathogen/HEAD/autoload/pathogen.vim
