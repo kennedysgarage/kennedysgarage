@@ -171,15 +171,18 @@ h2{
 	font-weight: normal;
 	margin: 0 0 20px;
 	padding: 0;
+	text-shadow: 0 1px 0 rgba(255,255,255,0.7);	
 }
 h3{
 	color: #30353d;
 	font-size:24px;
 	margin:0 0 5px;
+	text-shadow: 0 1px 0 rgba(255,255,255,0.7);	
 }
 h4{
 	color: #30353d;
 	margin: 0 0 5px;
+	text-shadow: 0 1px 0 rgba(255,255,255,0.7);	
 }
 p{
 	color: #515151;
