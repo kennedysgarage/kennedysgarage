@@ -208,7 +208,7 @@
 		</div><!--/details-->
 		
 		<div class="company">
-		<h2>Hack of the Month</h2>
+		<h2><a href="http://www.meetup.com/ny-tech/events/16791045/">Hack of the Month</a></h2>
 		<p>April 2011</p>
 		</div><!--/company-->
 		<div class="details">
@@ -241,7 +241,7 @@
 		</div><!--/details-->
 		
 		<div class="company">
-		<h2>Lemonade Stand</h2>
+		<h2><a href="/projects/lemonade-stand">Lemonade Stand</a></h2>
 		<p>March 2011 - June 2011</p>
 		</div><!--/company-->
 		<div class="details">
@@ -278,7 +278,7 @@
 		</div><!--/details-->
 		
 		<div class="company">
-		<h2><a href="http://www.ccny.cuny.edu/">City College of New York</a></h2>
+		<h2>City College of New York</h2>
 		<p>September 2010 - December 2010</p>
 		</div><!--/company-->
 		<div class="details">
@@ -290,7 +290,7 @@
 		</div><!--/details-->
 		
 		<div class="company">
-		<h2><a href="http://forrst.com/">Forrst Meetup</a></h2>
+		<h2>Forrst Meetup</h2>
 		<p>November 2010 in Brooklyn, NY</p>
 		</div><!--/company-->
 		<div class="details">
@@ -312,7 +312,7 @@
 		</div><!--/details-->
 		
 		<div class="company">
-		<h2><a href="http://www.cityofflaglerbeach.com">Flagler Beach Ocean Rescue</a></h2>
+		<h2>Flagler Beach Ocean Rescue</h2>
 		<p>May 2000 - September 2006</p>
 		</div><!--/company-->
 		<div class="details">
@@ -328,7 +328,7 @@
 		</div><!--/details-->
 		
 		<div class="company">
-		<h2><a href="http://www.airforce.com/">United States Air Force</a></h2>
+		<h2>United States Air Force</h2>
 		<p>September 2003 - May 2005</p>
 		</div><!--/company-->
 		<div class="details">
