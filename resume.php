@@ -14,6 +14,17 @@
 		
 		<div id="resume">
 		
+			<div class="company">
+			    <h2><a href="http://www.betabeat.com/2012/04/09/betabeats-spring-2012-most-poachable-players-in-tech/#slide22">Betabeat’s Spring 2012 Most Poachable Players in Tech</a></h2>
+			    <p>April 2012</p>
+			</div><!--/company-->
+			<div class="details">
+			<p>Tooting My Own Horn</p>
+	    		<ul>
+	    			<li>I was featured as one of the most poachable people in tech. I can not even begin to express how grateful and honored it is to be apart of this.</li>
+	    		</ul>
+			</div><!--/details-->
+		
 		<div class="company">
 		    <h2><a href="http://gradespotter.com">Grade Spotter</a></h2>
 		    <p>December 2011 - Present</p>
@@ -21,7 +32,7 @@
 		<div class="details">
 		<p>Co-Founder in New York, NY</p>
     		<ul>
-    			<li>I am the Designer Co-Founder. I am in mainly in charge with designing the logo, iPhone user interface, and front-end development for the website.</li>
+    			<li>I am the Designer Co-Founder. Designed the logo, iPhone user interface, and the over all look. I also crafter the website.</li>
     		</ul>
 		</div><!--/details-->
 		
