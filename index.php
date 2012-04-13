@@ -35,7 +35,7 @@
 	
     <div id="home">
         <h1>Kennedy's Garage</h1>
-        <p>My name is Christopher Kennedy, one of the <a href="http://www.betabeat.com/2012/04/09/betabeats-spring-2012-most-poachable-players-in-tech/#slide22">most poachable players in tech</a>. I’m a NYC based hacker standing tall at 5'18". I am a professional UX Designer with a primary focus in mobile &amp; tablet. I like to stay very active in a wide range of startups, and I attend a lot hackathons. I just launched <a href="http://gradespotter.com">Grade Spotter</a>, a full-featured restaurant inspection guide for your iPhone. I am not taking any new projects at this time (unless it is going to make fucking bank).</p>
+        <p>My name is Christopher Kennedy, one of the <a href="http://www.betabeat.com/2012/04/09/betabeats-spring-2012-most-poachable-players-in-tech/#slide22">most poachable players in tech</a>. I’m a NYC based hacker standing tall at 5'18". I am a professional UX Designer with a main focus in mobile &amp; tablet. I like to stay very active in a wide range of startups, and I attend a lot hackathons. I just launched <a href="http://gradespotter.com">Grade Spotter</a>, a full-featured restaurant inspection guide for your iPhone. I am not taking any new projects at this time (unless it is going to make fucking bank).</p>
         <nav>
             <ul>
                 <li><a href="/about">About</a></li>
