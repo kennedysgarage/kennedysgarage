@@ -42,7 +42,7 @@ nav li{
     padding: 0 5px;
 }
 nav a{
-    background-color: rgba(0,0,0,0.2);
+    background-color: #1b2024;
     border-radius: 4px;
     color: #777;
 	font-family: 'QuicksandLight';
@@ -135,8 +135,8 @@ article #content{
 }
 #page{
 	background-color: rgba(255, 255, 255, 0.1);
-	border: 1px solid rgba(255, 255, 255, 0.1);
-	box-shadow: 0 0 40px 5px #323740, 0 3px 10px #000000;
+	border: 1px solid rgba(255, 255, 255, 0.2);
+	box-shadow: 0 0 20px 5px #1b2024, 0 3px 10px #000000;
 	padding: 3px;
 }
 #content{
@@ -286,16 +286,14 @@ article p{
 #current-project img{
     box-shadow: none;
     float: left;
-    height: 400px;
-    margin: 0 20px -31px 0;
-    width: 459px;
+    margin: 0;
+    width: 463px;
 }
 #current-project h2{
-    padding: 60px 0 0;
+    padding: 120px 0 0;
 }
 #current-project .btn{
-    float: right;
-    margin: 10px 0 0;
+
 }
 #logos{
     list-style: none;
@@ -358,6 +356,9 @@ article p{
 
 .video{
 	margin:0 0 20px;
+}
+#featured-project{
+	
 }
 /* ========================================================= Article ===*/
 #article-list{
