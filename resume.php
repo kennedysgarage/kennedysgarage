@@ -13,6 +13,50 @@
 		<hr/>
 		
 		<div id="resume">
+			
+			<div class="company">
+			    <h2><a href="http://techcrunch.com/events/disrupt-ny-2012/">TechCrunch Disrupt NYC</a></h2>
+			    <p>May 2012</p>
+			</div><!--/company-->
+			<div class="details">
+			<p>Hacker in New York, NY</p>
+	    		<ul>
+	    			<li>I will be hacking away again this year, this time with <a href="https://twitter.com/#!/rickyrobinett/">@rickyrobinett</a> &amp; <a href="https://twitter.com/#!/bwrightson">@bwrightson</a>.</li>
+	    		</ul>
+			</div><!--/details-->
+					
+			<div class="company">
+			    <h2><a href="http://nyc.startupweekend.org/">NYC Startup Weekend</a></h2>
+			    <p>May 2012</p>
+			</div><!--/company-->
+			<div class="details">
+			<p>Coach</p>
+	    		<ul>
+	    			<li>I was asked to be a UX design coach for the NYC Startup Weekend.</li>
+	    		</ul>
+			</div><!--/details-->
+			
+			<div class="company">
+			    <h2><a href="http://spaceappschallenge.org/">International Space Apps Challenge</a></h2>
+			    <p>April 2012</p>
+			</div><!--/company-->
+			<div class="details">
+			<p>Hacker in New York, NY</p>
+	    		<ul>
+	    			<li>Back to back weekend hackathons can normally wear someone out, not this guy. I will be hacking along some of the most talented and influential minds.</li>
+	    		</ul>
+			</div><!--/details-->
+			
+			<div class="company">
+			    <h2>HackerDen</h2>
+			    <p>April 2012</p>
+			</div><!--/company-->
+			<div class="details">
+			<p>Hacker in New York, NY</p>
+	    		<ul>
+	    			<li>I was privately invited to attend an elite hackathon for Spotify and that is all I can say about that at this time.</li>
+	    		</ul>
+			</div><!--/details-->
 		
 			<div class="company">
 			    <h2><a href="http://www.betabeat.com/2012/04/09/betabeats-spring-2012-most-poachable-players-in-tech/#slide22">Betabeat’s Spring 2012 Most Poachable Players in Tech</a></h2>
@@ -186,7 +230,7 @@
 		</div><!--/details-->
 		
 		<div class="company">
-		<h2><a href="http://disrupt.techcrunch.com/NYC2011/hackathon/">TechCrunch Disrupt Hackathon</a></h2>
+		<h2><a href="http://disrupt.techcrunch.com/NYC2011/hackathon/">TechCrunch Disrupt NYC</a></h2>
 		<p>May 2011</p>
 		</div><!--/company-->
 		<div class="details">
