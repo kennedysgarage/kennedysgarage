@@ -290,7 +290,9 @@ article p{
     width: 463px;
 }
 #current-project h2{
-    padding: 120px 0 0;
+	font-size: 40px;
+	margin:0 0 0;
+    padding: 150px 0 0;
 }
 #current-project .btn{
 
