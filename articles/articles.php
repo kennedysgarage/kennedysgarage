@@ -3,10 +3,17 @@
 <div id="page">
 
 <ul id="article-list">
+
+	<li>
+        <h2><a href="/articles/ppi-and-dpi-is-irrelevant">PPI & DPI is Irrelevant</a></h2>
+        <p>PPI &amp; DPI is irrelevant when designing iPhone and iPad apps. Let me repeat that, PPI &amp; DPI do not matter. No, stop it. It does not matter if it is @1x or @2x, iPhone or iPad, it's just irrelevant metadata.</p>
+        <p class="byline">April 23rd, 2012 &there4; Kennedy</p>
+    </li>
+    
 	<li>
         <h2><a href="/articles/sarcasm">CSS for Sarcasm</a></h2>
         <p>Today I am suggesting some CSS to help clear this up. This morning I woke up and thought of the solution, why don't we just use Backslant or "Contra Italics". Just add the following to your stylesheet and feel free to use when needed.</p>
-        <p class="byline">March 13th, 2011 &there4; Kennedy</p>
+        <p class="byline">March 13th, 2012 &there4; Kennedy</p>
     </li>
 	
     <li>
