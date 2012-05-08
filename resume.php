@@ -26,13 +26,13 @@
 			</div><!--/details-->
 					
 			<div class="company">
-			    <h2><a href="http://nyc.startupweekend.org/">NYC Startup Weekend</a></h2>
+			    <h2><a href="http://nyc.startupweekend.org/">Startup Weekend NYC</a></h2>
 			    <p>May 2012</p>
 			</div><!--/company-->
 			<div class="details">
-			<p>Coach</p>
+			<p>Mentor in New York, NY</p>
 	    		<ul>
-	    			<li>I was asked to be a UX design coach for the NYC Startup Weekend.</li>
+	    			<li>I was asked to be a UX coach &amp; mentor for the NYC Startup Weekend. I had a great time working with all the teams, everything from helping them understand their idea to working on their pitch.</li>
 	    		</ul>
 			</div><!--/details-->
 			

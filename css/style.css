@@ -254,6 +254,7 @@ article p{
     margin: 0 40px 0 0;
     text-align:right;
     max-width:295px;
+    width: 100%;
 }
 #resume .company h2{
     font-size:18px;
@@ -266,6 +267,7 @@ article p{
     float:left;
     margin:0 0 30px;
     max-width:615px;
+    width: 100%;
 }
 #resume .details p{
     color:#30353D;
