@@ -144,8 +144,7 @@ td { vertical-align: top; }
 }
     
 html,body{
-	background: #282c33;
-	background-image: url(../img/bg.png);
+	background: #273138;
 /*
 	background: -moz-radial-gradient(center, ellipse cover, #282c33 0%, #1c1e20 100%);
 	background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#282c33), color-stop(100%,#1c1e20));

@@ -44,9 +44,10 @@ nav li{
 nav a{
     background-color: #1b2024;
     border-radius: 4px;
-    color: #777;
+    color: #999;
 	font-family: 'QuicksandLight';
-	font-size: 18px;
+	font-size: 16px;
+	font-weight: 600;
 	padding: 10px 15px;
 	text-align: center;
 	text-shadow: none;
@@ -77,7 +78,7 @@ nav a:hover{
 				-2px 2px 0 #701600,
 				-3px 3px 0 #591200,
 				-5px 5px 5px rgba(0,0,0,0.5),
-				0 5px 20px rgba(0,0,0,0.5);
+				0 5px 20px rgba(0,0,0,0.7);
 }
 #home p{
 	color: #ababab;
