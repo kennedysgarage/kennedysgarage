@@ -1,6 +1,7 @@
 .container{
     margin: 0 auto;
-    width: 1024px;
+    max-width: 1024px;
+    width: 100%;
 }
 header{
     margin: 20px 0;
@@ -61,7 +62,8 @@ nav a:hover{
 #home{
 	margin: 0 auto;
 	padding: 130px 0 30px;
-	width: 1024px;
+	max-width: 1024px;
+	width: 100%;
 	-webkit-animation: bounce 1s;
 	-moz-animation: bounce 1s;
 	-ms-animation: bounce 1s;
@@ -72,7 +74,7 @@ nav a:hover{
 	color: #e32c00;
 	font-family: 'Outage';
 	font-size: 72px;
-	margin: 0 0 50px;
+	margin: 0 20px 50px;
 	text-align: center;
 	text-shadow:-1px 1px 0 #991f00,
 				-2px 2px 0 #701600,
@@ -84,7 +86,7 @@ nav a:hover{
 	color: #ababab;
 	font-family: 'QuicksandLight';
 	font-size: 26px;
-	margin: 0 0 60px;
+	margin: 0 20px 60px;
 	text-align: center;
 	text-shadow: none;
 }
@@ -129,7 +131,7 @@ nav a:hover{
 article{
 	margin: 30px auto 30px;
 	padding: 5px;
-	width: 700px;
+	max-width: 700px;
 }
 article #content{
     padding: 40px 60px 30px;
@@ -213,15 +215,17 @@ article p{
     box-shadow: 0 0 0 5px #FFFFFF, 0 0 0 6px #CCCCCC, 0 13px 8px -7px rgba(0,0,0,0.9);
     border-radius:0;
     float: left;
-    margin: 6px 30px 5px 6px;
-    width: 459px;
+    margin: 6px 30px 20px 6px;
+    max-width: 459px;
+    width: 100%;
 }
 #history img{
     box-shadow: 0 0 0 5px #FFFFFF, 0 0 0 6px #CCCCCC, 0 13px 8px -7px rgba(0,0,0,0.9);
     border-radius:0;
     float: right;
     margin: 0 6px 20px 30px;
-    width: 248px;
+    max-width: 248px;
+    width: 100%;
 }
 /* ========================================================= Resume ===*/
 #resume-intro img{
@@ -229,7 +233,8 @@ article p{
     border-radius:0;
     float: left;
     margin: 0 30px 30px 0;
-    width: 459px;
+    max-width: 459px;
+    width: 100%;
 }
 #resume-intro h1{
     display:inline-block;
@@ -248,7 +253,7 @@ article p{
     float:left;
     margin: 0 40px 0 0;
     text-align:right;
-    width:295px;
+    max-width:295px;
 }
 #resume .company h2{
     font-size:18px;
@@ -260,7 +265,7 @@ article p{
 #resume .details{
     float:left;
     margin:0 0 30px;
-    width:615px;
+    max-width:615px;
 }
 #resume .details p{
     color:#30353D;
@@ -288,7 +293,8 @@ article p{
     box-shadow: none;
     float: left;
     margin: 0;
-    width: 463px;
+    max-width: 463px;
+    width: 100%;
 }
 #current-project h2{
 	font-size: 40px;
