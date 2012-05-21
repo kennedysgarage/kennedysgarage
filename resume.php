@@ -21,7 +21,7 @@
 			<div class="details">
 			<p>Hacker in New York, NY</p>
 	    		<ul>
-	    			<li>I will be hacking away again this year, this time with <a href="https://twitter.com/#!/rickyrobinett/">@rickyrobinett</a> &amp; <a href="https://twitter.com/#!/bwrightson">@bwrightson</a>.</li>
+	    			<li>We won second place at the 2012 TechCrunch Disrupt Hackathon for building <a href="http://kennedysgarage.com/projects/poachbase">PoachBase.</a></li>
 	    		</ul>
 			</div><!--/details-->
 					
@@ -32,7 +32,7 @@
 			<div class="details">
 			<p>Mentor in New York, NY</p>
 	    		<ul>
-	    			<li>I was asked to be a UX coach &amp; mentor for the NYC Startup Weekend. I had a great time working with all the teams, everything from helping them understand their idea to working on their pitch.</li>
+	    			<li>I was an UX coach &amp; mentor for the NYC Startup Weekend. I had a great time working with all the teams, everything from helping them understand their idea to working on their pitch.</li>
 	    		</ul>
 			</div><!--/details-->
 			
