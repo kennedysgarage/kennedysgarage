@@ -14,6 +14,7 @@
 	<meta name="apple-mobile-web-app-status-bar-style" content="black">
 	<meta name="apple-mobile-web-app-capable" content="yes" />
 	<link rel="shortcut icon" href="favicon.ico">
+	<link href="http://fonts.googleapis.com/css?family=Droid+Sans:400,700" rel="stylesheet" type="text/css">
 	<link rel="stylesheet" href="/css/reset.css">
 	<link rel="stylesheet" href="/css/style.css">
 	<link rel="stylesheet" href="/css/prettify.css">
@@ -32,9 +33,11 @@
 </head>
 <body>
 
-<div class="container">
+
 
 <header>
+<div class="container">
+	<a href="/"><img src="/img/logo.png"/></a>
     <h1><a href="/">Kennedy's Garage</a></h1>
     <nav>
     <ul>
@@ -45,4 +48,7 @@
     </ul>
     </nav>
 </header>
+</div><!--/container-->
 <div class="clear"></div>
+
+<div class="container">

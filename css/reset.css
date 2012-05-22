@@ -145,18 +145,10 @@ td { vertical-align: top; }
     
 html,body{
 	background: #273138;
-/*
-	background: -moz-radial-gradient(center, ellipse cover, #282c33 0%, #1c1e20 100%);
-	background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#282c33), color-stop(100%,#1c1e20));
-	background: -webkit-radial-gradient(center, ellipse cover, #282c33 0%,#1c1e20 100%);
-	background: -o-radial-gradient(center, ellipse cover, #282c33 0%,#1c1e20 100%);
-	background: -ms-radial-gradient(center, ellipse cover, #282c33 0%,#1c1e20 100%);
-	background: radial-gradient(center, ellipse cover, #282c33 0%,#1c1e20 100%);
-	background-repeat: repeat-y;
-*/
-	width: 100%;
+	font-family: 'Droid Sans', sans-serif;
+	font-weight: 400;
 	height: 100%;
-	background-attachment: fixed;
+	width: 100%;
 }
 h1{
 	color: #30353d;
