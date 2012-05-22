@@ -1,10 +1,6 @@
-</div><!--/container-->
 
-<footer>
-    <div class="container">
-        <p><a href="http://twitter.com/kennedysgarage">Follow me on twitter &raquo;</a></p>
-    </div><!--/container-->
-</footer>
+
+</div><!--/container-->
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="/js/jquery.min.js">\x3C/script>')</script>

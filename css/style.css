@@ -25,6 +25,11 @@ header h1{
 	margin: 0;
 	text-shadow: 0 -1px 0 rgba(0,0,0,0.4);
 	vertical-align: middle;
+	-webkit-animation: bounce 1s;
+	-moz-animation: bounce 1s;
+	-ms-animation: bounce 1s;
+	-o-animation: bounce 1s;
+	animation: bounce 1s;
 }
 header h1 a, header h1 a:hover{
 	color: #fff;
@@ -92,73 +97,82 @@ nav li:last-child a{
 	box-shadow: none;
 }
 /* ========================================================= Home ===*/
-#home{
-	margin: 0 auto;
-	padding: 130px 0 30px;
-	max-width: 1024px;
-	width: 100%;
-	-webkit-animation: bounce 1s;
-	-moz-animation: bounce 1s;
-	-ms-animation: bounce 1s;
-	-o-animation: bounce 1s;
-	animation: bounce 1s;
-}
-#home h1 {
-	color: #e32c00;
-	font-family: 'Outage';
-	font-size: 72px;
-	margin: 0 20px 50px;
+#intro{
+	padding: 60px 0 80px;
 	text-align: center;
-	text-shadow:-1px 1px 0 #991f00,
-				-2px 2px 0 #701600,
-				-3px 3px 0 #591200,
-				-5px 5px 5px rgba(0,0,0,0.5),
-				0 5px 20px rgba(0,0,0,0.7);
 }
-#home p{
-	color: #ababab;
-	font-family: 'QuicksandLight';
-	font-size: 26px;
-	margin: 0 20px 60px;
+#intro img{
+	float: left;
+	margin: 0 30px 0 0;
+}
+#intro h1{
+	font-size: 41px;
+	margin: 0 0 10px;
+	padding: 30px 0 0;
+}
+#intro p{
+	font-size: 22px;
+}
+#techcrunch{
+	background-color: #0a9600;
+	border-top: 3px solid #076600;
+	padding: 80px 0 0;
+	height: 400px;
+    overflow: hidden;
+}
+#techcrunch .feat img{
+	width: 660px;
+}
+#techcrunch .info{
+	
+	float: right;
+	padding: 50px 0 0;
+}
+#techcrunch p{
+	color: #fff;
+	font-size: 20px;
+	margin: 0 0 50px;
 	text-align: center;
 	text-shadow: none;
 }
-#home nav{
-    float: none;
+#techcrunch a{
+	color: #003300;
 }
-@-webkit-keyframes bounce {
-	0% { opacity: 0; -moz-transform: translateY(3000px); }
-	60% { opacity: 1; -moz-transform: translateY(-30px); }
-	80% { -moz-transform: translateY(10px); }
-	100% { -moz-transform: translateY(0); }
+#techcrunch .info img{
+	display: block;
+    margin: 0 auto;
 }
 
-@-moz-keyframes bounce {
-	0% { opacity: 0; -moz-transform: translateY(3000px); }
-	60% { opacity: 1; -moz-transform: translateY(-30px); }
-	80% { -moz-transform: translateY(10px); }
-	100% { -moz-transform: translateY(0); }
+#gradespotter{
+	background-color: #283F49;
+	border-top: 3px solid #1f3138;
+	padding: 80px 0 0;
+	height: 450px;
+    overflow: hidden;
 }
-
-@-ms-keyframes bounce {
-	0% { opacity: 0; -moz-transform: translateY(3000px); }
-	60% { opacity: 1; -moz-transform: translateY(-30px); }
-	80% { -moz-transform: translateY(10px); }
-	100% { -moz-transform: translateY(0); }
+#gradespotter .info{
+	float: left;
+	padding: 20px 0 0;
 }
-
-@-o-keyframes bounce {
-	0% { opacity: 0; -moz-transform: translateY(3000px); }
-	60% { opacity: 1; -moz-transform: translateY(-30px); }
-	80% { -moz-transform: translateY(10px); }
-	100% { -moz-transform: translateY(0); }
+#gradespotter .info img{
+	display: block;
+    margin: 0 auto 30px;
 }
-
-@keyframes bounce {
-	0% { opacity: 0; -moz-transform: translateY(3000px); }
-	60% { opacity: 1; -moz-transform: translateY(-30px); }
-	80% { -moz-transform: translateY(10px); }
-	100% { -moz-transform: translateY(0); }
+#gradespotter .feat{
+	float: right;
+}
+#gradespotter .feat img{
+	width: 600px;
+}
+#gradespotter p{
+	color: #fff;
+	font-size: 20px;
+	margin: 0;
+	text-align: center;
+	text-shadow: none;
+}
+#gradespotter a{
+	color: #008bc7;
 }
 /* ========================================================= Articles ===*/
 article{
@@ -464,7 +478,10 @@ object{
 }
 /* ========================================================= Footer ===*/
 footer{
-    height:30px;
+    background-color: #1a1f25;
+    border-top: 3px solid #000;
+    
+    height: 300px;
 }
 footer p{
 	font-family: 'QuicksandLight';
@@ -522,4 +539,39 @@ blockquote small {
 	-o-transform: scale(1) rotate(0deg) translate(0px, 0px) skew(15deg, 0deg);
 	-ms-transform: scale(1) rotate(0deg) translate(0px, 0px) skew(15deg, 0deg);
 	transform: scale(1) rotate(0deg) translate(0px, 0px) skew(15deg, 0deg);
+}
+/* ========================================================= Animation ===*/
+@-webkit-keyframes bounce {
+	0% { opacity: 0; -moz-transform: translateY(100px); }
+	60% { opacity: 1; -moz-transform: translateY(-30px); }
+	80% { -moz-transform: translateY(10px); }
+	100% { -moz-transform: translateY(0); }
+}
+
+@-moz-keyframes bounce {
+	0% { opacity: 0; -moz-transform: translateY(-3000px); }
+	60% { opacity: 1; -moz-transform: translateY(10px); }
+	80% { -moz-transform: translateY(-5px); }
+	100% { -moz-transform: translateY(0); }
+}
+
+@-ms-keyframes bounce {
+	0% { opacity: 0; -moz-transform: translateY(3000px); }
+	60% { opacity: 1; -moz-transform: translateY(-30px); }
+	80% { -moz-transform: translateY(10px); }
+	100% { -moz-transform: translateY(0); }
+}
+
+@-o-keyframes bounce {
+	0% { opacity: 0; -moz-transform: translateY(3000px); }
+	60% { opacity: 1; -moz-transform: translateY(-30px); }
+	80% { -moz-transform: translateY(10px); }
+	100% { -moz-transform: translateY(0); }
+}
+
+@keyframes bounce {
+	0% { opacity: 0; -moz-transform: translateY(3000px); }
+	60% { opacity: 1; -moz-transform: translateY(-30px); }
+	80% { -moz-transform: translateY(10px); }
+	100% { -moz-transform: translateY(0); }
 }
