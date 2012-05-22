@@ -57,7 +57,7 @@
 	</div><!--/container-->
     </section><!--/intro-->
     	
-    <section id="techcrunch" class="clearfix">
+    <section id="showcase-techcrunch" class="clearfix">
     <div class="container">
     	<span class="feat">
     		<img src="/img/home/poachbase-browser.png"/>
@@ -67,9 +67,9 @@
 	    	<img src="/img/home/tcdisrupt-logo.png"/>
     	</span><!--info-->
    
-    </section><!--/techcrunch-->
+    </section><!--/showcase-techcrunch-->
     
-    <section id="gradespotter" class="clearfix">
+    <section id="showcase-gradespotter" class="clearfix">
     <div class="container">
     	<span class="info">
     		<img src="/img/home/gradespotter-icon.png"/>
@@ -79,7 +79,7 @@
     		<img src="/img/home/gradespotter2.png"/>
     	</span><!--/feat-->
 	</div><!--/container-->
-    </section><!--/gradespotter-->
+    </section><!--/showcase-gradespotter-->
 		
 <div>
 <?php include("footer.php"); ?>

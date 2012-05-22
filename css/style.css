@@ -15,8 +15,9 @@ header{
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f04043', endColorstr='#b23032',GradientType=0 );
 	border-bottom: 1px solid #631b1c;
 	box-shadow: 0 1px 0 rgba(255,255,255,0.4) inset, 0 1px 3px rgba(0,0,0,0.5);
-    margin: 0 0 20px;
     padding: 8px 0;
+    position: relative;
+    z-index: 5;
 }
 header h1{
     display: inline;
@@ -25,11 +26,13 @@ header h1{
 	margin: 0;
 	text-shadow: 0 -1px 0 rgba(0,0,0,0.4);
 	vertical-align: middle;
+	/*
 	-webkit-animation: bounce 1s;
 	-moz-animation: bounce 1s;
 	-ms-animation: bounce 1s;
 	-o-animation: bounce 1s;
 	animation: bounce 1s;
+	*/
 }
 header h1 a, header h1 a:hover{
 	color: #fff;
@@ -98,6 +101,7 @@ nav li:last-child a{
 }
 /* ========================================================= Home ===*/
 #intro{
+	background-color: #f3f6f8;
 	padding: 60px 0 80px;
 	text-align: center;
 }
@@ -113,65 +117,65 @@ nav li:last-child a{
 #intro p{
 	font-size: 22px;
 }
-#techcrunch{
+#showcase-techcrunch{
 	background-color: #0a9600;
 	border-top: 3px solid #076600;
 	padding: 80px 0 0;
 	height: 400px;
     overflow: hidden;
 }
-#techcrunch .feat img{
+#showcase-techcrunch .feat img{
 	width: 660px;
 }
-#techcrunch .info{
+#showcase-techcrunch .info{
 	
 	float: right;
 	padding: 50px 0 0;
 }
-#techcrunch p{
+#showcase-techcrunch p{
 	color: #fff;
 	font-size: 20px;
 	margin: 0 0 50px;
 	text-align: center;
 	text-shadow: none;
 }
-#techcrunch a{
+#showcase-techcrunch a{
 	color: #003300;
 }
-#techcrunch .info img{
+#showcase-techcrunch .info img{
 	display: block;
     margin: 0 auto;
 }
 
-#gradespotter{
+#showcase-gradespotter{
 	background-color: #283F49;
 	border-top: 3px solid #1f3138;
 	padding: 80px 0 0;
 	height: 450px;
     overflow: hidden;
 }
-#gradespotter .info{
+#showcase-gradespotter .info{
 	float: left;
 	padding: 20px 0 0;
 }
-#gradespotter .info img{
+#showcase-gradespotter .info img{
 	display: block;
     margin: 0 auto 30px;
 }
-#gradespotter .feat{
+#showcase-gradespotter .feat{
 	float: right;
 }
-#gradespotter .feat img{
+#showcase-gradespotter .feat img{
 	width: 600px;
 }
-#gradespotter p{
+#showcase-gradespotter p{
 	color: #fff;
 	font-size: 20px;
 	margin: 0;
 	text-align: center;
 	text-shadow: none;
 }
-#gradespotter a{
+#showcase-gradespotter a{
 	color: #008bc7;
 }
 /* ========================================================= Articles ===*/
@@ -187,6 +191,7 @@ article #content{
 	background-color: rgba(255, 255, 255, 0.1);
 	border: 1px solid rgba(255, 255, 255, 0.2);
 	box-shadow: 0 0 20px 5px #1b2024, 0 3px 10px #000000;
+	margin: 30px 0;
 	padding: 3px;
 }
 #content{
@@ -480,18 +485,63 @@ object{
 footer{
     background-color: #1a1f25;
     border-top: 3px solid #000;
-    
-    height: 300px;
+    padding: 80px;
+}
+footer h1{
+	color: #fff;
+	display: inline-block;
+	font-family: 'Outage';
+	font-size: 34px;
+	margin: 0;
+	text-shadow: none;
+	width: 400px;
 }
 footer p{
-	font-family: 'QuicksandLight';
-	font-size:12px;
-	margin:10px 0;
-	text-align:right;
-	text-shadow:none;
+	color: #ccc;
+	display: inline-block;
+	margin: 0;
+	text-shadow: none;
+	width: 700px;
 }
 footer a{
-	color:#666;
+
+}
+#subnav{
+	border: 1px solid #2d3540;
+	border-radius: 4px;
+	float: right;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+#subnav li{
+	background: #242b33;
+/*
+	background: -moz-linear-gradient(top,  #242b33 0%, #191e24 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#242b33), color-stop(100%,#191e24));
+	background: -webkit-linear-gradient(top,  #242b33 0%,#191e24 100%);
+	background: -o-linear-gradient(top,  #242b33 0%,#191e24 100%);
+	background: -ms-linear-gradient(top,  #242b33 0%,#191e24 100%);
+	background: linear-gradient(top,  #242b33 0%,#191e24 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#242b33', endColorstr='#191e24',GradientType=0 );
+*/
+	border-bottom: 1px solid #2b343d;
+}
+#subnav li:first-child{
+	border-radius: 4px 4px 0 0;
+}
+#subnav li:last-child{
+	border-bottom: none;
+	border-radius: 0 0 4px 4px;
+}
+#subnav a{
+	color: #ccc;
+	display: block;
+    padding: 6px 140px 4px 20px;
+	text-shadow: none;
+}
+#subnav a:hover{
+	background-color: #343f4a;
 }
 /* ========================================================= Utility ===*/
 .btn{
