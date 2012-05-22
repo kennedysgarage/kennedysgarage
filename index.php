@@ -77,7 +77,7 @@
     		<img src="/img/home/poachbase-browser.png"/>
     	</span><!--/feat-->
     	<span class="info">
-	    	<p>Our team <a href="">PoachBase</a><br/>won 2nd place at the 2012<br/>TechCrunch Disrupt Hackathon.</p>
+	    	<p>Our team <a href="/projects/poachbase">PoachBase</a><br/>won 2nd place at the 2012<br/>TechCrunch Disrupt Hackathon.</p>
 	    	<img src="/img/home/tcdisrupt-logo.png"/>
     	</span><!--info-->
    
