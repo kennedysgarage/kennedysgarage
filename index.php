@@ -53,21 +53,10 @@
     <div class="container">
     	<img src="/img/face.png"/>
 		<h1>Let’s Craft Experiences.</h1>
-        <p>I am Christopher Kennedy, UX Strategist & Mobile UI Designer.<br/>Recently named one of the most poachable players in tech.<br/>A Professional Hacker hustling in New York City.</p>
+        <p>I am Christopher Kennedy, UX Strategist &amp; Mobile UI Designer.<br/>Recently named one of the most poachable players in tech.<br/>A Professional Hacker hustling in New York City.</p>
 	</div><!--/container-->
     </section><!--/intro-->
-    	
-    <section id="showcase-techcrunch" class="clearfix">
-    <div class="container">
-    	<span class="feat">
-    		<img src="/img/home/poachbase-browser.png"/>
-    	</span><!--/feat-->
-    	<span class="info">
-	    	<p>Our team <a href="">PoachBase</a><br/>won 2nd place at the 2012<br/>TechCrunch Disrupt Hackathon.</p>
-	    	<img src="/img/home/tcdisrupt-logo.png"/>
-    	</span><!--info-->
-   
-    </section><!--/showcase-techcrunch-->
+    
     
     <section id="showcase-gradespotter" class="clearfix">
     <div class="container">
@@ -81,5 +70,17 @@
 	</div><!--/container-->
     </section><!--/showcase-gradespotter-->
 		
+		
+	    <section id="showcase-techcrunch" class="clearfix">
+    <div class="container">
+    	<span class="feat">
+    		<img src="/img/home/poachbase-browser.png"/>
+    	</span><!--/feat-->
+    	<span class="info">
+	    	<p>Our team <a href="">PoachBase</a><br/>won 2nd place at the 2012<br/>TechCrunch Disrupt Hackathon.</p>
+	    	<img src="/img/home/tcdisrupt-logo.png"/>
+    	</span><!--info-->
+   
+    </section><!--/showcase-techcrunch-->
 <div>
 <?php include("footer.php"); ?>
