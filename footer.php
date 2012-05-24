@@ -1,6 +1,6 @@
 </div><!--/container-->
 
-<footer class="clearfix">
+<footer>
 	<div class="container">
 	
 	<div class="g8">

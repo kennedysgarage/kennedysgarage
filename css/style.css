@@ -112,6 +112,41 @@ nav li:last-child a{
 #intro p{
 	font-size: 22px;
 }
+/* ----------------
+-- Grade Spotter --
+---------------- */
+#showcase-gradespotter{
+	background-color: #283F49;
+	border-top: 3px solid #1f3138;
+	padding: 80px 0 0;
+	height: 450px;
+    overflow: hidden;
+}
+#showcase-gradespotter .info{
+	padding: 20px 0 0;
+	float: right;
+}
+#showcase-gradespotter .info img{
+	display: block;
+    margin: 0 auto 30px;
+}
+#showcase-gradespotter .feat img{
+	height: auto;
+    max-width: 100%;
+}
+#showcase-gradespotter p{
+	color: #fff;
+	font-size: 18px;
+	margin: 0;
+	text-align: center;
+	text-shadow: none;
+}
+#showcase-gradespotter a{
+	color: #008bc7;
+}
+/* -------------
+-- TechCrunch --
+------------- */
 #showcase-techcrunch{
 	background-color: #0a9600;
 	border-top: 3px solid #076600;
@@ -120,11 +155,11 @@ nav li:last-child a{
     overflow: hidden;
 }
 #showcase-techcrunch .feat img{
-	width: 660px;
+	height: auto;
+    max-width: 100%;
 }
 #showcase-techcrunch .info{
 	
-	float: right;
 	padding: 50px 0 0;
 }
 #showcase-techcrunch p{
@@ -142,37 +177,6 @@ nav li:last-child a{
     margin: 0 auto;
 }
 
-#showcase-gradespotter{
-	background-color: #283F49;
-	border-top: 3px solid #1f3138;
-	padding: 80px 0 0;
-	height: 450px;
-    overflow: hidden;
-}
-#showcase-gradespotter .info{
-	float: left;
-	padding: 20px 0 0;
-}
-#showcase-gradespotter .info img{
-	display: block;
-    margin: 0 auto 30px;
-}
-#showcase-gradespotter .feat{
-	float: right;
-}
-#showcase-gradespotter .feat img{
-	width: 600px;
-}
-#showcase-gradespotter p{
-	color: #fff;
-	font-size: 20px;
-	margin: 0;
-	text-align: center;
-	text-shadow: none;
-}
-#showcase-gradespotter a{
-	color: #008bc7;
-}
 /* ========================================================= Articles ===*/
 article{
 	margin: 30px auto 30px;
@@ -262,16 +266,17 @@ article p{
     box-shadow: 0 0 0 5px #FFFFFF, 0 0 0 6px #CCCCCC, 0 13px 8px -7px rgba(0,0,0,0.9);
     border-radius:0;
     float: left;
-    margin: 6px 30px 20px 6px;
-    max-width: 459px;
+    margin-top: 6px;
+    margin-bottom: 20px;
+    max-width: 460px;
     width: 100%;
 }
 #history img{
     box-shadow: 0 0 0 5px #FFFFFF, 0 0 0 6px #CCCCCC, 0 13px 8px -7px rgba(0,0,0,0.9);
     border-radius:0;
-    float: right;
-    margin: 0 6px 20px 30px;
-    max-width: 248px;
+	float: right;
+	margin-left: 30px;
+    max-width: 300px;
     width: 100%;
 }
 /* ========================================================= Resume ===*/
@@ -313,7 +318,7 @@ article p{
 #resume .details{
     float:left;
     margin:0 0 30px;
-    max-width:615px;
+    max-width:555px;
     width: 100%;
 }
 #resume .details p{
@@ -458,11 +463,12 @@ pre {
     background-color:#0b0f22;
     border:3px solid #3b3f4e;
     display: block;
-    margin: 0 0 20px -130px;
+    margin-bottom: 20px;
+    margin-left: -100px;
     padding: 20px ;
     line-height: 1.66;
     overflow: auto;
-    width: 910px;
+    width: 860px;
     white-space: pre;
     white-space: pre-wrap;
     word-wrap: break-word;
@@ -612,6 +618,10 @@ blockquote small {
 	.g10{max-width: 780px}
 	.g11{max-width: 860px}
 	.g12{max-width: 940px}
+	
+	#aboutme img{
+		margin-right: 30px;
+	}
 /* ---------
  -- 768px --
 --------- */
@@ -632,6 +642,10 @@ blockquote small {
 	
 	#intro p{
 		font-size: 17px;
+	}
+	pre {
+		margin-left: 0; 
+		width: auto;
 	}
 }
 /* ---------
@@ -664,6 +678,17 @@ blockquote small {
 	#intro p{
 		font-size: 16px;
 	}
+	#history img{
+    	float: none;
+	    margin: 0 auto 30px;
+    }
+    #intro p{
+		font-size: 17px;
+	}
+	pre {
+		margin-left: 0; 
+		width: auto;
+	}
 }
 /* ---------
  -- 320px --
@@ -686,6 +711,13 @@ blockquote small {
 	
 	nav a {
 		padding: 9px 13px 9px 14px;
+	}
+	#intro p{
+		font-size: 17px;
+	}
+	pre {
+		margin-left: 0; 
+		width: auto;
 	}
 
 }

@@ -35,18 +35,21 @@
 
 <header>
 <div class="container">
-	<a href="/"><img src="/img/logo.png"/></a>
-    <h1><a href="/">Kennedy's Garage</a></h1>
-    <nav>
-    <ul>
-        <li><a href="/about">About</a></li>
-        <li><a href="/projects">Projects</a></li>
-        <li><a href="/articles">Articles</a></li>
-        <li><a href="/contact">Contact</a></li>
-    </ul>
-    </nav>
-</header>
+	<div class="g5">
+		<a href="/"><img src="/img/logo.png"/></a>
+	    <h1><a href="/">Kennedy's Garage</a></h1>
+    </div><!--/g5-->
+	<div class="g7">
+	    <nav>
+	    <ul>
+	        <li><a href="/about">About</a></li>
+	        <li><a href="/projects">Projects</a></li>
+	        <li><a href="/articles">Articles</a></li>
+	        <li><a href="/contact">Contact</a></li>
+	    </ul>
+	    </nav>
+	</div><!--/g7-->
 </div><!--/container-->
-<div class="clear"></div>
+</header>
 
 <div class="container">

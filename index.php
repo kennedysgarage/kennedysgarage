@@ -49,14 +49,13 @@
 	    </ul>
 	    </nav>
 	</div><!--/g7-->
-</header>
 </div><!--/container-->
-<div class="clear"></div>
+</header>
 	
     <section id="intro" class="clearfix">
     <div class="container">
     	<div class="g4">
-    		<img src="/img/face2.png"/>
+    		<img src="/img/home/face.png"/>
 		</div><!--/g4-->
 		<div class="g8">
 			<h1>Let’s Craft Experiences.</h1>
@@ -68,11 +67,11 @@
     
     <section id="showcase-gradespotter" class="clearfix">
     <div class="container">
-    	<span class="info">
+    	<span class="info g4">
     		<img src="/img/home/gradespotter-icon.png"/>
 	    	<p>I just launched <a href="http://gradespotter.com/">Grade Spotter</a>,<br/>a full-featured restaurant inspection<br/>guide for your iPhone. </p>
     	</span><!--info-->
-    	<span class="feat">
+    	<span class="feat g8">
     		<img src="/img/home/gradespotter2.png"/>
     	</span><!--/feat-->
 	</div><!--/container-->
@@ -81,14 +80,13 @@
 		
 	    <section id="showcase-techcrunch" class="clearfix">
     <div class="container">
-    	<span class="feat">
-    		<img src="/img/home/poachbase-browser.png"/>
-    	</span><!--/feat-->
-    	<span class="info">
+    	<span class="info g4">
 	    	<p>Our team <a href="/projects/poachbase">PoachBase</a><br/>won 2nd place at the 2012<br/>TechCrunch Disrupt Hackathon.</p>
 	    	<img src="/img/home/tcdisrupt-logo.png"/>
     	</span><!--info-->
-   
+    	<span class="feat g8">
+    		<img src="/img/home/poachbase-browser.png"/>
+    	</span><!--/feat-->
     </section><!--/showcase-techcrunch-->
 <div>
 <?php include("footer.php"); ?>
