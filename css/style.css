@@ -1,8 +1,3 @@
-.container{
-    margin: 0 auto;
-    max-width: 1024px;
-    width: 100%;
-}
 /* ========================================================= Header ===*/
 header{
 	background: #f04043;
@@ -15,7 +10,6 @@ header{
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f04043', endColorstr='#b23032',GradientType=0 );
 	border-bottom: 1px solid #631b1c;
 	box-shadow: 0 1px 0 rgba(255,255,255,0.4) inset, 0 1px 3px rgba(0,0,0,0.5);
-    padding: 8px 0;
     position: relative;
     z-index: 5;
 }
@@ -102,17 +96,18 @@ nav li:last-child a{
 /* ========================================================= Home ===*/
 #intro{
 	background-color: #f3f6f8;
-	padding: 70px 0 80px;
+	padding: 50px 0 40px;
 	text-align: center;
 }
 #intro img{
-	float: left;
-	margin: 0 30px 0 0;
+	margin: 0 auto;
+	max-width: 100%;
+	height: auto;
 }
 #intro h1{
 	font-size: 41px;
 	margin: 0 0 10px;
-	padding: 30px 0 0;
+	padding: 50px 0 0;
 }
 #intro p{
 	font-size: 22px;
@@ -485,7 +480,7 @@ object{
 footer{
     background-color: #1a1f25;
     border-top: 3px solid #000;
-    padding: 80px;
+    padding: 80px 0 70px;
 }
 footer h1{
 	color: #fff;
@@ -494,14 +489,12 @@ footer h1{
 	font-size: 34px;
 	margin: 0;
 	text-shadow: none;
-	width: 400px;
 }
 footer p{
 	color: #ccc;
 	display: inline-block;
 	margin: 0;
 	text-shadow: none;
-	width: 700px;
 }
 footer a{
 
@@ -509,7 +502,6 @@ footer a{
 #subnav{
 	border: 1px solid #2d3540;
 	border-radius: 4px;
-	float: right;
 	list-style: none;
 	margin: 0;
 	padding: 0;
@@ -537,7 +529,7 @@ footer a{
 #subnav a{
 	color: #ccc;
 	display: block;
-    padding: 6px 140px 4px 20px;
+    padding: 6px 20px 4px;
 	text-shadow: none;
 }
 #subnav a:hover{
@@ -589,6 +581,113 @@ blockquote small {
 	-o-transform: scale(1) rotate(0deg) translate(0px, 0px) skew(15deg, 0deg);
 	-ms-transform: scale(1) rotate(0deg) translate(0px, 0px) skew(15deg, 0deg);
 	transform: scale(1) rotate(0deg) translate(0px, 0px) skew(15deg, 0deg);
+}
+/* ========================================================= Structure ===*/
+.container {
+	margin: 0 auto;
+}
+.container:before, .container:after, .content:before, .content:after { content: ""; display: table; }
+.container:after, .content:after { clear: both; }
+.container, .content { zoom: 1; }
+
+.g1,.g2,.g3,.g4,.g5,.g6,.g7,.g8,.g9,.g10,.g11,.g12 {
+	float: left;
+	margin: 10px;
+	width: 100%;
+}
+
+/* ----------
+ -- 960px --
+---------- */
+	.container {width: 960px}
+	.g1{max-width: 60px}
+	.g2{max-width: 140px}
+	.g3{max-width: 220px}
+	.g4{max-width: 300px}
+	.g5{max-width: 380px}
+	.g6{max-width: 460px}
+	.g7{max-width: 540px}
+	.g8{max-width: 620px}
+	.g9{max-width: 700px}
+	.g10{max-width: 780px}
+	.g11{max-width: 860px}
+	.g12{max-width: 940px}
+/* ---------
+ -- 768px --
+--------- */
+@media screen and (min-width: 768px) and (max-width: 1023px){
+	.container {width: 768px}
+	.g1{max-width: 44px}
+	.g2{max-width: 108px}
+	.g3{max-width: 172px}
+	.g4{max-width: 236px}
+	.g5{max-width: 300px}
+	.g6{max-width: 364px}
+	.g7{max-width: 428px}
+	.g8{max-width: 492px}
+	.g9{max-width: 556px}
+	.g10{max-width: 620px}
+	.g11{max-width: 684px}
+	.g12{max-width: 748px}
+	
+	#intro p{
+		font-size: 17px;
+	}
+}
+/* ---------
+ -- 480px --
+--------- */
+@media screen and (min-width: 480px) and (max-width: 767px) {
+	.container {width: 480px}
+	.g1{max-width: 60px}
+	.g2{max-width: 100px}
+	.g3{max-width: 220px}
+	.g4{max-width: 460px}
+	.g5{max-width: 460px}
+	.g6{max-width: 460px}
+	.g7{max-width: 460px}
+	.g8{max-width: 460px}
+	.g9{max-width: 460px}
+	.g10{max-width: 460px}
+	.g11{max-width: 460px}
+	.g12{max-width: 460px}
+	
+	header h1 {
+		font-size: 37px;
+	}
+	nav{
+		float: none;
+	}
+	nav a{
+		padding: 9px 33px 9px 34px;
+	}
+	#intro p{
+		font-size: 16px;
+	}
+}
+/* ---------
+ -- 320px --
+--------- */
+@media screen and (min-width: 320px) and (max-width: 479px) {
+	.container {width: 320px}
+	.g1{max-width: 44px}
+	.g2{max-width: 86px}
+	.g3{max-width: 140px}
+	.g4{max-width: 300px}
+	.g5{max-width: 300px}
+	.g6{max-width: 300px}
+	.g7{max-width: 300px}
+	.g8{max-width: 300px}
+	.g9{max-width: 300px}
+	.g10{max-width: 300px}
+	.g11{max-width: 300px}
+	.g12{max-width: 300px}
+	
+	
+	nav a {
+		padding: 9px 13px 9px 14px;
+	}
+
 }
 /* ========================================================= Animation ===*/
 @-webkit-keyframes bounce {

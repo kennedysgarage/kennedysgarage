@@ -35,25 +35,33 @@
 
 <header>
 <div class="container">
-	<a href="/"><img src="/img/logo.png"/></a>
-    <h1><a href="/">Kennedy's Garage</a></h1>
-    <nav>
-    <ul>
-        <li><a href="/about">About</a></li>
-        <li><a href="/projects">Projects</a></li>
-        <li><a href="/articles">Articles</a></li>
-        <li><a href="/contact">Contact</a></li>
-    </ul>
-    </nav>
+	<div class="g5">
+		<a href="/"><img src="/img/logo.png"/></a>
+	    <h1><a href="/">Kennedy's Garage</a></h1>
+    </div><!--/g5-->
+	<div class="g7">
+	    <nav>
+	    <ul>
+	        <li><a href="/about">About</a></li>
+	        <li><a href="/projects">Projects</a></li>
+	        <li><a href="/articles">Articles</a></li>
+	        <li><a href="/contact">Contact</a></li>
+	    </ul>
+	    </nav>
+	</div><!--/g7-->
 </header>
 </div><!--/container-->
 <div class="clear"></div>
 	
     <section id="intro" class="clearfix">
     <div class="container">
-    	<img src="/img/face.png"/>
-		<h1>Let’s Craft Experiences.</h1>
-        <p>I am Christopher Kennedy, UX Strategist &amp; Mobile UI Designer.<br/>Recently named one of the most poachable players in tech.<br/>A Professional Hacker hustling in New York City.</p>
+    	<div class="g4">
+    		<img src="/img/face2.png"/>
+		</div><!--/g4-->
+		<div class="g8">
+			<h1>Let’s Craft Experiences.</h1>
+	        <p>I am Christopher Kennedy, UX Strategist &amp; Mobile UI Designer.<br/>Recently named one of the most poachable players in tech.<br/>A Professional Hacker hustling in New York City.</p>
+		</div><!--/g8-->
 	</div><!--/container-->
     </section><!--/intro-->
     
