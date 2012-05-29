@@ -43,7 +43,7 @@
 			<div class="details">
 			<p>Hacker in New York, NY</p>
 	    		<ul>
-	    			<li>Back to back weekend hackathons can normally wear someone out, not this guy. I will be hacking along some of the most talented and influential minds.</li>
+	    			<li>Back to back weekend hackathons can normally wear someone out, not this guy. I will be hacking along some of the most talented and influential minds. We ended up creating <a href="http://predictthesky.herokuapp.com/">Predict the Sky</a> from the mission list.</li>
 	    		</ul>
 			</div><!--/details-->
 			
