@@ -29,7 +29,7 @@
 
 <p>Please join the conversation on <a href="http://news.ycombinator.com/item?id=3880737">Hacker News</a>.</p>
 
-<p class="byline">April 23rd, 2011 &there4; Kennedy</p>
+<p class="byline">April 23rd, 2012 &there4; Kennedy</p>
 
 </article>
 </div><!--/content-->

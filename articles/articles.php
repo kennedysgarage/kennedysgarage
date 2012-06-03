@@ -5,6 +5,12 @@
 <ul id="article-list">
 
 	<li>
+        <h2><a href="/articles/testing-twitter-ads">Testing Twitter Ads</a></h2>
+        <p>I was recently invited by Twitter Ads to promote my account. The offer was to try it without spending a dime with $50 in free advertising. I thought I would share the experience.</p>
+        <p class="byline">June 2nd, 2012 &there4; Kennedy</p>
+    </li>
+    
+	<li>
         <h2><a href="/articles/ppi-and-dpi-is-irrelevant">PPI & DPI is Irrelevant</a></h2>
         <p>PPI &amp; DPI is irrelevant when designing iPhone and iPad apps. Let me repeat that, PPI &amp; DPI do not matter. No, stop it. It does not matter if it is @1x or @2x, iPhone or iPad, it's just irrelevant metadata.</p>
         <p class="byline">April 23rd, 2012 &there4; Kennedy</p>
