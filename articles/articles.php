@@ -3,7 +3,13 @@
 <div id="page">
 
 <ul id="article-list">
-
+	
+	<li>
+        <h2><a href="/articles/happy-valentines-day">Happy Valentines Day </a></h2>
+        <p>Here is a short story about my first day on the job in an ambulance as an EMT from back in the day. This is unedited and wrtien shortly after the following event.</p>
+        <p class="byline">February 14th, 2008 &there4; Kennedy</p>
+    </li>
+	
 	<li>
         <h2><a href="/articles/testing-twitter-ads">Testing Twitter Ads</a></h2>
         <p>I was recently invited by Twitter Ads to promote my account. The offer was to try it without spending a dime with $50 in free advertising. I thought I would share the experience.</p>
