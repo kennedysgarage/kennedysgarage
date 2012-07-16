@@ -420,9 +420,6 @@ figcaption{
 	.g11{max-width: 860px}
 	.g12{max-width: 940px}
 	
-	#aboutme img{
-		margin-right: 30px;
-	}
 /* ---------
  -- 768px --
 --------- */
@@ -441,8 +438,11 @@ figcaption{
 	.g11{max-width: 684px}
 	.g12{max-width: 748px}
 	
+	#intro h2{
+		padding: 40px 0 0;
+	}
 	#intro p{
-		font-size: 17px;
+		font-size: 16px;
 	}
 	pre {
 		margin-left: 0; 
@@ -474,18 +474,18 @@ figcaption{
 		float: none;
 	}
 	nav a{
-		padding: 9px 33px 9px 34px;
+		padding: 9px 53px;
+	}
+	#intro h2{
+		padding: 0;
 	}
 	#intro p{
-		font-size: 16px;
+		font-size: 15px;
 	}
 	#history img{
     	float: none;
 	    margin: 0 auto 30px;
     }
-    #intro p{
-		font-size: 17px;
-	}
 	pre {
 		margin-left: 0; 
 		width: auto;
@@ -509,12 +509,11 @@ figcaption{
 	.g11{max-width: 300px}
 	.g12{max-width: 300px}
 	
-	
-	nav a {
-		padding: 9px 13px 9px 14px;
+	#intro h2{
+		padding: 0;
 	}
-	#intro p{
-		font-size: 17px;
+	nav a {
+		padding: 9px 28px;
 	}
 	pre {
 		margin-left: 0; 
