@@ -15,7 +15,7 @@ body, button, input, select, textarea { font-family: sans-serif; color: #222; }
 ::selection { background: #ffffa9; color:#54545e; text-shadow: none; }
 
 a {
-	color: #0eaea2;
+	color: #1ca3a7;
 	text-decoration: none;
 	-webkit-transition: color .25s ease-in, background .25s ease-in, opacity .25s ease-in;
 	-moz-transition: color .25s ease-in, background .25s ease-in, opacity .25s ease-in;
@@ -23,7 +23,7 @@ a {
 	-o-transition: color .25s ease-in, background .25s ease-in, opacity .25s ease-in;
 	transition: color .25s ease-in, background .25s ease-in, opacity .25s ease-in;
 }
-a:hover { color: #10ccbc; }
+a:hover { color: #198d91; }
 a:focus { outline: thin dotted; }
 a:active{ color: #0eaea2; }
 a:hover, a:active { outline: 0; }
@@ -214,15 +214,15 @@ td { vertical-align: top; }
 
 }  
 html,body{
-	background-color: #273138;
-	font-family: 'Droid Sans', sans-serif;
+	background-color: #f3f6f8;
+	font-family: 'Open Sans', sans-serif;
 	font-weight: 400;
 	height: 100%;
 	width: 100%;
 }
 h1{
 	color: #313f42;
-	font-family: 'TitilliumText22LMedium', Arial, sans-serif;
+	font-family: 'TitilliumText22LMedium', sans-serif;
 	font-size: 32px;
 	font-weight: 400;
 	margin: 0 0 30px;
@@ -230,37 +230,42 @@ h1{
 }
 h2{
 	color: #313f42;
-	font-family: 'BitstreamVeraSansBold', Arial, sans-serif;
+	font-family: 'EB Garamond', serif;
 	font-size: 32px;
-	font-weight: normal;
-	margin: 0 0 20px;
+    font-weight: 400;
+	margin: 0 0 10px;
 	padding: 0;
 	text-shadow: 0 1px 1px rgba(255,255,255,0.7);	
 }
 h3{
 	color: #313f42;
+    font-family: 'EB Garamond', serif;
+    font-weight: 400;
 	font-size:24px;
 	margin:0 0 5px;
 	text-shadow: 0 1px 1px rgba(255,255,255,0.7);	
 }
 h4{
 	color: #313f42;
-	margin: 0 0 5px;
+    font-family: 'EB Garamond', serif;
+    font-weight: 400;
+    font-size:22px;
+	margin: 5px 0;
 	text-shadow: 0 1px 1px rgba(255,255,255,0.7);	
 }
 p{
 	color: #45585d;
-	font-size: 17px;
+	font-size: 16px;
 	line-height: 1.5;
 	margin: 0 0 20px;
-	text-shadow: 0 1px 1px rgba(255,255,255,0.7);	
+	text-shadow: 0 1px 1px #fff;	
 }
 ul{
     margin:0 0 20px;
 }
 li{
 	color: #45585d;
-	font-family: 'BitstreamVeraSansRoman', Arial, sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 17px;
 	line-height: 1.5;
 	text-shadow: 0 1px 1px rgba(255,255,255,0.7);	
@@ -270,7 +275,7 @@ dt{
 }
 dl{
 	color: #45585d;
-	font-family: 'BitstreamVeraSansRoman', Arial, sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 17px;
 	line-height: 1.5;
 	margin:0 0 10px;

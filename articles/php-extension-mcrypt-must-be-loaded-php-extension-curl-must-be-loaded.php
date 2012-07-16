@@ -1,7 +1,5 @@
 <?php  $title = 'PHP Extension "mcrypt" must be loaded PHP Extension "curl" must be loaded |'; include '../header.php'; ?>
 
-<div id="page">
-<div id="content">
 <article>
 
 <h2>PHP Extension "mcrypt" must be loaded <br/>PHP Extension "curl" must be loaded</h2>
@@ -31,7 +29,5 @@
 <p class="byline">July 7th, 2010 &there4; Kennedy</p>
 
 </article>
-</div><!--/content-->
-</div><!--/page-->
 
 <?php include("../footer.php"); ?>

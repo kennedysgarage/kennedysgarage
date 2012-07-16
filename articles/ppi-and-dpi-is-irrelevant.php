@@ -1,7 +1,5 @@
 <?php  $title = 'PPI & DPI is Irrelevant |'; include '../header.php'; ?>
 
-<div id="page">
-<div id="content">
 <article>
 	
 <h2>PPI &amp; DPI is Irrelevant</h2>
@@ -32,8 +30,6 @@
 <p class="byline">April 23rd, 2012 &there4; Kennedy</p>
 
 </article>
-</div><!--/content-->
-</div><!--/page-->
 
 <script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <?php include("../footer.php"); ?>

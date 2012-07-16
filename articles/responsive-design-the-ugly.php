@@ -1,7 +1,5 @@
 <?php  $title = 'Responsive Design, the ugly |'; include '../header.php'; ?>
 
-<div id="page">
-<div id="content">
 <article>
 
 <h2>Responsive Design, the ugly</h2>
@@ -43,7 +41,5 @@
 <p class="byline">January 1st, 2012 &there4; Kennedy</p>
 
 </article>
-</div><!--/content-->
-</div><!--/page-->
 
 <?php include("../footer.php"); ?>

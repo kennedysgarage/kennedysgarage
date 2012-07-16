@@ -1,7 +1,5 @@
 <?php  $title = 'I Quit |'; include '../header.php'; ?>
 
-<div id="page">
-<div id="content">
 <article>
 
 <h2>I Quit</h2>
@@ -20,7 +18,5 @@
 <p class="byline">September 27th, 2011 &there4; Kennedy</p>
 
 </article>
-</div><!--/content-->
-</div><!--/page-->
 
 <?php include("../footer.php"); ?>

@@ -1,7 +1,5 @@
 <?php  $title = '2010 Liver Life Walk |'; include '../header.php'; ?>
 
-<div id="page">
-<div id="content">
 <article>
 
 <h2>2010 Liver Life Walk</h2>
@@ -37,7 +35,5 @@ Christopher M. Kennedy</p>
 <p class="byline">April 3, 2010 &there4; Kennedy</p>
 
 </article>
-</div><!--/content-->
-</div><!--/page-->
 
 <?php include("../footer.php"); ?>

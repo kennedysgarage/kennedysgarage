@@ -1,7 +1,5 @@
 <?php  $title = "Aidan's Monsters |"; include '../header.php'; ?>
 
-<div id="page">
-<div id="content">
 <article>
 
 <h2>Aidan's Monsters</h2>
@@ -13,7 +11,5 @@
 <p class="byline">October 27th, 2010 &there4; Kennedy</p>
 
 </article>
-</div><!--/content-->
-</div><!--/page-->
 
 <?php include("../footer.php"); ?>

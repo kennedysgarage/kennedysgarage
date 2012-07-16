@@ -1,7 +1,5 @@
 <?php  $title = 'Droid 2 attack |'; include '../header.php'; ?>
 
-<div id="page">
-<div id="content">
 <article>
 
 <h2>Droid 2 attack</h2>
@@ -13,7 +11,5 @@
 <p class="byline">October 6th, 2010 &there4; Kennedy</p>
 
 </article>
-</div><!--/content-->
-</div><!--/page-->
 
 <?php include("../footer.php"); ?>

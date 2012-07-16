@@ -1,7 +1,5 @@
 <?php  $title = 'NERDTree |'; include '../header.php'; ?>
 
-<div id="page">
-<div id="content">
 <article>
 
 <h2>NERDTree</h2>
@@ -118,7 +116,5 @@ autocmd VimEnter * wincmd p
 <p class="byline">January 15th, 2012 &there4; Kennedy</p>
 
 </article>
-</div><!--/content-->
-</div><!--/page-->
 
 <?php include("../footer.php"); ?>

@@ -14,7 +14,9 @@
 	<meta name="apple-mobile-web-app-status-bar-style" content="black">
 	<meta name="apple-mobile-web-app-capable" content="yes" />
 	<link rel="shortcut icon" href="favicon.ico">
-	<link href="http://fonts.googleapis.com/css?family=Droid+Sans:400,700" rel="stylesheet" type="text/css">
+	<link href="http://fonts.googleapis.com/css?family=Cardo:400,700" rel="stylesheet" type="text/css">
+	<link href='http://fonts.googleapis.com/css?family=EB+Garamond' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700,300' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" href="/css/reset.css">
 	<link rel="stylesheet" href="/css/style.css">
 	<link rel="stylesheet" href="/css/prettify.css">
@@ -43,9 +45,9 @@
 	    <nav>
 	    <ul>
 	        <li><a href="/about">About</a></li>
-	        <li><a href="/projects">Projects</a></li>
+			<li><a href="/projects">Projects</a></li>
 	        <li><a href="/articles">Articles</a></li>
-	        <li><a href="/contact">Contact</a></li>
+	        <!-- <li><a href="/contact">Contact</a></li> -->
 	    </ul>
 	    </nav>
 	</div><!--/g7-->

@@ -1,7 +1,5 @@
 <?php  $title = 'How old do you feel? |'; include '../header.php'; ?>
 
-<div id="page">
-<div id="content">
 <article>
 
 <h2>How old do you feel?</h2>
@@ -13,7 +11,5 @@
 <p class="byline">February 18th, 2011 &there4; Kennedy</p>
 
 </article>
-</div><!--/content-->
-</div><!--/page-->
 
 <?php include("../footer.php"); ?>

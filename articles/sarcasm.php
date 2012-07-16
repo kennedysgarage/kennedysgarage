@@ -1,7 +1,5 @@
 <?php  $title = 'CSS for Sarcasm |'; include '../header.php'; ?>
 
-<div id="page">
-<div id="content">
 <article>
 	
 <h2>CSS for Sarcasm</h2>
@@ -36,8 +34,6 @@
 <p class="byline">March 13th, 2012 &there4; Kennedy</p>
 
 </article>
-</div><!--/content-->
-</div><!--/page-->
 
 <script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <?php include("../footer.php"); ?>

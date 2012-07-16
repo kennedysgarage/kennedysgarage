@@ -1,7 +1,5 @@
 <?php  $title = 'Education |'; include '../header.php'; ?>
 
-<div id="page">
-<div id="content">
 <article>
 
 <h2>Education</h2>
@@ -114,7 +112,5 @@ Author: Charles Petzold<br/>
 <p class="byline">February 29th, 2012 &there4; Kennedy</p>
 
 </article>
-</div><!--/content-->
-</div><!--/page-->
 
 <?php include("../footer.php"); ?>

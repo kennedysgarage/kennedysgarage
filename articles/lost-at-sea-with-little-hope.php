@@ -1,7 +1,5 @@
 <?php  $title = 'Lost at sea with little hope |'; include '../header.php'; ?>
 
-<div id="page">
-<div id="content">
 <article>
 
 <h2>Lost at sea with little hope</h2>
@@ -17,7 +15,5 @@
 <p class="byline">August 28th, 2011 &there4; Kennedy</p>
 
 </article>
-</div><!--/content-->
-</div><!--/page-->
 
 <?php include("../footer.php"); ?>
