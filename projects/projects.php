@@ -1,7 +1,7 @@
 <?php  $title = 'Projects |'; include '../header.php'; ?>
 
 <h3>Logos</h3>
-<p>Here are some logos that I have designed for clients, employers, hackathons, or myself. I currently do not have all the details about these projects or others I have completed in the past online...yet. If you want to see more of my current work or previous work for the web, tablet, or mobile please let me know.</p>
+<p>Here are some logos that I have designed for clients, employers, hackathons, or myself. Funny thing is I don't really call myself a logo designer or really care to do it. All of these logos just kind of just happened.</p>
 <div id="logos">
     <div class="g4">
         <img src="/projects/assets/logos/sutiandaxe.png"/>
