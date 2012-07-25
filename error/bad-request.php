@@ -1,11 +1,9 @@
 <?php  $title = 'Bad Request |'; include '../header.php'; ?>
 
-<div id="page">
-	<div id="content">
+<div class="g12">
 			
-			<h2>Bad Request</h2>
+	<h2>Bad Request</h2>
 
-	</div><!--/content-->
-</div><!--/page-->
+</div><!--/g12-->
 
-<?php include("footer.php"); ?>
+<?php include("../footer.php"); ?>

@@ -1,11 +1,9 @@
 <?php  $title = 'Forbidden |'; include '../header.php'; ?>
 
-<div id="page">
-	<div id="content">
+<div class="g12">
 			
-			<h2>Forbidden</h2>
+	<h2>Forbidden</h2>
 			
-	</div><!--/content-->
-</div><!--/page-->
+</div><!--/g12-->
 
-<?php include("footer.php"); ?>
+<?php include("../footer.php"); ?>

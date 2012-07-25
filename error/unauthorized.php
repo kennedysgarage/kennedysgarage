@@ -1,11 +1,9 @@
 <?php  $title = 'Unauthorized |'; include '../header.php'; ?>
 
-<div id="page">
-	<div id="content">
+<div class="g12">
 			
-			<h2>Unauthorized</h2>
+	<h2>Unauthorized</h2>
+	
+</div><!--/g12-->
 
-	</div><!--/content-->
-</div><!--/page-->
-
-<?php include("footer.php"); ?>
+<?php include("../footer.php"); ?>
