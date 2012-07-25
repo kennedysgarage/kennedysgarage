@@ -12,14 +12,10 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 	<meta name="apple-mobile-web-app-capable" content="yes">
 	<meta name="apple-mobile-web-app-status-bar-style" content="black">
-	<meta name="apple-mobile-web-app-capable" content="yes" />
 	<link rel="shortcut icon" href="favicon.ico">
-	<link href="http://fonts.googleapis.com/css?family=Cardo:400,700" rel="stylesheet" type="text/css">
 	<link href='http://fonts.googleapis.com/css?family=EB+Garamond' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700,300' rel='stylesheet' type='text/css'>
-	<link rel="stylesheet" href="/css/reset.css">
-	<link rel="stylesheet" href="/css/style.css">
-	<link rel="stylesheet" href="/css/prettify.css">
+	<link rel="stylesheet" href="/style/css/style.css">
 	<script src="/js/modernizr.min.js"></script>
 	<script type="text/javascript">
 	  var _gaq = _gaq || [];
