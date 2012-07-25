@@ -1,6 +1,6 @@
 # [Kennedy's Garage](http://kennedysgarage.com)
 
-Welcome to my Github repo. I figured I would toss my site up here so anyone could follow along and observe how I build most websites. If anyone has any questions feel free to reach out asd ask.
+Welcome to my Github repo. I figured I would toss my site up here so anyone could follow along and observe how I build most websites. If anyone has any questions feel free to reach out and ask.
 
 ### Setup
 * My computer is a 15" MacBook Pro with a 2GHz Intel Core i7, 8 GB 1333 MHz DDR3, and running Lion.
