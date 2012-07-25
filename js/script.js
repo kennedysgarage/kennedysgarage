@@ -1,8 +1,6 @@
-$(document).ready(function() {
+//@codekit-prepend "plugins.js";
 
-	// To make the code look beautiful for you 
-	// http://code.google.com/p/google-code-prettify/
-	prettyPrint();
+$(document).ready(function() {
 	
 	//prepend span tag to give glare to img
 	$('#intro .g4').prepend("<span></span>");
