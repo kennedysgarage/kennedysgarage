@@ -722,6 +722,7 @@ blockquote small {
   }
 }
 /* ========================================================= Animation ===*/
+/* Thanks @_dte for making my life easy! (http://daneden.me/animate/) */
 @-webkit-keyframes bounce {
   0% {
     opacity: 0;
@@ -825,9 +826,9 @@ hr {
 }
 figure {
   background-color: #fff;
+  box-shadow: 0 0 0 5px #ffffff, 0 13px 8px -7px rgba(0, 0, 0, 0.4);
   padding: 10px;
   margin: 0 0 40px;
-  box-shadow: 0 0 0 5px #ffffff, 0 13px 8px -7px rgba(0, 0, 0, 0.4);
 }
 figure img {
   height: auto;
@@ -893,24 +894,7 @@ ol.linenums li {
   line-height: 20px;
 }
 /* Alternate shading for lines */
-/*
-$base03:    #002b36;
-$base02:    #073642;
-$base01:    #586e75;
-$base00:    #657b83;
-$base0:     #839496;
-$base1:     #93a1a1;
-$base2:     #eee8d5;
-$base3:     #fdf6e3;
-$yellow:    #b58900;
-$orange:    #cb4b16;
-$red:       #dc322f;
-$magenta:   #d33682;
-$violet:    #6c71c4;
-$blue:      #268bd2;
-$cyan:      #2aa198;
-$green:     #859900;
-*//* ========================================================= Header ===*/
+/* ========================================================= Header ===*/
 header {
   background: #f04043;
   background: -moz-linear-gradient(top, #f04043 0%, #b23032 100%);
@@ -1005,12 +989,18 @@ nav li:last-child a {
   background-color: #f3f6f8;
   text-align: center;
 }
+#intro span {
+  background: url('/img/glare.png') no-repeat scroll 0 0 transparent;
+  height: 133px;
+  position: absolute;
+  width: 134px;
+}
 #intro img {
   border-radius: 4px;
   box-shadow: 0 -1px 0 rgba(255, 255, 255, 0.9), 0 1px 0 rgba(0, 0, 0, 0.2);
+  height: auto;
   margin: 0 auto;
   max-width: 100%;
-  height: auto;
 }
 #intro h2 {
   font-size: 44px;
@@ -1019,12 +1009,6 @@ nav li:last-child a {
 }
 #intro p {
   font-size: 19px;
-}
-#intro span {
-  background: url("/img/glare.png") no-repeat scroll 0 0 transparent;
-  height: 133px;
-  position: absolute;
-  width: 134px;
 }
 /* ========================================================= Articles ===*/
 article {
@@ -1066,8 +1050,8 @@ article p {
   display: inline-block;
   height: 16px;
   margin: 0 10px 0 0;
-  width: 16px;
   vertical-align: middle;
+  width: 16px;
 }
 /* ========================================================= Resume ===*/
 #resume h2 {
@@ -1131,8 +1115,6 @@ article p {
 }
 code,
 pre {
-  -webkit-border-radius: 3px;
-  -moz-border-radius: 3px;
   border-radius: 3px;
   padding: 0 3px 2px;
   font-size: 14px;
@@ -1188,9 +1170,9 @@ footer p {
   margin: 0;
   text-shadow: none;
 }
-/* -------------
+/* ---------
 -- SubNav --
-------------- */
+--------- */
 #subnav {
   border: 1px solid #2d3540;
   border-radius: 4px;
