@@ -2,7 +2,7 @@
 
 <section id="intro">
 	<div class="g4">
-		<img src="/img/home/face.png"/>
+		<span></span><img src="/img/home/face.png"/>
 	</div><!--/g4-->
 	<div class="g8">
 		<h2>Let’s Craft Experiences.</h2>
