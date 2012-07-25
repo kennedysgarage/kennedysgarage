@@ -1092,6 +1092,10 @@ article p {
 .video {
   margin: 0 0 20px;
 }
+.browser {
+  border-radius: 4px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+}
 /* ========================================================= Article ===*/
 #article-list {
   margin: 0;
