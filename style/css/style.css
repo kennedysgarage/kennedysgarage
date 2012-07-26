@@ -1119,6 +1119,10 @@ article p {
 #article-list p.byline {
   margin: 0;
 }
+article img {
+  height: auto;
+  max-width: 100%;
+}
 code,
 pre {
   border-radius: 3px;
