@@ -9,11 +9,11 @@
 	</div><!--/g8-->
 	<div class="g4">
 		<ul id="subnav">
-			<li><a href="mailto:kennedysgarage@gmail.com">Email</a></li>
 			<li><a href="http://twitter.com/kennedysgarage">Twitter</a></li>
 			<li><a href="https://plus.google.com/115398388795575778115/posts">Google +</a></li>
 			<li><a href="http://dribbble.com/kennedysgarage">Dribbble</a></li>
 			<li><a href="http://forrst.com/people/kennedysgarage">Forrst</a></li>
+			<li><a href="https://github.com/kennedysgarage">GitHub</a></li>
 		</ul>
 	</div><!--/g4-->
 	</div><!--/container-->
