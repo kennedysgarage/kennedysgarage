@@ -12,7 +12,7 @@
 			<li><a href="http://twitter.com/kennedysgarage">Twitter</a></li>
 			<li><a href="http://profiles.google.com/kennedysgarage">Google +</a></li>
 			<li><a href="http://dribbble.com/kennedysgarage">Dribbble</a></li>
-			<li><a href="http://forrst.com/people/kennedysgarage">Forrst</a></li>
+			<!-- <li><a href="http://forrst.com/people/kennedysgarage">Forrst</a></li> -->
 			<li><a href="https://github.com/kennedysgarage">GitHub</a></li>
 		</ul>
 	</div><!--/g4-->
