@@ -54,7 +54,7 @@
 		<div class="g8">
 			<p>Hacker in New York, NY</p>
     		<ul>
-    			<li>I was privately invited to attend an elite hackathon for Spotify and that is all I can say about that at this time.</li>
+    			<li>I was privately invited to attend an elite hackathon for Spotify and that is all I can say about that at this time. I can say that I did build <a href="http://spotify.kennedysgarage.com/">Spotify Pattern</a> on the side, which is a pattern library to help myself and others quickly build out Spotify Apps.</li>
     		</ul>
 		</div><!--/g8-->
 	
