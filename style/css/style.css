@@ -429,14 +429,6 @@ td {
   font-weight: normal;
   font-style: normal;
 }
-html,
-body {
-  background-color: #f3f6f8;
-  font-family: 'Open Sans', sans-serif;
-  font-weight: 400;
-  height: 100%;
-  width: 100%;
-}
 h1 {
   color: #313f42;
   font-family: 'TitilliumText22LMedium', sans-serif;
@@ -895,6 +887,17 @@ ol.linenums li {
 }
 /* Alternate shading for lines */
 /* ========================================================= Header ===*/
+html,
+body {
+  background-color: #f3f6f8;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  height: 100%;
+  width: 100%;
+}
+body {
+  background: url("/img/web.png") no-repeat scroll center top #f3f6f8;
+}
 header {
   background: #f04043;
   background: -moz-linear-gradient(top, #f04043 0%, #b23032 100%);
@@ -997,7 +1000,7 @@ nav li:last-child a {
 }
 #intro img {
   border-radius: 4px;
-  box-shadow: 0 -1px 0 rgba(255, 255, 255, 0.9), 0 1px 0 rgba(0, 0, 0, 0.2);
+  box-shadow: 0 -1px 0 rgba(255, 255, 255, 0.5), 0 1px 0 rgba(0, 0, 0, 0.2);
   height: auto;
   margin: 0 auto;
   max-width: 100%;
