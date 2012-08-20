@@ -40,14 +40,14 @@
 <ul class="status">
 	<li class="speaking">
 		<span class="type"></span>
-		<span class="name">AT&amp;T Mobile App Hackathon NYC - Speaker</span>
+		<span class="name"><a href="http://mobileappsocialgoodnyc.eventbrite.com/">AT&amp;T Mobile App Hackathon NYC</a> - Speaker</span>
 		<span class="started">09.22</span>
 		<span class="finished">09.22</span>
 		<span class="condition scheduled">Scheduled</span>
 	</li>
 	<li class="hackathon">
 		<span class="type"></span>
-		<span class="name">Startup Weekend NYC - Planner</span>
+		<span class="name"><a href="http://nyc.startupweekend.org/">Startup Weekend NYC</a> - Planner</span>
 		<span class="started">09.21</span>
 		<span class="finished">09.23</span>
 		<span class="condition scheduled">Scheduled</span>
@@ -75,56 +75,77 @@
 	</li>
 	<li class="project">
 		<span class="type"></span>
-		<span class="name">Suit &amp; Axe - Website</span>
+		<span class="name"><a href="http://suitandaxe.com">Suit &amp; Axe</a> - Website</span>
 		<span class="started">07.02</span>
 		<span class="finished"></span>
 		<span class="condition in-progress">In Progress</span>
 	</li>
 	<li class="project">
 		<span class="type"></span>
-		<span class="name">ArcTap - Website</span>
+		<span class="name"><a href="http://arctap.com">ArcTap</a> - Website</span>
 		<span class="started">05.12</span>
 		<span class="finished"></span>
 		<span class="condition stalled">Stalled</span>
 	</li>
 	<li class="project">
 		<span class="type"></span>
-		<span class="name">Grade Spotter - iPhone App (Version 1.2)</span>
+		<span class="name"><a href="http://gradespotter.com">Grade Spotter</a> - iPhone App (Version 1.2)</span>
 		<span class="started">05.12</span>
 		<span class="finished"></span>
 		<span class="condition stalled">Stalled</span>
 	</li>
 	<li class="project">
 		<span class="type"></span>
-		<span class="name">kristinastpeter.com - Website</span>
+		<span class="name"><a href="http://kristinastpeter.com">Kristina St. Peter</a> - Website</span>
 		<span class="started">05.30</span>
 		<span class="finished">05.30</span>
 		<span class="condition completed">Completed</span>
 	</li>
+	<li class="honor">
+		<span class="type"></span>
+		<span class="name">Won 2nd Place at <a href="http://techcrunch.com/events/disrupt-ny-2012/">TechCrunch Disrupt NYC</a> for <a href="/projects/poachbase">PoachBase</a></span>
+		<span class="started">05.23</span>
+		<span class="finished">05.23</span>
+		<span class="condition completed">Completed</span>
+	</li>
+	<li class="project">
+		<span class="type"></span>
+		<span class="name"><a href="/projects/poachbase">PoachBase</a> - Website</span>
+		<span class="started">05.19</span>
+		<span class="finished">05.23</span>
+		<span class="condition completed">Completed</span>
+	</li>
 	<li class="hackathon">
 		<span class="type"></span>
-		<span class="name">TechCrunch Disrupt NYC - Hacker</span>
+		<span class="name"><a href="http://techcrunch.com/events/disrupt-ny-2012/">TechCrunch Disrupt NYC</a> - Hacker</span>
 		<span class="started">05.19</span>
 		<span class="finished">05.23</span>
 		<span class="condition completed">Completed</span>
 	</li>
 	<li class="event">
 		<span class="type"></span>
-		<span class="name">TechCrunch Disrupt Conference - Attendee</span>
+		<span class="name"><a href="http://techcrunch.com/events/disrupt-ny-2012/">TechCrunch Disrupt Conference</a> - Attendee</span>
 		<span class="started">05.24</span>
 		<span class="finished">05.26</span>
 		<span class="condition completed">Completed</span>
 	</li>
 	<li class="hackathon">
 		<span class="type"></span>
-		<span class="name">Startup Weekend NYC - Mentor</span>
+		<span class="name"><a href="http://nyc.startupweekend.org">Startup Weekend NYC</a> - Mentor</span>
 		<span class="started">05.07</span>
 		<span class="finished">05.08</span>
 		<span class="condition completed">Completed</span>
 	</li>
+	<li class="project">
+		<span class="type"></span>
+		<span class="name"><a href="predictthesky.herokuapp.com">Predict the Sky</a> - Website</span>
+		<span class="started">04.21</span>
+		<span class="finished">04.22</span>
+		<span class="condition completed">Completed</span>
+	</li>
 	<li class="hackathon">
 		<span class="type"></span>
-		<span class="name">International Space Apps Challenge NYC - Hacker</span>
+		<span class="name"><a href="http://spaceappschallenge.org">International Space Apps Challenge NYC</a> - Hacker</span>
 		<span class="started">04.21</span>
 		<span class="finished">04.22</span>
 		<span class="condition completed">Completed</span>
@@ -138,7 +159,7 @@
 	</li>
 	<li class="honor">
 		<span class="type"></span>
-		<span class="name">Betabeat’s Spring 2012 Most Poachable Players in Tech</span>
+		<span class="name"><a href="http://betabeat.com/2012/04/betabeats-spring-2012-most-poachable-players-in-tech/#slide22">Betabeat's Spring 2012 Most Poachable Players in Tech</a></span>
 		<span class="started">04.09</span>
 		<span class="finished">04.09</span>
 		<span class="condition completed">Completed</span>
@@ -152,14 +173,14 @@
 	</li>
 	<li class="honor">
 		<span class="type"></span>
-		<span class="name">The East Wing Podcast - Guest</span>
+		<span class="name"><a href="http://theeastwing.net/episodes/1-kennedy">The East Wing Podcast</a> - Guest</span>
 		<span class="started">02.17</span>
 		<span class="finished">02.17</span>
 		<span class="condition completed">Completed</span>
 	</li>
 	<li class="hackathon">
 		<span class="type"></span>
-		<span class="name">Hacker Olympics - Attendee</span>
+		<span class="name"><a href="thehackerolympics.com">Hacker Olympics</a> - Attendee</span>
 		<span class="started">02.18</span>
 		<span class="finished">02.19</span>
 		<span class="condition completed">Completed</span>
@@ -179,28 +200,70 @@
 	</li>
 	<li class="project">
 		<span class="type"></span>
-		<span class="name">Hacker Union - Website</span>
+		<span class="name"><a href="www.hackerunion.org">Hacker Union</a> - Website</span>
 		<span class="started">12.11</span>
 		<span class="finished"></span>
 		<span class="condition stalled">Stalled</span>
+	</li>
+	<li class="project">
+		<span class="type"></span>
+		<span class="name"><a href="http://kqwebshow.com">KQ Webshow</a> - Website</span>
+		<span class="started">02.11</span>
+		<span class="finished"></span>
+		<span class="condition stalled">Stalled</span>
+	</li>
+	<li class="project">
+		<span class="type"></span>
+		<span class="name"><a href="/projects/midpoint">Midpoint</a> - Android App</span>
+		<span class="started">11.05</span>
+		<span class="finished">11.06</span>
+		<span class="condition completed">Completed</span>
 	</li>
 	<li class="hackathon">
 		<span class="type"></span>
 		<span class="name">Reinvent Local - Hacker</span>
 		<span class="started">11.05</span>
-		<span class="finished">11/06</span>
+		<span class="finished">11.06</span>
+		<span class="condition completed">Completed</span>
+	</li>
+	<li class="project">
+		<span class="type"></span>
+		<span class="name"><a href="http://adsperience.com">Adsperience</a> - Website</span>
+		<span class="started">11.11</span>
+		<span class="finished">08.28</span>
+		<span class="condition completed">Completed</span>
+	</li>
+	<li class="project">
+		<span class="type"></span>
+		<span class="name"><a href="/projects/voronoi-diacam">Voronoi Diacam</a> - Website</span>
+		<span class="started">08.20</span>
+		<span class="finished">08.21</span>
+		<span class="condition completed">Completed</span>
+	</li>
+	<li class="honor">
+		<span class="type"></span>
+		<span class="name">Best use of Flickr's API at <a href="http://www.photohackday.org/">Photo Hack Day I</a> for <a href="/projects/voronoi-diacam">Voronoi Diacam</a></span>
+		<span class="started">08.21</span>
+		<span class="finished">08.21</span>
+		<span class="condition completed">Completed</span>
+	</li>
+	<li class="honor">
+		<span class="type"></span>
+		<span class="name">Won 1st Place at the <a href="http://www.photohackday.org/">Photo Hack Day I</a> Food Easting Contest</span>
+		<span class="started">08.20</span>
+		<span class="finished">08.21</span>
 		<span class="condition completed">Completed</span>
 	</li>
 	<li class="hackathon">
 		<span class="type"></span>
-		<span class="name">Photo Hack Day - Hacker</span>
+		<span class="name"><a href="http://www.photohackday.org/">Photo Hack Day I</a> - Hacker</span>
 		<span class="started">08.20</span>
 		<span class="finished">08.21</span>
 		<span class="condition completed">Completed</span>
 	</li>
 	<li class="event">
 		<span class="type"></span>
-		<span class="name">TimesOpen HTML5 and Beyond - Attendee</span>
+		<span class="name"><a href="http://open.blogs.nytimes.com/2011/08/19/recapping-times-open-html5-and-beyond/">TimesOpen HTML5 and Beyond</a> - Attendee</span>
 		<span class="started">08.16</span>
 		<span class="finished">08.16</span>
 		<span class="condition completed">Completed</span>
@@ -210,6 +273,13 @@
 		<span class="name">NYC Intel AppUp Application Labs - Attendee</span>
 		<span class="started">08.04</span>
 		<span class="finished">08.04</span>
+		<span class="condition completed">Completed</span>
+	</li>
+	<li class="project">
+		<span class="type"></span>
+		<span class="name"><a href="/projects/transit-trainer">Transit Trainer</a> - Website</span>
+		<span class="started">08.01</span>
+		<span class="finished">08.01</span>
 		<span class="condition completed">Completed</span>
 	</li>
 	<li class="hackathon">
@@ -226,46 +296,60 @@
 		<span class="finished">07.09</span>
 		<span class="condition completed">Completed</span>
 	</li>
+	<li class="project">
+		<span class="type"></span>
+		<span class="name"><a href="/projects/use-my-crm">Use My CRM</a> - Android UI &amp; Logo</span>
+		<span class="started">05.21</span>
+		<span class="finished">05.22</span>
+		<span class="condition completed">Completed</span>
+	</li>
 	<li class="hackathon">
 		<span class="type"></span>
-		<span class="name">TechCrunch Disrupt NYC - Hacker</span>
+		<span class="name"><a href="http://techcrunch.com/events/disrupt-ny-2011">TechCrunch Disrupt NYC</a> - Hacker</span>
 		<span class="started">05.21</span>
 		<span class="finished">05.22</span>
 		<span class="condition completed">Completed</span>
 	</li>
 	<li class="event">
 		<span class="type"></span>
-		<span class="name">TechCrunch Disrupt Conference - Attendee</span>
+		<span class="name"><a href="http://techcrunch.com/events/disrupt-ny-2011">TechCrunch Disrupt Conference</a> - Attendee</span>
 		<span class="started">05.23</span>
 		<span class="finished">05.25</span>
 		<span class="condition completed">Completed</span>
 	</li>
 	<li class="project">
 		<span class="type"></span>
-		<span class="name">whoworks.at - Website</span>
+		<span class="name"><a href="http://whoworks.at">WhoWorks.At</a> - Website &amp; Logo</span>
 		<span class="started">04.17</span>
 		<span class="finished">04.20</span>
 		<span class="condition completed">Completed</span>
 	</li>
 	<li class="honor">
 		<span class="type"></span>
-		<span class="name">TechCrunched</span>
+		<span class="name"><a href="http://techcrunch.com/tag/lemonade-stand">TechCrunched</a> for <a href="/projects/lemonade-stand">Lemonade Stand</a></span>
 		<span class="started">04.16</span>
 		<span class="finished">04.16</span>
 		<span class="condition completed">Completed</span>
 	</li>
 	<li class="honor">
 		<span class="type"></span>
-		<span class="name">NY Tech Meetup - Hack of the Month</span>
+		<span class="name">Hack of the Month at NY Tech Meetup for <a href="/projects/lemonade-stand">Lemonade Stand</a></span>
 		<span class="started">04.01</span>
 		<span class="finished">04.01</span>
 		<span class="condition completed">Completed</span>
 	</li>
 	<li class="honor">
 		<span class="type"></span>
-		<span class="name">Forrst Podcast - Guest</span>
+		<span class="name"><a href="http://forrstpodcast.com/post/4253501707/forrst-podcast-88-dinosaurs-and-aliens-interview">Forrst Podcast</a> - Guest</span>
 		<span class="started">04.01</span>
 		<span class="finished">04.01</span>
+		<span class="condition completed">Completed</span>
+	</li>
+	<li class="project">
+		<span class="type"></span>
+		<span class="name">IN Scoop St. Blog - Thumblr Theme &amp; Logo</span>
+		<span class="started">03.21</span>
+		<span class="finished">04.28</span>
 		<span class="condition completed">Completed</span>
 	</li>
 	<li class="hackathon">
@@ -275,9 +359,16 @@
 		<span class="finished">03.13</span>
 		<span class="condition completed">Completed</span>
 	</li>
+	<li class="project">
+		<span class="type"></span>
+		<span class="name"><a href="/projects/lemonade-stand">Lemonade Stand</a> - Website, iPhone UI, Android UI, &amp; Logo</span>
+		<span class="started">03.08</span>
+		<span class="finished">03.15</span>
+		<span class="condition completed">Completed</span>
+	</li>
 	<li class="hackathon">
 		<span class="type"></span>
-		<span class="name">Startup Bus - Hacker</span>
+		<span class="name"><a href="http://startupbus.com/">Startup Bus</a> - Hacker</span>
 		<span class="started">03.08</span>
 		<span class="finished">03.15</span>
 		<span class="condition completed">Completed</span>
@@ -288,11 +379,87 @@
 
 <h2>2010</h2>
 <ul class="status">
+	<li class="project">
+		<span class="type"></span>
+		<span class="name">Simple Tank - Website</span>
+		<span class="started">10.12</span>
+		<span class="finished">12.23</span>
+		<span class="condition completed">Completed</span>
+	</li>
+	<li class="project">
+		<span class="type"></span>
+		<span class="name">Gainesville Rental House - Website</span>
+		<span class="started">06.15</span>
+		<span class="finished">06.28</span>
+		<span class="condition completed">Completed</span>
+	</li>
 	<li class="charity">
 		<span class="type"></span>
 		<span class="name">Liver Life Walk - Raise $1,050</span>
 		<span class="started">05.06</span>
 		<span class="finished">05.06</span>
+		<span class="condition completed">Completed</span>
+	</li>
+	<li class="project">
+		<span class="type"></span>
+		<span class="name">Jump Post - Home Landing Page</span>
+		<span class="started">03.30</span>
+		<span class="finished">04.06</span>
+		<span class="condition completed">Completed</span>
+	</li>
+	<li class="project">
+		<span class="type"></span>
+		<span class="name">Mr. Kennedy - Website</span>
+		<span class="started">02.02</span>
+		<span class="finished">02.05</span>
+		<span class="condition completed">Completed</span>
+	</li>
+</ul>
+
+<hr/>
+
+<h2>2009</h2>
+<ul class="status">
+	<li class="project">
+		<span class="type"></span>
+		<span class="name">DBookshelf - Website</span>
+		<span class="started">12.11</span>
+		<span class="finished">12.28</span>
+		<span class="condition completed">Completed</span>
+	</li>
+	<li class="project">
+		<span class="type"></span>
+		<span class="name"><a href="http://kevinandersonmusic.com">Kevin Anderson Music</a> - Website</span>
+		<span class="started">11.09</span>
+		<span class="finished">04.06</span>
+		<span class="condition completed">Completed</span>
+	</li>
+	<li class="project">
+		<span class="type"></span>
+		<span class="name">Chef Payne - Website</span>
+		<span class="started">09.28</span>
+		<span class="finished">12.14</span>
+		<span class="condition completed">Completed</span>
+	</li>
+	<li class="project">
+		<span class="type"></span>
+		<span class="name"><a href="http://cocodenut.com">Cocodenut</a> - Website</span>
+		<span class="started">09.10</span>
+		<span class="finished">11.19</span>
+		<span class="condition completed">Completed</span>
+	</li>
+	<li class="project">
+		<span class="type"></span>
+		<span class="name">Lux - Website</span>
+		<span class="started">08.29</span>
+		<span class="finished">06.18</span>
+		<span class="condition completed">Completed</span>
+	</li>
+	<li class="project">
+		<span class="type"></span>
+		<span class="name"><a href="http://www.nightgator.com">Night Gator</a> - Website &amp; Logo</span>
+		<span class="started">02.19</span>
+		<span class="finished">04.14</span>
 		<span class="condition completed">Completed</span>
 	</li>
 </ul>
