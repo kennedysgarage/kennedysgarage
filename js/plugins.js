@@ -12,6 +12,8 @@ if (!(window.console && console.log)) {
 }
 
 //@codekit-prepend "prettify.js";
+//@codekit-prepend "raphael.2.1.0min.js";
+//@codekit-prepend "justgage.1.0.1-min.js";
 
 $(document).ready(function(){
 
