@@ -152,7 +152,7 @@
 	</li>
 	<li class="project">
 		<span class="type"></span>
-		<span class="name"><a href="predictthesky.herokuapp.com">Predict the Sky</a> - Website</span>
+		<span class="name"><a href="http://predictthesky.herokuapp.com">Predict the Sky</a> - Website</span>
 		<span class="started">04.21</span>
 		<span class="finished">04.22</span>
 		<span class="condition completed">Completed</span>
@@ -201,7 +201,7 @@
 	</li>
 	<li class="hackathon">
 		<span class="type"></span>
-		<span class="name"><a href="thehackerolympics.com">Hacker Olympics</a> - Attendee</span>
+		<span class="name"><a href="http://thehackerolympics.com">Hacker Olympics</a> - Attendee</span>
 		<span class="started">02.18</span>
 		<span class="finished">02.19</span>
 		<span class="condition completed">Completed</span>
@@ -221,7 +221,7 @@
 	</li>
 	<li class="project">
 		<span class="type"></span>
-		<span class="name"><a href="www.hackerunion.org">Hacker Union</a> - Website</span>
+		<span class="name"><a href="http://www.hackerunion.org/">Hacker Union</a> - Website</span>
 		<span class="started">12.11</span>
 		<span class="finished"></span>
 		<span class="condition stalled">Stalled</span>
