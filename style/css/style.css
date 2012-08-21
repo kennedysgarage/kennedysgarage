@@ -1085,6 +1085,12 @@ article p {
   margin: 0 0 3px;
 }
 /* ========================================================= Status ===*/
+#gauge-busy,
+#gauge-stress,
+#gauge-email {
+  height: 160px;
+  width: 300px;
+}
 .note {
   color: #bbb;
   font-size: 12px;
