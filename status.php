@@ -94,6 +94,13 @@
 		<span class="finished"></span>
 		<span class="condition stalled">Stalled</span>
 	</li>
+	<li class="event">
+		<span class="type"></span>
+		<span class="name"><a href="http://gdgtsamsunggalaxyevent.eventbrite.com/">Samsung Galaxy Event</a> - Attendee</span>
+		<span class="started">08.15</span>
+		<span class="finished">08.15</span>
+		<span class="condition completed">Completed</span>
+	</li>
 	<li class="project">
 		<span class="type"></span>
 		<span class="name"><a href="http://kristinastpeter.com">Kristina St. Peter</a> - Website</span>
@@ -129,6 +136,13 @@
 		<span class="finished">05.26</span>
 		<span class="condition completed">Completed</span>
 	</li>
+	<li class="event">
+		<span class="type"></span>
+		<span class="name"><a href="http://artofapps.splashthat.com/">The Art of Apps</a> - Attendee</span>
+		<span class="started">05.14</span>
+		<span class="finished">05.14</span>
+		<span class="condition completed">Completed</span>
+	</li>
 	<li class="hackathon">
 		<span class="type"></span>
 		<span class="name"><a href="http://nyc.startupweekend.org">Startup Weekend NYC</a> - Mentor</span>
@@ -155,6 +169,13 @@
 		<span class="name">HackerDen - Hacker</span>
 		<span class="started">04.14</span>
 		<span class="finished">04.15</span>
+		<span class="condition completed">Completed</span>
+	</li>
+	<li class="event">
+		<span class="type"></span>
+		<span class="name"><a href="http://leanuxroundtable.eventbrite.com">Lean UX Roundtable</a> - Attendee</span>
+		<span class="started">04.11</span>
+		<span class="finished">04.11</span>
 		<span class="condition completed">Completed</span>
 	</li>
 	<li class="honor">
