@@ -102,6 +102,13 @@
 		<span class="finished"></span>
 		<span class="condition stalled">Stalled</span>
 	</li>
+	<li class="honor">
+		<span class="type"></span>
+		<span class="name">Reached #1 on <a href="http://news.ycombinator.com/item?id=4417571">Hacker News</a> for <a href="http://statuschart.com">Status Chart</a></span>
+		<span class="started">08.22</span>
+		<span class="finished">08.22</span>
+		<span class="condition completed">Completed</span>
+	</li>
 	<li class="event">
 		<span class="type"></span>
 		<span class="name"><a href="http://gdgtsamsunggalaxyevent.eventbrite.com/">Samsung Galaxy Event</a> - Attendee</span>
@@ -517,8 +524,8 @@ window.onload = function(){
     // My gages on the Stats Page
     // http://www.justgage.com/
     var g1 = new JustGage({
-        id: "gauge-busy", 
-        value: 98, 
+        id: "gauge-busy",
+        value: 98,
         min: 0,
         max: 100,
         title: "Current Work Load*",
@@ -526,8 +533,8 @@ window.onload = function(){
         levelColorsGradient: false
     });
     var g2 = new JustGage({
-        id: "gauge-stress", 
-        value: 66, 
+        id: "gauge-stress",
+        value: 66,
         min: 0,
         max: 100,
         title: "Amount of Stress",
@@ -535,8 +542,8 @@ window.onload = function(){
         levelColorsGradient: false
     });
     var g3 = new JustGage({
-        id: "gauge-email", 
-        value: 13, 
+        id: "gauge-email",
+        value: 13,
         min: 0,
         max: 100,
         title: "Chance of me emailing you back",
