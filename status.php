@@ -5,6 +5,7 @@
 <div class="G12">
 	<h2>Status</h2>
 	<p>After looking at my r&eacute;sum&eacute;, I noticed that it started to look more like a chronological timeline. It was difficult to navigate through and even worse trying to read it all. I figured that I was missing the point and should do something about it. So here I present you a status board of everything that I have been working on, feel free to check out my <a href="/resume">r&eacute;sum&eacute;</a> if your into that kind of stuff.</p>
+	<p class="notice">Great News: I received a lot of positive feedback and decided to see if there was enough demand to release it as a service. Please check out <strong><a href="http://statuschart.com/">Status Chart</a></strong> and let me know what you think.</p>
 </div><!--/g12-->
 
 <hr/>
@@ -47,22 +48,29 @@
 	</li>
 	<li class="hackathon">
 		<span class="type"></span>
-		<span class="name"><a href="http://nyc.startupweekend.org/">Startup Weekend NYC</a> - Planner</span>
+		<span class="name"><a href="http://nyc.startupweekend.org/">Startup Weekend NYC</a> - Co-Organizer</span>
 		<span class="started">09.21</span>
 		<span class="finished">09.23</span>
 		<span class="condition scheduled">Scheduled</span>
 	</li>
 	<li class="hackathon">
 		<span class="type"></span>
-		<span class="name">Fashion Hackathon - Organizer</span>
+		<span class="name">Fashion Hackathon - Co-Organizer</span>
 		<span class="started">09.15</span>
 		<span class="finished">09.16</span>
 		<span class="condition scheduled">Scheduled</span>
 	</li>
 	<li class="project">
 		<span class="type"></span>
-		<span class="name">ArcTap - Stealth Project Code Name "SV"</span>
+		<span class="name"><a href="http://statuschart.com">Status Chart</a> - Web App</span>
 		<span class="started">08.19</span>
+		<span class="finished"></span>
+		<span class="condition in-progress">In Progress</span>
+	</li>
+	<li class="project">
+		<span class="type"></span>
+		<span class="name">ArcTap - Stealth Project Code Name "SV"</span>
+		<span class="started">08.21</span>
 		<span class="finished"></span>
 		<span class="condition in-progress">In Progress</span>
 	</li>
