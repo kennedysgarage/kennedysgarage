@@ -104,6 +104,13 @@
 	</li>
 	<li class="honor">
 		<span class="type"></span>
+		<span class="name">Press on <a href="http://betabeat.com/2012/08/meet-statuschart-porn-for-self-quantifiers/">Beta Beat</a> for <a href="http://statuschart.com">Status Chart</a></span>
+		<span class="started">08.22</span>
+		<span class="finished">08.22</span>
+		<span class="condition completed">Completed</span>
+	</li>
+	<li class="honor">
+		<span class="type"></span>
 		<span class="name">Reached #1 on <a href="http://news.ycombinator.com/item?id=4417571">Hacker News</a> for <a href="http://statuschart.com">Status Chart</a></span>
 		<span class="started">08.22</span>
 		<span class="finished">08.22</span>
