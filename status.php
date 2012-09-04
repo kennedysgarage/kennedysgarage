@@ -5,7 +5,7 @@
 <div class="G12">
 	<h2>Status</h2>
 	<p>After looking at my r&eacute;sum&eacute;, I noticed that it started to look more like a chronological timeline. It was difficult to navigate through and even worse trying to read it all. I figured that I was missing the point and should do something about it. So here I present you a status board of everything that I have been working on, feel free to check out my <a href="/resume">r&eacute;sum&eacute;</a> if your into that kind of stuff.</p>
-	<p class="notice">Great News: I received a lot of positive feedback and decided to see if there was enough demand to release it as a service. Please check out <strong><a href="http://statuschart.com/">Status Chart</a></strong> and let me know what you think.</p>
+	<p class="notice">Great News: I received a lot of positive feedback and decided to see if there was enough demand to release it as a service. Please check out <strong><a href="https://www.statuschart.com/">Status Chart</a></strong> and let me know what you think.</p>
 </div><!--/g12-->
 
 <hr/>
