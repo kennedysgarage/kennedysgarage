@@ -9,11 +9,11 @@
 		</div><!--/g6-->
 		<div class="g6">
 			<h2>Christopher M. Kennedy</h2>
-			<p>I am currently not looking for work. I am happily employed at M. Shanken Communications as their Lead UX Strategist. Cranking out iPad apps, iPhone apps, Content Management Systems, internal tools, and public facing websites. Checkout out a full list of all the projects, hackathons, events, speeches, honors, and what I have coming up on my <a href="/status">Status Board</a>.</p>
+			<p>I am currently not looking for work. I am happily employed at M. Shanken Communications as their Lead UX Strategist. Cranking out iPad apps, iPhone apps, Content Management Systems, internal tools, and public facing websites. Checkout out a full list of all the projects, hackathons, events, speeches, honors, and what I have coming up on my <a href="https://www.statuschart.com/kennedysgarage">Status Chart</a>.</p>
 		</div><!--/g6-->
-		
+
 		<hr/>
-	
+
 		<div class="g4">
 		    <h3><a href="http://www.betabeat.com/2012/04/09/betabeats-spring-2012-most-poachable-players-in-tech/#slide22">Betabeat’s Spring 2012 Most Poachable Players in Tech</a></h3>
 		    <p>April 2012</p>
@@ -24,7 +24,7 @@
     			<li>I was featured as one of the most poachable people in tech. I can not even begin to express how grateful and honored it is to be apart of this.</li>
     		</ul>
 		</div><!--/g8-->
-	
+
 	<div class="g4">
 	    <h3><a href="http://gradespotter.com">Grade Spotter</a></h3>
 	    <p>December 2011 - Present</p>
@@ -35,7 +35,7 @@
 			<li>I am the Designer Co-Founder. Designed the logo, iPhone user interface, and the over all look. I also crafter the website.</li>
 		</ul>
 	</div><!--/g8-->
-	
+
 	<div class="g4">
 		<h3><a href="http://www.mshanken.com">M. Shanken Communications</a></h3>
 		<p>March 2011 - Present</p>
@@ -52,7 +52,7 @@
 			<li>Contribute to high-level strategic decisions with the rest of the product and executive teams.</li>
 		</ul>
 	</div><!--/g8-->
-	
+
 	<div class="g4">
 		<h3><a href="http://48hourapps.com">48HOURapps</a></h3>
 		<p>March 2011 - Present</p>
@@ -63,7 +63,7 @@
 			<li>UX Designer &amp; Front-End Developer of web/tablet/mobile apps in 48 hours. I work with four awesome guys that love to hack on projects. We've built some pretty cool apps and people wanted us to build apps for them so we said... hey why not? </li>
 		</ul>
 	</div><!--/g8-->
-	
+
 	<div class="g4">
 		<h3><a href="http://www.hackerunion.org">Hacker Union</a></h3>
 		<p>October 2011 - Present</p>
@@ -85,7 +85,7 @@
 			<li>We created this company on the <a href="http://www.startupbus.com/">StartupBus</a>. We had 48 hours to complete this project with a team of 5 others. I designed the logo and both Android &amp; iPhone UI for our team. All the hard worked help the team reach the semifinals, finishing in the top 12 of 38 teams. After SXSW we where celebrated as an impressive technical achievement at New York Tech Meetup's <a href="http://www.youtube.com/watch?v=DC-AiiclmV0&feature=youtu.be">Hack of the Month</a>. </li>
 		</ul>
 	</div><!--/g8-->
-	
+
 	<div class="g4">
 		<h3><a href="http://www.startupbus.com/">Startup Bus</a></h3>
 		<p>March 2011</p>
@@ -96,7 +96,7 @@
 			<li>A bus of 25 strangers traveling at 60 miles an hour and over 48 hours on the road between New York, NY and Austin,TX attempted the challenge of starting a company under unique (and some would say extreme) time and resource constraints and produce something valuable. At the end we will present the project to a panel of high profile investors. Designed the logo and both Android &amp; iPhone UI for our team <a href="/projects/lemonade-stand">Lemonade Stand</a> while on a bus traveling from New York City to Austin, TX. All the hard worked help the team reach the semifinals, finishing in the top 12 of 38 teams. Fun Note, I was so excited I did not take my first nap until I hit 50 hours, I was nicked named <em>The Machine</em>.</li>
 		</ul>
 	</div><!--/g8-->
-	
+
 	<div class="g4">
 		<h3><a href="http://mlb.com">Major League Baseball</a></h3>
 		<p>April 2010 - March 2011</p>
@@ -111,7 +111,7 @@
 			<li>Developed an internal documentation for standards and guidelines</li>
 		</ul>
 	</div><!--/g8-->
-	
+
 	<div class="g4">
 		<h3>City College of New York</h3>
 		<p>September 2010 - December 2010</p>
@@ -123,7 +123,7 @@
 			<li>Developed curriculum and class projects </li>
 		</ul>
 	</div><!--/g8-->
-	
+
 	<div class="g4">
 		<h3>Flagler Beach Ocean Rescue</h3>
 		<p>May 2000 - September 2006</p>
@@ -139,7 +139,7 @@
 			<li>Lead Instructor of Surf Lessons </li>
 		</ul>
 	</div><!--/g8-->
-	
+
 	<div class="g4">
 		<h3>United States Air Force</h3>
 		<p>September 2003 - May 2005</p>
@@ -158,7 +158,7 @@
 			<li>In charge of twenty seven KC-135, each worth $13 million </li>
 		</ul>
 	</div><!--/g8-->
-		
-</div><!--/resume-->		
+
+</div><!--/resume-->
 
 <?php include("footer.php"); ?>

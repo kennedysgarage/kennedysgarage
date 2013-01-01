@@ -7,14 +7,14 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<title><?php echo $title ?> Kennedy's Garage</title>
-	<meta name="description" content="Kennedy is a Professional UX Designer &amp; Front-End Developer in New York City.">
+	<meta name="description" content="Kennedy is a Professional Hacker, UX Strategist, &amp; Mobile UI Designer in New York City.">
 	<meta name="author" content="Christopher Kennedy">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 	<meta name="apple-mobile-web-app-capable" content="yes">
 	<meta name="apple-mobile-web-app-status-bar-style" content="black">
 	<link rel="shortcut icon" href="favicon.ico">
+	<link href='http://fonts.googleapis.com/css?family=Allura' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=EB+Garamond' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700,300' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" href="/style/css/style.css">
 	<script src="/js/modernizr.min.js"></script>
 	<script type="text/javascript">
@@ -34,16 +34,14 @@
 <header>
 <div class="container">
 	<div class="g5">
-		<a href="/"><img src="/img/logo.png"/></a>
 	    <h1><a href="/">Kennedy's Garage</a></h1>
     </div><!--/g5-->
 	<div class="g7">
 	    <nav>
 	    <ul>
-	        <li><a href="/about">About</a></li>
-	        <li><a href="https://www.statuschart.com/kennedysgarage">Status</a></li>
-			<li><a href="/projects">Projects</a></li>
-	        <li><a href="/articles">Articles</a></li>
+				<li><a href="/projects">Projects</a></li>
+				<li><a href="/articles">Articles</a></li>
+				<li><a href="mailto:kennedysgarage@gmail.com">Contact</a></li>
 	    </ul>
 	    </nav>
 	</div><!--/g7-->

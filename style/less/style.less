@@ -1,4 +1,5 @@
 @import "reset.less";
+@import "fontface.less";
 @import "typography.less";
 @import "structure.less";
 @import "animations.less";
@@ -7,70 +8,32 @@
 /* ========================================================= Header ===*/
 html,body{
 	background-color: #f3f6f8;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'ProximaNova', sans-serif;
 	font-weight: 400;
 	height: 100%;
 	width: 100%;
 }
-body{
-	background: url("/img/web.png") no-repeat scroll center top #F3F6F8;
-}
 header{
-	background: #f04043;
-	background: -moz-linear-gradient(top,  #f04043 0%, #b23032 100%);
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f04043), color-stop(100%,#b23032));
-	background: -webkit-linear-gradient(top,  #f04043 0%,#b23032 100%);
-	background: -o-linear-gradient(top,  #f04043 0%,#b23032 100%);
-	background: -ms-linear-gradient(top,  #f04043 0%,#b23032 100%);
-	background: linear-gradient(top,  #f04043 0%,#b23032 100%);
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f04043', endColorstr='#b23032',GradientType=0 );
-	border-bottom: 1px solid #631b1c;
-	box-shadow: 0 1px 0 rgba(255,255,255,0.4) inset, 0 1px 3px rgba(0,0,0,0.5);
+	background-color: #32393e;
 	margin: 0 0 40px;
     position: relative;
     z-index: 5;
 }
 header h1{
     display: inline;
-	font-family: 'Outage';
-	font-size: 22px;
+	font-family: 'Allura';
+	font-size: 32px;
 	margin: 0;
-	text-shadow: 0 -1px 0 rgba(0,0,0,0.4);
+	text-shadow: 0 1px 0 #000;
 	vertical-align: middle;
 }
 header h1 a, header h1 a:hover{
 	color: #fff;
 }
-header img{
-	background: #e53e41;
-	background: -moz-linear-gradient(top,  #e53e41 0%, #a82d2f 100%);
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#e53e41), color-stop(100%,#a82d2f));
-	background: -webkit-linear-gradient(top,  #e53e41 0%,#a82d2f 100%);
-	background: -o-linear-gradient(top,  #e53e41 0%,#a82d2f 100%);
-	background: -ms-linear-gradient(top,  #e53e41 0%,#a82d2f 100%);
-	background: linear-gradient(top,  #e53e41 0%,#a82d2f 100%);
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e53e41', endColorstr='#a82d2f',GradientType=0 );
-	border: 1px solid #631b1c;
-	border-radius: 4px;
-	box-shadow: 0 1px 0 rgba(255,255,255,0.3) inset, 0 1px 0 rgba(255,255,255,0.3);
-	margin: 0 10px 0 0;
-	padding: 6px;
-}
 /* -------------
 -- Navigation --
 ------------- */
 nav{
-	background: #e53e41;
-	background: -moz-linear-gradient(top,  #e53e41 0%, #a82d2f 100%);
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#e53e41), color-stop(100%,#a82d2f));
-	background: -webkit-linear-gradient(top,  #e53e41 0%,#a82d2f 100%);
-	background: -o-linear-gradient(top,  #e53e41 0%,#a82d2f 100%);
-	background: -ms-linear-gradient(top,  #e53e41 0%,#a82d2f 100%);
-	background: linear-gradient(top,  #e53e41 0%,#a82d2f 100%);
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e53e41', endColorstr='#a82d2f',GradientType=0 );
-	border: 1px solid #631b1c;
-	border-radius: 4px;
-	box-shadow: 0 1px 0 rgba(255,255,255,0.3) inset, 0 1px 0 rgba(255,255,255,0.3);
     float: right;
     margin: 0;
     text-align: right;
@@ -86,12 +49,10 @@ nav li{
     padding: 0;
 }
 nav a{
-	border-right: 1px solid #c76869;
-	box-shadow: 1px 0 0 #7e2223;
-    color: #f7f7f7;
+    color: #dddddd;
     display: block;
 	font-size: 12px;
-	padding: 9px 20px;
+	padding: 13px 20px;
 	text-align: center;
 	text-shadow: 0 -1px 0 rgba(0,0,0,0.5);
 	text-transform: lowercase;
@@ -104,30 +65,31 @@ nav li:last-child a{
 	box-shadow: none;
 }
 /* ========================================================= Home ===*/
-#intro{
-	background-color: #f3f6f8;
-	text-align: center;
+#about{
+
 }
-#intro span {
-    background: url('/img/glare.png') no-repeat scroll 0 0 transparent;
-    height: 133px;
-    position: absolute;
-    width: 134px;
-}
-#intro img{
-	border-radius: 4px;
-	box-shadow: 0 -1px 0 rgba(255,255,255,0.5), 0 1px 0 rgba(0,0,0,0.2);
+#about img{
+	border-radius: 3px;
 	height: auto;
-	margin: 0 auto;
-	max-width: 100%;
+  float: left;
+	margin: 0 30px 30px 0;
+	max-width: 284px;
 }
-#intro h2{
+#about h2{
 	font-size: 44px;
 	margin: 0;
-	padding: 63px 0 0;
+	padding: 0;
 }
-#intro p{
-	font-size: 19px;
+#about h3{
+  font-size: 21px;
+  margin: 0 0 30px;
+}
+#history img{
+  border-radius: 3px;
+  float: right;
+  margin: 0 0 0 30px;
+  width: 212px;
+
 }
 /* ========================================================= Articles ===*/
 article{
@@ -347,7 +309,7 @@ article p{
 -- Status --
 --------- */
 .status .scheduled{
-	background-color: #3899d6;	
+	background-color: #3899d6;
 }
 .status .in-progress{
 	background-color: #d63a38;
@@ -458,10 +420,10 @@ object{
 }
 /* ========================================================= Footer ===*/
 footer{
-    background-color: #1C2933;
-    border-top: 3px solid #121B21;
+    background-color: #dee1e3;
+    border-top: 1px solid #cdcfd1;
     margin: 40px 0 0;
-    padding: 80px 0 70px;
+    padding: 10px 0;
 }
 footer h1{
 	color: #fff;
@@ -471,41 +433,28 @@ footer h1{
 	margin: 0;
 	text-shadow: none;
 }
-footer p{
-	color: #ccc;
-	display: inline-block;
-	margin: 0;
-	text-shadow: none;
-}
 /* ---------
--- SubNav --
+-- Social --
 --------- */
-#subnav{
-	border: 1px solid #2d3540;
-	border-radius: 4px;
+#social{
 	list-style: none;
-	margin: 0;
+	margin: 0 auto;
 	padding: 0;
+  text-align: center;
 }
-#subnav li{
-	background: #242b33;
-	border-bottom: 1px solid #2b343d;
+#social li{
+  display: inline-block;
+	margin: 0;
+  padding: 0;
 }
-#subnav li:first-child{
-	border-radius: 4px 4px 0 0;
-}
-#subnav li:last-child{
-	border-bottom: none;
-	border-radius: 0 0 4px 4px;
-}
-#subnav a{
-	color: #ccc;
-	display: block;
+#social a{
+	color: #333;
+font-size: 12px;
     padding: 6px 20px 4px;
 	text-shadow: none;
 }
-#subnav a:hover{
-	background-color: #343f4a;
+#social a:hover{
+
 }
 /* ========================================================= Structure ===*/
 /* ---------
@@ -519,7 +468,7 @@ footer p{
 		font-size: 16px;
 	}
 	pre {
-		margin-left: 0; 
+		margin-left: 0;
 		width: auto;
 	}
 }
@@ -547,7 +496,7 @@ footer p{
 	    margin: 0 auto 30px;
     }
 	pre {
-		margin-left: 0; 
+		margin-left: 0;
 		width: auto;
 	}
 }
@@ -562,7 +511,7 @@ footer p{
 		padding: 9px 28px;
 	}
 	pre {
-		margin-left: 0; 
+		margin-left: 0;
 		width: auto;
 	}
 }
