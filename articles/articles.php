@@ -3,9 +3,15 @@
 <ul id="article-list">
 
   <li>
+    <h2><a href="/articles/the-whoworksat-logo">The WhoWorks.At Logo</a></h2>
+    <p>This is a little story about how the WhoWorks.At logo came about. John Britton and I knocked it out in no time, just another night in the startup world.</p>
+    <p class="byline">January 4th, 2013 &there4; Kennedy</p>
+  </li>
+
+  <li>
     <h2><a href="/articles/ux-idea-elevator-buttons">UX Idea: Elevator Buttons</a></h2>
     <p>I have a confession to make. I am that asshole that accidentally pushes the wrong button more often then I would like to admit. Whether it is the up/down buttons or somehow the wrong floor.</p>
-    <p class="byline">January 27th, 2012 &there4; Kennedy</p>
+    <p class="byline">January 2nd, 2013 &there4; Kennedy</p>
   </li>
 
 	<li>
