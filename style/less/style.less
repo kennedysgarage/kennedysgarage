@@ -7,16 +7,20 @@
 @import "prettify.less";
 /* ========================================================= Header ===*/
 html,body{
-	background-color: #f3f6f8;
+	background-color: #d9dbde;
 	font-family: 'ProximaNova', sans-serif;
 	font-weight: 400;
 	height: 100%;
 	width: 100%;
 }
 header{
-	background-color: #32393e;
+	background-color: rgba(255,255,255,0.94);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.2);
 	margin: 0 0 40px;
-    position: relative;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
     z-index: 5;
 }
 header h1{
@@ -24,11 +28,10 @@ header h1{
 	font-family: 'Allura';
 	font-size: 32px;
 	margin: 0;
-	text-shadow: 0 1px 0 #000;
 	vertical-align: middle;
 }
 header h1 a, header h1 a:hover{
-	color: #fff;
+	color: #3a424c;
 }
 /* -------------
 -- Navigation --
@@ -49,53 +52,170 @@ nav li{
     padding: 0;
 }
 nav a{
-    color: #dddddd;
+    color: #3a424c;
     display: block;
 	font-size: 12px;
 	padding: 13px 20px;
 	text-align: center;
-	text-shadow: 0 -1px 0 rgba(0,0,0,0.5);
 	text-transform: lowercase;
 }
 nav a:hover{
-	color: #fff;
+	color: #3a424c;
 }
 nav li:last-child a{
 	border: none;
 	box-shadow: none;
 }
 /* ========================================================= Home ===*/
-#about{
+#intro{
+  background-image: url("/img/home/intro-noise.jpg");
+  background-color: #717b87;
+  height: 419px;
+  margin: 65px 0 40px;
+}
+#intro .copy{
+  float: left;
+  width: 400px;
+}
+#intro h2{
+  color: #e6f0f5;
+  font-family: 'ProximaNovaBold', sans-serif;
+  font-size: 112px;
+  margin: 95px 0 0;
+  text-shadow: 0 1px 0 rgba(0,0,0,0.2);
+}
+#intro h3{
+  color: #dae3e8;
+  font-family: 'ProximaNova', sans-serif;
+  font-size: 18px;
+  margin: -30px 0 0;
+  text-shadow: 0 1px 0 rgba(0,0,0,0.2);
+}
+#intro img{
+  float: right;
+}
+#statuschart{
+  background-color: #eff1f5;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgb(239, 241, 245)), to(rgb(219, 220, 225)));
+  background-image: -webkit-linear-gradient(top, rgb(239, 241, 245), rgb(219, 220, 225));
+  background-image: -moz-linear-gradient(top, rgb(239, 241, 245), rgb(219, 220, 225));
+  background-image: -o-linear-gradient(top, rgb(239, 241, 245), rgb(219, 220, 225));
+  background-image: -ms-linear-gradient(top, rgb(239, 241, 245), rgb(219, 220, 225));
+  background-image: linear-gradient(top, rgb(239, 241, 245), rgb(219, 220, 225));
+  filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,StartColorStr='#eff1f5', EndColorStr='#dbdce1');
+  border-bottom: 1px solid #afb0b2;
+  border-radius: 3px 3px 0 0;
+}
+#statuschart .text{
+  float: left;
+  margin: 68px 30px 0;
+  width: 385px;
+}
+#statuschart .text h3{
+  font-size: 54px;
+}
+#statuschart .text p{
+  font-size: 18px;
+  margin: 0 0 40px;
+}
+#statuschart img{
+  float: right;
+  margin: 20px 30px 0 0;
+}
+#testimonial{
+  border-bottom: 1px solid #afb0b2;
+}
+#testimonial ul{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+#testimonial li{
+  margin: 0;
+  padding: 0;
+}
+#testimonial img{
+  margin: 30px;
+}
+#testimonial img.person{
+  border: 3px solid #FFFFFF;
+  border-radius: 85px 85px 85px 85px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
+  float: left;
+  width: 160px;
+}
+#testimonial img.comapny{
+  float: left;
+  width: 160px
+}
+#testimonial blockquote{
+  float: left;
+  margin: 77px 30px 20px 0;
+  width: 680px;
+}
+#testimonial blockquote p{
+  color: #313F42;
+  font-family: 'EB Garamond', serif;
+  font-size: 28px;
+}
+#testimonial blockquote cite{
 
 }
-#about img{
-	border-radius: 3px;
-	height: auto;
+#history{
+  background-color: #eff1f5;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgb(239, 241, 245)), to(rgb(219, 220, 225)));
+  background-image: -webkit-linear-gradient(top, rgb(239, 241, 245), rgb(219, 220, 225));
+  background-image: -moz-linear-gradient(top, rgb(239, 241, 245), rgb(219, 220, 225));
+  background-image: -o-linear-gradient(top, rgb(239, 241, 245), rgb(219, 220, 225));
+  background-image: -ms-linear-gradient(top, rgb(239, 241, 245), rgb(219, 220, 225));
+  background-image: linear-gradient(top, rgb(239, 241, 245), rgb(219, 220, 225));
+  filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,StartColorStr='#eff1f5', EndColorStr='#dbdce1');
+}
+#history .text{
   float: left;
-	margin: 0 30px 30px 0;
-	max-width: 284px;
-}
-#about h2{
-	font-size: 44px;
-	margin: 0;
-	padding: 0;
-}
-#about h3{
-  font-size: 21px;
-  margin: 0 0 30px;
+  padding: 30px;
+  width: 670px;
 }
 #history img{
+  border: 3px solid #FFFFFF;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
+  float: left;
+  margin: 30px;
+  width: 160px;
+}
+#status{
+  background-color: #eff1f5;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgb(239, 241, 245)), to(rgb(219, 220, 225)));
+  background-image: -webkit-linear-gradient(top, rgb(239, 241, 245), rgb(219, 220, 225));
+  background-image: -moz-linear-gradient(top, rgb(239, 241, 245), rgb(219, 220, 225));
+  background-image: -o-linear-gradient(top, rgb(239, 241, 245), rgb(219, 220, 225));
+  background-image: -ms-linear-gradient(top, rgb(239, 241, 245), rgb(219, 220, 225));
+  background-image: linear-gradient(top, rgb(239, 241, 245), rgb(219, 220, 225));
+  filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,StartColorStr='#eff1f5', EndColorStr='#dbdce1');
+  border: 1px solid #afb0b2;
   border-radius: 3px;
-  float: right;
-  margin: 0 0 0 30px;
-  width: 212px;
-
+  box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+  margin: 0 0 30px;
+  padding: 10px;
+}
+#status img{
+  float: left;
+  margin: 0 5px 0 0;
+}
+#status p{
+  margin: 6px 0 0 0;
 }
 /* ========================================================= Articles ===*/
 article{
-	margin: 30px auto 30px;
+	margin: 95px auto 30px;
 	padding: 5px;
 	max-width: 700px;
+
+  background-color: #eff1f5;
+  border: 1px solid #afb0b2;
+  border-radius: 3px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+  padding: 30px;
 }
 article h1{
 	text-align: center;
@@ -371,6 +491,8 @@ article p{
     padding: 20px;
 }
 #article-list li:last-child{
+  border-bottom: none;
+  box-shadow: none;
 	margin: 0;
 }
 #article-list p{
@@ -423,18 +545,7 @@ object{
 }
 /* ========================================================= Footer ===*/
 footer{
-    background-color: #dee1e3;
-    border-top: 1px solid #cdcfd1;
-    margin: 40px 0 0;
-    padding: 10px 0;
-}
-footer h1{
-	color: #fff;
-	display: inline-block;
-	font-family: 'Outage';
-	font-size: 34px;
-	margin: 0;
-	text-shadow: none;
+    margin: 0 0 30px;
 }
 /* ---------
 -- Social --

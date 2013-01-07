@@ -10,7 +10,7 @@ body, button, input, select, textarea { font-family: sans-serif; color: #222; }
 ::selection { background: #ffffa9; color:#54545e; text-shadow: none; }
 
 a {
-	color: #1ca3a7;
+	color: #48c9f7;
 	text-decoration: none;
 	-webkit-transition: color .25s ease-in, background .25s ease-in, opacity .25s ease-in;
 	-moz-transition: color .25s ease-in, background .25s ease-in, opacity .25s ease-in;
@@ -18,13 +18,16 @@ a {
 	-o-transition: color .25s ease-in, background .25s ease-in, opacity .25s ease-in;
 	transition: color .25s ease-in, background .25s ease-in, opacity .25s ease-in;
 }
-a:hover { color: #198d91; }
+a:hover { color: #4acfff; }
 a:focus { outline: thin dotted; }
 a:active{ color: #0eaea2; }
 a:hover, a:active { outline: 0; }
 
 abbr[title] { border-bottom: 1px dotted; }
-b, strong { font-weight: bold; }
+b, strong {
+    font-family: 'ProximaNovaBold', sans-serif;
+    font-weight: 400;
+}
 blockquote { margin: 1em 40px; }
 dfn { font-style: italic; }
 hr { display: block; height: 1px; border: 0; border-top: 1px solid #ccc; margin: 1em 0; padding: 0; }
@@ -76,13 +79,13 @@ td { vertical-align: top; }
 .hide {display: none;}
 .show {display: block;}
 /* ========================================================= Print ===*/
- 
+
 @media print {
-    * { background: transparent !important; color: black !important; text-shadow: none !important; filter:none !important; -ms-filter: none !important; } 
+    * { background: transparent !important; color: black !important; text-shadow: none !important; filter:none !important; -ms-filter: none !important; }
     a, a:visited { text-decoration: underline; }
     a[href]:after { content: " (" attr(href) ")"; }
     abbr[title]:after { content: " (" attr(title) ")"; }
-    .ir a:after, a[href^="javascript:"]:after, a[href^="#"]:after { content: ""; } 
+    .ir a:after, a[href^="javascript:"]:after, a[href^="#"]:after { content: ""; }
     pre, blockquote { border: 1px solid #999; page-break-inside: avoid; }
     thead { display: table-header-group; }
     tr, img { page-break-inside: avoid; }

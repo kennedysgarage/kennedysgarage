@@ -1,5 +1,9 @@
 <?php  $title = 'Articles |'; include '../header.php';?>
 
+<div class="page">
+
+<div class="content">
+
 <ul id="article-list">
 
   <li>
@@ -190,5 +194,7 @@
 
 </ul>
 
+</div><!--/content-->
+</div><!--/page-->
 
 <?php include("../footer.php"); ?>
