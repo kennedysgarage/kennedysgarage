@@ -76,7 +76,7 @@
 
 <section id="status" class="clearfix">
   <img src="/img/home/led-red.png"/>
-  <p><strong>Currently not accepting any new work</strong>, but you should checkout some other amazing freelancers on <a href="">ArcTap</a>.</p>
+  <p><strong>Currently not accepting any new work</strong>, but you should checkout some other amazing freelancers on <a href="http://arctap.com/">ArcTap</a>.</p>
 </section>
 
 <?php include("footer.php"); ?>
