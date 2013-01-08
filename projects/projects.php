@@ -1,7 +1,6 @@
-1<?php  $title = 'Projects |'; include '../header.php'; ?>
+<?php  $title = 'Projects |'; include '../header.php'; ?>
 
-<div class="page">
-<div class="content">
+<div id="page" class="clearfix">
 
 <div class="g12">
     <h2>Latest Website</h2>
@@ -70,7 +69,6 @@
     </div><!--/g4-->
 </div><!--/logos-->
 
-</div><!--/content-->
 </div><!--/page-->
 
 <?php include("../footer.php"); ?>

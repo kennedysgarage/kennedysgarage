@@ -1,5 +1,7 @@
 <?php  $title = 'Resume |'; include 'header.php'; ?>
 
+<div id="page" class="clearfix">
+
 <div id="resume">
 
 		<div class="g6">
@@ -160,5 +162,7 @@
 	</div><!--/g8-->
 
 </div><!--/resume-->
+
+</div><!--/page-->
 
 <?php include("footer.php"); ?>
