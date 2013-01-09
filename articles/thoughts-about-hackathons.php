@@ -1,4 +1,4 @@
-<?php  $title = "The WhoWorks.At Logo |"; include '../header.php'; ?>
+<?php  $title = "Thoughts About Hackathons |"; include '../header.php'; ?>
 
 <article>
 
