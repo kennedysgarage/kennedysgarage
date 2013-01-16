@@ -81,7 +81,8 @@ abbr[title] {
 }
 b,
 strong {
-  font-family: 'ProximaNovaBold', sans-serif;
+  background-color: #FFC;
+  font-family: 'ProximaNova', sans-serif;
   font-weight: 400;
 }
 blockquote {
