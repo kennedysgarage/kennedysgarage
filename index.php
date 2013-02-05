@@ -27,13 +27,21 @@
 
     <ul>
       <li class="clearfix">
+        <img src="/img/home/qventures.png" class="person"/>
+        <blockquote>
+          <p>&#8220;Kennedy has impressive twitter reflexes.&#8221;</p>
+          <cite> - Quotidian Ventures</cite>
+        </blockquote>
+      </li>
+      <!--
+      <li class="clearfix">
         <img src="/img/home/napoleon.png" class="person"/>
         <blockquote>
           <p>&#8220; If I was alive I would look up to Kennedy. &#8221;</p>
           <cite> - Napoleon Bonaparte</cite>
         </blockquote>
       </li>
-      <!-- <li class="clearfix">
+      <li class="clearfix">
         <img src="/img/home/betabeat.png" class="comapny"/>
         <blockquote>
           <p>&#8220; We think he’d be perfect for a creative director &#8221;</p>
