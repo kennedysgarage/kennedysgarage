@@ -5,7 +5,7 @@
 <ul id="article-list">
 
   <li>
-    <h2><a href="/articles/time-is-more-valuable-then-money">Time is more valuable then money</a></h2>
+    <h2><a href="/articles/time-is-more-valuable-than-money">Time is more valuable then money</a></h2>
     <p>You can always earn more money, but never more time. Time is always draining from our lives. You can never get time back.</p>
     <p class="byline">February 7th, 2013 &there4; Kennedy</p>
   </li>
