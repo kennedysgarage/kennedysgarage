@@ -1023,7 +1023,7 @@ nav li:last-child a {
   width: 400px;
 }
 #intro h2 {
-  color: #e6f0f5;
+  color: #EFF1F5;
   font-family: 'ProximaNovaBold', sans-serif;
   font-size: 112px;
   margin: 95px 0 0;
@@ -1525,7 +1525,9 @@ footer {
 --------- */
 @media screen and (min-width: 480px) and (max-width: 767px) {
   header h1 {
+    display: block;
     font-size: 37px;
+    text-align: center;
   }
   nav {
     float: none;
@@ -1552,6 +1554,10 @@ footer {
  -- 320px --
 --------- */
 @media screen and (min-width: 320px) and (max-width: 479px) {
+  header h1 {
+    display: block;
+    text-align: center;
+  }
   #intro h2 {
     padding: 0;
   }
