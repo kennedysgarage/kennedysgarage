@@ -55,7 +55,7 @@ textarea {
   text-shadow: none;
 }
 a {
-  color: #48c9f7;
+  color: #2bbad9;
   text-decoration: none;
   -webkit-transition: color 0.25s ease-in, background 0.25s ease-in, opacity 0.25s ease-in;
   -moz-transition: color 0.25s ease-in, background 0.25s ease-in, opacity 0.25s ease-in;
@@ -64,13 +64,13 @@ a {
   transition: color 0.25s ease-in, background 0.25s ease-in, opacity 0.25s ease-in;
 }
 a:hover {
-  color: #4acfff;
+  color: #2ec4e5;
 }
 a:focus {
   outline: thin dotted;
 }
 a:active {
-  color: #0eaea2;
+  color: #27a8c4;
 }
 a:hover,
 a:active {
@@ -1465,7 +1465,7 @@ pre {
   padding: 20px ;
   line-height: 1.66;
   overflow: auto;
-  width: 860px;
+  width: 675px;
   white-space: pre;
   white-space: pre-wrap;
   word-wrap: break-word;
