@@ -966,8 +966,9 @@ header {
 }
 header h1 {
   display: inline;
-  font-family: 'Kaushan Script', cursive;
+  font-family: 'Glegoo', serif;
   font-size: 22px;
+  font-weight: 400;
   margin: 0;
   text-shadow: none;
   vertical-align: middle;
