@@ -23,6 +23,8 @@ $(document).ready(function(){
 	prettyPrint();
 
     // Basic FitVids Test
-    $("article").fitVids();
+    // $("#page").fitVids();
+    // $("article").fitVids();
+    $(".container").fitVids();
 
 });
