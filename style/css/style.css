@@ -81,8 +81,7 @@ abbr[title] {
 }
 b,
 strong {
-  background-color: #FFC;
-  font-family: 'ProximaNova', sans-serif;
+  font-family: 'ProximaNovaBold', sans-serif;
   font-weight: 400;
 }
 blockquote {
@@ -899,6 +898,9 @@ figcaption {
   -o-transform: scale(1) rotate(0deg) translate(0px, 0px) skew(15deg, 0deg);
   -ms-transform: scale(1) rotate(0deg) translate(0px, 0px) skew(15deg, 0deg);
   transform: scale(1) rotate(0deg) translate(0px, 0px) skew(15deg, 0deg);
+}
+.highlight {
+  background-color: #FFC;
 }
 /* ========================================================= Prettify ===*/
 .str {
