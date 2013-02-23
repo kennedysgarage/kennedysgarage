@@ -10,6 +10,10 @@
       </div><!--/copy-->
   </div><!--/intro-->
 
+  <section id="status" class="clearfix">
+  <img src="/img/home/led-red.png"/>
+  <p><strong>Currently I am not accepting any new work</strong>, but you should checkout some of the other amazing freelancers on <a href="http://arctap.com/">ArcTap</a>.</p>
+</section>
 
   <div class="content">
 
@@ -80,9 +84,6 @@
   </section>
 </div><!--/content-->
 
-<section id="status" class="clearfix">
-  <img src="/img/home/led-red.png"/>
-  <p><strong>Currently not accepting any new work</strong>, but you should checkout some other amazing freelancers on <a href="http://arctap.com/">ArcTap</a>.</p>
-</section>
+
 
 <?php include("footer.php"); ?>
