@@ -495,7 +495,7 @@ p {
   color: #5e7880;
   font-size: 16px;
   line-height: 1.5;
-  margin: 0 0 20px;
+  margin: 0 0 18px;
   text-shadow: 0 1px 1px #fff;
 }
 ul {
@@ -901,6 +901,9 @@ figcaption {
 }
 .highlight {
   background-color: #FFC;
+}
+.fluid-width-video-wrapper {
+  margin: 0 0 18px;
 }
 /* ========================================================= Prettify ===*/
 .str {
