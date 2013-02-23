@@ -469,9 +469,9 @@ h1 {
 h2 {
   color: #313f42;
   font-family: 'ProximaNovaBold', sans-serif;
-  font-size: 32px;
+  font-size: 30px;
   font-weight: 400;
-  margin: 0 0 10px;
+  margin: 0 0 5px;
   padding: 0;
   text-shadow: 0 1px 1px rgba(255, 255, 255, 0.7);
 }
@@ -503,7 +503,7 @@ ul {
 }
 li {
   color: #5e7880;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'ProximaNova', sans-serif;
   font-size: 17px;
   line-height: 1.5;
   text-shadow: 0 1px 1px rgba(255, 255, 255, 0.7);
@@ -513,7 +513,7 @@ dt {
 }
 dl {
   color: #5e7880;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'ProximaNova', sans-serif;
   font-size: 17px;
   line-height: 1.5;
   margin: 0 0 10px;
@@ -539,7 +539,7 @@ blockquote small {
   border: 1px solid #afb0b2;
   border-radius: 3px;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
-  margin: 95px 0 30px;
+  margin: 0 0 30px;
   padding: 30px;
 }
 .page .content {
@@ -956,25 +956,22 @@ body {
   width: 100%;
 }
 header {
-  background-color: rgba(255, 255, 255, 0.94);
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+  background-color: #2b3f53;
   margin: 0 0 40px;
-  position: fixed;
-  top: 0;
-  right: 0;
-  left: 0;
-  z-index: 5;
+  position: relative;
+  z-index: 100;
 }
 header h1 {
   display: inline;
-  font-family: 'Allura';
-  font-size: 32px;
+  font-family: 'Kaushan Script', cursive;
+  font-size: 22px;
   margin: 0;
+  text-shadow: none;
   vertical-align: middle;
 }
 header h1 a,
 header h1 a:hover {
-  color: #3a424c;
+  color: #de595c;
 }
 /* -------------
 -- Navigation --
@@ -995,15 +992,16 @@ nav li {
   padding: 0;
 }
 nav a {
-  color: #3a424c;
+  color: #989999;
   display: block;
   font-size: 12px;
-  padding: 13px 20px;
+  padding: 6px 20px;
   text-align: center;
+  text-shadow: none;
   text-transform: lowercase;
 }
 nav a:hover {
-  color: #3a424c;
+  color: #fff;
 }
 nav li:last-child a {
   border: none;
@@ -1014,7 +1012,7 @@ nav li:last-child a {
   background-image: url("/img/home/intro-noise.jpg");
   background-color: #717b87;
   height: 419px;
-  margin: 65px 0 40px;
+  margin: -40px 0 40px;
 }
 #intro .copy {
   float: left;
@@ -1151,7 +1149,7 @@ article {
   border: 1px solid #afb0b2;
   border-radius: 3px;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
-  margin: 95px auto 30px;
+  margin: 0 auto 30px;
   padding: 30px 60px;
   max-width: 520px;
 }

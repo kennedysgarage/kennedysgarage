@@ -1,6 +1,6 @@
 <?php  $title = 'Articles |'; include '../header.php';?>
 
-<div id="page">
+<article>
 
 <ul id="article-list">
 
@@ -204,6 +204,6 @@
 
 </ul>
 
-</div><!--/page-->
+</article><!--/page-->
 
 <?php include("../footer.php"); ?>
