@@ -73,12 +73,13 @@ nav li:last-child a{
 }
 #intro .copy{
   float: left;
-  margin: 0 0 0 20px;
+  margin: 0 0 0 70px;
+  text-align: center;
   width: 400px;
 }
 #intro h2{
-  font-size: 110px;
-  margin: 49px 0 0;
+  font-size: 80px;
+  margin: 60px 0 20px;
 
 }
 #intro h3{
@@ -145,17 +146,42 @@ nav li:last-child a{
   width: 160px
 }
 #testimonial blockquote{
-  float: left;
-  margin: 77px 30px 20px 0;
-  width: 680px;
+  border-left: none;
+  margin: 90px auto 70px;
+  padding: 0;
+  position: relative;
+  text-align: center;
+  width: 565px;
 }
-#testimonial blockquote p{
-  color: #313F42;
-  font-family: 'EB Garamond', serif;
-  font-size: 28px;
+#testimonial blockquote p {
+  color: #304453;
+  font-family: 'Vollkorn', serif;
+  font-size: 29px;
+  line-height: 1.3;
+  margin: 0;
+}
+#testimonial blockquote p:before {
+  color: #d9d8d7;
+  content: "\201C";
+  font-size: 91px;
+  line-height: 1;
+  position: absolute;
+  text-shadow:none;
+  left: -20px;
+  top: -12px;
+}
+#testimonial blockquote p:after {
+  color: #d9d8d7;
+  content: "\201D";
+  font-size: 91px;
+  line-height: 1;
+  position: absolute;
+  text-shadow:none;
+  right: -35px;
+  top: -12px;
 }
 #testimonial blockquote cite{
-
+  color: #A8A7A7;
 }
 #history{
   background-color: #eff1f5;

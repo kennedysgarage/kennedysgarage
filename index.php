@@ -26,9 +26,8 @@
 
     <ul>
       <li class="clearfix">
-        <img src="/img/home/qventures.png" class="person"/>
         <blockquote>
-          <p>&#8220;Kennedy has impressive twitter reflexes.&#8221;</p>
+          <p>Kennedy has impressive twitter reflexes.</p>
           <cite> - Quotidian Ventures</cite>
         </blockquote>
       </li>
