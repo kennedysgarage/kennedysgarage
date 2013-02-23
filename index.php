@@ -1,17 +1,16 @@
 <?php  $title = ''; include 'header.php'; ?>
 </div><!--container-->
 
+<div class="container">
+
   <div id="intro">
-    <div class="container">
       <div class="copy">
         <h2>Kennedy</h2>
         <h3>A New York City based Professional Hacker, UX Strategist, &amp; Mobile UI Designer. Spending most of his time building his latest startup, <a href="https://www.statuschart.com">Status Chart</a>.</h3>
       </div><!--/copy-->
-      <img src="/img/home/img.png"/>
-    </div><!--container-->
   </div><!--/intro-->
 
-  <div class="container">
+
   <div class="content">
 
   <section id="statuschart" class="clearfix">

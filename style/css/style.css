@@ -1013,28 +1013,23 @@ nav li:last-child a {
 }
 /* ========================================================= Home ===*/
 #intro {
-  background-image: url("/img/home/intro-noise.jpg");
-  background-color: #717b87;
-  height: 419px;
-  margin: -40px 0 40px;
+  background: url("/img/home/profile.png") no-repeat top right;
+  height: 350px;
+  margin: -20px 0 0;
 }
 #intro .copy {
   float: left;
+  margin: 0 0 0 20px;
   width: 400px;
 }
 #intro h2 {
-  color: #EFF1F5;
-  font-family: 'ProximaNovaBold', sans-serif;
-  font-size: 112px;
-  margin: 95px 0 0;
-  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.2);
+  font-size: 110px;
+  margin: 49px 0 0;
 }
 #intro h3 {
-  color: #dae3e8;
   font-family: 'ProximaNova', sans-serif;
   font-size: 18px;
   margin: -30px 0 0;
-  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.2);
 }
 #intro img {
   float: right;
@@ -1057,7 +1052,7 @@ nav li:last-child a {
   width: 385px;
 }
 #statuschart .text h3 {
-  font-size: 54px;
+  font-size: 46px;
 }
 #statuschart .text p {
   font-size: 18px;
@@ -1066,6 +1061,7 @@ nav li:last-child a {
 #statuschart img {
   float: right;
   margin: 20px 30px 0 0;
+  height: 352px;
 }
 #testimonial {
   border-bottom: 1px solid #afb0b2;
