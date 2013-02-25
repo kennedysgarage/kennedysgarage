@@ -1,7 +1,6 @@
 <?php  $title = ''; include 'header.php'; ?>
-</div><!--container-->
 
-<div class="container">
+<div id="home">
 
   <div id="intro">
       <div class="copy">
@@ -70,8 +69,6 @@
 
   <section id="featured">
 
-
-
   </section>
 
   <section id="history" class="clearfix">
@@ -84,6 +81,6 @@
   </section>
 </div><!--/content-->
 
-
+</div><!--/home-->
 
 <?php include("footer.php"); ?>
