@@ -5,6 +5,12 @@
 <ul id="article-list">
 
   <li>
+    <h2><a href="/articles/what-is-email">What is Email?</a></h2>
+    <p>I really haven't thought about it before, but I can tell you that I pretty much hate it. I have about 100 emails from the past week that I have haven't responded to.</p>
+    <p class="byline">February 25th, 2013 &there4; Kennedy</p>
+  </li>
+
+  <li>
     <h2><a href="/articles/time-is-more-valuable-than-money">Time is more valuable then money</a></h2>
     <p>You can always earn more money, but never more time. Time is always draining from our lives. You can never get time back.</p>
     <p class="byline">February 7th, 2013 &there4; Kennedy</p>
