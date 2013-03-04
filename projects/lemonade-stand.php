@@ -29,10 +29,10 @@
             <li><a href="http://www.betabeat.com/2011/04/07/new-dawn-what-you-missed-at-new-york-tech-meetup/"><strong>Beta Beat</strong> - New Dawn: What You Missed at New York Tech Meetup</a></li>
             <li><a href="http://www.betabeat.com/2011/04/06/start-up-news-tumblr-down-as-foursquare-steps-it-up-plus-tonights-nytm-should-be-interesting/"><strong>Beta Beat</strong> - Start-Up News: Tumblr Down as Foursquare Steps It Up, Plus Tonight's NYTM Should Be Interesting</a></li>
             <li><a href="http://www.huffingtonpost.com/joan-k-smith/what-a-long-strange-trip-_b_835740.html"><strong>The Huffington Post</strong> - Busloads Of Entrepreneurs Launch Startups On 56-Hour Road Trip</a></li>
-            <li><a href="http://forrstpodcast.com/post/4253501707/forrst-podcast-88-dinosaurs-and-aliens-interview"><strong>The Forrst Podcast</strong> - Dinosaurs And Aliens</a></li>
+            <li><a href="https://itunes.apple.com/jm/podcast/forrst-podcast/id396573610"><strong>The Forrst Podcast</strong> - Dinosaurs And Aliens</a></li>
             <li><a href="http://www.genconnect.com/sxsw2011/interview-with-john-britton-at-sxsw/"><strong>genConnect</strong> - 2.5 Minutes With John Britton</a></li>
             <li><a href="http://www.foerderland.de/419+M5a07c501eb2.0.html"><strong>f&ouml;erderland</strong> - Die interessantesten Konzepte der Startup-Busse</a></li>
-            <li><a href="http://washingtonexaminer.com/blogs/opinion-zone/2011/03/chris-jeane-busepreneur"><strong>The Examiner</strong> - Chris Jeane: Busepreneur</a></li>
+            <li><a href="http://washingtonexaminer.com/article/142258"><strong>The Examiner</strong> - Chris Jeane: Busepreneur</a></li>
             <li><a href="http://thinksb.com/2011/03/stony-brook-student-helps-build-a-startup-on-the-way-to-sxsw/"><strong>Think</strong> - Stony Brook Student Helps Build a Startup on the Way to SXSW</a></li>
             <li><a href="http://jeffreydonenfeld.com/blog/2011/04/notes-from-the-april-new-york-tech-meetup/"><strong>Jeffrey Donenfeld</strong> - Notes from the April New York Tech Meetup...</a></li>
             <li><a href="http://www.sleeplessinsocialmedia.com/2011/04/nytech-meetup-lemon-stand-readability/"><strong>Sleepless in Social Media</strong> - NYTech meetup - Lemon Stand, Readability, Runens, EXFM, MeeGenious</a></li>
@@ -42,7 +42,7 @@
             <li><a href="http://blog.programmableweb.com/2011/04/24/27-new-apis-location-sms-and-thomson-reuters/"><strong>ProgrammableWeb</strong> - 27 New APIs: Location, SMS and Thomson Reuters</a></li>
             <li><a href="http://blog.programmableweb.com/2011/04/28/buy-and-sell-locally-with-lemonadestand/"><strong>ProgrammableWeb</strong> - Buy And Sell Locally With Lemonade Stand</a></li>
             <li><a href="http://codecube.net/2011/03/lemonade-stand-for-wp7/"><strong>CodeCube</strong> - Lemonade Stand for WP7</a></li>
-            <li><a href="http://www.rivieramayajungleretreat.com/?p=71"><strong>Riviera Maya Jungle Retreat</strong> - On SXSWi-Bound Startup Bus, Tech Entrepreneurs Race to Hatch New Businesses</a></li>
+            <!--<li><a href="http://www.rivieramayajungleretreat.com/?p=71"><strong>Riviera Maya Jungle Retreat</strong> - On SXSWi-Bound Startup Bus, Tech Entrepreneurs Race to Hatch New Businesses</a></li>-->
             <li><a href="http://inthecapital.com/2012/02/15/dcs-startup-bus-is-the-ultimate-ride-to-sxsw/"><strong>InTheCapital</strong> - DC's Startup Bus is the Ultimate Ride to SXSW</a></li>
             <li><a href="http://news.ycombinator.com/item?id=2317127"><strong>Hacker News</strong> - Lemonade Stand</a></li>
             <li><a href="http://nyconvergence.com/2011/04/april-ny-tech-meetup-genius-messages-music-and-a-lemonade-stand.html"><strong>NYConvergence</strong> - April NY Tech Meetup: Genius, Messages, Music and a Lemonade Stand (#NYTM)</a></li>
@@ -51,5 +51,5 @@
         <a href="http://www.flickr.com/photos/kennedysgarage/5864958109/" title="Front page of TechCrunch by kennedysgarage, on Flickr"><img src="http://farm6.static.flickr.com/5072/5864958109_a734af8ef2_b.jpg" width="687" height="458" alt="Front page of TechCrunch"></a>
 	</div><!--/content-->
 </div><!--/page-->
-		
+
 <?php include("../footer.php"); ?>

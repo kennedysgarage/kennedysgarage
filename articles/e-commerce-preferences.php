@@ -4,7 +4,7 @@
 
 <h2>E-commerce preferences from the best</h2>
 
-<p class="intro"><em>"Which E-commerce should I go with?"</em> is often a hot topic in any post related to E-commerce. There are so many strong opinions with all of the E-commerce solutions. 
+<p class="intro"><em>"Which E-commerce should I go with?"</em> is often a hot topic in any post related to E-commerce. There are so many strong opinions with all of the E-commerce solutions.
 There are also so many options, just to name a few: <a href="http://www.ubercart.org" title="&Uuml;bercart">&Uuml;ercart</a>, <a href="http://www.foxycart.com" title="FoxyCart">FoxyCart</a>, <a href="http://www.oscommerce.com" title="osCommerce">osCommerce</a>, <a href="http://www.prestashop.com" title="Prestacart">Prestacart</a>, <a href="http://www.instinct.co.nz/e-commerce" title="WP e-Commerce">WP e-Commerce</a>, <a href="http://www.x-cart.com" title="X-Cart">X-Cart</a>, <a href="http://www.magentocommerce.com" title="Magento">Magento</a>, <a href="http://www.zen-cart.com" title="Zen Cart">Zen Cart</a>, <a href="http://www.cubecart.com" title="CubeCart">CubeCart</a>, <a href="http://www.creloaded.com" title="CRE">CRE</a>, <a href="http://www.amember.com" title="aMember">aMember</a>, <a href="http://www.shopify.com" title="Shopify">Shopify</a>, <a href="http://www.pinnaclecart.com" title="Pinnacle Cart">Pinnacle Cart</a>, <a href="http://www.e-junkie.com" title="eJunkie">eJunkie</a>, and you get the point.</p>
 <p>This is Kennedy's Garage first interview. I hope everyone will enjoy this post and learn something from it. I want to thank the people that responded back to me with their answers. I have asked the designers that I look up to, what their opinions and preferences are. Here is what they had to say:</p>
 
@@ -35,7 +35,7 @@ FoxyCart is nice simply because it is so easy to set up and integrate into any d
 <p>
 <strong>Name:</strong> Adii Rockstar<br/>
 <strong>Location:</strong> Cape Town, South Africa<br/>
-<strong>Website:</strong><a href="http://adii.co.za"> adii.co.za</a><br/>
+<strong>Website:</strong><a href="http://adii.me/"> adii.me</a><br/>
 <strong>Twitter:</strong><a href="https://twitter.com/adii"> @adii</a><br/>
 </p>
 <p><strong>Q:</strong> What is your preferred E-commerce solution?<br/>
@@ -99,7 +99,6 @@ FoxyCart can easily integrate with any CMS, and doesn't require any elaborate se
 <p>
 <strong>Name:</strong> Dustin Ward<br/>
 <strong>Location:</strong> Oklahoma City, OK<br/>
-<strong>Website:</strong><a href="http://www.wardwebwerks.com"> wardwebwerks.com</a><br/>
 <strong>Twitter:</strong><a href="https://twitter.com/duward"> @duward</a><br/>
 </p>
 
