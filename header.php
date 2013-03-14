@@ -34,14 +34,14 @@
 <header>
 <div class="container">
 	<div class="g5">
-	    <h1><a href="/">Kennedy's Garage</a></h1>
+	    <h1><a href="/"><img src="/img/k.png"></a></h1>
     </div><!--/g5-->
 	<div class="g7">
 	    <nav>
 	    <ul>
 	    	<li><a href="/about">About</a></li>
-				<li><a href="/projects">Projects</a></li>
 				<li><a href="/articles">Articles</a></li>
+				<li><a href="/projects">Projects</a></li>
 	    </ul>
 	    </nav>
 	</div><!--/g7-->
