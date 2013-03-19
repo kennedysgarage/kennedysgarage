@@ -1,5 +1,5 @@
-<?php  $title = 'Contact |'; include 'header.php'; ?>
-	
+<?php  $title = 'Contact'; include 'header.php'; ?>
+
 	<div id="page">
 		<div id="content">
 			<p>Feel free to contact me anytime, my handle "kennedysgarage" for pretty much everything. Lately I have been bad at replying to emails and sometimes Twitter @ &amp; DM. Don't take it personally, I <strike>hate</strike> love everyone equally. If you really want to get a hold of me or just say hi, add me on Google Talk or AIM. </p>
@@ -30,8 +30,8 @@
 			             <a class="btn action" href="">Send</a>
 			             <div class="clear"></div>
 			         </form> -->
-			
+
 		</div><!--/content-->
 	</div><!--/page-->
-	
+
 <?php include("footer.php"); ?>

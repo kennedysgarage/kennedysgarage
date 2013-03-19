@@ -12,7 +12,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 	<meta name="apple-mobile-web-app-capable" content="yes">
 	<meta name="apple-mobile-web-app-status-bar-style" content="black">
-	<link rel="shortcut icon" href="favicon.ico">
+	<link rel="shortcut icon" href="/favicon.png">
 	<link href='http://fonts.googleapis.com/css?family=Glegoo' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Vollkorn' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" href="/style/css/style.css">
@@ -31,21 +31,16 @@
 </head>
 <body>
 
-<header>
-<div class="container">
-	<div class="g5">
-	    <h1><a href="/"><img src="/img/k.png"></a></h1>
-    </div><!--/g5-->
-	<div class="g7">
-	    <nav>
-	    <ul>
-	    	<li><a href="/about">About</a></li>
-				<li><a href="/articles">Articles</a></li>
-				<li><a href="/projects">Projects</a></li>
-	    </ul>
-	    </nav>
-	</div><!--/g7-->
-</div><!--/container-->
+<header class="clearfix">
+	<h1><a href="/"><img src="/img/k.png"></a></h1>
+	<nav>
+		<ul>
+			<li><a href="/about">About</a></li>
+			<li><a href="/articles">Articles</a></li>
+			<li><a href="/projects">Projects</a></li>
+		</ul>
+	</nav>
 </header>
 
+<div class="page-wrap">
 <div class="container">

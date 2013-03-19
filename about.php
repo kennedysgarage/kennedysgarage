@@ -1,4 +1,4 @@
-<?php  $title = 'Contact |'; include 'header.php'; ?>
+<?php  $title = 'About'; include 'header.php'; ?>
 
 	<div id="page" class="clearfix">
 

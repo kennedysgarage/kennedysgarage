@@ -1,4 +1,5 @@
 </div><!--/container-->
+</div><!--/page-wrap-->
 
 <footer>
 	<div class="container">

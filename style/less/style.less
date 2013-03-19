@@ -8,14 +8,14 @@
 /* ========================================================= Header ===*/
 html,body{
   background-color: #d9dbde;
+  background-color: #1B1F25;
   font-family: 'ProximaNova', sans-serif;
   font-weight: 400;
-  height: 100%;
+  /*height: 100%;*/
   width: 100%;
 }
 header{
-  background-color: #2a3f52;
-  margin: 0 0 40px;
+  margin: 20px 0 20px 20px;
   position: relative;
   z-index: 100;
 }
@@ -35,7 +35,7 @@ header h1 a, header h1 a:hover{
 ------------- */
 nav{
   float: right;
-  margin: 10px 0 0;
+  margin: 10px 10px 0 0;
   text-align: right;
 }
 nav ul{
@@ -65,45 +65,30 @@ nav li:last-child a{
 }
 /* ========================================================= Home ===*/
 #home #intro{
-  background: url("/img/home/profile.png") no-repeat top right;
-  height: 350px;
-  margin: -20px 0 0;
+  margin: 50px 0;
+}
+#home #intro img{
+  display: block;
+  margin: 0 auto;
 }
 #home #intro .copy{
-  float: left;
-  margin: 0 0 0 70px;
   text-align: center;
-  width: 400px;
 }
 #home #intro h2{
-  font-size: 80px;
-  margin: 60px 0 20px;
-
+  font-size: 50px;
+  margin: 0;
 }
 #home #intro h3{
   font-family: 'ProximaNova', sans-serif;
   font-size: 18px;
-  margin: -30px 0 0;
-}
-#home #intro img{
-  float: right;
+  margin: -10px 0 0;
 }
 #home #statuschart{
-  background-color: #eff1f5;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgb(239, 241, 245)), to(rgb(219, 220, 225)));
-  background-image: -webkit-linear-gradient(top, rgb(239, 241, 245), rgb(219, 220, 225));
-  background-image: -moz-linear-gradient(top, rgb(239, 241, 245), rgb(219, 220, 225));
-  background-image: -o-linear-gradient(top, rgb(239, 241, 245), rgb(219, 220, 225));
-  background-image: -ms-linear-gradient(top, rgb(239, 241, 245), rgb(219, 220, 225));
-  background-image: linear-gradient(top, rgb(239, 241, 245), rgb(219, 220, 225));
-  filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,StartColorStr='#eff1f5', EndColorStr='#dbdce1');
   border-bottom: 1px solid #afb0b2;
-  border-radius: 3px 3px 0 0;
 }
 #home #statuschart .text{
   float: left;
-  margin: 68px 30px 0;
-  width: 385px;
+  margin: 68px 0 0;
 }
 #home #statuschart .text h3{
   font-size: 46px;
@@ -112,10 +97,13 @@ nav li:last-child a{
   font-size: 18px;
   margin: 0 0 40px;
 }
+#home #statuschart .img .g2{
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
 #home #statuschart img{
   float: right;
-  margin: 20px 30px 0 0;
-  height: 352px;
+  margin: 20px 0 0 0;
 }
 #home #testimonial{
   border-bottom: 1px solid #afb0b2;
@@ -149,7 +137,7 @@ nav li:last-child a{
   padding: 0;
   position: relative;
   text-align: center;
-  width: 565px;
+  max-width: 565px;
 }
 #home #testimonial blockquote p {
   color: #304453;
@@ -182,41 +170,17 @@ nav li:last-child a{
   color: #A8A7A7;
 }
 #home #history{
-  background-color: #eff1f5;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgb(239, 241, 245)), to(rgb(219, 220, 225)));
-  background-image: -webkit-linear-gradient(top, rgb(239, 241, 245), rgb(219, 220, 225));
-  background-image: -moz-linear-gradient(top, rgb(239, 241, 245), rgb(219, 220, 225));
-  background-image: -o-linear-gradient(top, rgb(239, 241, 245), rgb(219, 220, 225));
-  background-image: -ms-linear-gradient(top, rgb(239, 241, 245), rgb(219, 220, 225));
-  background-image: linear-gradient(top, rgb(239, 241, 245), rgb(219, 220, 225));
-  filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,StartColorStr='#eff1f5', EndColorStr='#dbdce1');
-  border-bottom: 1px solid #AFB0B2;
-  border-radius: 0 0 3px 3px;
 }
 #home #history .text{
-  float: left;
-  padding: 30px;
-  width: 670px;
 }
 #home #history img{
   border: 3px solid #FFFFFF;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
-  float: left;
-  margin: 30px;
-  width: 160px;
+  float: right;
 }
 #home #status{
-  background-color: #eff1f5;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgb(239, 241, 245)), to(rgb(219, 220, 225)));
-  background-image: -webkit-linear-gradient(top, rgb(239, 241, 245), rgb(219, 220, 225));
-  background-image: -moz-linear-gradient(top, rgb(239, 241, 245), rgb(219, 220, 225));
-  background-image: -o-linear-gradient(top, rgb(239, 241, 245), rgb(219, 220, 225));
-  background-image: -ms-linear-gradient(top, rgb(239, 241, 245), rgb(219, 220, 225));
-  background-image: linear-gradient(top, rgb(239, 241, 245), rgb(219, 220, 225));
-  filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,StartColorStr='#eff1f5', EndColorStr='#dbdce1');
-  border: 1px solid #afb0b2;
-  border-radius: 3px;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+  border-top: 1px solid #afb0b2;
+  border-bottom: 1px solid #afb0b2;
   margin: 0 0 30px;
   padding: 10px;
 }
@@ -229,11 +193,6 @@ nav li:last-child a{
 }
 /* ========================================================= Page ===*/
 #page{
-  background-color: #eff1f5;
-  border: 1px solid #afb0b2;
-  border-radius: 3px;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.2);
-  margin: 0 0 30px;
   padding: 30px;
 }
 .page .content{
@@ -249,13 +208,9 @@ nav li:last-child a{
 }
 /* ========================================================= Articles ===*/
 article{
-  background-color: #F7F6F5;
-  border: 1px solid #afb0b2;
-  border-radius: 3px;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.2);
 	margin: 0 auto 30px;
-	padding: 30px 60px;
 	max-width: 520px;
+  padding: 30px;
 }
 article h1{
 	text-align: center;
@@ -506,6 +461,7 @@ article p{
 	border-radius: 4px;
 	box-shadow: 0 -1px 0 rgba(255,255,255,0.9), 0 1px 0 rgba(0,0,0,0.2);
 	display: block;
+  margin: 0;
 	height: auto;
 	max-width: 100%;
 }
@@ -585,7 +541,7 @@ object{
 }
 /* ========================================================= Footer ===*/
 footer{
-    padding: 0 0 30px;
+    padding: 0 0 20px;
 }
 /* ---------
 -- Social --
@@ -602,76 +558,34 @@ footer{
   padding: 0;
 }
 #social a{
-	color: #333;
-font-size: 12px;
-    padding: 6px 20px 4px;
-	text-shadow: none;
+  color: #525961;
+  font-size: 12px;
+  padding: 6px 20px 4px;
+  text-shadow: none;
 }
 #social a:hover{
-
+  color: #fff;
 }
-/* ========================================================= Structure ===*/
-/* ---------
- -- 768px --
---------- */
-@media screen and (min-width: 768px) and (max-width: 1023px){
-	#home #intro h2{
-		padding: 40px 0 0;
-	}
-	#home #intro p{
-		font-size: 16px;
-	}
-	pre {
-		margin-left: 0;
-		width: auto;
-	}
-}
-/* ---------
- -- 480px --
---------- */
-@media screen and (min-width: 480px) and (max-width: 767px) {
-	header h1 {
-		display: block;
-    font-size: 37px;
-    text-align: center;
-	}
-	nav{
-		float: none;
-	}
-	nav a{
-		padding: 9px 53px;
-	}
-	#home #intro h2{
-		padding: 0;
-	}
-	#home #intro p{
-		font-size: 15px;
-	}
-	#home #history img{
-    	float: none;
-	    margin: 0 auto 30px;
-    }
-	pre {
-		margin-left: 0;
-		width: auto;
-	}
-}
-/* ---------
- -- 320px --
---------- */
-@media screen and (min-width: 320px) and (max-width: 479px) {
-  header h1{
-    display: block;
-    text-align: center;
+/* ========================================================= Adapt ===*/
+@media all and (min-width: 41em) {
+  .g1{max-width: 50%}
+  .g2{max-width: 50%}
+  .g3{max-width: 50%}
+  .g4{max-width: 100%}
+  #home #intro h2{
+    margin: 20px 0 0;
   }
-	#home #intro h2{
-		padding: 0;
-	}
-	nav a {
-		padding: 9px 28px;
-	}
-	pre {
-		margin-left: 0;
-		width: auto;
-	}
+}
+@media all and (min-width: 960px) {
+  .container {max-width: 960px}
+  .g1{max-width: 25%}
+  .g2{max-width: 50%}
+  .g3{max-width: 75%}
+  .g4{max-width: 100%}
+  #home #intro .copy{
+    text-align: left;
+  }
+  #home #intro h2{
+    margin: 40px 0 0;
+  }
 }

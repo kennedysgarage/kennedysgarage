@@ -2,11 +2,16 @@
 
 <div id="home">
 
-  <div id="intro">
-      <div class="copy">
-        <h2>Kennedy</h2>
-        <h3>A New York City based Professional Hacker, UX Strategist, &amp; Mobile UI Designer. Spending most of his time building his latest startup, <a href="https://www.statuschart.com">Status Chart</a>.</h3>
-      </div><!--/copy-->
+  <div id="intro" class="clearfix">
+    <div class="g1">
+    <img src="/img/home/intro.png"/>
+  </div><!--/g1-->
+  <div class="g3">
+    <div class="copy">
+      <h2>Kennedy</h2>
+      <h3>A New York City based Professional Hacker, UX Strategist, &amp; Mobile UI Designer. Spending most of his time building his latest startup, <a href="https://www.statuschart.com">Status Chart</a>.</h3>
+    </div><!--/copy-->
+    </div><!--/g3-->
   </div><!--/intro-->
 
   <section id="status" class="clearfix">
@@ -14,15 +19,21 @@
   <p><strong>Currently I am not accepting any new work</strong>, but you should checkout some of the other amazing freelancers on <a href="http://arctap.com/">ArcTap</a>.</p>
 </section>
 
-  <div class="content">
+
 
   <section id="statuschart" class="clearfix">
+    <div class="g2">
     <div class="text">
       <h3>Status Chart</h3>
       <p>I am currently building the simplest way for the tech community to track and share their professional milestones.</p>
       <a href="https://www.statuschart.com/" class="btn">Sign Up Today</a>
     </div><!--/text-->
+  </div><!--/g2-->
+  <div class="img">
+    <div class="g2">
     <img src="/img/home/status-chart-paper.png"/>
+  </div><!--/g2-->
+</div><!--/img-->
   </section>
 
   <section id="testimonial" class="clearfix">
@@ -72,14 +83,17 @@
   </section>
 
   <section id="history" class="clearfix">
+    <div class="g3">
     <div class="text">
     <h3>The History</h3>
     <p>The original Kennedy&#8217;s Garage was open by my grandfather Theron Kennedy, in Lake of the Ozark, Missouri on February 28th, 1941. Granted 1941 was a different time and the business was building cars, nothing has changed as far as working hard. The key to his success was the relationships that he developed with his customers and the community.</p>
     <p>Today I still value those traditions and enjoy the old fashion handshake. The original Kennedy&#8217;s Garage was shut down after the passing of Theron. I later reopened the name and wanted to keep the same values of my grandfather. Since then the family has moved away from building cars, but we still have a deep passion for them.</p>
+  </div><!--/g3-->
     </div><!--/text-->
+    <div class="g1">
     <img src="/img/theron.png"/>
+  </div><!--/g1-->
   </section>
-</div><!--/content-->
 
 </div><!--/home-->
 
