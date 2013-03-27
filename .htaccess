@@ -512,6 +512,3 @@ Options -Indexes
 
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteRule ^([^\.]+)$ $1.php [NC,L]
-
-//301 Redirect Old File
-Redirect /status.php https://www.statuschart.com/kennedysgarage
