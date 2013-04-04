@@ -15,8 +15,8 @@
   </div><!--/intro-->
 
   <section id="status" class="clearfix">
-  <img src="/img/home/led-red.png"/>
-  <p><strong>Currently I am not accepting any new work</strong>, but you should checkout some of the other amazing freelancers on <a href="http://arctap.com/">ArcTap</a>.</p>
+  <img src="/img/home/led-green.png"/>
+  <p><strong>Available For Freelance</strong>. For larger projects checkout <a href="http://arctap.com/">ArcTap</a>, an amazing team of the best freelance designer and developers.</p>
 </section>
 
 
