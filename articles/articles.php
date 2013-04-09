@@ -5,6 +5,12 @@
 <ul id="article-list">
 
   <li>
+    <h2><a href="/articles/domains.php">Domains For Sale</a></h2>
+    <p>Here is the list of domains I currently selling, also included a little info about what I was going to do with each. Please make an offer.</p>
+    <p class="byline">April 8th, 2013 &there4; Kennedy</p>
+  </li>
+
+  <li>
     <h2><a href="/articles/iphone-template.php">iPhone Template PSD</a></h2>
     <p>I just got back from vacation and I took this photo while on the boat. I made it so it is supper easy to replace the screenshot with yours.</p>
     <p class="byline">March 26th, 2013 &there4; Kennedy</p>
