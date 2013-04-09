@@ -4,8 +4,8 @@
 
 <h2>Domains For Sale</h2>
 <p>Hello, my name is Kennedy and I'm an domainaholic. It may not be easy for me to admit to others that I need help, but the sooner I get rid of these the happier the wife will be.</p>
-<p>I'm not looking to make enough money to <a href="http://i.imgur.com/kU53Cxi.gif">dive in a pool of coins</a>, but it would be nice to pay myself back for holding the domains and maybe something a little extra for the wife, like a <a href="http://i.imgur.com/K6HNDHe.gif">Cat Crossbow</a>. Some of theme I have a twitter handle and designs.</p>
-<p>Here is the list of domains I currently selling, also included a little info about what I was going to do with each. Please make an offer.</p>
+<p>I'm not looking to make enough money to <a href="http://i.imgur.com/kU53Cxi.gif">dive in a pool of coins</a>, but it would be nice to pay myself back for holding the domains and maybe something a little extra for the wife, like a <a href="http://i.imgur.com/K6HNDHe.gif">Cat Crossbow</a>. Some of them I have a twitter handle and even designs.</p>
+<p>Here is the list of domains I'm currently selling, also included a little info about what I was going to do with each. Please make an offer.</p>
 
 <dl>
   <dt>5ft18.com</dt>

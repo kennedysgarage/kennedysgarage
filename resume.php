@@ -111,6 +111,8 @@
 			<li>In charge of twenty seven KC-135, each worth $13 million </li>
 		</ul>
 
+		<a href="/ChristopherKennedy.pdf" class="btn">Download my r&eacute;sum&eacute;</a>
+
 </div><!--/resume-->
 
 </div><!--/page-->
