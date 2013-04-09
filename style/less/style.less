@@ -20,11 +20,12 @@ header{
   z-index: 100;
 }
 header h1{
-  display: inline;
+  display: block;
   font-family: 'Glegoo', serif;
   font-size: 22px;
   font-weight: 400;
   margin: 0;
+  text-align: center;
   vertical-align: middle;
 }
 header h1 a, header h1 a:hover{
@@ -34,7 +35,6 @@ header h1 a, header h1 a:hover{
 -- Navigation --
 ------------- */
 nav{
-  float: right;
   margin: 10px 10px 0 0;
   text-align: right;
 }
@@ -572,6 +572,12 @@ footer{
   .g2{max-width: 50%}
   .g3{max-width: 50%}
   .g4{max-width: 100%}
+  header h1{
+    display: inline;
+  }
+  nav{
+    float: right;
+  }
   #home #intro h2{
     margin: 20px 0 0;
   }
@@ -582,6 +588,9 @@ footer{
   .g2{max-width: 50%}
   .g3{max-width: 75%}
   .g4{max-width: 100%}
+  header h1{
+    display: inline;
+  }
   #home #intro .copy{
     text-align: left;
   }

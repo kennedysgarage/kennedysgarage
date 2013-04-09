@@ -9,7 +9,7 @@
   <div class="g3">
     <div class="copy">
       <h2>Kennedy</h2>
-      <h3>A New York City based Professional Hacker, UX Strategist, &amp; Mobile UI Designer. Spending most of his time building his latest startup, <a href="https://www.statuschart.com">Status Chart</a>.</h3>
+      <h3>is New York City based Professional Hacker, UX Strategist, &amp; Mobile UI Designer. He spends most of his time building his latest startup, <a href="https://www.statuschart.com">Status Chart</a>.</h3>
     </div><!--/copy-->
     </div><!--/g3-->
   </div><!--/intro-->
