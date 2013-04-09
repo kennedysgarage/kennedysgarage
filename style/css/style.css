@@ -517,9 +517,6 @@ li {
   line-height: 1.5;
   text-shadow: 0 1px 1px rgba(255, 255, 255, 0.7);
 }
-dt {
-  font-weight: bold;
-}
 dl {
   color: #475b61;
   font-family: 'ProximaNova', sans-serif;
@@ -527,6 +524,14 @@ dl {
   line-height: 1.5;
   margin: 0 0 10px;
   text-shadow: 0 1px 1px rgba(255, 255, 255, 0.7);
+}
+dt {
+  font-weight: bold;
+}
+dd {
+  color: #999;
+  font-size: 15px;
+  margin: 0 0 10px 10px;
 }
 blockquote {
   padding: 0 0 0 15px;
