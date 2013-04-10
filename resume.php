@@ -103,6 +103,7 @@
 			<li>Honorably Discharged</li>
 			<li>Ribbons &amp; Medals: Air Force Training Ribbon, Global War on Terrorism Service Medal, Marksmanship, &amp; The AF Outstanding Unit Award</li>
 			<li>Aerospace Maintenance Technician C18, C135, E3, VC25, and VC137</li>
+			<li>Secret Security Clearance (Inactive)</li>
 			<li>Advised on problems maintaining, servicing, and inspecting aircraft and aerospace support equipment</li>
 			<li>Interpreted and advised on maintenance procedures and polices to repair aircraft and support equipment</li>
 			<li>Troubleshot and maintained aircraft structures, systems, components, and support equipment</li>
