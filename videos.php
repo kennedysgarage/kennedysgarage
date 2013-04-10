@@ -2,7 +2,7 @@
 <div id="page" class="clearfix videos">
 
 <h2>Videos</h2>
-<p>Here are some videos that I have appeared in. Most of them are from hackathon demos, but there are a couple promo videos such as Coca-Cola &amp; American Express. Oh, also when I won a food eating contest at a hackathon.</p>
+<p>Here are some videos that I have appeared in. Most of them are from hackathon demos, but there are a couple promo videos such as Coca-Cola &amp; American Express. And I saved the best for last, a food eating contest at a Photo Hack Day... I killed it!</p>
 <hr/>
 
 <h3>Coca-Cola and Spotify Hackden 2012</h3>
