@@ -52,18 +52,18 @@
         </a>
     </div><!--/g1-->
     <div class="g1">
+        <a href="https://www.statuschart.com">
+        <img src="/projects/assets/logos/statuschart.png"/>
+        <p>Status Chart</p>
+        </a>
+    </div><!--/g1-->
+    <div class="g1">
         <img src="/projects/assets/logos/majesticsquare.png"/>
         <p>Majestic Square</p>
     </div><!--/g1-->
     <div class="g1">
         <img src="/projects/assets/logos/labachtechnologylaw.png"/>
         <p>Labach Technology Law</p>
-    </div><!--/g1-->
-    <div class="g1">
-        <a href="https://www.statuschart.com2">
-        <img src="/projects/assets/logos/statuschart.png"/>
-        <p>Status Chart</p>
-        </a>
     </div><!--/g1-->
     <div class="g1">
         <img src="/projects/assets/logos/theronindustries.png"/>
