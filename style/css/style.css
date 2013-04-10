@@ -501,8 +501,8 @@ h4 {
   text-shadow: 0 1px 1px rgba(255, 255, 255, 0.7);
 }
 p {
-  color: #475b61;
-  font-size: 16px;
+  color: #344347;
+  font-size: 18px;
   line-height: 1.5;
   margin: 0 0 18px;
   text-shadow: 0 1px 1px #fff;
@@ -879,6 +879,7 @@ nav li:last-child a {
 #home #intro h3 {
   font-family: 'ProximaNova', sans-serif;
   font-size: 18px;
+  line-height: 1.5;
   margin: -10px 0 0;
 }
 #home #statuschart {
@@ -983,6 +984,7 @@ nav li:last-child a {
   margin: 0 5px 0 0;
 }
 #home #status p {
+  font-size: 16px;
   margin: 6px 0 0 0;
 }
 /* ========================================================= Page ===*/
@@ -1052,13 +1054,22 @@ nav li:last-child a {
 /* ========================================================= Article ===*/
 article {
   margin: 0 auto 30px;
-  max-width: 520px;
+  max-width: 660px;
   padding: 30px;
 }
 article h1 {
   text-align: center;
 }
+article h2 {
+  font-size: 33px;
+  line-height: 1.2;
+}
+article h2 a,
+article h2 a:hover {
+  color: #313F42;
+}
 article p {
+  color: #344347;
   -moz-hyphens: auto;
   hyphens: auto;
   text-align: justify;
@@ -1079,7 +1090,7 @@ article p {
   box-shadow: 0 1px 0 #fff;
   list-style: none;
   margin: 0 0 5px;
-  padding: 20px;
+  padding: 20px 0;
 }
 #article-list li:last-child {
   border-bottom: none;
