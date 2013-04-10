@@ -13,6 +13,7 @@
 
 <h3><a href="/projects/midpoint">Midpoint</a> (Reinventing Local Hackathon at General Assembly 2012)</h3>
 <iframe width="950" height="513" src="http://www.youtube.com/embed/sf3mpcAp_GE?rel=0?wmode=opaque" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/PLxAxMXWt6o" frameborder="0" allowfullscreen></iframe>
 
 <h3><a href="/projects/poachbase">PoachBase</a> (TechCrunch Disrupt 2012)</h3>
 <iframe width="950" height="513" src="http://www.youtube.com/embed/dKhBwHX96-Q?wmode=opaque" frameborder="0" allowfullscreen></iframe>
