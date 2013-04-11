@@ -7,7 +7,7 @@
     <img src="/img/home/intro2.png"/>
     <div class="copy">
       <h2>Kennedy</h2>
-      <h3>is New York City based Professional Hacker, UX Strategist, &amp; Mobile UI Designer. He spends most of his time building his latest startup, <a href="https://www.statuschart.com">Status Chart</a>.</h3>
+      <h3>is a New York City based Professional Hacker, UX Strategist, &amp; Mobile UI Designer. He spends most of his time building his latest startup, <a href="https://www.statuschart.com">Status Chart</a>.</h3>
     </div><!--/copy-->
     </div><!--/g4-->
   </div><!--/intro-->
@@ -84,7 +84,7 @@
     <div class="g3">
     <div class="text">
     <h3>The History</h3>
-    <p>The original Kennedy&#8217;s Garage was open by my grandfather Theron Kennedy, in Lake of the Ozark, Missouri on February 28th, 1941. Granted 1941 was a different time and the business was building cars, nothing has changed as far as working hard. The key to his success was the relationships that he developed with his customers and the community.</p>
+    <p>The original Kennedy&#8217;s Garage was opened by my grandfather Theron Kennedy, in Lake of the Ozark, Missouri on February 28th, 1941. Granted 1941 was a different time and the business was building cars, nothing has changed as far as working hard. The key to his success was the relationships that he developed with his customers and the community.</p>
     <p>Today I still value those traditions and enjoy the old fashion handshake. The original Kennedy&#8217;s Garage was shut down after the passing of Theron. I later reopened the name and wanted to keep the same values of my grandfather. Since then the family has moved away from building cars, but we still have a deep passion for them.</p>
   </div><!--/g3-->
     </div><!--/text-->
