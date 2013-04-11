@@ -564,8 +564,9 @@ blockquote small {
   margin: 0 0 30px;
 }
 .page-wrap {
-  background-color: #F7F6F5;
+  background: url("/img/bg.png") repeat scroll 0 0 #f1f2ee;
   border-radius: 7px 7px 7px 7px;
+  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.9) inset;
   margin: 0 10px 20px;
 }
 .container:before,
@@ -873,7 +874,7 @@ nav li:last-child a {
   width: 100%;
 }
 #home #intro .copy {
-  margin: 0 20px;
+  margin: 0 10px 0 20px;
   text-align: center;
 }
 #home #intro h2 {
@@ -1256,10 +1257,10 @@ footer {
     text-align: left;
   }
   #home #intro h2 {
-    margin: 70px 0 0;
+    margin: 60px 0 0;
   }
   #home #intro img {
     float: left;
-    margin: 0 40px 0 20px;
+    margin: 0 40px 0 10px;
   }
 }
