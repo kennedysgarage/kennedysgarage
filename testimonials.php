@@ -9,5 +9,10 @@
 <p>In today's fast paced world, I think it's incredibly rare to get much more beyond what you've paid for; to have someone recognize your needs &amp; treat your product as if it were his/her own.  But that's what Christopher Kennedy is all about.  I consider myself to be very fortunate to have had the opportunity to work with Kennedy & I'm certain his other clients would agree.</p>
 <p>- Kevin Anderson (February 2010)</p>
 
+<hr/>
+
+<h3>What to share yours?</h3>
+<p>I would love to add your testimonial, please <a href="mailto:kennedysgarage@gmail.com?subject=Testimonials">email me</a>.</p>
+
 </div><!--/page-->
 <?php include("footer.php"); ?>
