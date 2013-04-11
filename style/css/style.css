@@ -468,7 +468,7 @@ td {
 }
 /* ========================================================= Typography ===*/
 h1 {
-  color: #313f42;
+  color: #323232;
   font-family: 'ProximaNova', sans-serif;
   font-size: 32px;
   font-weight: 400;
@@ -476,32 +476,32 @@ h1 {
   text-shadow: 0 1px 1px rgba(255, 255, 255, 0.7);
 }
 h2 {
-  color: #313f42;
-  font-family: 'ProximaNovaBold', sans-serif;
-  font-size: 30px;
+  color: #323232;
+  font-family: 'Vollkorn', serif;
+  font-size: 41px;
   font-weight: 400;
   margin: 0 0 5px;
   padding: 0;
   text-shadow: 0 1px 1px rgba(255, 255, 255, 0.7);
 }
 h3 {
-  color: #313f42;
-  font-family: 'ProximaNovaBold', sans-serif;
+  color: #323232;
+  font-family: 'Vollkorn', serif;
   font-weight: 400;
-  font-size: 24px;
+  font-size: 32px;
   margin: 0 0 5px;
   text-shadow: 0 1px 1px rgba(255, 255, 255, 0.7);
 }
 h4 {
-  color: #313f42;
-  font-family: 'ProximaNovaBold', sans-serif;
+  color: #323232;
+  font-family: 'Vollkorn', serif;
   font-weight: 400;
   font-size: 22px;
   margin: 5px 0;
   text-shadow: 0 1px 1px rgba(255, 255, 255, 0.7);
 }
 p {
-  color: #344347;
+  color: #323232;
   font-size: 18px;
   line-height: 1.5;
   margin: 0 0 18px;
@@ -511,14 +511,14 @@ ul {
   margin: 0 0 20px;
 }
 li {
-  color: #475b61;
+  color: #323232;
   font-family: 'ProximaNova', sans-serif;
   font-size: 17px;
   line-height: 1.5;
   text-shadow: 0 1px 1px rgba(255, 255, 255, 0.7);
 }
 dl {
-  color: #475b61;
+  color: #323232;
   font-family: 'ProximaNova', sans-serif;
   font-size: 17px;
   line-height: 1.5;
@@ -529,7 +529,7 @@ dt {
   font-weight: bold;
 }
 dd {
-  color: #999;
+  color: #A9A9A9;
   font-size: 15px;
   margin: 0 0 10px 10px;
 }
@@ -545,7 +545,7 @@ blockquote p {
 }
 blockquote small {
   display: block;
-  color: #999;
+  color: #A9A9A9;
 }
 .subtitle {
   border-top: 1px solid #ccc;
@@ -564,7 +564,7 @@ blockquote small {
   margin: 0 0 30px;
 }
 .page-wrap {
-  background: url("/img/bg.png") repeat scroll 0 0 #f1f2ee;
+  background-color: #F4F4F4;
   border-radius: 7px 7px 7px 7px;
   box-shadow: 0 1px 0 rgba(255, 255, 255, 0.9) inset;
   margin: 0 10px 20px;
@@ -809,16 +809,9 @@ header {
 }
 header h1 {
   display: block;
-  font-family: 'Glegoo', serif;
-  font-size: 22px;
-  font-weight: 400;
   margin: 0;
   text-align: center;
   vertical-align: middle;
-}
-header h1 a,
-header h1 a:hover {
-  color: #df5a5d;
 }
 /* -------------
 -- Navigation --
@@ -951,7 +944,7 @@ nav li:last-child a {
   margin: 0;
 }
 #home #testimonial blockquote p:before {
-  color: #d9d8d7;
+  color: #A9A9A9;
   content: "\201C";
   font-size: 91px;
   line-height: 1;
@@ -961,7 +954,7 @@ nav li:last-child a {
   top: -12px;
 }
 #home #testimonial blockquote p:after {
-  color: #d9d8d7;
+  color: #A9A9A9;
   content: "\201D";
   font-size: 91px;
   line-height: 1;
