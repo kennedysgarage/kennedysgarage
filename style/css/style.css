@@ -799,8 +799,9 @@ nav li:last-child a {
   text-align: center;
 }
 #home #intro h2 {
+  line-height: 0.7;
   font-size: 70px;
-  margin: 0;
+  margin: 20px 0 25px;
 }
 #home #intro h3 {
   font-family: 'ProximaNova', sans-serif;
@@ -1152,7 +1153,7 @@ footer {
     float: right;
   }
   #home #intro h2 {
-    margin: 20px 0 0;
+    margin: 20px 0 25px;
   }
 }
 @media all and (min-width: 960px) {
@@ -1178,7 +1179,7 @@ footer {
     text-align: left;
   }
   #home #intro h2 {
-    margin: 60px 0 0;
+    margin: 100px 0 25px;
   }
   #home #intro img {
     float: left;

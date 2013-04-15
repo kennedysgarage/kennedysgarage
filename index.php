@@ -6,8 +6,8 @@
     <div class="g4">
     <img src="/img/home/intro2.png"/>
     <div class="copy">
-      <h2>Kennedy</h2>
-      <h3>is a New York City based Professional Hacker, UX Strategist, &amp; Mobile UI Designer. He spends most of his time building his latest startup, <a href="https://www.statuschart.com">Status Chart</a>.</h3>
+      <h2>I'm Kennedy,</h2>
+      <h3>a New York City based Mobile UI Designer spending most of my time building his latest startup <a href="https://www.statuschart.com">Status Chart</a>.</h3>
     </div><!--/copy-->
     </div><!--/g4-->
   </div><!--/intro-->
