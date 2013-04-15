@@ -7,7 +7,7 @@
     <img src="/img/home/intro2.png"/>
     <div class="copy">
       <h2>I'm Kennedy,</h2>
-      <h3>a New York City based Mobile UI Designer spending most of my time building his latest startup <a href="https://www.statuschart.com">Status Chart</a>.</h3>
+      <h3>a New York City based Mobile UI Designer spending most of my time building my latest startup <a href="https://www.statuschart.com">Status Chart</a>.</h3>
     </div><!--/copy-->
     </div><!--/g4-->
   </div><!--/intro-->
