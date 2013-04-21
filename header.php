@@ -34,13 +34,6 @@
 </head>
 <body>
 
-<div id="nonapp">
-    <p>This is telling you to add to home screen!</p>
-</div><!--/nonapp-->
-
-<div id="app" style="display: none;">
-    <p>This is telling you your content!</p>
-
 <header class="clearfix">
 	<h1><a href="/"><img src="/img/k.png"></a></h1>
 	<nav>
