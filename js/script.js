@@ -16,17 +16,30 @@ $(document).ready(function(){
 		$('#filter-results ul li').show();
 	});
 
-	// http://stackoverflow.com/questions/8884376/iphone-safari-web-app-opens-links-in-new-window-when-using-javascripthistory-go
-	(function (a, b, c) {
-    if (c in b && b[c]) {
-        var d, e = a.location,
-            f = /^(a|html)$/i;
-        a.addEventListener("click", function (a) {
-            d = a.target;
-            while (!f.test(d.nodeName)) d = d.parentNode;
-            "href" in d && (d.href.indexOf("http") || ~d.href.indexOf(e.host)) && (a.preventDefault(), e.href = d.href);
-        }, !1);
+	// http://www.mobilejoomla.com/forum/5-bug-reports/692-solvedwebapp-leads-to-safari.html
+	var iWebkit;
+if (!iWebkit) {
+    iWebkit = window.onload = function () {
+        function fullscreen() {
+            var a = document.getElementsByTagName("a");
+            for (var i = 0; i < a.length; i++) {
+                if (a[i].className.match("noeffect")) {} else {
+                    a[i].onclick = function () {
+                        window.location = this.getAttribute("href");
+                        return false
+                    }
+                }
+            }
+        }
+        function hideURLbar() {
+            window.scrollTo(0, 0.9)
+        }
+        iWebkit.init = function () {
+            fullscreen();
+            hideURLbar()
+        };
+        iWebkit.init()
     }
-	})(document, window.navigator, "standalone");
+}
 
 });
