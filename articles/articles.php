@@ -5,6 +5,12 @@
 <ul id="article-list">
 
   <li>
+    <h2><a href="/articles/so-many-paths.php">So Many Paths</a></h2>
+    <p>I am in a bit of a funk right now and I mostly blame it on not knowing what I want to do with my life or even what I want out of it. </p>
+    <p class="byline">April 22th, 2013 &there4; Kennedy</p>
+  </li>
+
+  <li>
     <h2><a href="/articles/domains.php">Domains For Sale</a></h2>
     <p>Here is the list of domains I currently selling, also included a little info about what I was going to do with each. Please make an offer.</p>
     <p class="byline">April 8th, 2013 &there4; Kennedy</p>
