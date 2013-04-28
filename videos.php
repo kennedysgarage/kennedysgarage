@@ -8,6 +8,9 @@
 <h3><a href="http://careerhoundapp.com/">Career Hound</a> (TechCrunch Disrupt 2013)</h3>
 <iframe width="560" height="315" src="http://www.youtube.com/embed/ZyCO4jckA_U" frameborder="0" allowfullscreen></iframe>
 
+<h3>Organized a dogeball game at TechCrunch Disrupt 2013</h3>
+<div style="width:900px; height:554px;"><script type='text/javascript' src='http://pshared.5min.com/Scripts/PlayerSeed.js?sid=281&width=900&height=554&playList=517760086'></script></div>
+
 <h3>Coca-Cola and Spotify Hackden 2012</h3>
 <iframe width="560" height="315" src="http://www.youtube.com/embed/viP-9KHv1fs" frameborder="0" allowfullscreen></iframe>
 
@@ -20,7 +23,7 @@
 
 <h3><a href="/projects/poachbase">PoachBase</a> (TechCrunch Disrupt 2012)</h3>
 <iframe width="950" height="513" src="http://www.youtube.com/embed/dKhBwHX96-Q?wmode=opaque" frameborder="0" allowfullscreen></iframe>
-<iframe src='http://www.snappytv.com/snap/poachbase-way-to-find-startups-at-risk-of-deadpooling-te-about-techcrunch-disrupt-ny-hackathon-2012-on-techcrunch-disrupt-ny-hackathon?w=900&h=567' frameborder='0' allowFullScreen></iframe>
+<h3>The team backstage after winning 2nd place at TechCrunch Disrupt 2012</h3>
 <object width='950' height='585' id='FiveminPlayer' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000'>
 	<param name='allowfullscreen' value='true'/>
 	<param name='allowScriptAccess' value='always'/>
@@ -40,6 +43,7 @@
 
 <h3><a href="/projects/voronoi-diacam">Voronoi Diacam</a> (Photo Hack Day II 2011)</h3>
 <iframe width="950" height="513" src="http://www.youtube.com/embed/sGxzZ-H4aTA?rel=0?wmode=opaque" frameborder="0" allowfullscreen></iframe>
+<h3>Winning the food eating competition at Photo Hack Day II 2011</h3>
 <iframe width="950" height="513" src="http://www.youtube.com/embed/qPcVn4Im1ck?rel=0?wmode=opaque" frameborder="0" allowfullscreen></iframe>
 
 </div><!--/page-->
