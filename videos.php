@@ -5,6 +5,9 @@
 <p>Here are some videos that I have appeared in. Most of them are from hackathon demos, but there are a couple promo videos such as Coca-Cola &amp; American Express. And I saved the best for last, a food eating contest at a Photo Hack Day... I killed it!</p>
 <hr/>
 
+<h3><a href="http://careerhoundapp.com/">Career Hound</a> (TechCrunch Disrupt 2013)</h3>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/ZyCO4jckA_U" frameborder="0" allowfullscreen></iframe>
+
 <h3>Coca-Cola and Spotify Hackden 2012</h3>
 <iframe width="560" height="315" src="http://www.youtube.com/embed/viP-9KHv1fs" frameborder="0" allowfullscreen></iframe>
 
@@ -17,7 +20,7 @@
 
 <h3><a href="/projects/poachbase">PoachBase</a> (TechCrunch Disrupt 2012)</h3>
 <iframe width="950" height="513" src="http://www.youtube.com/embed/dKhBwHX96-Q?wmode=opaque" frameborder="0" allowfullscreen></iframe>
-<iframe src='http://www.snappytv.com/snap/poachbase-way-to-find-startups-at-risk-of-deadpooling-te-about-techcrunch-disrupt-ny-hackathon-2012-on-techcrunch-disrupt-ny-hackathon?w=900&h=567' width='900' height='567' frameborder='0' scrolling='no' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe src='http://www.snappytv.com/snap/poachbase-way-to-find-startups-at-risk-of-deadpooling-te-about-techcrunch-disrupt-ny-hackathon-2012-on-techcrunch-disrupt-ny-hackathon?w=900&h=567' frameborder='0' allowFullScreen></iframe>
 <object width='950' height='585' id='FiveminPlayer' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000'>
 	<param name='allowfullscreen' value='true'/>
 	<param name='allowScriptAccess' value='always'/>
