@@ -1,5 +1,13 @@
 <?php  $title = 'Domains |'; include '../header.php'; ?>
 
+<section id="intro">
+<div class="container">
+<h2>Articles</h2>
+</div><!--/container-->
+</section>
+<div class="container">
+<div class="page">
+
 <article>
 
 <h2>Domains For Sale</h2>
@@ -75,5 +83,8 @@
 <p class="byline">Last Updated: April 8th, 2013</p>
 
 </article>
+
+</div><!--/page-->
+</div><!--/container-->
 
 <?php include("../footer.php"); ?>

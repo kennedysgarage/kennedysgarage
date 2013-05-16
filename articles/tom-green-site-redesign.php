@@ -1,5 +1,13 @@
 <?php  $title = 'Tom Green Site Redesign |'; include '../header.php'; ?>
 
+<section id="intro">
+<div class="container">
+<h2>Articles</h2>
+</div><!--/container-->
+</section>
+<div class="container">
+<div class="page">
+
 <article>
 
 <h2>Tom Green Site Redesign</h2>
@@ -14,5 +22,8 @@
 <p class="byline">August 1st, 2011 &there4; Kennedy</p>
 
 </article>
+
+</div><!--/page-->
+</div><!--/container-->
 
 <?php include("../footer.php"); ?>

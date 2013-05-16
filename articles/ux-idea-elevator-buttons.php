@@ -1,5 +1,13 @@
 <?php  $title = "UX Idea: Elevator Buttons |"; include '../header.php'; ?>
 
+<section id="intro">
+<div class="container">
+<h2>Articles</h2>
+</div><!--/container-->
+</section>
+<div class="container">
+<div class="page">
+
 <article>
 
 <h2>UX Idea: Elevator Buttons</h2>
@@ -10,5 +18,8 @@
 <p class="byline">January 2nd, 2013 &there4; Kennedy</p>
 
 </article>
+
+</div><!--/page-->
+</div><!--/container-->
 
 <?php include("../footer.php"); ?>

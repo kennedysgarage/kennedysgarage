@@ -1,5 +1,13 @@
 <?php  $title = 'This grapefruit is for you |'; include '../header.php'; ?>
 
+<section id="intro">
+<div class="container">
+<h2>Articles</h2>
+</div><!--/container-->
+</section>
+<div class="container">
+<div class="page">
+
 <article>
 
 <h2>This grapefruit is for you</h2>
@@ -13,5 +21,8 @@
 <p class="byline">March 16th, 2010 &there4; Kennedy</p>
 
 </article>
+
+</div><!--/page-->
+</div><!--/container-->
 
 <?php include("../footer.php"); ?>

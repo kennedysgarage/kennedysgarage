@@ -1,5 +1,13 @@
 <?php  $title = 'Stick to your guns |'; include '../header.php'; ?>
 
+<section id="intro">
+<div class="container">
+<h2>Articles</h2>
+</div><!--/container-->
+</section>
+<div class="container">
+<div class="page">
+
 <article>
 
 <h2>Stick to your guns</h2>
@@ -14,5 +22,8 @@
 <p class="byline">November 27th, 2011 &there4; Kennedy</p>
 
 </article>
+
+</div><!--/page-->
+</div><!--/container-->
 
 <?php include("../footer.php"); ?>

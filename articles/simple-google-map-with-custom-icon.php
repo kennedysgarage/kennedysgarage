@@ -1,5 +1,13 @@
 <?php  $title = 'Simple Google map with custom icon |'; include '../header.php'; ?>
 
+<section id="intro">
+<div class="container">
+<h2>Articles</h2>
+</div><!--/container-->
+</section>
+<div class="container">
+<div class="page">
+
 <article>
 
 <h2>Simple Google map with custom icon</h2>
@@ -94,5 +102,8 @@ infowindow.open(map,companyMarker);
 <p class="byline">August 17th, 2010 &there4; Kennedy</p>
 
 </article>
+
+</div><!--/page-->
+</div><!--/container-->
 
 <?php include("../footer.php"); ?>

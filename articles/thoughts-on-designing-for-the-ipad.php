@@ -1,5 +1,13 @@
 <?php  $title = 'Thoughts on designing for the iPad |'; include '../header.php'; ?>
 
+<section id="intro">
+<div class="container">
+<h2>Articles</h2>
+</div><!--/container-->
+</section>
+<div class="container">
+<div class="page">
+
 <article>
 
 <h2>Thoughts on designing for the iPad</h2>
@@ -29,10 +37,10 @@
 
 <h6>iPad Media Queries</h6>
 <pre><code  class="prettyprint">
-@media screen and (orientation:portrait) {	
+@media screen and (orientation:portrait) {
 }
 
-@media screen and (orientation:landscape) {	
+@media screen and (orientation:landscape) {
 }
 </code></pre>
 
@@ -56,5 +64,8 @@
 <p class="byline">February 4th, 2011 &there4; Kennedy</p>
 
 </article>
+
+</div><!--/page-->
+</div><!--/container-->
 
 <?php include("../footer.php"); ?>

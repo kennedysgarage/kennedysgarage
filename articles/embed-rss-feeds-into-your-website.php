@@ -1,5 +1,13 @@
 <?php  $title = 'Embed RSS Feeds into your website |'; include '../header.php'; ?>
 
+<section id="intro">
+<div class="container">
+<h2>Articles</h2>
+</div><!--/container-->
+</section>
+<div class="container">
+<div class="page">
+
 <article>
 
 <h2>Embed RSS Feeds into your website</h2>
@@ -42,7 +50,7 @@ google.load(&quot;feeds&quot;, &quot;1&quot;);
 
 <h3>onLoad</h3>
 <pre class="prettyprint linenums">
-function OnLoad() 
+function OnLoad()
 </pre>
 <p>The onLoad event handler is used to call the execution of JavaScript after the page has completely loaded. Basically it will run the script after the page is loaded.</p>
 
@@ -125,5 +133,8 @@ google.setOnLoadCallback(OnLoad);
 <p class="byline">January 12th, 2011 &there4; Kennedy</p>
 
 </article>
+
+</div><!--/page-->
+</div><!--/container-->
 
 <?php include("../footer.php"); ?>

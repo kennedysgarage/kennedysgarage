@@ -1,5 +1,13 @@
 <?php  $title = "Time is more valuable than money |"; include '../header.php'; ?>
 
+<section id="intro">
+<div class="container">
+<h2>Articles</h2>
+</div><!--/container-->
+</section>
+<div class="container">
+<div class="page">
+
 <article>
   <h2>Time is more valuable than money</h2>
   <p>You can always earn more money, but never more time. Time is always draining from our lives. You can never get time back.</p>
@@ -9,5 +17,8 @@
   <p>Be wise with your time and really try to think about how you are spending it. Make sure you put a little a side for investing. Things such as family, education, traveling, and just plain living. Enjoy it.</p>
   <p class="byline">February 7th, 2013 &there4; Kennedy</p>
 </article>
+
+</div><!--/page-->
+</div><!--/container-->
 
 <?php include("../footer.php"); ?>

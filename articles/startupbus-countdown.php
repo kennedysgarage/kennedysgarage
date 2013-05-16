@@ -1,12 +1,20 @@
 <?php  $title = 'StartupBus Countdown |'; include '../header.php'; ?>
 
+<section id="intro">
+<div class="container">
+<h2>Articles</h2>
+</div><!--/container-->
+</section>
+<div class="container">
+<div class="page">
+
 <article>
 
 <h2>StartupBus Countdown</h2>
 
 <p>I just wanted to share some insights to days before the bus ride. It will help help me remember all the details. </p>
 <h4>T-6 Days:</h4>
-<p>I start of the day meeting some other Buspreneurs. <a href="http://twitter.com/kristenbyers">Kristen Byers</a>, <a href="http://twitter.com/LuDoan">Lu Doan</a> &#038; <a href="http://twitter.com/geeosh">Josh Schwartzman</a>. We are tasked with creating the 2011 StartupBus website, for the most part there is a solid foundation built by <a href="http://twitter.com/duhoang">Du</a>. We have been mostly communicating via <a href="http://www.skype.com/">Skype</a> &amp; <a href="https://convore.com">convore</a>. We are all kind of just hacking things together at this point and looking over each others wireframes for different parts of the site. Of course I have handed out a few <a href="http://forrst.com/">Forrst</a> invites to a few fellow Buspreneurs. </p>				
+<p>I start of the day meeting some other Buspreneurs. <a href="http://twitter.com/kristenbyers">Kristen Byers</a>, <a href="http://twitter.com/LuDoan">Lu Doan</a> &#038; <a href="http://twitter.com/geeosh">Josh Schwartzman</a>. We are tasked with creating the 2011 StartupBus website, for the most part there is a solid foundation built by <a href="http://twitter.com/duhoang">Du</a>. We have been mostly communicating via <a href="http://www.skype.com/">Skype</a> &amp; <a href="https://convore.com">convore</a>. We are all kind of just hacking things together at this point and looking over each others wireframes for different parts of the site. Of course I have handed out a few <a href="http://forrst.com/">Forrst</a> invites to a few fellow Buspreneurs. </p>
 <h4>T-5 Days:</h4>
 <p>Purchased my plane ticket (AUS &#9992; ORD &#9992; LGA) today, so thanks to all my sponsors for that. I also realized that I will be on a bus in 5 day. I do not know if I am mentally prepared for what is about to happen. I am currently just going with the flow and wishing I had nothing else to do but brush up on some skills. All day I keep thinking of everything I need to make this trip happen. I need fonts, patterns, random files, make sure everything is updated, backup and it goes on. I am also helping finish up the 2011 Startupbus site. Late last night we decided to change direction on the overall look of the pages. I am pretty excited for this new change. I have also been building great relationships with the other Buspreneurs which is pretty amazing in itself. </p>
 <h4>T-4 Days:</h4>
@@ -22,5 +30,8 @@
 <p class="byline">March 7th, 2011 &there4; Kennedy</p>
 
 </article>
+
+</div><!--/page-->
+</div><!--/container-->
 
 <?php include("../footer.php"); ?>

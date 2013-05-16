@@ -1,5 +1,13 @@
 <?php  $title = 'WordPress different file extensions |'; include '../header.php'; ?>
 
+<section id="intro">
+<div class="container">
+<h2>Articles</h2>
+</div><!--/container-->
+</section>
+<div class="container">
+<div class="page">
+
 <article>
 
 <h2>WordPress different file extensions</h2>
@@ -18,5 +26,8 @@ return $existing_mimes;
 <p class="byline">April 11th, 2011 &there4; Kennedy</p>
 
 </article>
+
+</div><!--/page-->
+</div><!--/container-->
 
 <?php include("../footer.php"); ?>

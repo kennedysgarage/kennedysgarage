@@ -1,7 +1,15 @@
 <?php  $title = 'CSS for Sarcasm |'; include '../header.php'; ?>
 
+<section id="intro">
+<div class="container">
+<h2>Articles</h2>
+</div><!--/container-->
+</section>
+<div class="container">
+<div class="page">
+
 <article>
-	
+
 <h2>CSS for Sarcasm</h2>
 <p>Communication on the internet is great, but sometimes it is hard to get your tone across. Ever since <a href="https://twitter.com/#!/gf3">@gf3</a> proposed it to the <a href="https://twitter.com/#!/w3c">@W3C</a> I wanted a way to do it.</p>
 
@@ -34,6 +42,9 @@
 <p class="byline">March 13th, 2012 &there4; Kennedy</p>
 
 </article>
+
+</div><!--/page-->
+</div><!--/container-->
 
 <script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <?php include("../footer.php"); ?>

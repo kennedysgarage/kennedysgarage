@@ -1,5 +1,13 @@
 <?php  $title = 'iPad Photo Credit |'; include '../header.php'; ?>
 
+<section id="intro">
+<div class="container">
+<h2>Articles</h2>
+</div><!--/container-->
+</section>
+<div class="container">
+<div class="page">
+
 <article>
 
 <h2>iPad Photo Credit</h2>
@@ -73,5 +81,8 @@ $(&quot;.imgcredit img&quot;).bind(event, function(e) { // this would normally b
 <p class="byline">June 7th, 2011 &there4; Kennedy</p>
 
 </article>
+
+</div><!--/page-->
+</div><!--/container-->
 
 <?php include("../footer.php"); ?>

@@ -1,5 +1,13 @@
 <?php  $title = 'Education |'; include '../header.php'; ?>
 
+<section id="intro">
+<div class="container">
+<h2>Articles</h2>
+</div><!--/container-->
+</section>
+<div class="container">
+<div class="page">
+
 <article>
 
 <h2>Education</h2>
@@ -25,7 +33,7 @@ Course Number: CS106A<br/>
 Instructor: Julie Zelenski<br/>
 Term: N/A<br/>
 Cost: Free<br/>
-Links: <a href="http://see.stanford.edu/see/courseInfo.aspx?coll=11f4f422-5670-4b4c-889c-008262e09e4e">Course</a> | <a href="http://itunes.apple.com/itunes-u/programming-abstractions/id384232917">iTunes</a> | <a href="http://www.youtube.com/playlist?list=PLFE6E58F856038C69&feature=plcp">YouTube</a> 
+Links: <a href="http://see.stanford.edu/see/courseInfo.aspx?coll=11f4f422-5670-4b4c-889c-008262e09e4e">Course</a> | <a href="http://itunes.apple.com/itunes-u/programming-abstractions/id384232917">iTunes</a> | <a href="http://www.youtube.com/playlist?list=PLFE6E58F856038C69&feature=plcp">YouTube</a>
 </p>
 
 <p>
@@ -35,7 +43,7 @@ Course Number: CS106B<br/>
 Instructor: Mehran Sahami<br/>
 Term: N/A<br/>
 Cost: Free<br/>
-Links: <a href="http://see.stanford.edu/see/courseInfo.aspx?coll=824a47e1-135f-4508-a5aa-866adcae1111">Course</a> | <a href="http://itunes.apple.com/itunes-u/programming-methodology/id384232896">iTunes</a> | <a href="http://www.youtube.com/playlist?list=PL84A56BC7F4A1F852&feature=plcp">YouTube</a> 
+Links: <a href="http://see.stanford.edu/see/courseInfo.aspx?coll=824a47e1-135f-4508-a5aa-866adcae1111">Course</a> | <a href="http://itunes.apple.com/itunes-u/programming-methodology/id384232896">iTunes</a> | <a href="http://www.youtube.com/playlist?list=PL84A56BC7F4A1F852&feature=plcp">YouTube</a>
 </p>
 
 <p>
@@ -45,7 +53,7 @@ Course Number: CS107<br/>
 Instructor: Jerry Cain<br/>
 Term: N/A<br/>
 Cost: Free<br/>
-Links: <a href="http://scpd.stanford.edu/search/publicCourseSearchDetails.do?method=load&courseId=11710">Course</a> | <a href="http://itunes.apple.com/itunes-u/programming-paradigms/id384233005">iTunes</a> | <a href="http://www.youtube.com/playlist?list=PL9D558D49CA734A02">YouTube</a> 
+Links: <a href="http://scpd.stanford.edu/search/publicCourseSearchDetails.do?method=load&courseId=11710">Course</a> | <a href="http://itunes.apple.com/itunes-u/programming-paradigms/id384233005">iTunes</a> | <a href="http://www.youtube.com/playlist?list=PL9D558D49CA734A02">YouTube</a>
 </p>
 
 <p>
@@ -112,5 +120,8 @@ Author: Charles Petzold<br/>
 <p class="byline">February 29th, 2012 &there4; Kennedy</p>
 
 </article>
+
+</div><!--/page-->
+</div><!--/container-->
 
 <?php include("../footer.php"); ?>

@@ -17,7 +17,7 @@
 
 
 	<link rel="shortcut icon" href="/favicon.png">
-	<link href='http://fonts.googleapis.com/css?family=Vollkorn' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Vollkorn:400,700' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" href="/style/css/style.css">
 	<script src="/js/modernizr.min.js"></script>
 	<script type="text/javascript">
@@ -34,7 +34,10 @@
 </head>
 <body>
 
+
 <header class="clearfix">
+<div class="container">
+
 	<h1><a href="/"><img src="/img/k.png"></a></h1>
 	<nav>
 		<ul>
@@ -44,7 +47,6 @@
 			<li><a href="/videos">Videos</a></li>
 		</ul>
 	</nav>
-</header>
 
-<div class="page-wrap">
-<div class="container">
+</div><!--/container-->
+</header>

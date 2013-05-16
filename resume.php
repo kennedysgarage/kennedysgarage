@@ -1,8 +1,14 @@
 <?php  $title = 'Resume |'; include 'header.php'; ?>
 
-<div id="page" class="clearfix">
-
-<div id="resume">
+<div class="resume">
+	<section id="intro">
+		<div class="container">
+			<h2>R&eacute;sum&eacute;</h2>
+		</div><!--/container-->
+	</section>
+	<div class="container">
+		<div class="page">
+			<section class="content">
 
 		<div class="g1">
 			<figure>
@@ -14,7 +20,11 @@
 			<p>I am currently looking for full time position and taking on freelance projects as they come. Checkout out a full list of all the projects, hackathons, events, speeches, honors, and what I have coming up on my <a href="https://www.statuschart.com/kennedysgarage">Status Chart</a>.</p>
 		</div><!--/g3-->
 
+
 		<hr/>
+
+		<div class="g4">
+
 
 		<p class="position">Co-Founder in New York, NY <span>September 2012 - Present</span></p>
 		<p class="company"><a href="https://www.statuschart.com/">Status Chart</a></p>
@@ -114,8 +124,11 @@
 
 		<a href="/ChristopherKennedy.pdf" class="btn">Download my r&eacute;sum&eacute;</a>
 
-</div><!--/resume-->
+	</div><!--/g4-->
 
-</div><!--/page-->
+			</section>
+		</div><!--/page-->
+	</div><!--/container-->
+</div><!--/about-->
 
 <?php include("footer.php"); ?>

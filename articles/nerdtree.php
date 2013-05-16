@@ -1,5 +1,13 @@
 <?php  $title = 'NERDTree |'; include '../header.php'; ?>
 
+<section id="intro">
+<div class="container">
+<h2>Articles</h2>
+</div><!--/container-->
+</section>
+<div class="container">
+<div class="page">
+
 <article>
 
 <h2>NERDTree</h2>
@@ -103,11 +111,11 @@ vim ~/.vimrc
 </pre>
 <p>Then add this to the file.</p>
 <pre class="prettyprint linenums">
-"Show hidden files in NerdTree  
+"Show hidden files in NerdTree
 let NERDTreeShowHidden=1
 
-"autopen NERDTree and focus cursor in new document  
-autocmd VimEnter * NERDTree  
+"autopen NERDTree and focus cursor in new document
+autocmd VimEnter * NERDTree
 autocmd VimEnter * wincmd p
 </pre>
 
@@ -116,5 +124,8 @@ autocmd VimEnter * wincmd p
 <p class="byline">January 15th, 2012 &there4; Kennedy</p>
 
 </article>
+
+</div><!--/page-->
+</div><!--/container-->
 
 <?php include("../footer.php"); ?>

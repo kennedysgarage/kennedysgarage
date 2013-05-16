@@ -1,7 +1,15 @@
 <?php  $title = 'Testing Twitter Ads |'; include '../header.php'; ?>
 
+<section id="intro">
+<div class="container">
+<h2>Articles</h2>
+</div><!--/container-->
+</section>
+<div class="container">
+<div class="page">
+
 <article>
-	
+
 <h2>Testing Twitter Ads</h2>
 
 <p>I was recently invited by <a href="https://ads.twitter.com/">Twitter Ads</a> to promote my account. The offer was to try it without spending a dime with $50 in free advertising. I thought I would share the experience.</p>
@@ -13,6 +21,9 @@
 <p class="byline">June 2nd, 2012 &there4; Kennedy</p>
 
 </article>
+
+</div><!--/page-->
+</div><!--/container-->
 
 <script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <?php include("../footer.php"); ?>

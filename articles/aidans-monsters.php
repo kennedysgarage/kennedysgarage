@@ -1,5 +1,13 @@
 <?php  $title = "Aidan's Monsters |"; include '../header.php'; ?>
 
+<section id="intro">
+<div class="container">
+<h2>Articles</h2>
+</div><!--/container-->
+</section>
+<div class="container">
+<div class="page">
+
 <article>
   <h2>Aidan's Monsters</h2>
   <h3>You want to do something good today?</h3>
@@ -7,5 +15,9 @@
   <p><img src="/articles/assets/aidans-monsters/gillman.jpg"/></p>
   <p class="byline">October 27th, 2010 &there4; Kennedy</p>
 </article>
+
+
+</div><!--/page-->
+</div><!--/container-->
 
 <?php include("../footer.php"); ?>

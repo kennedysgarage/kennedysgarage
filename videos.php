@@ -1,9 +1,17 @@
 <?php  $title = 'Videos |'; include 'header.php'; ?>
-<div id="page" class="clearfix videos">
 
-<h2>Videos</h2>
+<div class="videos">
+    <section id="intro">
+        <div class="container">
+            <h2>Videos</h2>
+        </div><!--/container-->
+    </section>
+    <div class="container">
+        <div class="page">
+            <section class="content">
+
+<div class="g4">
 <p>Here are some videos that I have appeared in. Most of them are from hackathon demos, but there are a couple promo videos such as Coca-Cola &amp; American Express. And I saved the best for last, a food eating contest at a Photo Hack Day... I killed it!</p>
-<hr/>
 
 <h3><a href="http://careerhoundapp.com/">Career Hound</a> (TechCrunch Disrupt 2013)</h3>
 <iframe width="560" height="315" src="http://www.youtube.com/embed/ZyCO4jckA_U" frameborder="0" allowfullscreen></iframe>
@@ -46,5 +54,12 @@
 <h3>Winning the food eating competition at Photo Hack Day II 2011</h3>
 <iframe width="950" height="513" src="http://www.youtube.com/embed/qPcVn4Im1ck?rel=0?wmode=opaque" frameborder="0" allowfullscreen></iframe>
 
-</div><!--/page-->
+</div><!--/g4-->
+
+            </section>
+        </div><!--/page-->
+    </div><!--/container-->
+</div><!--/about-->
+
+
 <?php include("footer.php"); ?>

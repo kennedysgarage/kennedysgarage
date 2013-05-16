@@ -1,5 +1,13 @@
 <?php  $title = 'Tweet Grenade |'; include '../header.php'; ?>
 
+<section id="intro">
+<div class="container">
+<h2>Articles</h2>
+</div><!--/container-->
+</section>
+<div class="container">
+<div class="page">
+
 <article>
 
 <h2>Tweet Grenade</h2>
@@ -17,5 +25,8 @@
 <p class="byline">July 9th, 2011 &there4; Kennedy</p>
 
 </article>
+
+</div><!--/page-->
+</div><!--/container-->
 
 <?php include("../footer.php"); ?>

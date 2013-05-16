@@ -1,5 +1,13 @@
 <?php  $title = "What is Email? |"; include '../header.php'; ?>
 
+<section id="intro">
+<div class="container">
+<h2>Articles</h2>
+</div><!--/container-->
+</section>
+<div class="container">
+<div class="page">
+
 <article>
   <h2>What is Email?</h2>
   <p>I really haven't thought about it before, but I can tell you that I pretty much hate it. I have about 100 emails from the past week that I have haven't responded to. To properly respond to everyone it is going to take a least a full day. I will most likely spend a few hours each day responding to those emails and whatever else comes in. Generally I am in my own world building something and never notice that I have a new email. This is where I start the pattern of being behind.</p>
@@ -8,5 +16,8 @@
   <p>Let us change what email is and make it more meaningful. Let us create a dialog. Let us get to the point and make each other's life a bit easier.</p>
   <p class="byline">February 25th, 2013 &there4; Kennedy</p>
 </article>
+
+</div><!--/page-->
+</div><!--/container-->
 
 <?php include("../footer.php"); ?>

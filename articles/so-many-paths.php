@@ -1,5 +1,13 @@
 <?php  $title = "So Many Paths |"; include '../header.php'; ?>
 
+<section id="intro">
+<div class="container">
+<h2>Articles</h2>
+</div><!--/container-->
+</section>
+<div class="container">
+<div class="page">
+
 <article>
   <h2>So Many Paths</h2>
   <p>I am in a bit of a funk right now and I mostly blame it on not knowing what I want to do with my life or even what I want out of it. I'm happily married, live in an awesome place with a great view, making decent money, and successful in my own eyes. The only real goal I have ever had was to be rich, not to buy things, but to be free.</p>
@@ -10,5 +18,8 @@
   <p>I am sure this is a normal feeling when someone puts so much pressure on themselves. And I am sure I will get over it. There is so much to do and so much to learn in such a little time. Maybe there is some magic calculation of opportunity cost vs time vs risk vs satisfaction. Or maybe I just need to have another beer.</p>
   <p class="byline">April 22th, 2013 &there4; Kennedy</p>
 </article>
+
+</div><!--/page-->
+</div><!--/container-->
 
 <?php include("../footer.php"); ?>

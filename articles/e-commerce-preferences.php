@@ -1,5 +1,13 @@
 <?php  $title = 'E-commerce preferences from the best |'; include '../header.php'; ?>
 
+<section id="intro">
+<div class="container">
+<h2>Articles</h2>
+</div><!--/container-->
+</section>
+<div class="container">
+<div class="page">
+
 <article>
 
 <h2>E-commerce preferences from the best</h2>
@@ -180,5 +188,8 @@ FoxyCart can easily integrate with any CMS, and doesn't require any elaborate se
 <p class="byline">July 18th, 2010 &there4; Kennedy</p>
 
 </article>
+
+</div><!--/page-->
+</div><!--/container-->
 
 <?php include("../footer.php"); ?>

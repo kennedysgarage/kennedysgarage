@@ -1,5 +1,13 @@
 <?php  $title = 'Image Replacement |'; include '../header.php'; ?>
 
+<section id="intro">
+<div class="container">
+<h2>Articles</h2>
+</div><!--/container-->
+</section>
+<div class="container">
+<div class="page">
+
 <article>
 
 <h2>Image Replacement</h2>
@@ -30,10 +38,13 @@
 </pre>
 
 <p>Lets start where I started: <a href="http://www.w3.org/">W3C</a>. Whenever I want to know something more about HTML &amp; CSS I head over to W3C. Now granted they don't have tutorials on how to do something like this, but they do have a source code to view. I can only imagine that who ever built the site know their stuff. So after reviewing their code I decided to use it as my foundation. The only major difference between the two is how the image is being called.</p>
-<p>The main reason why I like this method is that if the user has images disabled the text will still be their. Unlike the -999px method, where the text is no where in sight. Now the flip side to that is what if the user has the CSS disabled. Well, it will show both the image and text. Which brings me to a strange question, who browses with CSS turned off? If they are browsing with the CSS disabled, wouldn't they have images disabled to? Anyways I hope this helps.</p>				
+<p>The main reason why I like this method is that if the user has images disabled the text will still be their. Unlike the -999px method, where the text is no where in sight. Now the flip side to that is what if the user has the CSS disabled. Well, it will show both the image and text. Which brings me to a strange question, who browses with CSS turned off? If they are browsing with the CSS disabled, wouldn't they have images disabled to? Anyways I hope this helps.</p>
 
 <p class="byline">October 24th, 2011 &there4; Kennedy</p>
 
 </article>
+
+</div><!--/page-->
+</div><!--/container-->
 
 <?php include("../footer.php"); ?>

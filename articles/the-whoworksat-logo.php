@@ -1,5 +1,13 @@
 <?php  $title = "The WhoWorks.At Logo |"; include '../header.php'; ?>
 
+<section id="intro">
+<div class="container">
+<h2>Articles</h2>
+</div><!--/container-->
+</section>
+<div class="container">
+<div class="page">
+
 <article>
 
 <h2>The WhoWorks.At Logo</h2>
@@ -14,5 +22,8 @@
 <p class="byline">January 4th, 2013 &there4; Kennedy</p>
 
 </article>
+
+</div><!--/page-->
+</div><!--/container-->
 
 <?php include("../footer.php"); ?>
