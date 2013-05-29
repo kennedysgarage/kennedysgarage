@@ -37,16 +37,16 @@
       <div class="g2">
         <h3>Current Side Project</h3>
 
-        <a href=""><img src="/projects/assets/statuschart/hero.png"/></a>
+        <a href="/projects/statuschart"><img src="/projects/assets/statuschart/hero.png"/></a>
           <h4>Status Chart</h4>
           <p>I am currently building the simplest way for the tech community to track and share their professional milestones.</p>
         </div><!--/g2-->
 
         <div class="g2">
           <h3>Latest Article</h3>
-          <a href=""><img src="/articles/assets/so-many-paths/hero.png"/></a>
-          <h4>So Many Paths</h4>
-          <p>I am in a bit of a funk right now and I mostly blame it on not knowing what I want to do with my life or even what I want out of it.</p>
+          <a href="/articles/fake-it-till-you-make-it"><img src="/articles/assets/fake-it-till-you-make-it/hero.png"/></a>
+          <h4>Fake it till you make it</h4>
+          <p>Eventually you are going to actually fake it until you made it. Then what?</p>
         </div><!--/g2-->
 
 

@@ -14,10 +14,10 @@
 
   <li>
     <div class="g2">
-      <a href="/articles/fake-it-tell-you-make-it"><img src="/articles/assets/workingonit.gif"/></a>
+      <a href="/articles/fake-it-till-you-make-it"><img src="/articles/assets/fake-it-till-you-make-it/hero.png"/></a>
     </div>
     <div class="g2">
-      <h2><a href="/articles/fake-it-tell-you-make-it">Fake it tell you make it</a></h2>
+      <h2><a href="/articles/fake-it-till-you-make-it">Fake it till you make it</a></h2>
       <p>Eventually you are going to actually fake it until you made it. Then what?</p>
       <p class="byline">May 24th, 2013 &there4; Kennedy</p>
     </div>
