@@ -1,6 +1,5 @@
 <?php  $title = 'RO |'; include '../header.php'; ?>
 
-<div class="project">
   <section id="intro">
     <div class="container">
       <h2>RO</h2>
@@ -10,11 +9,11 @@
     <div class="page">
       <div class="hero"><span><img src="/projects/assets/ro/hero.png"/></span></div>
 
-      <section class="content">
+      <div class="content">
 
-        <div class="g3">
+        <div class="g3 description">
           <h3>Project Description</h3>
-          <p></p>
+          <p>I create a this logo for a friend of mine. I was just playing around one day with his initials and the Bookman JF font, five minutes later I was finished. Not all jobs require a lot of time.</p>
         </div><!--/g3-->
         <div class="g1 role">
           <h3>My Role</h3>
@@ -27,10 +26,9 @@
 
         </div><!--/g4-->
 
-      </section><!--/content-->
+      </div><!--/content-->
 
     </div><!--/page-->
   </div><!--/container-->
-</div><!--/project-->
 
 <?php include("../footer.php"); ?>

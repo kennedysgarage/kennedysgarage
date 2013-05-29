@@ -1,6 +1,5 @@
 <?php  $title = 'Kristina St. Peter |'; include '../header.php'; ?>
 
-<div class="project">
   <section id="intro">
     <div class="container">
       <h2>Kristina St. Peter</h2>
@@ -11,11 +10,11 @@
     <div class="page">
       <div class="hero"><span><img src="/projects/assets/kristinastpeter/hero.png"/></span></div>
 
-      <section class="content">
+      <div class="content">
 
-        <div class="g3">
+        <div class="g3 description">
           <h3>Project Description</h3>
-          <p>Kristina works with me at Grade Spotter as Public Relations Coordinator. As a graduation gift I decided to build her a website. She is currently looking for a full-time job out in California.</p>
+          <p>Kristina worked for me at <a href="/projects/grade-spotter">Grade Spotter</a> as our Public Relations Coordinator. As a graduation gift I decided to build her a website to help look for a job out West. She is now happily living and working in California.</p>
         </div><!--/g3-->
         <div class="g1 role">
           <h3>My Role</h3>
@@ -26,13 +25,14 @@
         </div><!--/g1-->
 
         <div class="g4">
-
+          <h3>Website</h3>
+          <p>The website is pretty dead simple. It was build to be her r&eacute;sum&eacute; online and give a way for others to contact her. It is responsive and looks great on mobile and tablet devices too.</p>
+          <img src="/projects/assets/kristinastpeter/website.png" class="poppop"/>
         </div><!--/g4-->
 
-      </section><!--/content-->
+      </div><!--/content-->
 
     </div><!--/page-->
   </div><!--/container-->
-</div><!--/project-->
 
 <?php include("../footer.php"); ?>

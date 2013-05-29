@@ -1,11 +1,15 @@
 <?php  $title = 'Freelance |'; include 'header.php'; ?>
 
-<div class="container">
-<div id="page">
-<div id="content">
-<article>
+<section id="intro">
+    <div class="container">
+      <h2>Freelance</h2>
+    </div><!--/container-->
+  </section>
+  <div class="container">
+    <div class="page">
+      <section class="content">
 
-<h2>Freelance</h2>
+
 <p class="hire-title">I would like to build you a website</p>
 <p class="hire-intro">Lets work together to build an amazing product that you can be proud of. We can just brainstorm or we can build an entire project together. I can travel to you locally or we can work together online. </p>
 
@@ -57,9 +61,8 @@
 <p>Contact me at <span>347-688-8864</span> or <span><a href="#">kennedysgarage@gmail.com</a></span></p>
 </div>
 
-</article>
-</div><!--/content-->
-</div><!--/page-->
-</div><!--/container-->
+      </section><!--/content-->
+    </div><!--/page-->
+  </div><!--/container-->
 
 <?php include("footer.php"); ?>

@@ -1,12 +1,10 @@
 <?php  $title = "So Many Paths |"; include '../header.php'; ?>
 
-<section id="intro">
-<div class="container">
-<h2>Articles</h2>
-</div><!--/container-->
-</section>
+<section id="intro"><div class="container"><h2>Articles</h2></div></section>
+
 <div class="container">
 <div class="page">
+  <div class="hero"><span><img src="/articles/assets/so-many-paths/hero.png"/></span></div>
 
 <article>
   <h2>So Many Paths</h2>
@@ -16,10 +14,11 @@
   <p>The greatest thing about our field is that there is always something new to learn and better ways to improve our skills. What do I want to learn and improve on today? iOS design, Quartz Composer, Rails, JavaScript, illustrator, svg, typography, business models, lean methodology, Wordpress, basic spelling &amp; grammar, marketing, taxes, raising money, and everything else in between? I sometimes feel this is also the worse part of our field.</p>
   <p>I ofter wonder if I should be a master of one or a jack of all trades. I think to myself I would love to be a master of a few, but I know deep down I want to know and do everything.</p>
   <p>I am sure this is a normal feeling when someone puts so much pressure on themselves. And I am sure I will get over it. There is so much to do and so much to learn in such a little time. Maybe there is some magic calculation of opportunity cost vs time vs risk vs satisfaction. Or maybe I just need to have another beer.</p>
-  <p class="byline">April 22th, 2013 &there4; Kennedy</p>
+  <p class="byline">April 22th, 2013</p>
 </article>
 
 </div><!--/page-->
 </div><!--/container-->
+</div><!--/article-->
 
 <?php include("../footer.php"); ?>

@@ -1,12 +1,10 @@
 <?php  $title = "Time is more valuable than money |"; include '../header.php'; ?>
 
-<section id="intro">
-<div class="container">
-<h2>Articles</h2>
-</div><!--/container-->
-</section>
+<section id="intro"><div class="container"><h2>Articles</h2></div></section>
+
 <div class="container">
 <div class="page">
+  <div class="hero"><span><img src="/articles/assets/time-is-more-valuable-than-money/hero.png"/></span></div>
 
 <article>
   <h2>Time is more valuable than money</h2>

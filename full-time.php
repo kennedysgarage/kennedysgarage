@@ -1,10 +1,14 @@
 <?php  $title = 'Full Time |'; include 'header.php'; ?>
 
-<div class="container">
-<div id="page">
-<div id="content">
-<article>
-		<h2>Full Time</h2>
+<section id="intro">
+    <div class="container">
+      <h2>Full Time</h2>
+    </div><!--/container-->
+  </section>
+  <div class="container">
+    <div class="page">
+      <section class="content">
+
 
 
 	<p class="hire-title">A professional that loves his career</p>
@@ -38,9 +42,8 @@
 	<p>Contact me at <span>347-688-8864</span> or <span><a href="#">kennedysgarage@gmail.com</a></span></p>
 </div>
 
-</article>
-</div><!--/content-->
-</div><!--/page-->
-</div><!--/container-->
+      </section><!--/content-->
+    </div><!--/page-->
+  </div><!--/container-->
 
 <?php include("footer.php"); ?>

@@ -1,6 +1,5 @@
 <?php  $title = 'PoachBase |'; include '../header.php'; ?>
 
-<div class="project">
   <section id="intro">
     <div class="container">
       <h2>PoachBase</h2>
@@ -11,11 +10,30 @@
     <div class="page">
       <div class="hero"><span><img src="/projects/assets//hero.png"/></span></div>
 
-      <section class="content">
+      <div class="content">
+
+        <div class="g3 description">
+          <h3>Project Description</h3>
+          <p></p>
+        </div><!--/g3-->
+        <div class="g1 role">
+          <h3>My Role</h3>
+          <ul>
+            <li><i class="ss-icon">&#x2713;</i> Hacker</li>
+            <li><i class="ss-icon">&#x2713;</i> Designer</li>
+          </ul>
+        </div><!--/g1-->
+
         <div class="g4">
             <p>We won second place at the 2012 TechCrunch Disrupt Hackathon. We had one hell of a team <a href="http://twitter.com/#!/jeffnovich">@jeffnovich</a>, <a href="http://twitter.com/#!/JananR">@JananR</a>, <a href="http://twitter.com/#!/kennedysgarage">@kennedysgarage</a>, <a href="http://twitter.com/#!/porlando">@porlando</a>, <a href="http://twitter.com/#!/pencilking2002">@pencilking2002</a> to make it all possible.</p>
+          </div><!--/g4-->
 
+            <div class="g2"><img src="/projects/assets/poachbase/stage.png"/></div>
+            <div class="g2"><img src="/projects/assets/poachbase/screen.png"/></div>
+            <div class="g2"><img src="/projects/assets/poachbase/seat.png"/></div>
+            <div class="g2"><img src="/projects/assets/poachbase/lookingatthem.png"/></div>
 
+            <div class="g4">
             <h3>Videos</h3>
             <iframe width="950" height="513" src="http://www.youtube.com/embed/dKhBwHX96-Q?wmode=opaque" frameborder="0" allowfullscreen></iframe>
 
@@ -37,16 +55,10 @@
             <!--<li><a href=""><strong></strong>- </a></li>-->
             </ul>
 
-            <h3>Images</h3>
-            <img src="/projects/assets/poachbase/stage.png"/>
-            <img src="/projects/assets/poachbase/seat.png"/>
-            <img src="/projects/assets/poachbase/screen.png"/>
-            <img src="/projects/assets/poachbase/lookingatthem.png"/>
         </div><!--/g4-->
-      </section><!--/content-->
+      </div><!--/content-->
 
     </div><!--/page-->
   </div><!--/container-->
-</div><!--/project-->
 
 <?php include("../footer.php"); ?>

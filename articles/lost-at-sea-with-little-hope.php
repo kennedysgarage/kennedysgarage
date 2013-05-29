@@ -1,12 +1,10 @@
 <?php  $title = 'Lost at sea with little hope |'; include '../header.php'; ?>
 
-<section id="intro">
-<div class="container">
-<h2>Articles</h2>
-</div><!--/container-->
-</section>
+<section id="intro"><div class="container"><h2>Articles</h2></div></section>
+
 <div class="container">
 <div class="page">
+  <div class="hero"><span><img src="/articles/assets/lost-at-sea-with-little-hope/hero.png"/></span></div>
 
 <article>
   <h2>Lost at sea with little hope</h2>

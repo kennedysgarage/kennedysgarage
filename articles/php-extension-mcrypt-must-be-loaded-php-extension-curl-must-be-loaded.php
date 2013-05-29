@@ -1,12 +1,10 @@
 <?php  $title = 'PHP Extension "mcrypt" must be loaded PHP Extension "curl" must be loaded |'; include '../header.php'; ?>
 
-<section id="intro">
-<div class="container">
-<h2>Articles</h2>
-</div><!--/container-->
-</section>
+<section id="intro"><div class="container"><h2>Articles</h2></div></section>
+
 <div class="container">
 <div class="page">
+<div class="hero"><span><img src="/articles/assets/php-extension-mcrypt-must-be-loaded-php-extension-curl-must-be-loaded/hero.png"/></span></div>
 
 <article>
 
@@ -40,5 +38,6 @@
 
 </div><!--/page-->
 </div><!--/container-->
+</div><!--/article-->
 
 <?php include("../footer.php"); ?>

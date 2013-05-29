@@ -1,19 +1,18 @@
 <?php  $title = 'Suit &amp; Axe |'; include '../header.php'; ?>
 
-<div class="project">
   <section id="intro">
     <div class="container">
       <h2>Suit &amp; Axe</h2>
-      <a href="" class="btn">Visit Site <i class="ss-icon">&#x1F4BB;</i></a>
+      <a href="http://suitandaxe.com" class="btn">Visit Site <i class="ss-icon">&#x1F4BB;</i></a>
     </div><!--/container-->
     </section><!--/intro-->
   <div class="container">
     <div class="page">
       <div class="hero"><span><img src="/projects/assets/suitandaxe/hero.png"/></span></div>
 
-      <section class="content">
+      <div class="content">
 
-        <div class="g3">
+        <div class="g3 description">
           <h3>Project Description</h3>
           <p></p>
         </div><!--/g3-->
@@ -26,13 +25,16 @@
         </div><!--/g1-->
 
         <div class="g4">
+          <h3>Website</h3>
 
+          <h3>Logo</h3>
+
+          <h3>T-Shirt</h3>
         </div><!--/g4-->
 
-      </section><!--/content-->
+      </div><!--/content-->
 
     </div><!--/page-->
   </div><!--/container-->
-</div><!--/project-->
 
 <?php include("../footer.php"); ?>

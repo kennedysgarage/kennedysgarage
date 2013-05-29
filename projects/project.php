@@ -1,6 +1,5 @@
 <?php  $title = ' |'; include '../header.php'; ?>
 
-<div class="project">
   <section id="intro">
     <div class="container">
       <h2>ProjectName</h2>
@@ -13,7 +12,7 @@
 
       <section class="content">
 
-        <div class="g3">
+        <div class="g3 description">
           <h3>Project Description</h3>
           <p></p>
         </div><!--/g3-->
@@ -32,6 +31,5 @@
 
     </div><!--/page-->
   </div><!--/container-->
-</div><!--/project-->
 
 <?php include("../footer.php"); ?>

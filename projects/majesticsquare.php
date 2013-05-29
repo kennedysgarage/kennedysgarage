@@ -1,6 +1,5 @@
 <?php  $title = 'Majestic Square |'; include '../header.php'; ?>
 
-<div class="project">
   <section id="intro">
     <div class="container">
       <h2>Majestic Square</h2>
@@ -11,9 +10,9 @@
     <div class="page">
       <div class="hero"><span><img src="/projects/assets/majesticsquare/hero.png"/></span></div>
 
-      <section class="content">
+      <div class="content">
 
-        <div class="g3">
+        <div class="g3 description">
           <h3>Project Description</h3>
           <p></p>
         </div><!--/g3-->
@@ -28,13 +27,12 @@
         </div><!--/g1-->
 
         <div class="g4">
-
+          <h3>Website</h3>
         </div><!--/g4-->
 
-      </section><!--/content-->
+      </div><!--/content-->
 
     </div><!--/page-->
   </div><!--/container-->
-</div><!--/project-->
 
 <?php include("../footer.php"); ?>

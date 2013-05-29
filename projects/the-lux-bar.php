@@ -1,6 +1,5 @@
 <?php  $title = 'Lux |'; include '../header.php'; ?>
 
-<div class="project">
   <section id="intro">
     <div class="container">
       <h2>Lux</h2>
@@ -11,7 +10,7 @@
     <div class="page">
       <div class="hero"><span><img src="/projects/assets//hero.png"/></span></div>
 
-      <section class="content">
+      <div class="content">
         <div class="g4">
             <p>A new bar opened up in Gainesville, FL and it needed a site to reflex its image. To this day this is my favorite bar to go. Great atmosphere, great drinks and an anmazing owner.</p>
             <p><a href="http://www.theluxbar.com">The Lux Bar</a> is a bar located in Gainesville, FL. My now wife and I found about the place from some of our close friends. We where told that this new bar/lounge was built for young professionals and we had to check it out. If any one has lived in Gainesville, FL for any amount of time, knows that most of the night life consist of kids that can drink...too much. The first night we where there Steve Nichtberger, one of the owners, welcomed us to his place with open arms. We where forever grateful of his place.</p>
@@ -23,10 +22,9 @@
             <p>We first started our new relationship with each other with just the idea of a website. It has involved into building his business cards, some promotional flyers, and even setting up some social media like FourSquare.</p>
             <img src="/projects/assets/lux/theluxbar-home.png"/>
         </div><!--/g4-->
-      </section><!--/content-->
+      </div><!--/content-->
 
     </div><!--/page-->
   </div><!--/container-->
-</div><!--/project-->
 
 <?php include("../footer.php"); ?>

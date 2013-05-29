@@ -1,6 +1,5 @@
 <?php  $title = 'Lemonade Stand |'; include '../header.php'; ?>
 
-<div class="project">
   <section id="intro">
     <div class="container">
       <h2>Lemonade Stand</h2>
@@ -10,19 +9,25 @@
     <div class="page">
       <div class="hero"><span><img src="/projects/assets/lmndst/hero.png"/></span></div>
 
-      <section class="content">
-        <div class="g3">
+      <div class="content">
+        <div class="g3 description">
             <h3>Project Description</h3>
-            <p>I was on the <a href="http://startupbus.com">StartupBus</a> and only had 48 hours to complete this project with a <a href="http://startupbus.com/teams/54-lemonade-stand">team of 5 others</a>. I designed the logo and both Android &amp; iPhone UI for our team. All the hard worked help the team reach the semifinals, finishing in the top 12 of 38 teams. After SXSW we where celebrated as an impressive technical achievement at New York Tech Meetup's <a href="http://www.youtube.com/watch?v=DC-AiiclmV0&feature=youtu.be">Hack of the Month</a>.</p>
+            <p>Lemonade Stand is a neighborly commerce platform that enables people to buy and sell goods within a community. Artists, craftspeople and entrepreneurs can share their wares with their neighbors while members of the community can find and buy close to home. An easy way to shop while supporting your local economy and the talent within it- what could be more wholesome?</p>
+            <!-- <p>Lemonade Stand aims to make buying and selling local goods easy, with a simple mobile interface for listing goods and a location-based search.</p> -->
+            <!-- <p><strong>High Concept Pitch</strong>: Craigslist meets Instagram</p> -->
         </div><!--/g3-->
         <div class="g1 role">
             <h3>My Role</h3>
             <ul>
+                <li><i class="ss-icon">&#x2713;</i> Co-Founder</li>
                 <li><i class="ss-icon">&#x2713;</i> iOS Designer</li>
-                <li><i class="ss-icon">&#x2713;</i> Android Desginer</li>
+                <li><i class="ss-icon">&#x2713;</i> Android Designer</li>
                 <li><i class="ss-icon">&#x2713;</i> Logo Designer</li>
             </ul>
         </div><!--/g1-->
+        <div class="g4">
+          <p>I was on the 2011 NYC <a href="http://startupbus.com">StartupBus</a> and only had 48 hours to complete this project with a <a href="http://startupbus.com/teams/54-lemonade-stand">team of 5 others</a>. I designed the logo and both Android &amp; iPhone UI for our team. All the hard worked help the team reach the semifinals, finishing in the top 12 of 38 teams. I was nicknamed "The Machine" for my hard work and dedication.</p>
+        </div><!--/g4-->
         <div class="g2">
             <a href="http://www.flickr.com/photos/kennedysgarage/5864877701/" title="NYTM Hack of the Month by kennedysgarage, on Flickr"><img src="http://farm6.static.flickr.com/5070/5864877701_a999987dc7_z.jpg" alt="NYTM Hack of the Month">
         </div><!--/g2-->
@@ -30,7 +35,23 @@
             <a href="http://www.flickr.com/photos/kennedysgarage/5864873895/" title="TechCrunch Interview by kennedysgarage, on Flickr"  class="last"><img src="http://farm4.static.flickr.com/3178/5864873895_b5b92ef950_z.jpg" alt="TechCrunch Interview"></a>
         </div><!--/g2-->
         <div class="g4">
+          <!-- <h3>Logo</h3> -->
+          <h3>Awards</h3>
+          </div><!--/g4-->
+
+          <div class="g3">
+            <p>After SXSW we where celebrated as an impressive technical achievement and honored with Hack of the Month at <a href="http://www.meetup.com/ny-tech">NY Tech Meetup</a>. We got to present and pitch Lemonade Stand in front of 800+ people in the audience. The video of this is below. <a href="https://twitter.com/craignewmark">Craig Newmark</a>, founder of craigslist.org, was also in the audience that day. Apparently he wasn't happy when we poked fun at the personal ads on craigslist.</p>
+            </div><!--/g2-->
+          <div class="g1">
+            <img src="/img/about/hackofthemonth.png">
+            </div><!--/g2-->
+
+            <div class="g4">
+
+          <h3>Videos</h3>
+            <p>We had to create a video to show off our hack. We decided to do an infomercial. I helped direct and edit this video after being up for 60+ hours with little sleep in between. I was luckily enough to get <a href="https://twitter.com/djkevinquinn">Kevin Quinn</a> to do the voice over work for us.</p>
             <iframe width="950" height="513" src="http://www.youtube.com/embed/sundgftOWGc" frameborder="0" allowfullscreen></iframe>
+            <p>This is the video of us pitching Lemonade Stand at NY Tech Meetup.</p>
             <iframe width="950" height="513" src="http://www.youtube.com/embed/DC-AiiclmV0?wmode=opaque" frameborder="0" allowfullscreen></iframe>
 
             <h3>Press</h3>
@@ -228,13 +249,14 @@
                 </a>
               </li>
             </ul><!--/press-coverage-->
-
             <a href="http://www.flickr.com/photos/kennedysgarage/5864958109/" title="Front page of TechCrunch by kennedysgarage, on Flickr"><img src="http://farm6.static.flickr.com/5072/5864958109_a734af8ef2_b.jpg" width="687" height="458" alt="Front page of TechCrunch"></a>
         </div><!--/g4-->
-      </section><!--/content-->
+
+      <!-- <img src="/img/about/hackofthemonth.png"> -->
+
+      </div><!--/content-->
 
     </div><!--/page-->
   </div><!--/container-->
-</div><!--/project-->
 
 <?php include("../footer.php"); ?>

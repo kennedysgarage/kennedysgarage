@@ -1,6 +1,5 @@
 <?php  $title = 'Kennedy\'s Garage |'; include '../header.php'; ?>
 
-<div class="project">
   <section id="intro">
     <div class="container">
       <h2>Kennedy's Garage</h2>
@@ -11,9 +10,9 @@
     <div class="page">
       <div class="hero"><span><img src="/projects/assets/kennedysgarage/hero.png"/></span></div>
 
-      <section class="content">
+      <div class="content">
 
-        <div class="g3">
+        <div class="g3 description">
           <h3>Project Description</h3>
           <p></p>
         </div><!--/g3-->
@@ -29,10 +28,9 @@
 
         </div><!--/g4-->
 
-      </section><!--/content-->
+      </div><!--/content-->
 
     </div><!--/page-->
   </div><!--/container-->
-</div><!--/project-->
 
 <?php include("../footer.php"); ?>
