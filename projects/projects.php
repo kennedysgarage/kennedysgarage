@@ -17,12 +17,12 @@
                         <p><strong>1-800-GOT-JUNK?</strong> iPhone</p>
                         </a>
                     </div>-->
-                    <div class="g1_5">
+                    <!-- <div class="g1_5">
                         <a href="/projects/bring-your-own-magnum">
                         <img src="/img/projects/bring-your-own-magnum.png"/>
                         <p><strong>Bring Your Own Magnum</strong> Logo</p>
                         </a>
-                    </div>
+                    </div> -->
                     <div class="g1_5">
                         <a href="/projects/ro">
                         <img src="/img/projects/ro.png"/>
