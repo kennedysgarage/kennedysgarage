@@ -35,9 +35,6 @@
                         <p><strong>StartupBus</strong> Foursquare Badge</p>
                         </a>
                     </div>
-
-                    <div class="clear"></div>
-
                     <!-- <div class="g1_5">
                         <a href="/projects/kennedysgarage">
                         <img src="/img/projects/kennedysgarage.png"/>
@@ -50,6 +47,9 @@
                         <p><strong>Status Chart</strong> Website / Logo</p>
                         </a>
                     </div>
+
+                    <div class="clear"></div>
+
                     <div class="g1_5">
                         <a href="/projects/djkevinquinn">
                         <img src="/img/projects/djkevinquinn.png"/>
