@@ -80,10 +80,10 @@
 
   <li>
     <div class="g2">
-      <a href="/articles/thoughts-about-hackathons"><img src="/articles/assets/workingonit.gif"/></a>
+      <a href="/articles/unleash-the-beast-after-thoughts"><img src="/articles/assets/unleash-the-beast-after-thoughts/hero.png"/></a>
     </div>
     <div class="g2">
-    <h2><a href="/articles/thoughts-about-hackathons">Thoughts About Hackathons</a></h2>
+    <h2><a href="/articles/unleash-the-beast-after-thoughts">Unleash the Beast - After Thoughts</a></h2>
     <p>Last night I had the pleasure of speaking on a panel about Hackathons. I wanted to write a little follow up about some thoughts I was not able to express and clear up a few things that I talked about.</p>
     <p class="byline">January 9th, 2013 &there4; Kennedy</p>
   </div>
