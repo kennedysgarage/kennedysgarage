@@ -4,6 +4,7 @@
 
 <div class="container">
 <div class="page">
+  <div class="hero"><span><img src="/articles/assets/droid-2-attack/hero.png"/></span></div>
 
 <article>
 <h2>Droid 2 attack</h2>

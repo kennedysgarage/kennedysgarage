@@ -300,7 +300,7 @@
 
   <li>
     <div class="g2">
-      <a href="/articles/droid-2-attack"><img src="/articles/assets/workingonit.gif"/></a>
+      <a href="/articles/droid-2-attack"><img src="/articles/assets/droid-2-attack/hero.png"/></a>
     </div>
     <div class="g2">
     <h2><a href="/articles/droid-2-attack">Droid 2 attack</a></h2>
