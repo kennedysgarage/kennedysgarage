@@ -106,7 +106,16 @@
               </li>
             </ul><!--/press-coverage-->
 
+            <h3>Pictures</h3>
           </div><!--/g4-->
+
+          <div class="g2">
+            <img src="/projects/assets/statuschart/techdrinkup-tabel.png"/>
+            </div><!--/g2-->
+            <div class="g2">
+            <img src="/projects/assets/statuschart/chalkboardwall.png"/>
+          </div><!--/g2-->
+
         </div><!--/content-->
 
     </div><!--/page-->
