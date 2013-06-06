@@ -28,6 +28,7 @@
           <h3>Website</h3>
           <p>The website is pretty dead simple. It was build to be her r&eacute;sum&eacute; online and give a way for others to contact her. It is responsive and looks great on mobile and tablet devices too.</p>
           <img src="/projects/assets/kristinastpeter/website.png" class="poppop"/>
+          <img src="/projects/assets/kristinastpeter/breeziplaceit81.png" title="Thanks placeit.breezi.com for the hand shot #81"/>
         </div><!--/g4-->
 
       </div><!--/content-->
