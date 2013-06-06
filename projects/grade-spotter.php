@@ -26,6 +26,7 @@
 
         <div class="g4">
           <h3>iPhone App</h3>
+          <img src="/projects/assets/gradespotter/breeziplaceit71.png" title="Thanks placeit.breezi.com for the hand shot #71"/>
         </div><!--/g4-->
           <div class="g2">
             <img src="/projects/assets/gradespotter/iPhone-MapView.png"/>
