@@ -154,12 +154,12 @@
                         <p><strong>Lemonade Stand</strong> Hackathon Project </p>
                         </a>
                     </div>
-                    <!-- <div class="g1_5">
+                    <div class="g1_5">
                         <a href="/projects/mlb">
                         <img src="/img/projects/mlb.png"/>
                         <p><strong>MLB</strong> Design</p>
                         </a>
-                    </div> -->
+                    </div>
                     <!--<div class="g1_5">
                         <a href="/img/projects/use-my-crm">
                         <img src="/img/projects/usemycrm.png"/>

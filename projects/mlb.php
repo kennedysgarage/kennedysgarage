@@ -3,7 +3,6 @@
   <section id="intro">
     <div class="container">
       <h2>MLB</h2>
-      <!-- <a href="http://mlb.com" class="btn">Visit Site <i class="ss-icon">&#x1F4BB;</i></a> -->
     </div><!--/container-->
     </section><!--/intro-->
   <div class="container">
@@ -19,7 +18,7 @@
         <div class="g1 role">
           <h3>My Role</h3>
           <ul>
-            <li><i class="ss-icon">&#x2713;</i> Marketing Producer</li>
+            <li><i class="ss-icon">&#x2713;</i> Marketing Producer <!-- Who the fuck are we kidding, shit title for a glorified secretary. --></li>
             <li><i class="ss-icon">&#x2713;</i> Designer</li>
             <li><i class="ss-icon">&#x2713;</i> Front-end Developer</li>
           </ul>
@@ -27,11 +26,14 @@
 
         <div class="g4">
           <p>The largest site that I have had a chance to work on. Ranked #98 with over 9,000,000 Unique Visitors &amp; 270,000,000 Page Views. It feels pretty good to be trusted with that many loyal fans.</p>
-            <p>I didn't like much of the work I did here, but here are some of my favorites. I was tasked with designing and building all the MLB Fan Clubs for each team.</p>
-          <h3>Website</h3>
-          <img src="/projects/assets/mlb/mlb-phillies-fan-club-landing-page.png"/>
-          <img src="/projects/assets/mlb/mlb-phillies-fan-club-ads.png"/>
-          <img src="/projects/assets/mlb/mlb-min-cuddyer.png"/>
+          <!-- Not the highlight of my career, but it was my first job when I moved to NYC. On the average day I was more or less a glorified secretary for a particular team. I really don't have much to show for the year I was there :( -->
+          <h3>MLB Fan Club</h3>
+          <p>I was tasked with designing and building all the MLB Fan Clubs for each team. These where some of the first pages on the MLB website that used CSS3.</p>
+          <h4>Landing Page</h4>
+          <img src="/projects/assets/mlb/mlb-phillies-fan-club-landing-page.png" class="poppop"/>
+          <h4>Banner Ads</h4>
+          <img src="/projects/assets/mlb/mlb-phillies-fan-club-ads.png" class="poppop"/>
+          <!-- <img src="/projects/assets/mlb/mlb-min-cuddyer.png"/> -->
         </div><!--/g4-->
       </div><!--/content-->
 
