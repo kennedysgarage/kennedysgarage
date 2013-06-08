@@ -11,12 +11,12 @@
         <div class="page">
             <section class="content">
                 <div id="latest">
-                    <!--<div class="g1_5">
+                    <!-- <div class="g1_5">
                         <a href="/projects/1800gotjunk">
                         <img src="/img/projects/1800gotjunk.png"/>
                         <p><strong>1-800-GOT-JUNK?</strong> iPhone</p>
                         </a>
-                    </div>-->
+                    </div> -->
                     <!-- <div class="g1_5">
                         <a href="/projects/bring-your-own-magnum">
                         <img src="/img/projects/bring-your-own-magnum.png"/>
