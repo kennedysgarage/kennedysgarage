@@ -56,6 +56,12 @@
 
                     <div class="clear"></div>
 
+                    <!-- <div class="g1_5">
+                        <a href="/projects/poachbase">
+                        <img src="/img/projects/poachbase.png"/>
+                        <p><strong>PoachBase</strong> Logo</p>
+                        </a>
+                    </div> -->
                     <div class="g1_5">
                         <a href="/projects/djkevinquinn">
                         <img src="/img/projects/djkevinquinn.png"/>
