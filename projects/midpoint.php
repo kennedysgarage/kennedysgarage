@@ -13,7 +13,7 @@
 
         <div class="g3 description">
           <h3>Project Description</h3>
-          <p></p>
+          <p>Midpoint is Android app that allows you to find a great meeting spot. <a href="http://twitter.com/DavidYKay">David Kay</a> &amp; I hacked on this project at the <a href="http://generalassemb.ly/local-hack-day">Reinvent Local Hackathon</a>. We used the <a href="http://hyperpublic.com">Hyperpublic</a> API to find local deals and possible meeting spots.</p>
         </div><!--/g3-->
         <div class="g1 role">
           <h3>My Role</h3>
@@ -24,11 +24,11 @@
         </div><!--/g1-->
 
         <div class="g4">
-          <p>I hacked on Midpoint at the <a href="http://generalassemb.ly/local-hack-day">Reinvent Local Hackathon</a> with <a href="http://twitter.com/DavidYKay">David Kay</a>. We build this as an Android app that allows you to find a great meeting spot. We used the <a href="http://hyperpublic.com">Hyperpublic</a> API to find local deals and possible meeting spots.</p>3
           <h3>Videos</h3>
+          <h4>The Pitch</h4>
           <iframe width="950" height="513" src="http://www.youtube.com/embed/PLxAxMXWt6o?rel=0?wmode=opaque" frameborder="0" allowfullscreen></iframe>
+          <h4>American Express OPEN Promo</h4><!-- I'm in there a few times: 1:12, 1:40, 2:52, 3:55 -->
           <iframe width="950" height="513" src="http://www.youtube.com/embed/sf3mpcAp_GE?rel=0?wmode=opaque" frameborder="0" allowfullscreen></iframe>
-          <!-- I'm in there a few times: 1:12, 1:40, 2:52, 3:55 -->
         </div><!--/g4-->
       </div><!--/content-->
 
