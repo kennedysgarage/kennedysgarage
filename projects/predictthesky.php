@@ -14,7 +14,7 @@
 
         <div class="g3 description">
           <h3>Project Description</h3>
-          <p></p>
+          <p>Predict the Sky SMS is a text message service for satellite enthusiasts. It tracks satellite events and sends you a SMS message when one is visible from your location on Earth as it's happening. Right now it tracks the ISS as it passes over the earth, as well as iridium flare events from a variety of satellites.</p>
         </div><!--/g3-->
         <div class="g1 role">
           <h3>My Role</h3>
@@ -25,6 +25,7 @@
         </div><!--/g1-->
 
         <div class="g4">
+          <p><a href="https://twitter.com/jonmarkgo">Jon Gottfried</a> &amp; I hacked on this at the 2012 NASA Hackathon. It pulls the data from <a href="http://heavens-above.com">Heavens-Above.com</a> and uses <a href="http://www.twilio.com">Twilio</a> to send the text messages to subscribers.</p>
           <h3>Website</h3>
           <img src="/projects/assets/predictthesky/website.png" class="poppop"/>
         </div><!--/g4-->
