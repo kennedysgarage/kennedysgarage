@@ -200,12 +200,12 @@
                         <img src="/img/projects/dbookshelf.png"/>
                         <p>dbookshelf</p>
                     </div>-->
-                    <!-- <div class="g1_5">
+                    <div class="g1_5">
                         <a href="/projects/night-gator">
                         <img src="/img/projects/nightgator.png"/>
                         <p><strong>Night Gator</strong> Side Project</p>
                         </a>
-                    </div> -->
+                    </div>
                 </div><!--latest-->
 
             </section>

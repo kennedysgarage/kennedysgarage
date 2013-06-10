@@ -26,7 +26,7 @@
         </div><!--/g1-->
 
         <div class="g4">
-          <p>This one of my first site that I ever built that made a profit. This site paid for many drinks and a few dinners. I created it because I wanted a quick way to find the cheapest drinks around town. I started the site in 2008 and sold it in 2013. This was also the <mark>first company I ever sold</mark>.</p>
+          <p>This one of my first site that I ever built that made a profit. This site paid for many drinks and a few dinners. I created it because I wanted a quick way to find the cheapest drinks around town. I started the site in 2008 and sold it in 2013. This was also the <mark>first company I ever sold</mark>. I am no way associated or have anything to do with the new Night Gator.</p>
           <h3>Website</h3>
           <p>The website was pretty simple. There was a little JavaScript that would load that days drink special.</p>
           <img src="/projects/assets/nightgator/website.png" class="poppop"/>
