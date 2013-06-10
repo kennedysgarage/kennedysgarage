@@ -98,6 +98,12 @@
                         <p><strong>ArcTap</strong> Website / Logo</p>
                         </a>
                     </div> -->
+                    <!-- <div class="g1_5">
+                        <a href="/projects/placelist">
+                        <img src="/img/projects/placelist.png"/>
+                        <p><strong>Placelist</strong> Hackathon Project</p>
+                        </a>
+                    </div> -->
                     <div class="g1_5">
                         <a href="/projects/grade-spotter">
                         <img src="/img/projects/gradespotter.png"/>
