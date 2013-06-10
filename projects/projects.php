@@ -133,6 +133,12 @@
                         </a>
                     </div>
                     <div class="g1_5">
+                        <a href="/projects/midpoint">
+                        <img src="/img/projects/midpoint.png"/>
+                        <p><strong>Midpoint</strong> Hackathon Project</p>
+                        </a>
+                    </div>
+                    <div class="g1_5">
                         <a href="/projects/transit-trainer">
                         <img src="/img/projects/transittrainer.png"/>
                         <p><strong>Transit Trainer</strong> Hackathon Project</p>
