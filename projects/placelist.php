@@ -24,8 +24,17 @@
         </div><!--/g1-->
 
         <div class="g4">
-          <p></p>
+          <h3>iPhone</h3>
         </div><!--/g4-->
+
+        <div class="g2">
+          <p>Here is a </p>
+        </div><!--/g2-->
+
+        <div class="g2">
+          <img src="/projects/assets/placelist/iphone.png"/>
+        </div><!--/g2-->
+
       </div><!--/content-->
 
     </div><!--/page-->
