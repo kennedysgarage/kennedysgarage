@@ -47,6 +47,9 @@
             </div><!--/g1-->
 
             <div class="g4">
+              <h3>Landing Page</h3>
+              <p>Here is a quick landing page that I created to start collecting email address.</p>
+              <img src="/projects/assets/lmndst/landing.png"/>
               <h3>Apps</h3>
               <p>Here are a couple screenshots from the app design I did while on a bus. Keep in mind the bus was moving and I didn't sleep much.</p>
             </div><!--/g4-->
@@ -62,8 +65,8 @@
 
             <div class="g4">
 
-          <h3>Videos</h3>
-          <h4>Infomercial</h4>
+            <h3>Videos</h3>
+            <h4>Infomercial</h4>
             <p>We had to create a video to show off our hack. We decided to do an infomercial. I helped direct and edit this video after being up for 60+ hours with little sleep in between. I was luckily enough to get <a href="https://twitter.com/djkevinquinn">Kevin Quinn</a> to do the voice over work for us.</p>
             <iframe width="950" height="513" src="http://www.youtube.com/embed/sundgftOWGc" frameborder="0" allowfullscreen></iframe>
             <h4>NY Tech Meetup</h4>
