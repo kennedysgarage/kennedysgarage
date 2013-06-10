@@ -120,6 +120,12 @@
                         <p><strong>Pixel Oil</strong> Logo</p>
                         </a>
                     </div>-->
+                    <!-- <div class="g1_5">
+                        <a href="/projects/predictthesky">
+                        <img src="/img/projects/predictthesky.png"/>
+                        <p><strong>Predict The Sky</strong> Hackathon Project</p>
+                        </a>
+                    </div> -->
                     <div class="g1_5">
                         <a href="/projects/whoworksat">
                         <img src="/img/projects/whoworksat.png"/>
