@@ -28,7 +28,7 @@
           <p>My kid brother had liver failure. Built this website to keep friends and family up-to-date. Now we use the site to raise money for the Liver Life Foundation; so far we have raised a total of $1,050.</p>
           <h3>Website</h3>
           <p>This is the original design that I knocked out in less then a couple hours while at the hospital.</p>
-          <img src="/projects/assets/mrkennedy/mrkennedy-home.png"/>
+          <img src="/projects/assets/mrkennedy/home-v2.png" class="poppop"/>
         </div><!--/g4-->
       </div><!--/content-->
 

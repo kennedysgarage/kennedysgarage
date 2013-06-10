@@ -154,6 +154,12 @@
                         <p><strong>Lemonade Stand</strong> Hackathon Project </p>
                         </a>
                     </div>
+                    <!-- <div class="g1_5">
+                        <a href="/projects/mrkennedy">
+                        <img src="/img/projects/mrkennedy.png"/>
+                        <p><strong>Mr. Kennedy</strong> Side Project</p>
+                        </a>
+                    </div> -->
                     <div class="g1_5">
                         <a href="/projects/mlb">
                         <img src="/img/projects/mlb.png"/>
