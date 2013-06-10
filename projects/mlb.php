@@ -32,7 +32,9 @@
           <h4>Landing Page</h4>
           <img src="/projects/assets/mlb/mlb-phillies-fan-club-landing-page.png" class="poppop"/>
           <h4>Banner Ads</h4>
-          <img src="/projects/assets/mlb/mlb-phillies-fan-club-ads.png" class="poppop"/>
+          <img src="/projects/assets/mlb/mlb-phillies-fan-club-ads.png"/>
+          <img src="/projects/assets/mlb/mlb-redsox-fan-club-ads.png"/>
+          <img src="/projects/assets/mlb/mlb-twins-fan-club-ads.png"/>
           <!-- <img src="/projects/assets/mlb/mlb-min-cuddyer.png"/> -->
         </div><!--/g4-->
       </div><!--/content-->
