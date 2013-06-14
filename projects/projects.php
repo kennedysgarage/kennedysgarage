@@ -23,12 +23,12 @@
                         <p><strong>1-800-GOT-JUNK?</strong> iPhone</p>
                         </a>
                     </div> -->
-                    <!-- <div class="g1_5">
+                    <div class="g1_5">
                         <a href="/projects/bring-your-own-magnum">
                         <img src="/img/projects/bring-your-own-magnum.png"/>
-                        <p><strong>Bring Your Own Magnum</strong> Logo</p>
+                        <p><strong>Bring Your Own Magnum</strong> Designer</p>
                         </a>
-                    </div> -->
+                    </div>
                     <div class="g1_5">
                         <a href="/projects/ro">
                         <img src="/img/projects/ro.png"/>
@@ -41,6 +41,9 @@
                         <p><strong>StartupBus</strong> Foursquare Badge</p>
                         </a>
                     </div>
+
+                    <div class="clear"></div>
+
                     <!-- <div class="g1_5">
                         <a href="/projects/kennedysgarage">
                         <img src="/img/projects/kennedysgarage.png"/>
@@ -53,9 +56,6 @@
                         <p><strong>Status Chart</strong> Website / Logo</p>
                         </a>
                     </div>
-
-                    <div class="clear"></div>
-
                     <!-- <div class="g1_5">
                         <a href="/projects/poachbase">
                         <img src="/img/projects/poachbase.png"/>
