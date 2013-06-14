@@ -3,7 +3,7 @@
 <section id="intro">
   <div class="container">
     <h2>Bring Your Own Magnum</h2>
-    <a href="http://byom.winespectator.com" class="btn">Visit Site <i class="ss-icon">&#x1F4BB;</i></a>
+    <!-- <a href="http://byom.winespectator.com" class="btn">Visit Site <i class="ss-icon">&#x1F4BB;</i></a> -->
   </div><!--/container-->
 </section><!--/intro-->
 
