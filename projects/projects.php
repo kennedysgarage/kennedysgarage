@@ -3,7 +3,7 @@
 <div class="projects">
     <section id="intro">
         <div class="container">
-            <h2>The Workbench</h2>
+            <h2>Projects</h2>
             <!-- <p>It is kind of messy right now, currently trying to figure out the best way to show off my work. I love designing iPhone apps and enjoy designing &amp; building websites. My main goal is to give the users a great experience.</p> -->
         </div><!--container-->
     </section>
