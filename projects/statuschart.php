@@ -69,6 +69,12 @@
                 </a>
               </li> -->
               <li>
+                <a href="http://www.cbc.ca/spark/episodes/2013/06/14/blog-and-aut-title-217-the-future-of-work-workplace-science-rethinking-recruiting-and-the-resume-the/">
+                  <img src="/img/press/spark.png" alt="Spark with Nora Young">
+                  <p>221: The Future of Work. Workplace Science. Rethinking Recruiting and the Resume. The Automated Workforce. Live/work Homestead Design. The Information Economy.<small>June 14th 2013</small></p><i class="ss-icon">&#x25B9;</i>
+                </a>
+              </li>
+              <li>
                 <a href="http://betabeat.com/pitch/the-pitch-season-2-episode-three-status-chart-a-new-kind-of-resume/">
                   <img src="/img/press/betabeat.png" alt="Betabeat">
                   <p>The Pitch Season 2, Episode Three: Status Chart &mdash; A New Kind of Resume<small>April 25th, 2013</small></p><i class="ss-icon">&#x25B9;</i>
