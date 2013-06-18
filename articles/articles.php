@@ -12,6 +12,17 @@
 <section class="content">
 <ul id="article-list">
 
+  <!-- <li>
+    <div class="g2">
+      <a href="/articles/working-for-equity"><img src="/articles/assets/working-for-equity/hero.png"/></a>
+    </div>
+    <div class="g2">
+      <h2><a href="/articles/working-for-equity">Working For Equity</a></h2>
+      <p></p>
+      <p class="byline">June 17th, 2013 &there4; Kennedy</p>
+    </div>
+  </li> -->
+
   <li>
     <div class="g2">
       <a href="/articles/fake-it-till-you-make-it"><img src="/articles/assets/fake-it-till-you-make-it/hero.png"/></a>
