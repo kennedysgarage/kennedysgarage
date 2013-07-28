@@ -6,7 +6,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title><?php echo $title ?> Kennedy's Garage!</title>
+	<title><?php echo $title ?> Kennedy's Garage (master)</title>
 	<meta name="description" content="Kennedy is a Professional Hacker, UX Strategist, &amp; Mobile UI Designer in New York City.">
 	<meta name="author" content="Christopher Kennedy">
 
