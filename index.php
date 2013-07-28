@@ -44,9 +44,10 @@
 
         <div class="g2">
           <h3>Latest Article</h3>
-          <a href="/articles/fake-it-till-you-make-it"><img src="/articles/assets/fake-it-till-you-make-it/hero.png"/></a>
-          <h4>Fake it till you make it</h4>
-          <p>Eventually you are going to actually fake it until you made it. Then what?</p>
+          <a href="/articles/github-deployment"><img src="/articles/assets/github-deployment/hero.png"/></a>
+          <h4>GitHub Deployment</h4>
+          <p>I want to share with you how I deploy some websites with GitHub Service Hooks.
+          </p>
         </div><!--/g2-->
 
 

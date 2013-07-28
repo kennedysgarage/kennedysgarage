@@ -25,6 +25,17 @@
 
   <li>
     <div class="g2">
+      <a href="/articles/github-deployment"><img src="/articles/assets/github-deployment/hero.png"/></a>
+    </div>
+    <div class="g2">
+      <h2><a href="/articles/github-deployment">GitHub Deployment</a></h2>
+      <p>I want to share with you how I deploy some websites with GitHub Service Hooks. The other day I needed to deploy to domain.com and dev.domain.com from the same repo.</p>
+      <p class="byline">July 28th, 2013 &there4; Kennedy</p>
+    </div>
+  </li>
+
+  <li>
+    <div class="g2">
       <a href="/articles/fake-it-till-you-make-it"><img src="/articles/assets/fake-it-till-you-make-it/hero.png"/></a>
     </div>
     <div class="g2">
