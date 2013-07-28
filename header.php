@@ -34,9 +34,6 @@
 </head>
 <body>
 
-<div id="cssdesignawards"><a href="http://www.cssdesignawards.com"><img src="/img/css-design-award-nominee.png"></a></div>
-
-
 <header class="clearfix">
 <div class="container">
 
