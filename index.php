@@ -5,7 +5,7 @@
   <section id="intro">
     <div class="container">
       <div class="g4">
-        <img src="/img/home/intro.png"/>
+        <img src="/img/home/intro.png?v=2"/>
         <div class="copy">
           <h2>I'm Kennedy,</h2>
           <h4>a New York City based Mobile UI Designer &amp; UX Strategist.</h4>
