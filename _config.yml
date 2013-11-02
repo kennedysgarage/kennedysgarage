@@ -1,0 +1,4 @@
+name: "Kennedy's Garage"
+permalink: pretty
+
+exclude: ["CNAME","editorconfig.txt","Gemfile","Gemfile.lock","README.md"]

@@ -1,0 +1,63 @@
+/* -----------------------------------------=DEMO */
+* { margin: 0; padding: 0; }
+body{
+	background-image: url(img/grid.png);
+}
+#header{
+	background-color:rgba(255,255,255,0.6);
+	border-bottom: 1px solid rgba(255,255,255,0.8);
+	margin: 0 0 30px;
+	padding: 10px 0 6px;
+	text-align: center;
+}
+#button{
+	background-color:#f78c1a;
+	color:#fff;
+	display: inline-block;
+	font-family: Helvetica;
+	font-size:16px;
+	padding:5px;
+	text-align: center;
+	text-decoration: none;
+	width:120px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px; 
+	border-radius: 5px;
+	opacity: 0.3;
+}
+#button:hover{
+	opacity: 1;
+}
+#logo{
+	margin: 0 20px;
+	vertical-align: top;
+}
+#content{
+	margin: 0 auto;
+	width: 960px;
+}
+
+.button, .button:visited{
+    background:#0067b0;
+    border-radius:5px;
+    -moz-border-radius:5px;
+    -webkit-border-radius:5px;
+    padding:5px 10px;
+    color:#fff;
+    font-size: 18px;
+    text-shadow:0px -1px 0px rgba(0,0,0,0.2);
+    margin-right:10px;
+    text-decoration: none;
+    font-family: Helvetica;
+    display: inline-block;
+	font-family: Helvetica;
+	font-size:16px;
+	padding:5px;
+	text-align: center;
+	text-decoration: none;
+	width:120px;
+}
+.button:hover, .button:active{
+	background-color: #0095ff;
+	color: #fff;
+}

@@ -1,0 +1,20 @@
+{% include header.html %}
+{% include nav.html %}
+
+<section id="intro">
+  <div class="container">
+    <h2>{{ page.title }}</h2>
+    {% if page.website %}<a href="{{ page.website }}" class="btn">Visit Site <i class="ss-icon">&#x1F4BB;</i></a>{% endif %}
+  </div><!--/container-->
+</section><!--/intro-->
+
+<div class="container">
+  <div class="page">
+    {% if page.file %}<div class="hero"><span><img src="/projects/assets/{{ page.file }}/hero.png"/></span></div>{% endif %}
+    <div class="content">
+      {{ content }}
+    </div><!--/content-->
+  </div><!--/page-->
+</div><!--/container-->
+
+{% include footer.html %}

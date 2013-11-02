@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]> <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title> CSS for Sarcasm | Kennedy's Garage</title>
+	<meta name="description" content="Kennedy is a Professional Hacker, UX Strategist, &amp; Mobile UI Designer in New York City.">
+	<meta name="author" content="Christopher Kennedy">
+
+	<meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+	<meta name="format-detection" content="telephone=no">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+
+	<link rel="shortcut icon" href="/favicon.png">
+	<link href='http://fonts.googleapis.com/css?family=Vollkorn:400,700' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="/assets/style/css/style.css">
+	<script src="/assets/js/modernizr.min.js"></script>
+	<script type="text/javascript">
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-17557746-1']);
+	  _gaq.push(['_setDomainName', 'kennedysgarage.com']);
+	  _gaq.push(['_trackPageview']);
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	</script>
+</head>
+<body>
+
+
+
+<header class="clearfix">
+<div class="container">
+
+  <h1><a href="/"><img src="/assets/img/k.png"></a></h1>
+  <nav>
+    <ul>
+      <li><a href="/about/">About</a></li>
+      <li><a href="/articles/">Articles</a></li>
+      <li><a href="/projects/">Projects</a></li>
+      <li><a href="/videos/">Videos</a></li>
+    </ul>
+  </nav>
+
+</div><!--/container-->
+</header>
+
+
+<section id="intro"><div class="container"><h2>Articles</h2></div></section>
+
+<div class="container">
+	<div class="page">
+    
+    <article>
+      <h2>CSS for Sarcasm</h2>
+      <p>Communication on the internet is great, but sometimes it is hard to get your tone across. Ever since <a href="https://twitter.com/#!/gf3">@gf3</a> proposed it to the <a href="https://twitter.com/#!/w3c">@W3C</a> I wanted a way to do it.</p>
+
+<blockquote class="twitter-tweet tw-align-center"><p>Proposed HTML 5 tag: &lt;sarcasm&gt;. To help clear up some online misunderstandings. (@<a href="https://twitter.com/w3c">w3c</a> am I right?)</p>&mdash; Gianni Chiappetta (@gf3) <a href="https://twitter.com/gf3/status/2025825142" data-datetime="2009-06-04T04:37:41+00:00">June 4, 2009</a></blockquote>
+
+<blockquote class="twitter-tweet tw-align-center"><p>@<a href="https://twitter.com/gf3">gf3</a>, &lt;sarcasm&gt;you are right&lt;/sarcasm&gt;</p>&mdash; W3C Team (@w3c) <a href="https://twitter.com/w3c/status/2027402192" data-datetime="2009-06-04T08:41:11+00:00">June 4, 2009</a></blockquote>
+
+<p>Today I am suggesting some CSS to help clear this up. This morning I woke up and thought of the solution, why don't we just use Backslant or "Contra Italics". Just add the following to your stylesheet and feel free to use when needed.</p>
+
+<h3>The CSS:</h3>
+<pre class="prettyprint linenums">
+.sarcasm {
+	display:inline-block;
+	-moz-transform: scale(1) rotate(0deg) translate(0px, 0px) skew(15deg, 0deg);
+	-webkit-transform: scale(1) rotate(0deg) translate(0px, 0px) skew(15deg, 0deg);
+	-o-transform: scale(1) rotate(0deg) translate(0px, 0px) skew(15deg, 0deg);
+	-ms-transform: scale(1) rotate(0deg) translate(0px, 0px) skew(15deg, 0deg);
+	transform: scale(1) rotate(0deg) translate(0px, 0px) skew(15deg, 0deg);
+}
+</pre>
+
+<h3>Example:</h3>
+<p>Sarcasm is the ability to <span class="sarcasm">insult idiots</span> without them realizing it.</p>
+<pre class="prettyprint linenums">
+&lt;span class=&quot;sarcasm&quot;&gt;insult idiots&lt;/span&gt;
+</pre>
+
+<p>Please join the conversation on <a href="http://news.ycombinator.com/item?id=3699121">Hacker News</a>.</p>
+
+      <p class="byline">
+      
+      March
+      13th
+        ,
+      2012
+       &there4; Kennedy
+     </p>
+    </article>
+	</div><!--/page-->
+</div><!--/container-->
+
+<div class="container">
+  <section id="status" class="clearfix">
+    <p><i class="ss-icon ss-social">&#xF611;</i> Birds of a feather flock together. Follow me on Twitter at <a href="https://twitter.com/kennedysgarage">@KennedysGarage</a>.</p>
+  </section>
+</div><!--/container-->
+
+<footer>
+  <div class="container">
+		<ul id="social">
+			<li><a href="https://www.statuschart.com/kennedysgarage">Status Chart</a></li>
+			<li><a href="http://twitter.com/kennedysgarage">Twitter</a></li>
+			<li><a href="http://profiles.google.com/kennedysgarage">Google +</a></li>
+			<li><a href="http://dribbble.com/kennedysgarage">Dribbble</a></li>
+			<li><a href="https://github.com/kennedysgarage">GitHub</a></li>
+		</ul>
+  </div><!--/container-->
+</footer>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/assets/js/jquery-1.9.1.min.js">\x3C/script>')</script>
+<script src="/assets/js/script-min.js"></script>
+</body>
+</html>
+

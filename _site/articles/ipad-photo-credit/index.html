@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]> <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title> iPad Photo Credit | Kennedy's Garage</title>
+	<meta name="description" content="Kennedy is a Professional Hacker, UX Strategist, &amp; Mobile UI Designer in New York City.">
+	<meta name="author" content="Christopher Kennedy">
+
+	<meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+	<meta name="format-detection" content="telephone=no">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+
+	<link rel="shortcut icon" href="/favicon.png">
+	<link href='http://fonts.googleapis.com/css?family=Vollkorn:400,700' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="/assets/style/css/style.css">
+	<script src="/assets/js/modernizr.min.js"></script>
+	<script type="text/javascript">
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-17557746-1']);
+	  _gaq.push(['_setDomainName', 'kennedysgarage.com']);
+	  _gaq.push(['_trackPageview']);
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	</script>
+</head>
+<body>
+
+
+
+<header class="clearfix">
+<div class="container">
+
+  <h1><a href="/"><img src="/assets/img/k.png"></a></h1>
+  <nav>
+    <ul>
+      <li><a href="/about/">About</a></li>
+      <li><a href="/articles/">Articles</a></li>
+      <li><a href="/projects/">Projects</a></li>
+      <li><a href="/videos/">Videos</a></li>
+    </ul>
+  </nav>
+
+</div><!--/container-->
+</header>
+
+
+<section id="intro"><div class="container"><h2>Articles</h2></div></section>
+
+<div class="container">
+	<div class="page">
+    
+    <article>
+      <h2>iPad Photo Credit</h2>
+      <p><img src="/articles/assets/ipad-photo-credit/ipad-photo-credit.png"/></p>
+
+<p>A quick way to give credit where credit is do on an iPad. This is a quick little jQuery script that will show the photo credit when the image is touched.</p>
+<p>In order to get this working just include the following snippets. Make sure you also include the jQuery library too. I have found this to be the best unobtrusive way to give the photographer credit without jeopardizing your design and layout.</p>
+
+<h3>Features</h3>
+<ul>
+  <li>It was made for the iPad, but it also works in webview</li>
+  <li>Works with multiple sized images</li>
+  <li>Minimal markup</li>
+</ul>
+
+<h4>HTML</h4>
+<pre class="prettyprint linenums">
+&lt;div class=&quot;imgcredit&quot;&gt;
+    &lt;img src=&quot;imagename.jpeg&quot; title=&quot;Give credit where credit is due&quot;/&gt;
+&lt;/div&gt;
+</pre>
+
+<h4>CSS</h4>
+<pre class="prettyprint linenums">
+.imgcredit {
+    position: relative;
+}
+.credit {
+    background-color: rgba(0,0,0,0.4);
+    bottom: 4px; /* depending on the reset, this might have to be adjusted */
+    color: #fff;
+    display: none;
+    left: 0;
+    padding: 10px;
+    position: absolute;
+    width: 100%;
+}
+</pre>
+
+<h4>jQuery</h4>
+<pre class="prettyprint linenums">
+// This is so it will work on the iPad (http://www.danwellman.co.uk/fixing-jquery-click-events-for-the-ipad/)
+var ua = navigator.userAgent,
+event = (ua.match(/iPad/i)) ? &quot;touchstart&quot; : &quot;click&quot;;
+
+// This creates a span that will include the image&#39;s title
+    $(&#39;.imgcredit img&#39;).each(function(){
+    $(this).after($(&#39;&lt;span/&gt;&#39;)
+        .attr(&#39;class&#39;, &#39;credit&#39;)
+        .html($(this).attr(&#39;title&#39;))
+    );
+});
+
+$(&quot;.imgcredit img&quot;).bind(event, function(e) { // this would normally be &quot;$(&quot;.imgcredit img&quot;).click( function() {&quot;, but we have to alter it for the ipad.
+    var img_width = 0; // setting the default of the variable to 0
+    var caption_width = 0; // setting the default of the variable to 0
+    img_width += $(this).width() ; // this measures the width of the image
+    caption_width += $(this).width() -20; // this measures the width of the span then minus 20px for the padding
+    $(this).parent().width(img_width); // this measures the width of the span then minus 20px for the padding
+    $(this).next().width(caption_width); // include the width to the caption
+    $(this).next().slideToggle(); // show/hide the credit
+});
+</pre>
+
+<h3>Note:</h3>
+<p>My kickass mobile developer friend <a href="http://twitter.com/rjowens">Rich Owens</a> told me to add this note in here: In order for JavaScript to work you need to remove ".js" from "compiled source" and add them to "bundled files" in Xcode. (Source: <a href="http://stackoverflow.com/questions/843820/iphone-uiwebview-local-resources-using-javascript-and-handling-onorientationchang">http://stackoverflow.com/questions/843820/iphone-uiwebview-local-resources-using-javascript-and-handling-onorientationchang</a>)</p>
+
+<!-- <div class="btns"><a href="../demos/ipad-photo-credit/index.php" class="btn">Demo</a> <a href="/downloads/ipad-photo-credit.zip" class="btn">Download</a></div> -->
+
+      <p class="byline">
+      
+      June
+      7th
+        ,
+      2011
+       &there4; Kennedy
+     </p>
+    </article>
+	</div><!--/page-->
+</div><!--/container-->
+
+<div class="container">
+  <section id="status" class="clearfix">
+    <p><i class="ss-icon ss-social">&#xF611;</i> Birds of a feather flock together. Follow me on Twitter at <a href="https://twitter.com/kennedysgarage">@KennedysGarage</a>.</p>
+  </section>
+</div><!--/container-->
+
+<footer>
+  <div class="container">
+		<ul id="social">
+			<li><a href="https://www.statuschart.com/kennedysgarage">Status Chart</a></li>
+			<li><a href="http://twitter.com/kennedysgarage">Twitter</a></li>
+			<li><a href="http://profiles.google.com/kennedysgarage">Google +</a></li>
+			<li><a href="http://dribbble.com/kennedysgarage">Dribbble</a></li>
+			<li><a href="https://github.com/kennedysgarage">GitHub</a></li>
+		</ul>
+  </div><!--/container-->
+</footer>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/assets/js/jquery-1.9.1.min.js">\x3C/script>')</script>
+<script src="/assets/js/script-min.js"></script>
+</body>
+</html>
+

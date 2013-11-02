@@ -1,8 +1,18 @@
 {% include header.html %}
 {% include nav.html %}
 
+<section id="intro">
+  <div class="container">
+    <h2>{{ page.title }}</h2>
+  </div><!--/container-->
+</section>
+
 <div class="container">
-  {{ content }}
+  <div class="page">
+    <section class="content">
+      {{ content }}
+    </section><!--/content-->
+  </div><!--/page-->
 </div><!--/container-->
 
 {% include footer.html %}

@@ -1,0 +1,28 @@
+{% include header.html %}
+{% include nav.html %}
+
+<section id="intro"><div class="container"><h2>Articles</h2></div></section>
+
+<div class="container">
+	<div class="page">
+    {% if page.file %}<div class="hero"><span><img src="/articles/assets/{{ page.file }}/hero.png"/></span></div>{% endif %}
+    <article>
+      <h2>{{ page.title }}</h2>
+      {{ content }}
+      <p class="byline">
+      {% assign d = page.date | date: "%d" | plus:'0' %}
+      {{ page.date | date: "%B" }}
+      {% case d %}
+        {% when 1 or 21 or 31 %}{{ d }}st
+        {% when 2 or 22 %}{{ d }}nd
+        {% when 3 or 23 %}{{ d }}rd
+        {% else %}{{ d }}th
+        {% endcase %},
+      {{ page.date | date: "%Y" }}
+       &there4; Kennedy
+     </p>
+    </article>
+	</div><!--/page-->
+</div><!--/container-->
+
+{% include footer.html %}
