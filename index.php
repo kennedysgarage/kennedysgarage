@@ -21,7 +21,7 @@
 
       <div class="g3 quickintro">
         <h3>Quick Intro</h3>
-        <p>I am currently a Professional Hacker in New York City. I got my start in the hackathon world when I was on the 2011 StartupBus. I was named one of <a href="http://betabeat.com/2012/04/betabeats-spring-2012-most-poachable-players-in-tech/#slide22">Betabeat's Most Poachable Players in Tech</a> and recently appeared on <a href="http://betabeat.com/pitch/the-pitch-season-2-episode-three-status-chart-a-new-kind-of-resume/">The Pitch Season 2</a>.</p>
+        <p>I am currently an Interaction Designer at Google standing tall at 5' 18". I got my start in the hackathon world when I was on the 2011 StartupBus, it changed my life. If there is anything I can help you out with, just ask.</p>
       </div><!--/g3-->
 
       <div class="g1 role">
