@@ -1,0 +1,7 @@
+desc 'deploy to kg via rsync'
+task :deploy do
+  sh "jekyll --no-auto"
+  user = 'kg41.com'
+  server = 's107775.gridserver.com'
+  sh "rsync -icrz --delete _site/ #{user}@#{server}:/domains/kennedysgarage/html"
+end
