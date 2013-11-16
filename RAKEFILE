@@ -4,6 +4,6 @@ task :deploy do
   user = 'kg41.com'
   server = 's107775.gridserver.com'
   path = 'domains/kennedysgarage.com/html'
-  sh "rsync -rtzh --delete _site/ #{user}@#{server}:{path}"
+  sh "rsync -rtzh --delete _site/ #{user}@#{server}:#{path}"
   puts 'Finished Mother Fucker!'
 end
