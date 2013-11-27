@@ -20,7 +20,7 @@ html,body{
   width: 100%;
 }
 header{
-  background-color: #293e51;
+  background-color: #262628;
   padding: 1em;
 }
 header h1{
@@ -28,6 +28,9 @@ header h1{
   margin: 0;
   text-align: center;
   vertical-align: middle;
+}
+header img{
+  border-radius: 0;
 }
 /* -------------
 -- Navigation --
@@ -58,7 +61,7 @@ nav a:hover{
 }
 /* ========================================================= Intro ===*/
 #intro {
-    background-color: #de5a5c;
+    background-color: #1FBC9A;
     padding: 30px 10px 55px;
 }
 #intro h2 {
@@ -492,7 +495,7 @@ h3{
 }
 /* ========================================================= Footer ===*/
 #status{
-  background-color: #DE5A5C;
+  background-color: #1FBC9A;
   border-radius: 4px;
   color: #fff;
   margin: 0 0 30px;
