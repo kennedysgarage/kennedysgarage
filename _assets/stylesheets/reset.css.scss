@@ -19,7 +19,7 @@ body, button, input, select, textarea { font-family: sans-serif; color: #222; }
 ::selection { background: #ffffa9; color:#54545e; text-shadow: none; }
 
 a {
-	color: #DE5A5C;
+	color: #1FBC9A;
 	text-decoration: none;
 	-webkit-transition: color .25s ease-in, background .25s ease-in, opacity .25s ease-in;
 	-moz-transition: color .25s ease-in, background .25s ease-in, opacity .25s ease-in;
@@ -27,7 +27,7 @@ a {
 	-o-transition: color .25s ease-in, background .25s ease-in, opacity .25s ease-in;
 	transition: color .25s ease-in, background .25s ease-in, opacity .25s ease-in;
 }
-a:hover { color: #fc686a; }
+a:hover { color: #1ba88a; }
 a:focus { outline: thin dotted; }
 a:active{ color: #ba4c4e; }
 a:hover, a:active { outline: 0; }
