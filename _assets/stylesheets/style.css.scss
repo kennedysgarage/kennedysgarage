@@ -8,7 +8,7 @@
 @import "structure.css.scss";
 @import "animations.css.scss";
 @import "utilities.css.scss";
-@import "prettify.css.scss";
+@import "syntax.css.scss";
 /* ========================================================= Header ===*/
 html,body{
   background-color: #1B1F25;
@@ -281,7 +281,7 @@ article img{
   max-width: 100%;
   margin: 0 auto 20px;
 }
-code, pre {
+/*code, pre {
     border-radius: 3px;
     padding: 0 3px 2px;
     font-size: 14px;
@@ -311,12 +311,12 @@ pre{
     width: 100%;
     margin-left:0;
 }
-
 pre ol li{
     font-size: 13px;
     font-family: Consolas, Monaco, Andale Mono, Courier New, monospace;
     text-shadow: none;
 }
+*/
 object{
     display: block;
     margin: 0 0 20px;
@@ -596,8 +596,8 @@ footer{
   article{
     padding: 30px 180px;
   }
-  pre{
+  /*pre{
     width: 920px;
     margin-left:-160px;
-  }
+  }*/
 }

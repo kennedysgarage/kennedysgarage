@@ -1,7 +1,6 @@
 //= require vendor/ss-standard
 //= require vendor/ss-social
 //= require vendor/fitvids
-//= require vendor/prettify
 
 $(document).ready(function(){
 
