@@ -1,0 +1,33 @@
+---
+layout: nil
+---
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <link rel="hub" href="https://pubsubhubbub.appspot.com"/>
+
+  <title>kennedysgarage.com</title>
+  <link href="http://kennedysgarage.com/"/>
+  <link type="application/atom+xml" rel="self" href="http://kennedysgarage.com/feed.xml"/>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <id>http://kennedysgarage.com/</id>
+  <author>
+    <name>Kennedy's Garage</name>
+    <email>kennedysgarage@gmail.com</email>
+  </author>
+
+  {% for post in site.posts %}
+  <entry>
+    <id>http://kennedysgarage.com{{ post.id }}</id>
+    <link type="text/html" rel="alternate" href="http://kennedysgarage.com{{ post.url }}"/>
+    <title>{{ post.title }}</title>
+    <published>{{ post.date | date_to_xmlschema }}</published>
+    <updated>{{ post.date | date_to_xmlschema }}</updated>
+    <author>
+      <name>Kennedy's Garage</name>
+      <uri>http://kennedysgarage.com/</uri>
+    </author>
+    <content type="html">{{ post.content | xml_escape }}</content>
+  </entry>
+  {% endfor %}
+
+</feed>
