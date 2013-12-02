@@ -5,7 +5,7 @@
 
 <div class="container">
 	<div class="page">
-    {% if page.file %}<div class="hero"><span><img src="/articles/assets/{{ page.file }}/hero.png"/></span></div>{% endif %}
+    {% if page.hero %}<div class="hero"><span><img src="/assets/{{ page.hero }}/hero.png"/></span></div>{% endif %}
     <article>
       <h2>{{ page.title }}</h2>
       {{ content }}
