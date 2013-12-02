@@ -12,11 +12,11 @@
 
 @font-face {
   font-family: "SSSocialRegular";
-  src: url(font-path('ss-social-regular.eot'));
-  src: url(font-path('ss-social-regular.eot?#iefix')) format('embedded-opentype'),
-       url(font-path('ss-social-regular.woff')) format('woff'),
-       url(font-path('ss-social-regular.ttf'))  format('truetype'),
-       url(font-path('ss-social-regular.svg#SSSocialRegular')) format('svg');
+  src: url(asset_path('ss-social-regular/ss-social-regular.eot'));
+  src: url(asset_path('ss-social-regular/ss-social-regular.eot?#iefix')) format('embedded-opentype'),
+       url(asset_path('ss-social-regular/ss-social-regular.woff')) format('woff'),
+       url(asset_path('ss-social-regular/ss-social-regular.ttf'))  format('truetype'),
+       url(asset_path('ss-social-regular/ss-social-regular.svg#SSSocialRegular')) format('svg');
   font-weight: normal;
   font-style: normal;
 }
