@@ -13,3 +13,13 @@ assets:
     - _assets/stylesheets
   js_compressor: uglifier
   css_compressor: sass
+
+navigation:
+- text: About
+  url: /about/
+- text: Articles
+  url: /articles/
+- text: Projects
+  url: /projects/
+- text: Videos
+  url: /videos/
