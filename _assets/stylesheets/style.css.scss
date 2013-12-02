@@ -14,7 +14,7 @@ html,body{
   background-color: #1B1F25;
   background-color: #d9dbde;
 
-  font-family: 'ProximaNova', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 400;
   /*height: 100%;*/
   width: 100%;
@@ -115,7 +115,7 @@ nav a:hover{
 }
 #home #intro h4{
   color: #fff;
-  font-family: 'ProximaNova', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 22px;
   line-height: 1.2;
   margin: -10px 0 0;
@@ -186,14 +186,15 @@ nav a:hover{
   margin: 0;
 }
 .resume .position{
-  font-family: 'ProximaNovaBold', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
   font-size: 18px;
   margin: 0;
 }
 .resume .position span{
   color: #999;
   float: right;
-  font-family: 'ProximaNova', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 14px;
 }
 .resume .company{
