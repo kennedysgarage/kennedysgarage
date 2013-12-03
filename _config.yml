@@ -1,5 +1,8 @@
 name: "Kennedy's Garage"
 permalink: pretty
+author: Kennedy
+email: kennedysgarage@gmail.com
+url: http://kennedysgarage.com
 
 exclude: ["CNAME","editorconfig.txt","Gemfile","Gemfile.lock","README.md", "RAKEFILE"]
 
