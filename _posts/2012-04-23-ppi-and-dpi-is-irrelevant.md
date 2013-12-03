@@ -1,6 +1,6 @@
 ---
 layout: article
-permalink: /articles/ppi-and-dpi-is-irrelevant
+permalink: /articles/ppi-and-dpi-is-irrelevant/
 title: PPI &amp; DPI is Irrelevant
 excerpt: PPI &amp; DPI is irrelevant when designing iPhone and iPad apps. Let me repeat that, PPI &amp; DPI do not matter. No, stop it. It does not matter if it is @1x or @2x, iPhone or iPad, it's just irrelevant metadata.
 ---

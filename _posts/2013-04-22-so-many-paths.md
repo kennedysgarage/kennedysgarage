@@ -1,6 +1,6 @@
 ---
 layout: article
-permalink: /articles/so-many-paths
+permalink: /articles/so-many-paths/
 title: So Many Paths
 excerpt: I am in a bit of a funk right now and I mostly blame it on not knowing what I want to do with my life or even what I want out of it.
 hero: so-many-paths

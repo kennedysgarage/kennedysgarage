@@ -1,6 +1,6 @@
 ---
 layout: article
-permalink: /articles/unleash-the-beast-after-thoughts
+permalink: /articles/unleash-the-beast-after-thoughts/
 title: Unleash The Beast After Thoughts
 excerpt:
 ---

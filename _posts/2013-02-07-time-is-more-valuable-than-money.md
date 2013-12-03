@@ -1,6 +1,6 @@
 ---
 layout: article
-permalink: /articles/time-is-more-valuable-than-money
+permalink: /articles/time-is-more-valuable-than-money/
 title: Time is more valuable than money
 excerpt: You can always earn more money, but never more time. Time is always draining from our lives. You can never get time back.
 hero: time-is-more-valuable-than-money
