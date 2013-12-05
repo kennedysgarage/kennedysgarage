@@ -89,16 +89,17 @@ form input[type=text].address{
 }
 form button{
     background-color: #1FBC9A;
-    border: 1px solid #1FBC9A;
     border-radius: 4px;
-    box-shadow: 0 0 0 2px rgba(255,255,255,0.1) inset, 0 1px 0px rgba(0,0,0,0.3);
+    border: none;
+    box-shadow: 0 5px 0 #18967b;
     color: #fff;
-    font-size: 18px;
+    font-size: 15px;
     margin: 0 0 20px;
-    padding: 8px 14px;
+    padding: 14px 26px;
     text-shadow: none;
+    text-transform: capitalize;
 }
 form button:hover{
-    background-color: #10ccbc;
+    background-color: #1db392;
     color: #fff;
 }
