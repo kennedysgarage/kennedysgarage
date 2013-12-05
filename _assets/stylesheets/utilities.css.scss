@@ -61,3 +61,44 @@ mark{
 .fluid-width-video-wrapper{
     margin: 0 0 18px;
 }
+.note{
+    font-size: 14px;
+    color: #aaa;
+}
+
+form{
+
+}
+form p{
+
+}
+form label{
+    font-weight: 600;
+}
+form input[type=text], form input[type=email]{
+    background-color: #feffe3;
+    background: none;
+    border:none;
+    border-bottom: 1px dotted #999;
+    border-radius: 3px 3px 0 0;
+    max-width: 260px;
+    width: 100%;
+}
+form input[type=text].address{
+    max-width: 500px;
+}
+form button{
+    background-color: #1FBC9A;
+    border: 1px solid #1FBC9A;
+    border-radius: 4px;
+    box-shadow: 0 0 0 2px rgba(255,255,255,0.1) inset, 0 1px 0px rgba(0,0,0,0.3);
+    color: #fff;
+    font-size: 18px;
+    margin: 0 0 20px;
+    padding: 8px 14px;
+    text-shadow: none;
+}
+form button:hover{
+    background-color: #10ccbc;
+    color: #fff;
+}
