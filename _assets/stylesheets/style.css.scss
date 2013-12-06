@@ -12,7 +12,7 @@
 html,body{
   background-color: #1B1F25;
   background-color: #d9dbde;
-
+  background-color: #e1e5e5;
   font-family: 'Open Sans', sans-serif;
   font-weight: 400;
   /*height: 100%;*/
@@ -72,8 +72,8 @@ nav a:hover{
 }
 /* ========================================================= Page ===*/
 .page {
-    background-color: #EFF1F5;
-    border-radius: 3px 3px 3px 3px;
+    background-color: #fff;
+    border-radius: 5px;
     margin: -40px 0 2em;
     position: relative;
     z-index: 5;
@@ -385,7 +385,7 @@ h3 span {
     font-size: 0.875em;
 }
 h3{
-  border-bottom: 3px solid #C3C5C7;
+  border-bottom: 3px solid #b6b6bf;
     display: block;
     font-size: 30px;
     margin: 30px 0 10px;
@@ -524,7 +524,7 @@ h3{
   vertical-align: middle;
 }
 footer{
-  background-color: #C3C5C7;
+  background-color: #b9bdbc;
   padding: 20px 0;
 }
 /* ---------
