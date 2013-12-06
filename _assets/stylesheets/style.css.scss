@@ -550,6 +550,25 @@ footer{
 #social a:hover{
   color: #fff;
 }
+/* ========================================================= EPK ===*/
+#epk{
+
+}
+#epk p{
+  color: #808087;
+  display: block;
+  text-align: center;
+}
+#epk strong{
+  display: block;
+}
+#epk span, #epk span a{
+  color: #808087;
+  font-size: 14px;
+}
+#epk .g4 p{
+  text-align: left;
+}
 /* ========================================================= Adapt ===*/
 @media all and (min-width: 41em) {
   .g1{max-width: 50%}
