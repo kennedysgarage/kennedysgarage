@@ -10,9 +10,9 @@ I will be the first to admit that I give recruiters a lot of shit, but I will al
 
 ### "Thanks, but not thanks"
 
-Hey **[Name]**,
+Hey **|Name|**,
 
-Thank you very much for reaching out to me. While I am a fan of **[Acme Co.]**, I'm currently not looking for new opportunities. I sincerely appreciate you taking the time to contact me. Feel free to connect with me on [Linkedin](http://www.linkedin.com/in/kennedysgarage) and [Twitter](https://twitter.com/kennedysgarage).
+Thank you very much for reaching out to me. While I am a fan of **|Acme Co.|**, I'm currently not looking for new opportunities. I sincerely appreciate you taking the time to contact me. Feel free to connect with me on [Linkedin](http://www.linkedin.com/in/kennedysgarage) and [Twitter](https://twitter.com/kennedysgarage).
 
 Again, thank you for your consideration.
 
@@ -21,9 +21,9 @@ Kennedy
 
 ### "Thanks, but I can't relocate"
 
-Hey **[Name]**,
+Hey **|Name|**,
 
-Thank you very much for reaching out to me. While I am a fan of **[Acme Co.]**, I am not in a position to relocate at this time. Please do keep me in mind if anything should open in the future that you think I would be a good fit for. Feel free to connect with me on [Linkedin](http://www.linkedin.com/in/kennedysgarage) and [Twitter](https://twitter.com/kennedysgarage).
+Thank you very much for reaching out to me. While I am a fan of **|Acme Co.|**, I am not in a position to relocate at this time. Please do keep me in mind if anything should open in the future that you think I would be a good fit for. Feel free to connect with me on [Linkedin](http://www.linkedin.com/in/kennedysgarage) and [Twitter](https://twitter.com/kennedysgarage).
 
 I sincerely appreciate you taking the time to contact me.
 
