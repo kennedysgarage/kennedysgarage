@@ -20,7 +20,6 @@ layout: home
     <div class="page">
       <section class="content">
 
-
       <div class="g3 quickintro">
         <h3>Quick Intro</h3>
         <p>I am currently an Interaction Designer at Google standing tall at 5' 18". I got my start in the hackathon world when I was on the 2011 StartupBus, it changed my life. If there is anything I can help you out with, just ask.</p>
@@ -35,7 +34,6 @@ layout: home
         </ul>
       </div><!--/g1--><div class="clear"></div>
 
-
       <div class="g2">
         <h3>Main Focus</h3>
 
@@ -46,12 +44,12 @@ layout: home
 
         <div class="g2">
           <h3>Latest Article</h3>
-          <a href="/articles/responding-to-recruiter/"><img src="/assets/posts/responding-to-recruiter/hero.png"/></a>
-          <h4>Responding to recruiter</h4>
-          <p>I will be the first to admit that I give recruiters a lot of shit, but I will also admit that a few of them are truly great at their job and have been a huge help.</p>
+          {% for post in site.posts limit:1 %}
+            <a href="{{ post.url }}"><img src="/assets/posts/{{ post.hero }}/hero.png"/></a>
+            <h4>{{ post.title }}</h4>
+            <p>{{ post.excerpt }}</p>
+          {% endfor %}
         </div><!--/g2-->
-
-
 
     </div><!--/content-->
     </div><!--/page-->
