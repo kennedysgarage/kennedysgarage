@@ -550,24 +550,22 @@ footer{
 #social a:hover{
   color: #fff;
 }
-/* ========================================================= EPK ===*/
-#epk{
+/* ========================================================= Thumbnail ===*/
+.thumbnail{
 
 }
-#epk p{
+.thumbnail .caption{
   color: #808087;
   display: block;
   text-align: center;
 }
-#epk strong{
+.thumbnail strong{
   display: block;
+  line-height: 1;
 }
-#epk span, #epk span a{
+.thumbnail span{
   color: #808087;
   font-size: 14px;
-}
-#epk .g4 p{
-  text-align: left;
 }
 /* ========================================================= Adapt ===*/
 @media all and (min-width: 41em) {
