@@ -1,15 +1,19 @@
 /* ========================================================= Typography ===*/
-h1{
+h1, h2, h3, h4 {
   color: #262628;
+  font-family: 'Vollkorn', serif;
+  margin: 1.414em 0 0.5em;
+  font-weight: normal;
+  line-height: 1.2;
+}
+h1{
   font-family: 'Open Sans', sans-serif;
-  font-size: 32px;
-  font-weight: 400;
+  font-size: 3.998em;
   margin: 0 0 30px;
 }
 h2{
   color: #262628;
-  font-family: 'Vollkorn', serif;
-  font-size: 41px;
+  font-size: 2.827em;
   font-weight: 400;
   margin: 0 0 5px;
   padding: 0;
@@ -18,24 +22,26 @@ h3{
   color: #262628;
   font-family: 'Vollkorn', serif;
   font-weight: 400;
-  font-size: 32px;
+  font-size: 1.999em;
   margin: 0 0 5px;
 }
 h4{
   color: #262628;
   font-family: 'Vollkorn', serif;
   font-weight: 400;
-  font-size: 22px;
+  font-size: 1.414em;
   margin: 5px 0;
 }
 p{
   color: #414145;
-  font-size: 18px;
   line-height: 1.5;
-  margin: 0 0 1em;
+  margin: 0 0 1.3em;
 }
 strong{
   color: #262628;
+}
+small, .font_small{
+  font-size: 0.707em;
 }
 ul{
   margin: 0 0 20px;
@@ -43,13 +49,13 @@ ul{
 li{
   color: #414145;
   font-family: 'Open Sans', sans-serif;
-  font-size: 17px;
+  font-size: 1em;
   line-height: 1.5;
 }
 dl{
   color: #414145;
   font-family: 'Open Sans', sans-serif;
-  font-size: 17px;
+  font-size: 1em;
   line-height: 1.5;
   margin: 0 0 10px;
 }
@@ -58,7 +64,7 @@ dt{
 }
 dd{
   color: #A9A9A9;
-  font-size: 15px;
+  font-size: 1em;
   margin: 0 0 10px 10px;
 }
 blockquote {
@@ -78,19 +84,3 @@ blockquote small {
   display: block;
   color: #A9A9A9;
 }
-/*.title h2{
-  font-family: 'ProximaNova',sans-serif;
-  font-size: 41px;
-  font-weight: 400;
-  margin: 5px 0 5px;
-  padding: 0;
-  text-align: center;
-  text-transform: uppercase;
-}
-.subtitle{
-  border-bottom: 1px solid #a4aaae;
-  float: left;
-  margin: 0 0 20px;
-  padding: 40px 1em 0;
-  width: 100%;
-}*/
