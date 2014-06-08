@@ -14,8 +14,8 @@
 .row:after { clear: both; }
 [class*='col-']{
   float: left;
-  padding-left: 0.5em;
-  padding-right: 0.5em;
+  padding-left: 1em;
+  padding-right: 1em;
   position: relative;
   width: 100%;
 }

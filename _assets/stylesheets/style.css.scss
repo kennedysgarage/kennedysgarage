@@ -98,7 +98,7 @@ nav{
     margin: 0 0 4px;
   }
   .content{
-    padding: 2em 1em 0.5em 1em;
+    padding: 2em 0 0.5em 0;
   }
 }
 /* ========================================================= Home ===*/
@@ -571,16 +571,12 @@ footer{
 @media all and (min-width: 41em){
   body{font-size: 1.125em;}
   .container{
-    padding-left: 0.5em;
-    padding-right: 0.5em;
+    padding-left: 1em;
+    padding-right: 1em;
   }
   .row{
-    margin-left: -0.5em;
-    margin-right: -0.5em;
-  }
-  [class*='col-']{
-    padding-left: 0.5em;
-    padding-right: 0.5em;
+    margin-left: -1em;
+    margin-right: -1em;
   }
   .col-12 { width: 100%; }
   .col-9 { width: 75%; }
