@@ -112,7 +112,7 @@ nav a:hover{
     li{
       border-bottom: 1px dashed #ccc;
       padding: 5px;
-      &:hover{
+      &:nth-child(odd){
         background: #f1f1f1;
       }
       &.booked{
