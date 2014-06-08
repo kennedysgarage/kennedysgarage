@@ -570,6 +570,14 @@ footer{
 }
 /* ========================================================= Respond ===*/
 @media all and (min-width: 41em){
+  .container{
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+  }
+  .row{
+    margin-left: -0.5em;
+    margin-right: -0.5em;
+  }
   .col-12 { width: 100%; }
   .col-9 { width: 75%; }
   .col-8 { width: 66.7%; }
