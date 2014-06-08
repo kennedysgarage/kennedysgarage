@@ -98,7 +98,7 @@ nav{
     margin: 0 0 4px;
   }
   .content{
-    padding: 2em 2em 0.5em 2em;
+    padding: 2em 1em 0.5em 1em;
   }
 }
 /* ========================================================= Home ===*/
@@ -578,6 +578,10 @@ footer{
     margin-left: -0.5em;
     margin-right: -0.5em;
   }
+  [class*='col-']{
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+  }
   .col-12 { width: 100%; }
   .col-9 { width: 75%; }
   .col-8 { width: 66.7%; }
@@ -589,6 +593,11 @@ footer{
   }
   nav{
     float: right;
+  }
+  .page{
+    .content{
+      padding: 2em 2em 0.5em 2em;
+    }
   }
   #partners{
     .col-3{
