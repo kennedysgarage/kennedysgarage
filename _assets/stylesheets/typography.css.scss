@@ -2,12 +2,13 @@
 h1, h2, h3, h4 {
   color: #262628;
   font-family: 'Vollkorn', serif;
+  font-family: 'Effra Medium', sans-serif;
   margin: 1.414em 0 0.5em;
   font-weight: normal;
   line-height: 1.2;
 }
 h1{
-  font-family: 'Open Sans', sans-serif;
+  // font-family: 'Open Sans', sans-serif;
   font-size: 3.998em;
   margin: 0 0 30px;
 }
@@ -20,14 +21,15 @@ h2{
 }
 h3{
   color: #262628;
-  font-family: 'Vollkorn', serif;
+  // font-family: 'Vollkorn', serif;
   font-weight: 400;
   font-size: 1.999em;
   margin: 0 0 5px;
 }
 h4{
   color: #262628;
-  font-family: 'Vollkorn', serif;
+  color: #4f5a63;
+  // font-family: 'Vollkorn', serif;
   font-weight: 400;
   font-size: 1.414em;
   margin: 5px 0;
@@ -49,12 +51,14 @@ ul{
 li{
   color: #414145;
   font-family: 'Open Sans', sans-serif;
+  font-family: 'Effra Regular', sans-serif;
   font-size: 1em;
   line-height: 1.5;
 }
 dl{
   color: #414145;
   font-family: 'Open Sans', sans-serif;
+  font-family: 'Effra Regular', sans-serif;
   font-size: 1em;
   line-height: 1.5;
   margin: 0 0 10px;

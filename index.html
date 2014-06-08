@@ -4,52 +4,50 @@ layout: home
 
 <div id="home">
 
-  <section id="intro">
-    <div class="container">
-      <div class="g4">
-        {% image home/intro.png %}
-        <div class="copy">
-          <h2>I'm Kennedy,</h2>
-          <h4>a naively-optimistic entrepreneur based in New York City.</h4>
-        </div><!--/copy-->
-      </div><!--/g4-->
-    </div><!--/container-->
-  </section>
+  <section id="intro"><div class="container"><h2>Kennedy's Garage</h2></div></section>
 
   <div class="container">
     <div class="page">
       <section class="content">
 
-      <div class="g3 quickintro">
-        <h3>Quick Intro</h3>
-        <p>I am currently a Designer Co-Founder at <a href="http://theronstudios.com">Theron Studios</a> standing tall at 5' 18". I got my start in the hackathon world when I was on the 2011 StartupBus, it changed my life. If there is anything I can help you out with, just ask.</p>
+      <div class="g3">
+        <h3>Quick intro</h3>
+        <p>Hello. I'm Kennedy, a UX strategist, UI designer, and front-end developer living in NYC. I recently quit Google to start my own company called <a href="http://theronstudios.com/">Theron Studios</a>. I love working with awesome people building cool shit.</p>
       </div><!--/g3-->
 
-      <div class="g1 role">
-        <h3>My Passion</h3>
-        <ul>
-          <li><i class="ss-icon ss-standard">&#x2713;</i> Mobile UI Design</li>
-          <li><i class="ss-icon ss-standard">&#x2713;</i> UX Strategy</li>
-          <li><i class="ss-icon ss-standard">&#x2713;</i> Web Design</li>
-        </ul>
-      </div><!--/g1--><div class="clear"></div>
+      <div class="g1">
+          {% image home/intro.png %}
+      </div><!--/g1-->
+      <div class="clear"></div>
 
-      <div class="g2">
-        <h3>Main Focus</h3>
+      <div class="g4">
+          <h3>Hire me</h3>
+          <p>I am an award-winning interactive designer who has a keen eye for detail while keeping a clear vision of the big picture. I enjoying working with amazing companies that hire awesome people. <mark>Typically I am hired for UX strategy, UI design (mobile, tablet, &amp; web), and front-end development.</mark></p>
 
-        {% image home/theron.jpg %}
-          <h4>Theron Studios</h4>
-          <p>I am the Design Co-founder at Theron Studios. If you are interested in working together please reach out to me.</p>
-        </div><!--/g2-->
+          <h4>My availability</h4>
+          <ul class="availability">
+            <li class="booked past">Week 21 <span>(May 26 - May 30)</span> <strong>Booked</strong></li>
+            <li class="booked past">Week 22 <span>(Jun 2 - Jun 6)</span> <strong>Booked</strong></li>
+            <li class="booked">Week 23 <span>(Jun 2 - Jun 6)</span> <strong>Booked</strong></li>
+            <li class="booked">Week 24 <span>(Jun 9 - Jun 13)</span> <strong>Booked</strong></li>
+            <li class="booked">Week 25 <span>(Jun 16 - Jun 20)</span> <strong>Booked</strong></li>
+            <li class="booked">Week 26 <span>(Jun 23 - Jun 27)</span> <strong>Booked</strong></li>
+            <li class="available">Week 27 <span>(Jun 30 - Jul 4)</span> <strong>Available</strong></li>
+            <li class="available">Week 28 <span>(Jul 7 - Jul 11)</span> <strong>Available</strong></li>
+            <li class="available">Week 29 <span>(Jul 14 - Jul 18)</span> <strong>Available</strong></li>
+            <li class="available">Week 30 <span>(Jul 21 - Jul 25)</span> <strong>Available</strong></li>
+            <li class="available">Week 31 <span>(Jul 28 - Aug 1 )</span> <strong>Available</strong></li>
+          </ul>
 
-        <div class="g2">
-          <h3>Latest Article</h3>
-          {% for post in site.posts limit:1 %}
-            <a href="{{ post.url }}"><img src="/assets/posts/{{ post.hero }}/hero.png"/></a>
-            <h4>{{ post.title }}</h4>
-            <p>{{ post.excerpt }}</p>
-          {% endfor %}
-        </div><!--/g2-->
+          <div class="clear"></div>
+
+          <h4>Rates</h4>
+          <p><mark>$6,000 per week.</mark> I have found that charging per week ends up working best for the clients, the project, and myself. I define a work week as a typical 40 hours. If absolutely needed, I can work hourly and I charge $300 per hour.</p>
+
+          <h4>Let's chat</h4>
+          <p>Shoot me over a email at <a href="mailto:kennedysgarage@gmail.com?subject=I want to hire you">kennedysgarage@gmail.com</a> with some info about the project.</p>
+      </div><!--/g1-->
+
 
     </div><!--/content-->
     </div><!--/page-->

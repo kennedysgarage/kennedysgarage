@@ -1,5 +1,6 @@
 @import "compass";
 @import "reset.css.scss";
+@import "fontface.css.scss";
 @import "ss-standard.css.scss";
 @import "ss-social-circle.css.scss";
 @import "ss-social-regular.css.scss";
@@ -11,9 +12,13 @@
 /* ========================================================= Header ===*/
 html,body{
   background-color: #e1e5e5;
+  background-color: #eff2ee;
   color: #414145;
+  color: #3d464d;
   font-family: 'Open Sans', sans-serif;
+  font-family: 'Effra Regular', sans-serif;
   font-size: 1em;
+  font-size: 1.125em;
   font-weight: 400;
   width: 100%;
   text-rendering: optimizeLegibility;
@@ -67,18 +72,24 @@ nav a:hover{
   color: #fff;
 }
 /* ========================================================= Intro ===*/
-#intro {
+#intro{
     background-color: #1FBC9A;
-    padding: 30px 10px 55px;
+    background-color: #2e2e30;
+    // font-variant: small-caps;
+    padding: 50px 10px 80px;
+    text-transform: uppercase;
 }
-#intro h2 {
+#intro h2{
     color: #FFFFFF;
     display: inline;
+    font-family: 'Effra Heavy', sans-serif;
+    margin: 0;
 }
 /* ========================================================= Page ===*/
 .page {
     background-color: #fff;
-    border-radius: 5px;
+    border-radius: 2px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
     margin: -40px 0 2em;
     position: relative;
     z-index: 5;
@@ -94,47 +105,74 @@ nav a:hover{
     padding: 2em 1em 0.5em 1em;
 }
 /* ========================================================= Home ===*/
-#home #intro {
-
-
-}
-#home #intro img{
-  display: block;
-  margin: 0 auto;
-  text-align: center;
-  max-width: 200px;
-  width: 100%;
-  -webkit-transform: translate3d(0, 0, 0);
-  -webkit-transition: opacity 0.1s linear;
-  -moz-transition: opacity 0.1s linear;
-  -o-transition: opacity 0.1s linear;
-  transition: opacity 0.1s linear;
-}
-#home #intro .copy{
-  margin: 0 10px 0 20px;
-  text-align: center;
-}
-#home #intro h2{
-  display: block;
-  line-height: 0.7;
-  font-size: 50px;
-  margin: 48px 0 25px;
-}
-#home #intro h4{
-  color: #fff;
-  font-family: 'Open Sans', sans-serif;
-  font-size: 22px;
-  line-height: 1.2;
-  margin: -10px 0 0;
-}
+// #home #intro {
+//
+//
+// }
+// #home #intro img{
+//   display: block;
+//   margin: 0 auto;
+//   text-align: center;
+//   max-width: 200px;
+//   width: 100%;
+//   -webkit-transform: translate3d(0, 0, 0);
+//   -webkit-transition: opacity 0.1s linear;
+//   -moz-transition: opacity 0.1s linear;
+//   -o-transition: opacity 0.1s linear;
+//   transition: opacity 0.1s linear;
+// }
+// #home #intro .copy{
+//   margin: 0 10px 0 20px;
+//   text-align: center;
+// }
+// #home #intro h2{
+//   display: block;
+//   line-height: 0.7;
+//   font-size: 50px;
+//   margin: 48px 0 25px;
+// }
+// #home #intro h4{
+//   color: #fff;
+//   font-family: 'Open Sans', sans-serif;
+//   font-size: 22px;
+//   line-height: 1.2;
+//   margin: -10px 0 0;
+// }
 #home .skills h3{
   margin-top: 0;
 }
-.quickintro h3{
-  margin-top: 0;
-}
-.quickintro p{
-
+#home{
+  .availability{
+    list-style: none;
+    margin: 0 0 1.5em;
+    padding: 0;
+    li{
+      border-bottom: 1px dashed #ccc;
+      padding: 5px;
+      &:hover{
+        background: #f1f1f1;
+      }
+      &.booked{
+        strong{
+          color: #e67e22;
+        }
+      }
+      &.available{
+        strong{
+          color: #3498db;
+        }
+      }
+      &.past{
+        opacity: 0.3;
+      }
+      span{
+        color: #aaa;
+      }
+      strong{
+        float: right;
+      }
+    }
+  }
 }
 /* ========================================================= Page ===*/
 /*#page{
@@ -571,7 +609,7 @@ footer{
   color: #808087;
   font-size: 14px;
 }
-/* ========================================================= Adapt ===*/
+/* ========================================================= Respond ===*/
 @media all and (min-width: 41em) {
   .g1{max-width: 50%}
   .g1_5{max-width: 33%;}
@@ -584,15 +622,15 @@ footer{
   nav{
     float: right;
   }
-  #home #intro{
-    background-image: url(asset_path('city.jpg'));
-    background-position: right center;
-    padding: 10px 0 55px;
-  }
-  #home #intro h2{
-    font-size: 70px;
-    margin:10px 0 25px;
-  }
+  // #home #intro{
+  //   background-image: url(asset_path('city.jpg'));
+  //   background-position: right center;
+  //   padding: 10px 0 55px;
+  // }
+  // #home #intro h2{
+  //   font-size: 70px;
+  //   margin:10px 0 25px;
+  // }
 }
 @media all and (min-width: 960px) {
   .container {max-width: 960px}
@@ -603,19 +641,19 @@ footer{
   header h1{
     display: inline;
   }
-  #home #intro{
-    padding: 70px 0 90px;
-  }
-  #home #intro .copy{
-    text-align: left;
-  }
-  #home #intro h2{
-    margin: 64px 0 25px;
-  }
-  #home #intro img{
-    float: left;
-    margin: 0 40px 0 10px;
-  }
+  // #home #intro{
+  //   padding: 70px 0 90px;
+  // }
+  // #home #intro .copy{
+  //   text-align: left;
+  // }
+  // #home #intro h2{
+  //   margin: 64px 0 25px;
+  // }
+  // #home #intro img{
+  //   float: left;
+  //   margin: 0 40px 0 10px;
+  // }
   article{
     padding: 30px 180px;
   }
