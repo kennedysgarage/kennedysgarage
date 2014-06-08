@@ -73,9 +73,8 @@ nav a:hover{
 }
 /* ========================================================= Intro ===*/
 #intro{
-    background-color: #1FBC9A;
+    // background-color: #1FBC9A;
     background-color: #2e2e30;
-    // font-variant: small-caps;
     padding: 50px 10px 80px;
     text-transform: uppercase;
 }
@@ -105,42 +104,6 @@ nav a:hover{
     padding: 2em 1em 0.5em 1em;
 }
 /* ========================================================= Home ===*/
-// #home #intro {
-//
-//
-// }
-// #home #intro img{
-//   display: block;
-//   margin: 0 auto;
-//   text-align: center;
-//   max-width: 200px;
-//   width: 100%;
-//   -webkit-transform: translate3d(0, 0, 0);
-//   -webkit-transition: opacity 0.1s linear;
-//   -moz-transition: opacity 0.1s linear;
-//   -o-transition: opacity 0.1s linear;
-//   transition: opacity 0.1s linear;
-// }
-// #home #intro .copy{
-//   margin: 0 10px 0 20px;
-//   text-align: center;
-// }
-// #home #intro h2{
-//   display: block;
-//   line-height: 0.7;
-//   font-size: 50px;
-//   margin: 48px 0 25px;
-// }
-// #home #intro h4{
-//   color: #fff;
-//   font-family: 'Open Sans', sans-serif;
-//   font-size: 22px;
-//   line-height: 1.2;
-//   margin: -10px 0 0;
-// }
-#home .skills h3{
-  margin-top: 0;
-}
 #home{
   .availability{
     list-style: none;
@@ -175,38 +138,28 @@ nav a:hover{
   }
 }
 /* ========================================================= Page ===*/
-/*#page{
-  padding: 30px;
-}
-.page .content{
-  padding: 30px;
-}
 .page{
-  margin: 95px 0 0;
-}
-#page img{
-  display: block;
-  margin: 0 auto 18px;
-  vertical-align: bottom;
-}*/
-.page .hero span {
-    display: block;
-    position: relative;
-}
-.page .hero span:before {
-    box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.7) inset, 0 0 3px rgba(255, 255, 255, 0.7) inset, 0 2px 0 rgba(255, 255, 255, 0.5) inset;
-    border-radius: 3px 3px 0 0;
-    content: "";
-    height: 100%;
-    left: 0;
-    position: absolute;
-    width: 100%;
-}
-.page .hero img {
-   border-radius: 3px 3px 0 0;
-    display: block;
-    margin: 0;
-    width: 100%;
+  .hero{
+    span{
+      display: block;
+      position: relative;
+      &:before {
+          // box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.7) inset, 0 0 3px rgba(255, 255, 255, 0.7) inset, 0 2px 0 rgba(255, 255, 255, 0.5) inset;
+          border-radius: 2px 2px 0 0;
+          content: "";
+          height: 100%;
+          left: 0;
+          position: absolute;
+          width: 100%;
+      }
+    }
+    img {
+      border-radius: 2px 2px 0 0;
+      display: block;
+      margin: 0;
+      width: 100%;
+    }
+  }
 }
 /* ========================================================= About ===*/
 .about{
