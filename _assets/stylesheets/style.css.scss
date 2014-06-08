@@ -16,7 +16,6 @@ html,body{
   color: #3d464d;
   font-family: 'Effra Regular', sans-serif;
   font-size: 1em;
-  font-size: 1.125em;
   font-weight: 400;
   width: 100%;
   text-rendering: optimizeLegibility;
@@ -570,6 +569,7 @@ footer{
 }
 /* ========================================================= Respond ===*/
 @media all and (min-width: 41em){
+  body{font-size: 1.125em;}
   .container{
     padding-left: 0.5em;
     padding-right: 0.5em;
