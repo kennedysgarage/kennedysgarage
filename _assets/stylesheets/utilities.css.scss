@@ -119,3 +119,20 @@ form button{
 form button:hover{
     background: #1db392;
 }
+/* ========================================================= Thumbnail ===*/
+.thumbnail{
+  .caption{
+    color: #808087;
+    display: block;
+    margin: 0;
+    text-align: center;
+  }
+  strong{
+    display: block;
+    line-height: 1;
+  }
+  span{
+    color: #808087;
+    font-size: 14px;
+  }
+}

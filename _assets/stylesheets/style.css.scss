@@ -164,19 +164,35 @@ nav{
 }
 /* ========================================================= About ===*/
 #about{
+  .aboutimg{
+    img{
+      border-radius: 4px;
+      display: inline;
+      float: left;
+      margin: 0 25px 10px 0;
+      max-width: 220px;
+      width: 100%;
+    }
+  }
   .skills{
     list-style: none;
     margin: 0;
     padding: 0;
+    i{
+      font-size: 16px;
+      vertical-align: middle;
+    }
   }
-}
-.page .aboutimg{
-  border-radius: 4px;
-  display: inline;
-  float: left;
-  margin: 0 30px 10px 0;
-  max-width: 220px;
-  width: 100%
+  .achievements{
+    h3{
+      margin-bottom: 30px;
+    }
+  }
+  .brands{
+    h3{
+      margin-bottom: 30px;
+    }
+  }
 }
 /* ========================================================= Resume ===*/
 .resume figure{
@@ -552,22 +568,6 @@ footer{
 //   font-size: 18px;
 //   vertical-align: middle;
 // }
-/* ========================================================= Thumbnail ===*/
-.thumbnail{
-  .caption{
-    color: #808087;
-    display: block;
-    text-align: center;
-  }
-  strong{
-    display: block;
-    line-height: 1;
-  }
-  span{
-    color: #808087;
-    font-size: 14px;
-  }
-}
 /* ========================================================= Respond ===*/
 @media all and (min-width: 41em){
   body{font-size: 1.125em;}
