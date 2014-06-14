@@ -164,19 +164,15 @@ nav{
 }
 /* ========================================================= About ===*/
 #about{
-  .aboutimg{
-    img{
-      border-radius: 4px;
-      display: inline;
-      float: left;
-      margin: 0 25px 10px 0;
-      max-width: 220px;
-      width: 100%;
-    }
+  img{
+    border-radius: 4px;
+    margin: 0 auto 1em;
+  }
+  .top{
+    margin-bottom: 40px;
   }
   .skills{
     list-style: none;
-    margin: 0;
     padding: 0;
     i{
       font-size: 16px;
@@ -192,12 +188,8 @@ nav{
     h3{
       margin-bottom: 30px;
     }
-    .top{
-      margin-bottom: 40px;
-    }
     img{
       max-height: 75px;
-      margin: 0 auto;
     }
   }
 }
