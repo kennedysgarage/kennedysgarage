@@ -10,8 +10,8 @@
   // margin-left: -0.5em;
   // margin-right: -0.5em;
 }
-.row:before, .row:after { content: ""; display: table; }
-.row:after { clear: both; }
+.row:before, .row:after{content: ""; display: table;}
+.row:after{clear: both;}
 [class*='col-']{
   float: left;
   padding-left: 1em;
@@ -19,6 +19,6 @@
   position: relative;
   width: 100%;
 }
-.pull-right {
+.pull-right{
   float: right;
 }
