@@ -26,13 +26,24 @@ html,body{
 }
 header{
   background-color: #262628;
-  padding: 1em;
   h1{
-    display: block;
+    display: inline-block;
     line-height: 0;
     margin: 0;
-    text-align: center;
     vertical-align: middle;
+    a{
+      display: inline-block;
+      padding: 20px;
+      &:active{
+        outline: none;
+      }
+    }
+  }
+  .menu{
+    color: #ddd;
+    font-size: 1.414em;
+    float: right;
+    padding: 38px 20px 20px;
   }
   img{
     border-radius: 0;
@@ -43,29 +54,26 @@ header{
 -- Navigation --
 ------------- */
 nav{
-  margin: 8px 0 0 0;
-  text-align: right;
+  background-color: #1FBC9A;
+  display: none;
+  width: 100%;
   ul{
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    text-align: center;
     li{
-      display: inline-block;
-      padding: 0;
+      border-bottom: 1px solid rgba(0,0,0,0.1);
       a{
-        color: #a7abb1;
+        color: #ddd;
         display: block;
-        font-size: 15px;
-        padding: 6px 20px;
+        padding: 15px;
+        font-family: 'Effra Medium', sans-serif;
         text-align: center;
+        text-transform: uppercase;
         &:hover{
           color: #fff;
         }
+        &:last-child{
+          border: none;
+        }
       }
-    }
-    .current a{
-      color: #fff;
     }
   }
 }
@@ -494,6 +502,17 @@ object{
 /* ========================================================= Partners ===*/
 
 /* ========================================================= Footer ===*/
+// trying to get foot to be accorss
+// footer{
+//   #cta{
+//     p{
+//       display: block;
+//     }
+//     .btn{
+//       display: block;
+//     }
+//   }
+// }
 footer{
   #cta{
     background-color: #505154;
@@ -501,7 +520,7 @@ footer{
     p{
       color: #ccc;
       display: inline-block;
-      margin: 8px 0 0;
+      margin: 12px 0 0;
     }
     a{
       float: right;
@@ -587,11 +606,53 @@ footer{
   .col-6 { width: 50%; }
   .col-4 { width: 33.3%; }
   .col-3 { width: 25%; }
-  header h1{
-    display: inline;
+  header{
+    padding: 1em;
+    h1{
+      display: inline-block;
+      a{
+        padding: 0;
+      }
+    }
+    .menu{
+      display: none;
+    }
   }
+  /* -------------
+  -- Navigation --
+  ------------- */
   nav{
+    background: none;
+    display: inline-block;
     float: right;
+    text-align: right;
+    width: inherit;
+    ul{
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+      li{
+        border: none;
+        display: inline-block;
+        padding: 0;
+        a{
+          color: #a7abb1;
+          display: block;
+          font-size: 15px;
+          font-family: 'Effra Regular', sans-serif;
+          text-transform: none;
+          padding: 18px 20px 8px;
+          text-align: center;
+          &:hover{
+            color: #fff;
+          }
+        }
+      }
+      .current a{
+        color: #fff;
+      }
+    }
   }
   .page{
     .content{
