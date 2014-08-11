@@ -258,7 +258,10 @@ nav{
       margin: 0;
     }
     img{
-      margin-bottom: 0;
+      border-radius: 3px;
+      float: right;
+      margin: 0 0 0 20px;
+      max-width: 250px;
     }
     h2{
       font-size: 33px;
@@ -266,12 +269,9 @@ nav{
     }
     p{
       margin: 0 0 10px;
-      &.byline{
-        margin: 0;
-      }
     }
     a{
-      color: #222;
+      // color: #222;
     }
   }
 }
@@ -299,8 +299,9 @@ article p{
   color: #808590;
   font-size: 14px;
   margin: 0;
-  text-align: center;
+  text-align: left;
   text-indent: 0;
+  text-transform: uppercase;
 }
 article img{
   border-radius: 3px;

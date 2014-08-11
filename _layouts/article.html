@@ -7,20 +7,19 @@
 	<div class="page">
     {% if page.hero %}<div class="hero"><span><img src="/assets/posts/{{ page.hero }}/hero.png"/></span></div>{% endif %}
     <article>
+			<p class="byline">
+				{% assign d = page.date | date: "%d" | plus:'0' %}
+				{{ page.date | date: "%B" }}
+				{% case d %}
+					{% when 1 or 21 or 31 %}{{ d }}st
+					{% when 2 or 22 %}{{ d }}nd
+					{% when 3 or 23 %}{{ d }}rd
+					{% else %}{{ d }}th
+					{% endcase %},
+				{{ page.date | date: "%Y" }}
+			</p>
       <h2>{{ page.title }}</h2>
       {{ content }}
-      <p class="byline">
-	      {% assign d = page.date | date: "%d" | plus:'0' %}
-	      {{ page.date | date: "%B" }}
-	      {% case d %}
-	        {% when 1 or 21 or 31 %}{{ d }}st
-	        {% when 2 or 22 %}{{ d }}nd
-	        {% when 3 or 23 %}{{ d }}rd
-	        {% else %}{{ d }}th
-	        {% endcase %},
-	      {{ page.date | date: "%Y" }}
-	       &there4; Kennedy
-     </p>
 
       {% if page.comments %}
       <br/><hr/>
