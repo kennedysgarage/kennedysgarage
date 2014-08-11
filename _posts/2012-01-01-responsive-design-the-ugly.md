@@ -3,6 +3,7 @@ layout: article
 permalink: /articles/responsive-design-the-ugly/
 title: Responsive Design, the ugly
 excerpt: It seems lately that everyone is talking about responsive design and few people are actually trying to implement it. After much research, a few attempts, and some heated, yet passionate, discussions
+comments: false
 ---
 
 <p>It seems lately that everyone is talking about responsive design and few people are actually trying to implement it. After much research, a few attempts, and some heated, yet passionate, discussions I have come to the conclusion that some of it should never leave your local host. Don't get me wrong, I love pushing the limits, but I also think it is important to keep the end user in mind.</p>

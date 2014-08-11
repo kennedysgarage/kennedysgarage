@@ -4,6 +4,7 @@ permalink: /articles/fake-it-till-you-make-it/
 title: Fake it till you make it
 excerpt: Eventually you are going to actually fake it until you made it. Then what?
 hero: fake-it-till-you-make-it
+comments: false
 ---
 
 <p>Eventually you are going to actually fake it until you made it. Then what? I have been faking it my entire life. I have always lived by the motto "Fake it until you make it". It is something I said to myself to make myself feel better about the lack of education. Something I never thought about is what happens when I do "make it"? Let me till you it's a very strange feeling.</p>

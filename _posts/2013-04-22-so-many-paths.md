@@ -4,6 +4,7 @@ permalink: /articles/so-many-paths/
 title: So Many Paths
 excerpt: I am in a bit of a funk right now and I mostly blame it on not knowing what I want to do with my life or even what I want out of it.
 hero: so-many-paths
+comments: false
 ---
 
 <p>I am in a bit of a funk right now and I mostly blame it on not knowing what I want to do with my life or even what I want out of it. I'm happily married, live in an awesome place with a great view, making decent money, and successful in my own eyes. The only real goal I have ever had was to be rich, not to buy things, but to be free.</p>

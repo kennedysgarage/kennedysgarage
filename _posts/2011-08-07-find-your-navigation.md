@@ -4,6 +4,7 @@ permalink: /articles/find-your-navigation/
 title: Find Your Navigation
 excerpt: An experiment I did to help decide the structure of a site. I took a few 3x5 blank index cards and wrote the title of the page names, categories and subcategories (basically all main structures) on each card. Then we sorted this pile to help make sense of the navigation.
 hero: find-your-navigation
+comments: false
 ---
 
 <p>I just wanted to share an experiment I did to help decide the structure of a site. I do not know where the idea originated from, maybe it was in my head from a few things I have done in the past or maybe someone wrote about this earlier. I am sure someone will enlighten me.</p>

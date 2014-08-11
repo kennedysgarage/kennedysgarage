@@ -3,6 +3,7 @@ layout: article
 permalink: /articles/unleash-the-beast-after-thoughts/
 title: Unleash The Beast After Thoughts
 excerpt:
+comments: false
 ---
 
 <p>Last night I had the pleasure of speaking on a panel about Hackathons. I wanted to write a little follow up about some thoughts I was not able to express and clear up a few things that I talked about.</p>

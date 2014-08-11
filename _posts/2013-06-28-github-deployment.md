@@ -4,6 +4,7 @@ permalink: /articles/github-deployment/
 title: GitHub Deployment
 excerpt: I want to share with you how I deploy some websites with GitHub Service Hooks. The other day I needed to deploy to domain.com and dev.domain.com from the same repo.
 hero: github-deployment
+comments: false
 ---
 
 <p>I want to share with you how I deploy some websites with GitHub Service Hooks. I original found out about this method from <a href="https://twitter.com/jeffrey_way">Jeffrey Way</a> with his article <a href="http://net.tutsplus.com/tutorials/other/the-perfect-workflow-with-git-github-and-ssh/">The Perfect Workflow, with Git, GitHub, and SSH</a>.</p>
@@ -17,4 +18,3 @@ hero: github-deployment
 <p>I made a little video to better explain my work flow and how this all works.</p>
 <iframe src="http://www.youtube.com/embed/I5CtxEFrL4U"></iframe>
 <p>If you have any questions please feel free to ask.</p>
-

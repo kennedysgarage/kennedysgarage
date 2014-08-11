@@ -3,6 +3,7 @@ layout: article
 permalink: /articles/monkey-bread/
 title: Monkey Bread
 excerpt: A great dessert for 2. Have fun pulling the bread apart with a fork or get messy with your fingers.
+comments: false
 ---
 
 <p>A great dessert for 2. Have fun pulling the bread apart with a fork or get messy with your fingers. This is one of those foods you eat that take you back home, and remind you of the sweet times.</p>

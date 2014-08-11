@@ -3,6 +3,7 @@ layout: article
 permalink: /articles/aidans-monsters
 title: Aidan's Monsters
 excerpt: You want to do something good today? With the power of social media I stumbled across the story about 5 year old boy name Aidan diagnosed with Leukemia. Aidan is selling his drawings of monsters to help pay for the medical bills. I just purchased a wonderful piece of art for my office at work.
+comments: false
 ---
 
 <h4>You want to do something good today?</h4>

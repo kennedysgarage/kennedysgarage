@@ -4,6 +4,7 @@ permalink: /articles/php-extension-mcrypt-must-be-loaded-php-extension-curl-must
 title: PHP Extension "mcrypt" must be loaded PHP Extension "curl" must be loaded
 excerpt: I ran into this little problem after watching "Easy E-Commerce With Magento" tut over at NetTuts
 hero: php-extension-mcrypt-must-be-loaded-php-extension-curl-must-be-loaded
+comments: false
 ---
 
 <p>I ran into this little problem after watching <a title="Easy E-Commerce With Magento" href="http://net.tutsplus.com/videos/screencasts/easy-e-commerce-with-magento/">Easy E-Commerce With Magento</a> tut over at <a title="NetTuts" href="http://net.tutsplus.com">NetTuts</a>.</p>

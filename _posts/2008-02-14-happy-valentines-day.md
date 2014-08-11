@@ -3,6 +3,7 @@ layout: article
 permalink: /articles/happy-valentines-day/
 title: Happy Valentines Day
 excerpt: Here is a short story about my first day on the job in an ambulance as an EMT from back in the day. This is unedited and written shortly after the following event.
+comments: false
 ---
 
 <p><i>Here is a short story about my first day on the job in an ambulance as an EMT from back in the day. This is unedited and wrtien shortly after the following event.</i></p>
