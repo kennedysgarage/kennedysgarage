@@ -269,6 +269,9 @@ nav{
     }
     p{
       margin: 0 0 10px;
+      &.byline{
+        margin: 0;
+      }
     }
     a{
       // color: #222;
