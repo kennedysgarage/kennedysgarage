@@ -251,7 +251,7 @@ nav{
     list-style: none;
     margin: 0;
     overflow: hidden;
-    padding: 1em 0;
+    padding: 1.5em 0;
     &:last-child{
       border-bottom: none;
       box-shadow: none;
@@ -261,17 +261,14 @@ nav{
       border-radius: 3px;
       float: right;
       margin: 0 0 0 20px;
-      max-width: 250px;
+      max-width: 225px;
     }
     h2{
       font-size: 33px;
       line-height: 1.0;
     }
     p{
-      margin: 0 0 10px;
-      &.byline{
-        margin: 0;
-      }
+      margin: 0;
     }
     a{
       // color: #222;
