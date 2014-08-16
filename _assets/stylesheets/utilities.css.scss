@@ -131,6 +131,24 @@ form button{
 form button:hover{
     background: #1db392;
 }
+/* ========================================================= Blockquote ===*/
+blockquote {
+  margin: 3em 0 2.5em;
+  text-align: center;
+}
+blockquote p {
+  font-family: Georgia, serif;
+  font-weight: 400;
+  margin-bottom: 0;
+  font-size: 31px;
+  -moz-hyphens: none !important;
+  text-align: center !important;
+}
+blockquote small {
+  display: block;
+  color: #A9A9A9;
+  font-size: 20px;
+}
 /* ========================================================= Thumbnail ===*/
 .thumbnail{
   .caption{

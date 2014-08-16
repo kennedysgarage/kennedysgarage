@@ -35,7 +35,8 @@ comments: false
 <p>I also want to thank some of the Googlers for making my life a fucking blast while there. Pretty much everyone there was amazing, I want to give a special thanks to the my manager Sarah and a good friend Dom for putting up with me daily.</p>
 
 <blockquote>
-<p>If you are going to quit Google you better make it worth it.</p>
+<p>&ldquo;If you are going to quit Google you better make it worth it.&rdquo;</p>
+<small>- Everyone</small>
 </blockquote>
 
 <p>So what’s next for me? Doing my own thing of course and following that passion. Something I have been wanting to do for a while is build an awesome team and create amazing fucking products. I am excited to announce <a href="http://theronstudios.com/">Theron</a>, a creative studio focused on mobile and wearables.</p>
