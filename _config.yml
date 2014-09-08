@@ -3,6 +3,7 @@ permalink: pretty
 author: Kennedy
 email: kennedysgarage@gmail.com
 url: http://kennedysgarage.com
+markdown: redcarpet
 
 exclude: ["CNAME","editorconfig.txt","Gemfile","Gemfile.lock","README.md", "RAKEFILE"]
 
