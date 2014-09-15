@@ -16,7 +16,7 @@ comments: false
 
 <h3>About me</h3>
 <ul>
-  <li>My name is Kennedy and I happy to be here today with you on this special occasion. I want to talk a little about where I come from and how I got to where I am today. I am from a very underprivileged family. Now I live in Manhattan with a view of the entire city.</li>
+  <li>My name is Kennedy and I am happy to be here today with you on this special occasion. I want to talk a little about where I come from and how I got to where I am today. I am from a very underprivileged family. Now I live in Manhattan with a view of the entire city.</li>
   <li>I barely graduated high school and never received a higher education. I want you to keep something in mind as I go on: I am 100% self-taught. </li>
   <li>I have been getting paid as a professional designer for more than 5 years. Most recently I was working for Google as an interactive designer, and I just launched my own creative studio where I design and build apps.</li>
 </ul>
@@ -57,7 +57,7 @@ comments: false
   <li>Never worry about the past and don't let it drag you down. Look forward and stay focused.</li>
   <li>Exercise or stretch daily. This does a lot for the mind and body that you won’t understand until you stop doing it.</li>
   <li>Your body is a machine: what you put in it will be what you get out of it.</li>
-  <li>As an adult you have no one to blame from this point on besides yourself. No more excuses about why you are not the man or women you want to be.</li>
+  <li>As an adult you have no one to blame from this point on besides yourself. No more excuses about why you are not the man or woman you want to be.</li>
   <li>Having trouble sleeping? Go read a book or do something to educate yourself. It takes a lot of effort to learn new things. Your brain will get tired and you’ll easily fall asleep.</li>
   <li>It’s okay to fail. It’s actually a good thing. You only become a failure when you learn why you failed in the first place and do nothing to ensure it doesn’t happen again.</li>
   <li>Avoid non-contact social interactions while working. For example, don’t check your phone every 5 minutes. Nothing is that important and it makes you look like you don’t care about your job.</li>
