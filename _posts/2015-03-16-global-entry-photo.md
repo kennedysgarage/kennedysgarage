@@ -18,3 +18,6 @@ tags: [ux,life,rant]
 <img src="/assets/posts/global-entry-photo/photo.jpg"/>
 <figcaption>Who needs to see my face anyways. #ThanksObama</figcaption>
 </figure>
+
+<h4>Update</h4>
+<p><strong>03/16/2015 @ 12:20am</strong><br/>My wife wanted to explain her side of being nervous. She says I left out the part where I said, "FUCK them. If they want to build a camera like this then I'll do whatever the fuck I want!" Cue her getting nervous in customs. I have nothing to add, I still stand by what I said.</p>
