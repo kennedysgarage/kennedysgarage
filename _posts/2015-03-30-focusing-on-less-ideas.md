@@ -2,7 +2,7 @@
 layout: article
 permalink: /articles/focusing-on-less-ideas/
 title: Focusing on less ideas
-excerpt:
+excerpt: Noticed how I didn't title it "Focusing on one idea". I accepted a long time ago that I am not wired to focus on just one idea.
 hero: focusing-on-less-ideas
 comments: true
 tags:
