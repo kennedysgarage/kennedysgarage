@@ -5,7 +5,12 @@ title: Global Entry Photo
 excerpt: I know tall people don't normally bitch about accessibility for our height, but why should I have to lean down to get my whole face in the photo.
 hero: global-entry-photo
 comments: true
-tags: [ux,life,rant]
+tags:
+- ux
+- life
+- rant
+categories:
+  - Life
 ---
 
 <p>I just got back from a little vacation / company retreat for <a href="http://theronstudios.com">Theron Studios</a> from Costa Rica. It was wonderful and much needed. In preparation for this trip I got my passport, <a href="http://www.tsa.gov/tsa-precheck-application-program">TSA Pre&#x2713;&trade;</a>, and my <a href="http://www.cbp.gov/global-entry/about">Global Entry</a> card.</p>
