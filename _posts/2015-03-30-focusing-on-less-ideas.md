@@ -4,11 +4,10 @@ permalink: /articles/focusing-on-less-ideas/
 title: Focusing on less ideas
 excerpt: Noticed how I didn't title it "Focusing on one idea". I accepted a long time ago that I am not wired to focus on just one idea.
 hero: focusing-on-less-ideas
-comments: true
 tags:
-- ux
-- real estate
-- rant
+- life
+- idea
+comments: true
 ---
 
 <p>Noticed how I didn't title it "Focusing on one idea". I accepted a long time ago that I am not wired to focus on just one idea. In my 20's I thought I could do everything and I wanted to do everything. This is a common phase they all young entrepreneurs go through. I attempted to do a lot of things in my 20's. I was a mechanic on air planes, did ocean rescue, surf instructor, bartender, EMT in an emergency room, sold coffee, created my own startup, and a lot of little things in-between. There was a lot more that I wanted to do. I wasn't always successful, but I gave it my all. I don't regret bouncing around so much, I learned a lot and gained a lot of life experiences. All of this made me who I am today and I am proud of that.</p>

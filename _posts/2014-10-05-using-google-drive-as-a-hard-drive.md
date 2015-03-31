@@ -3,6 +3,8 @@ layout: article
 permalink: /articles/using-google-drive-as-a-hard-drive/
 title: Using Google Drive as a hard drive
 excerpt: For the past couple weeks a few people have asked me how I have my files set up on my computer. I want to share with you my structure and how I keep everything organize.
+tags:
+- tutorial
 comments: true
 ---
 

@@ -3,6 +3,8 @@ layout: article
 permalink: /articles/deploying-a-jekyll-site-with-a-rakefile/
 title: Deploying a Jekyll site with a Rakefile
 excerpt: You have an awesome website built with Jekyll, but you need an easy way to publish it.
+tags:
+- tutorial
 comments: false
 ---
 

@@ -9,8 +9,6 @@ tags:
 - ux
 - life
 - rant
-categories:
-  - Life
 ---
 
 <p>I just got back from a little vacation / company retreat for <a href="http://theronstudios.com">Theron Studios</a> from Costa Rica. It was wonderful and much needed. In preparation for this trip I got my passport, <a href="http://www.tsa.gov/tsa-precheck-application-program">TSA Pre&#x2713;&trade;</a>, and my <a href="http://www.cbp.gov/global-entry/about">Global Entry</a> card.</p>

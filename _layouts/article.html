@@ -19,7 +19,18 @@
 				{{ page.date | date: "%Y" }}
 			</p>
       <h2>{{ page.title }}</h2>
+
+
       {{ content }}
+
+			{% if page.tags %}
+			<ul class="tag_list clearfix">
+			<li>Tags: </li>
+			{% for tag in page.tags %}
+			<li> &bull; <a href="/tag/{{ tag }}">{{ tag }}</a></li>
+			{% endfor %}
+			</ul>
+			{% endif %}
 
       {% if page.comments %}
       <br/><hr/>
