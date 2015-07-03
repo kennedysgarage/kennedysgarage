@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 permalink: /articles/my-workflow-for-ios-apps/
 title: My workflow for iOS apps
 excerpt: My goal is to document the way we build iOS app and we want to share it with you.

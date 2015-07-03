@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 permalink: /articles/wordpress-different-file-extensions/
 title: WordPress different file extensions
 excerpt: For what ever reason I had a difficult time find this solution. It seemed like most of the articles where out of date. Please let me know if you need any help. Just add this to your functions.php in your theme directory.

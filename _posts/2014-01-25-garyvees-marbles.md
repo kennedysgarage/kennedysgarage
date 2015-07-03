@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 permalink: /articles/garyvees-marbles/
 title: Garyvee's marbles
 excerpt: The day I noticed Gary is everywhere

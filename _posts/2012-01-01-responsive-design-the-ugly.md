@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 permalink: /articles/responsive-design-the-ugly/
 title: Responsive Design, the ugly
 excerpt: It seems lately that everyone is talking about responsive design and few people are actually trying to implement it. After much research, a few attempts, and some heated, yet passionate, discussions

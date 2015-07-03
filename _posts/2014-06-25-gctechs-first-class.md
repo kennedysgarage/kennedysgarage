@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 permalink: /articles/gctechs-first-class/
 title: GCTech’s First Class
 excerpt: Theron Studios is proud to be a part of the First Class of startups to embark on this amazing journey. Theron Studios was one of the lucky 18 companies selected by Matt Harrigan and Charles Bonello.

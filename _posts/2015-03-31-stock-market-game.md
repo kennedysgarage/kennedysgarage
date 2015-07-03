@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 permalink: /articles/stock-market-game/
 title: Stock market game
 excerpt: This idea came about because I wanted to learn how to invest in the stock market by doing. I read a couple books, but I wanted to practice before jumping in.

@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 permalink: /articles/why-we-design/
 title: Why we design
 excerpt: I have been doing a lot of thinking on why people design things, including myself. I have boiled it down intro four main categories.

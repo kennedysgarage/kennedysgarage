@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 permalink: /articles/lost-at-sea-with-little-hope
 title: Lost at sea with little hope
 excerpt: It was a Wednesday after noon with nothing going on. I get a phone call with desperation on the other end, it was my kid brother. "Hey what are you doing? The jet ski is not working, it won't turn on."

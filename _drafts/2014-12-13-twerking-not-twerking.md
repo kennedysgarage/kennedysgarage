@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 permalink: /articles/twerking-not-twerking/
 title: Twerking Not Twerking
 excerpt: I want to give a special thanks to Working Not Working. If it wasn't for my latest project that came through their site Theron Studios may very well have died.

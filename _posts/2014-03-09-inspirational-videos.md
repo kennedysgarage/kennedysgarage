@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 permalink: /articles/inspirational-videos/
 title: Inspirational videos
 excerpt: Sometime in life you need a punch in the face

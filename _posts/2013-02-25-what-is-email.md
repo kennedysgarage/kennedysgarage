@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 permalink: /articles/what-is-email/
 title: What is Email?
 excerpt: I really haven't thought about it before, but I can tell you that I pretty much hate it. I have about 100 emails from the past week that I have haven't responded to.

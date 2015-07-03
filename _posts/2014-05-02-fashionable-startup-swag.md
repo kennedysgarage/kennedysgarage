@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 permalink: /articles/fashionable-startup-swag/
 title: Fashionable Startup Swag
 excerpt: Typically, most startups go the t-shirt route for their swag. We decided to go against the status quo this time.

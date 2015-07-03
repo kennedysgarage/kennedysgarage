@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 permalink: /articles/for-less-than-$12-per-hour-you-could-be-a-babysister/
 title: For less than $12 per hour you could be a babysister
 excerpt: Yesterday "WEB DEVELOPER (DOWNTOWN LOS ANGELES)” received 102 points on Hacker News. One of the many highlights of what made this popular was the fact that for all that the job required it only paid $12/hour.

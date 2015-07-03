@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 permalink: /articles/monkey-bread/
 title: Monkey Bread
 excerpt: A great dessert for 2. Have fun pulling the bread apart with a fork or get messy with your fingers.

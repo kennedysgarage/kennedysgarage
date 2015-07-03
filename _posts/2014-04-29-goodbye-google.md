@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 permalink: /articles/goodbye-google/
 title: Goodbye Google
 excerpt: A few weeks ago I decided it was time for a change and I am pretty sure everyone saw it coming.
