@@ -26,12 +26,12 @@ website: http://whoworks.at
 
 <div class="col-6">
   <h4>Rough sketch</h4>
-<img src="/projects/assets/whoworksat/sketch.png">
+{% image projects/whoworksat/sketch.png %}
 </div><!--/col-->
 
       <div class="col-6">
         <h4>Finial design</h4>
-<img src="/projects/assets/whoworksat/logo.png">
+{% image projects/whoworksat/logo.png %}
 </div><!--/col-->
 
 <div class="col-12">
@@ -41,7 +41,7 @@ website: http://whoworks.at
 
           <h3>Website</h3>
           <p>A few days later I designed the landing page.</p>
-          <p><a href="http://whoworks.at"><img src="/projects/assets/whoworksat/website.png" class="poppop"/></a></p>
+          <p><a href="http://whoworks.at"><img src="{{ 'projects/whoworksat/website.png' | asset_path }}" class="poppop"/></a></p>
 
           <h3>Video</h3>
           <iframe width="950" height="674" src="http://www.youtube.com/embed/nZHEFkdL7kk?rel=0" frameborder="0" allowfullscreen></iframe>

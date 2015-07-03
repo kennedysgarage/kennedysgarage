@@ -1,6 +1,22 @@
 {% include header.html %}
 {% include nav.html %}
 
-  {{ content }}
+<div id="home">
+  <section id="intro">
+    <div class="container">
+      <h1>Kennedy's Garage</h1>
+      <a href="http://workingnotworking.com/kennedysgarage" class="btn btn-ghost">For Hire</a>
+    </div><!--/container-->
+  </section>
+
+  <div class="container">
+    <div class="page">
+      <div class="hero"><span>{% image home/kennedy-train.jpg %}</span></div>
+      <section class="content">
+          {{ content }}
+      </section><!--/content-->
+    </div><!--/page-->
+  </div><!--/container-->
+</div><!--/home-->
 
 {% include footer.html %}

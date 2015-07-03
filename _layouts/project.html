@@ -5,14 +5,14 @@
 
   <section id="intro">
     <div class="container">
-      <h2>{{ page.title }}</h2>
-      {% if page.website %}<a href="{{ page.website }}" class="btn">Visit Site <i class="ss-icon ss-standard">&#x1F4BB;</i></a>{% endif %}
+      <h1>{{ page.title }}</h1>
+      {% if page.website %}<a href="{{ page.website }}" class="btn btn-ghost">Visit Site</a>{% endif %}
     </div><!--/container-->
   </section><!--/intro-->
 
   <div class="container">
     <div class="page clearfix">
-      {% if page.file %}<div class="hero"><span><img src="/projects/assets/{{ page.file }}/hero.png"/></span></div>{% endif %}
+      {% if page.file %}<div class="hero"><span><img src="/projects/hero/{{ page.file }}.png"/></span></div>{% endif %}
       <div class="content">
         {{ content }}
       </div><!--/content-->

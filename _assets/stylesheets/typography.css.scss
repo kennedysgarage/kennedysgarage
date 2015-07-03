@@ -1,40 +1,42 @@
 /* ========================================================= Typography ===*/
+// Type Scale: 5 7 9 12 16 21 28 37 50 83 111
 h1, h2, h3, h4 {
-  color: #262628;
+  color: #343E3D;
   font-family: 'Effra Medium', sans-serif;
   margin: 1.414em 0 0.5em;
   font-weight: normal;
   line-height: 1.2;
 }
 h1{
-  font-size: 3.998em;
+  font-size: 37px;
   margin: 0 0 30px;
 }
 h2{
-  color: #262628;
-  font-size: 2.827em;
+  color: #343E3D;
+  font-size: 28px;
   font-weight: 400;
   margin: 0 0 5px;
   padding: 0;
 }
 h3{
-  border-bottom: 3px solid #b6b6bf;
-  color: #262628;
+  // border-bottom: 3px solid #b6b6bf;
+  color: #343E3D;
   display: block;
   font-weight: 400;
-  font-size: 1.999em;
+  font-size: 21px;
   margin: 0 0 5px;
   margin: 1em 0 0.4em;
+  margin: 0 0 0.4em;
 }
 h4{
-  color: #262628;
-  color: #4f5a63;
+  color: #4C4C4C;
+  font-family: 'Effra Heavy', sans-serif;
   font-weight: 400;
-  font-size: 1.414em;
+  font-size: 16px;
   margin: 5px 0;
 }
 p{
-  color: #414145;
+  color: #5C5C5C;
   line-height: 1.5;
   margin: 0 0 1.3em;
 }
@@ -48,16 +50,14 @@ ul, ol{
   margin: 0 0 1.5em;
 }
 li{
-  color: #414145;
-  font-family: 'Open Sans', sans-serif;
-  font-family: 'Effra Regular', sans-serif;
+  color: #5C5C5C;
+  font-family: 'ProximaNova', sans-serif;
   font-size: 1em;
   line-height: 1.5;
 }
 dl{
-  color: #414145;
-  font-family: 'Open Sans', sans-serif;
-  font-family: 'Effra Regular', sans-serif;
+  color: #5C5C5C;
+  font-family: 'ProximaNova', sans-serif;
   font-size: 1em;
   line-height: 1.5;
   margin: 0 0 10px;
@@ -66,7 +66,7 @@ dt{
   font-weight: bold;
 }
 dd{
-  color: #A9A9A9;
+  color: #5C5C5C;
   font-size: 1em;
   margin: 0 0 10px 10px;
 }

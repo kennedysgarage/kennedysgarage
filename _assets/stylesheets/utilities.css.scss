@@ -1,20 +1,12 @@
 /* ========================================================= Utility ===*/
 .btn{
-  // background-color: #6197e8;
-  // background-image: -webkit-gradient(linear, left top, left bottom, from(rgb(97, 151, 232)), to(rgb(55, 118, 224)));
-  // background-image: -webkit-linear-gradient(top, rgb(97, 151, 232), rgb(55, 118, 224));
-  // background-image: -moz-linear-gradient(top, rgb(97, 151, 232), rgb(55, 118, 224));
-  // background-image: -o-linear-gradient(top, rgb(97, 151, 232), rgb(55, 118, 224));
-  // background-image: -ms-linear-gradient(top, rgb(97, 151, 232), rgb(55, 118, 224));
-  // background-image: linear-gradient(top, rgb(97, 151, 232), rgb(55, 118, 224));
-  // filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,StartColorStr='#6197e8', EndColorStr='#3776e0');
   background-color: #1FBC9A;
   border: 1px solid rgba(0,0,0,0.3);
-  border-radius: 4px;
+  border-radius: 3px;
   box-shadow: 0 0 0 2px rgba(255,255,255,0.1) inset, 0 1px 0px rgba(0,0,0,0.3);
   color: #fff;
   font-size: 18px;
-  padding: 8px 14px;
+  padding: 8px 30px;
   text-transform: capitalize;
   text-shadow: none;
   &:hover{
@@ -26,13 +18,25 @@
     vertical-align: middle;
   }
 }
-hr {
+.btn-ghost{
+  background: none;
+  border: 1px solid #1FBC9A;
+  box-shadow: none;
+  color: #1FBC9A;
+  &:hover{
+    color: #fff;
+  }
+}
+.last{
+  margin-bottom: 0;
+}
+hr{
     background: none repeat scroll 0 0 #a4aaae;
     border: medium none;
     box-shadow: 0 1px 0 #F7F6F5;
     clear: both;
     height: 1px;
-    margin: 0 0 20px;
+    margin: 30px 0;
     width: 100%;
 }
 img{

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="46px" height="60px" viewBox="0 0 46 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.1 (12002) - http://www.bohemiancoding.com/sketch -->
+    <title>32-Launch2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="32-Launch2" sketch:type="MSLayerGroup" transform="translate(-6.000000, 1.000000)">
+            <g id="Page-1" sketch:type="MSShapeGroup">
+                <g id="32---Launch-(Webby)">
+                    <path id="Path" stroke="#F0412E" stroke-width="2" d="M0,58 L58,58 L0,58 L0,58 Z"></path>
+                    <path d="M25,43 C23.16,44.069 21.783,43.928 21.25,46.046 C21.004,46.018 20.754,46 20.5,46 C17.787,46 15.464,47.664 14.49,50.026 C10.311,50.29 7,53.754 7,58 L51,58 C51,53.754 47.689,50.29 43.51,50.026 C42.536,47.664 40.213,46 37.5,46 C37.246,46 36.996,46.018 36.75,46.046 C36.217,43.928 34.84,44.069 33,43 L25,43 L25,43 Z" id="Path" stroke="#F0412E" stroke-width="2"></path>
+                    <path id="Path" stroke="#F0412E" stroke-width="2" d="M26,46 L26,51 L26,46 L26,46 Z"></path>
+                    <path id="Path" stroke="#F0412E" stroke-width="2" d="M29,50 L29,54 L29,50 L29,50 Z"></path>
+                    <path id="Path" stroke="#F0412E" stroke-width="2" d="M32,46 L32,49 L32,46 L32,46 Z"></path>
+                    <path id="Path" stroke="#F0412E" stroke-width="2" d="M29,43 L29,46 L29,43 L29,43 Z"></path>
+                    <path d="M34,39 L24,39 L26,33 L32,33 L34,39 L34,39 Z" id="Fill-164" fill="#F0CDCA"></path>
+                    <path d="M34,39 L24,39 L26,33 L32,33 L34,39 L34,39 Z" id="Stroke-165" stroke="#F0412E" stroke-width="2"></path>
+                    <path d="M33,22 L33,13 C33,10.993 32.317,9.046 31.063,7.479 L30.322,6.553 C29.644,5.706 28.356,5.706 27.678,6.553 L26.937,7.479 C25.683,9.046 25,10.993 25,13 L25,22 L9,31 L9,34 L22,34 L24,29 L34,29 L36,34 L48,34 L48,31 L33,22 L33,22 Z" id="Fill-166" fill="#F0CDCA"></path>
+                    <path d="M33,22 L33,13 C33,10.993 32.317,9.046 31.063,7.479 L30.322,6.553 C29.644,5.706 28.356,5.706 27.678,6.553 L26.937,7.479 C25.683,9.046 25,10.993 25,13 L25,22 L9,31 L9,34 L22,34 L24,29 L34,29 L36,34 L48,34 L48,31 L33,22 L33,22 Z" id="Stroke-167" stroke="#F0412E" stroke-width="2"></path>
+                    <path d="M25,22 L25,13 C25,10.993 25.683,9.046 26.937,7.479 L27.678,6.553 C28.356,5.706 29.644,5.706 30.322,6.553 L31.063,7.479 C32.317,9.046 33,10.993 33,13 L33,22 L36,23.8 L36,6.901 C36,3.034 32.866,0 29,0 C25.134,0 22,3.034 22,6.901 L22,23.688 L25,22 L25,22 Z" id="Fill-168" fill="#FFFFFF"></path>
+                    <path d="M25,22 L25,13 C25,10.993 25.683,9.046 26.937,7.479 L27.678,6.553 C28.356,5.706 29.644,5.706 30.322,6.553 L31.063,7.479 C32.317,9.046 33,10.993 33,13 L33,22 L36,23.8 L36,6.901 C36,3.034 32.866,0 29,0 C25.134,0 22,3.034 22,6.901 L22,23.688 L25,22 L25,22 Z" id="Stroke-169" stroke="#F0412E" stroke-width="2"></path>
+                    <path d="M44,28.6 L44,8.667 C44,8.167 43.852,7.678 43.575,7.263 L41.007,3.412 C40.528,2.693 39.472,2.693 38.993,3.412 L36.425,7.263 C36.148,7.678 36,8.167 36,8.667 L36,23.8 L44,28.6 L44,28.6 Z" id="Fill-170" fill="#F0CDCA"></path>
+                    <path d="M44,28.6 L44,8.667 C44,8.167 43.852,7.678 43.575,7.263 L41.007,3.412 C40.528,2.693 39.472,2.693 38.993,3.412 L36.425,7.263 C36.148,7.678 36,8.167 36,8.667 L36,23.8 L44,28.6 L44,28.6 Z" id="Stroke-171" stroke="#F0412E" stroke-width="2"></path>
+                    <path d="M36,37 L44,37 L44,34 L36,34 L36,37 L36,37 Z" id="Fill-172" fill="#F0CDCA"></path>
+                    <path d="M36,37 L44,37 L44,34 L36,34 L36,37 L36,37 Z" id="Stroke-173" stroke="#F0412E" stroke-width="2"></path>
+                    <path d="M22,23.688 L22,8.667 C22,8.167 21.852,7.678 21.575,7.263 L19.007,3.412 C18.528,2.693 17.472,2.693 16.993,3.412 L14.425,7.263 C14.148,7.678 14,8.167 14,8.667 L14,28.188 L22,23.688 L22,23.688 Z" id="Fill-174" fill="#F0CDCA"></path>
+                    <path d="M22,23.688 L22,8.667 C22,8.167 21.852,7.678 21.575,7.263 L19.007,3.412 C18.528,2.693 17.472,2.693 16.993,3.412 L14.425,7.263 C14.148,7.678 14,8.167 14,8.667 L14,28.188 L22,23.688 L22,23.688 Z" id="Stroke-175" stroke="#F0412E" stroke-width="2"></path>
+                    <path d="M14,37 L22,37 L22,34 L14,34 L14,37 L14,37 Z" id="Fill-176" fill="#F0CDCA"></path>
+                    <path d="M14,37 L22,37 L22,34 L14,34 L14,37 L14,37 Z" id="Stroke-177" stroke="#F0412E" stroke-width="2"></path>
+                    <path id="Path" stroke="#F0412E" stroke-width="2" fill="#FFFFFF" d="M15,40 L15,42 L15,40 L15,40 Z"></path>
+                    <path id="Path" stroke="#F0412E" stroke-width="2" fill="#FFFFFF" d="M18,41 L18,43 L18,41 L18,41 Z"></path>
+                    <path id="Path" stroke="#F0412E" stroke-width="2" fill="#FFFFFF" d="M21,40 L21,42 L21,40 L21,40 Z"></path>
+                    <path id="Path" stroke="#F0412E" stroke-width="2" fill="#FFFFFF" d="M37,40 L37,42 L37,40 L37,40 Z"></path>
+                    <path id="Path" stroke="#F0412E" stroke-width="2" fill="#FFFFFF" d="M40,41 L40,43 L40,41 L40,41 Z"></path>
+                    <path id="Path" stroke="#F0412E" stroke-width="2" fill="#FFFFFF" d="M43,40 L43,42 L43,40 L43,40 Z"></path>
+                    <path id="Path" stroke="#F0412E" stroke-width="2" fill="#FFFFFF" d="M28,12 L30,12 L28,12 L28,12 Z"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
