@@ -69,7 +69,7 @@ comments: false
   <li>If you want to be hired for something and don’t have that skill, be honest. I would much rather hire someone with no skill than a person with no passion. Most people love teaching others their craft. It’s their way of giving back.</li>
   <li>Trust your gut and train it. Your gut reaction is based off experience and knowledge. The more you learn and do, the better your gut will be.</li>
   <li>There are a lot of shitty people out there. If the people around you are negative, cut them out of your life. Surround yourself with positive people that are moving forward.</li>
-  <li>Don’t worry about what other people think of you. One of my biggest issues in life is that I have always felt alone in whatever I was doing. Especially in the entrepreneur world.</li> I recently had the chance to ask Marc Ecko (fashion designer) if he ever feels alone. He said “Of course I do, welcome to trying to do shit differently”.</li>
+  <li>Don’t worry about what other people think of you. One of my biggest issues in life is that I have always felt alone in whatever I was doing. Especially in the entrepreneur world.</li> <a href="https://www.youtube.com/watch?v=b7oLy8lhKew&feature=youtu.be&t=2755">I recently had the chance to ask Marc Ecko (fashion designer) if he ever feels alone</a>. He said “Of course I do, welcome to trying to do shit differently”.</li>
   <li>The last thing I want to leave you with is that pain is temporary. If you have something shitty happening in your life, maybe you think it’s not even worth living. Trust me when I say it will pass. You must face that life just fucking sucks sometimes. If you work hard enough, you can start to avoid shitty situations. Remember that pain is only temporary.</li>
 </ul>
 
