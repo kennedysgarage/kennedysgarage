@@ -6,7 +6,7 @@ title: Finance for freelancers
 excerpt: Working as a freelancer is not easy, but it can be very rewarding if you do it right. One of the biggest struggles that I feel most of us have is with money.
 tags:
 - finance
-- freelancers
+- freelance
 comments: false
 ---
 

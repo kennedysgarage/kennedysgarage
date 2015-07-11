@@ -3,7 +3,7 @@ layout: post
 permalink: /articles/for-less-than-$12-per-hour-you-could-be-a-babysister/
 title: For less than $12 per hour you could be a babysister
 excerpt: Yesterday "WEB DEVELOPER (DOWNTOWN LOS ANGELES)” received 102 points on Hacker News. One of the many highlights of what made this popular was the fact that for all that the job required it only paid $12/hour.
-comments: true
+comments: false
 ---
 
 <p>Yesterday "<a href="https://losangeles.craigslist.org/lac/web/4894818972.html">WEB DEVELOPER (DOWNTOWN LOS ANGELES)</a>” received <a href="https://news.ycombinator.com/item?id=9063109">102 points on Hacker News</a>. One of the many highlights of what made this popular was the fact that for all that the job required it only paid $12/hour. It’s easy to laugh this off as pretty much anyone in this field makes a lot more while having a lot less experience. They may find someone, but hey they will get what they pay for, right?</p>

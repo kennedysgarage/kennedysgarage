@@ -3,6 +3,8 @@ layout: post
 permalink: /articles/black-tshirt/
 title: Black T-Shirt
 excerpt: So the other day I was reading 12 Common Photoshop Mistakes and Malpractice and one of the items was talking about "Assuming K=100 is Black".
+tags:
+- idea
 comments: false
 ---
 

@@ -2,8 +2,12 @@
 layout: post
 permalink: /articles/welcome-to-nyc-tech/
 title: Welcome to NYC Tech
-excerpt: When I first moved here it was lonely and I felt ever so small. That was until I met the amazing tech community of NYC.
 hero: welcome-to-nyc-tech
+excerpt: When I first moved here it was lonely and I felt ever so small. That was until I met the amazing tech community of NYC.
+tags:
+- life
+- advice
+- video
 comments: false
 ---
 
@@ -11,10 +15,10 @@ comments: false
 <p>When I first moved here it was lonely and I felt ever so small. That was until I met the amazing tech community of NYC. I was a complete nobody that had nothing to offer and they welcomed me into their lives. From that point on I made sure whenever someone was new to town to help them out as much as I could.</p>
 <p>The following list is complied by a bunch of welcome emails that I sent out. I am sure I am missing a lot, but I will update it as time goes on.</p>
 
-<h3>Events</h3>
+<h2>Events</h2>
 <p>There are some amazing tech events in NYC. When I first moved here I would go to at least 2 a night. It was a great way to meet the amazing community and get some free pizza.</p>
 
-<h4>Finding them</h4>
+<h3>Finding them</h3>
 <p>Honestly I find out about most of the events via email. A lot of the links below have amazing weekly newsletters.</p>
 
 <ul>
@@ -23,7 +27,7 @@ comments: false
 <li><a href="https://www.startupdigest.com/digests/new-york-city">StartupDigest</a></li>
 </ul>
 
-<h4>The ones I often go to and love</h4>
+<h3>The ones I often go to and love</h3>
 <ul>
 <li><a href="http://www.meetup.com/techdrinkup/">#techdrinkup</a></li>
 <li><a href="http://www.meetup.com/DecodedFashion/">Decoded Fashion</a></li>
@@ -35,7 +39,7 @@ comments: false
 <li><a href="http://startupgrind.com/new-york/">Startup Grind</a></li>
 </ul>
 
-<h3>Coworking Spaces</h3>
+<h2>Coworking Spaces</h2>
 <p>I normally work from my home office or a coffee shop. If you want something more, here are a few to check out. You will eventually end up at one of these for some random event.</p>
 <ul>
 <li><a href="http://www.alleynyc.com/">Alley NYC</a></li>
@@ -44,7 +48,7 @@ comments: false
 <li><a href="http://www.wework.com/">WeWork Labs</a></li>
 </ul>
 
-<h3>People you should follow on twitter</h3>
+<h2>People you should follow on twitter</h2>
 <p>These people are awesome and they always are up to something.</p>
 
 <ul>
@@ -73,7 +77,7 @@ comments: false
   <li>and of course me <a href="https://twitter.com/KennedysGarage">@KennedysGarage</a></li>
 </ul>
 
-<h3>Extra</h3>
+<h2>Extra</h2>
 <p>Here are some basic rules for living or visiting NYC.</p>
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/8LmPBPWHJu4" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>

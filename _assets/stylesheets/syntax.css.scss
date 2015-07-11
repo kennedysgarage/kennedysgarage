@@ -60,16 +60,16 @@
 .highlight .il { color: #009999 } /* Literal.Number.Integer.Long */
 
 .highlight{
-
+  pre{
+    background-color: #eee;
+    border-radius: 3px;
+    padding: 10px 20px;
+    font-size: 14px;
+    font-family: Consolas, Monaco, Andale Mono, Courier New, monospace;
+    text-shadow: none;
+  }
 }
-.highlight pre{
-  background-color: #262628;
-  border-radius: 3px;
-  padding: 10px 20px;
-  font-size: 14px;
-  font-family: Consolas, Monaco, Andale Mono, Courier New, monospace;
-  text-shadow: none;
-}
-.highlight .bash{
-  color: #28ff12;
-}
+// .bash{
+//   background-color: #262628;
+//   color: #28ff12;
+// }

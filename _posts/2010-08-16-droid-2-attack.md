@@ -2,8 +2,10 @@
 layout: post
 permalink: /articles/droid-2-attack/
 title: Droid 2 Attack
-excerpt: Do not ask me to play thumb wars anytime soon. Today I was attacked by my Droid 2. The phone was running a bit slow so I decided to preform a battery pull. And that is when my whole life flashed in front of me. I try to pull down the back panel and it
 hero: droid-2-attack
+excerpt: Do not ask me to play thumb wars anytime soon. Today I was attacked by my Droid 2. The phone was running a bit slow so I decided to preform a battery pull. And that is when my whole life flashed in front of me. I try to pull down the back panel and it
+tags:
+- rant
 comments: false
 ---
 

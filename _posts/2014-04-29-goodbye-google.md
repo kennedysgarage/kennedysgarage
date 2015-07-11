@@ -6,6 +6,7 @@ excerpt: A few weeks ago I decided it was time for a change and I am pretty sure
 hero: goodbye-google
 tags:
 - life
+- theron studios
 comments: false
 ---
 
@@ -52,4 +53,4 @@ comments: false
 
 <p>Before launching we are already in the black and have work lined up for the next 12 weeks. It’s an amazing feeling to have such incredible people apart of your life to help you follow your dreams. I will be working closely with my childhood friend <a href="https://twitter.com/btrevak">Brian Revak</a>, who will be helping the company stay focused and keeping the business side of it running smoothly.</p>
 
-<h4>Please join us along our journey. Visit our site <a href="http://theronstudios.com/">theronstudios.com</a> and follow us on Twitter <a href="https://twitter.com/theronstudio">@theronstudio</a>.</h4>
+<!-- <h4>Please join us along our journey. Visit our site <a href="http://theronstudios.com/">theronstudios.com</a> and follow us on Twitter <a href="https://twitter.com/theronstudio">@theronstudio</a>.</h4> -->

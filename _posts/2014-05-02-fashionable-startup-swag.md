@@ -11,7 +11,7 @@ comments: false
 <p>Typically, most startups go the t-shirt route for their swag. I decided to go against the status quo this time.</p>
 <p>I has always dreamt of creating something a little more fashionable. With the strong branding of <a href="http://theronindustries.com">Theron</a> and a great repeatable pattern, this was my chance to make it happen.</p>
 
-<h3>Designed by Kennedy for Kennedy</h3>
+<h2>Designed by Kennedy for Kennedy</h2>
 
 <figure>
   <img src="/assets/posts/fashionable-startup-swag/kennedy-1.jpeg"/>
@@ -43,7 +43,7 @@ comments: false
   <figcaption>Looking at Brian through the silk</figcaption>
 </figure>
 
-<h3><a href="https://twitter.com/brianrevak">Brian Revak</a></h3>
+<h2><a href="https://twitter.com/brianrevak">Brian Revak</a></h2>
 
 <figure>
   <img src="/assets/posts/fashionable-startup-swag/brian-1.jpeg"/>
@@ -65,7 +65,7 @@ comments: false
   <figcaption>Tagged with the wordmark at the end</figcaption>
 </figure>
 
-<h3>Molly, lovable random poodle</h3>
+<h2>Molly, lovable random poodle</h2>
 
 <figure>
   <img src="/assets/posts/fashionable-startup-swag/dog-1.jpeg"/>
