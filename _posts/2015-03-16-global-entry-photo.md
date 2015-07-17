@@ -4,7 +4,7 @@ permalink: /articles/global-entry-photo/
 title: Global Entry Photo
 excerpt: I know tall people don't normally bitch about accessibility for our height, but why should I have to lean down to get my whole face in the photo.
 hero: global-entry-photo
-comments: true
+comments: false
 tags:
 - ux
 - rant
@@ -21,5 +21,13 @@ tags:
 <figcaption>Who needs to see my face anyways. #ThanksObama</figcaption>
 </figure>
 
-<h2>Update</h2>
-<p><strong>03/16/2015 @ 12:20am</strong><br/>My wife wanted to explain her side of being nervous. She says I left out the part where I said, "FUCK them. If they want to build a camera like this then I'll do whatever the fuck I want!" Cue her getting nervous in customs. I have nothing to add, I still stand by what I said.</p>
+<h2>Update #1</h2>
+<p><strong>03/16/2015</strong><br/>My wife wanted to explain her side of being nervous. She says I left out the part where I said, "FUCK them. If they want to build a camera like this then I'll do whatever the fuck I want!" Cue her getting nervous in customs. I have nothing to add, I still stand by what I said.</p>
+
+<h2>Update #2</h2>
+<p><strong>05/26/2015</strong>
+
+<figure class="center">
+<img src="/assets/posts/global-entry-photo/photo2.png"/>
+<figcaption>I haven't learned my lesson.</figcaption>
+</figure>
