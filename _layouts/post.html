@@ -9,6 +9,10 @@
     <article>
 		<div class="row">
 
+			<div class="col-9">
+				{{ content }}
+			</div><!--/col-->
+
 			<div class="col-3">
 				<p class="byline">
 					{% assign d = page.date | date: "%d" | plus:'0' %}
@@ -29,10 +33,6 @@
 				{% endfor %}
 				</ul>
 				{% endif %}
-			</div><!--/col-->
-
-			<div class="col-9">
-				{{ content }}
 			</div><!--/col-->
 
 			<div class="col-12">
