@@ -106,7 +106,7 @@ nav{
   background-color: #f8f8f8;
   // border-radius: 2px;
   // box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
-  margin: -40px 0 3em;
+  margin: 0 0 3em;
   position: relative;
   z-index: 5;
   // img{
@@ -747,6 +747,9 @@ footer{
     .menu{
       display: none;
     }
+  }
+  .page{
+    margin-top: -40px;
   }
   /* -------------
   -- Navigation --
