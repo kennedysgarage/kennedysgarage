@@ -8,14 +8,31 @@ title: Articles
   {% for post in site.posts %}
   <li>
     <div class="row">
-      <div class="col-12">
-        <p class="byline">{{ post.date | date: "%B %d, %Y" }}</p>
-        {% if post.hero %}
-        <a href="{{ post.url }}"><img src="/assets/posts/{{ post.hero }}/hero.png"/></a>
-        {% endif %}
-        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-        <p>{{ post.excerpt }}</p>
+      <a href="{{ post.url }}">
+
+      <div class="col-3">
+        <p class="byline">{{ post.date | date: "%b %d %Y" }}</p>
       </div><!--/col-->
+
+      {% if post.hero %}
+
+      <div class="col-6">
+        <h2>{{ post.title }}</h2>
+      </div><!--/col-->
+
+      <div class="col-3">
+          <img src="/assets/posts/{{ post.hero }}/hero.png"/>
+      </div><!--/col-->
+
+      {% else %}
+
+        <div class="col-9">
+          <h2>{{ post.title }}</h2>
+        </div><!--/col-->
+
+      {% endif %}
+
+      </a>
     </div><!--/row-->
   </li>
   {% endfor %}

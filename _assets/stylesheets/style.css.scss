@@ -190,7 +190,7 @@ nav{
       }
     }
     img{
-      border-radius: 0;
+      border-radius: 0 !important; /* I am a lazy hack, I know :( */
       display: block;
       margin: 0;
       width: 100%;
@@ -280,20 +280,24 @@ nav{
     list-style: none;
     margin: 0;
     overflow: hidden;
-    padding: 1.5em 0;
+    padding: 2em 0 0;
     &:last-child{
       border-bottom: none;
       box-shadow: none;
       margin: 0;
     }
+    .byline{
+      color: #b8b8b8;
+      text-transform: uppercase;
+    }
     img{
       border-radius: 3px;
       float: right;
-      margin: 0 0 0 20px;
-      max-width: 225px;
+      margin: -1.5em 0px -1.5em;
+      // max-width: 225px;
     }
     h2{
-      font-size: 33px;
+      font-size: 28px;
       line-height: 1.0;
     }
     p{
@@ -325,7 +329,52 @@ nav{
 }
 /* ========================================================= Article ===*/
 article{
-  padding: 1em;
+  // padding: 1em;
+  .byline{
+    color: #b8b8b8;
+    font-size: 16px;
+    font-family: 'ProximaNovaLight';
+    margin: 0 0 10px;
+    padding: 60px 0 0;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+  }
+  h1{
+    font-size: 50px;
+    margin: 0 0 15px;
+    padding: 0 20px;
+    text-align: center;
+    text-transform: capitalize;
+  }
+  .tag_list{
+    list-style: none;
+    margin: 0 0 60px;
+    padding: 0;
+    text-align: center;
+    li{
+      display: inline-block;
+      color: #b8b8b8;
+      font-size: 16px;
+      font-family: 'ProximaNovaLight';
+      text-transform: uppercase;
+      margin: 0;
+      padding: 0;
+      a{
+        display: inline-block;
+        color: #b8b8b8;
+        padding: 0 5px;
+        letter-spacing: 5px;
+      }
+    }
+  }
+  .hero{
+    border-radius: 0;
+  }
+  .content{
+    margin: 0 auto;
+    max-width: 700px;
+  }
   h2{
     font-size: 37px;
     line-height: 1.2;
@@ -343,17 +392,6 @@ article{
     hyphens: auto;
     text-align: justify;
   }
-  .byline{
-    border-bottom: 1px solid #ccc;
-    color: #808590;
-    font-size: 12px;
-    font-family: 'ProximaNovaBold';
-    margin: 0 0 10px;
-    padding: 0 0 5px;
-    text-align: left;
-    text-indent: 0;
-    text-transform: uppercase;
-  }
   img{
     border-radius: 3px;
     display: block;
@@ -361,21 +399,7 @@ article{
     max-width: 100%;
     margin: 0 auto 20px;
   }
-  .tag_list{
-    // border-bottom: 2px solid #ccc;
-    list-style: none;
-    margin: 0 0 10px;
-    padding: 0;
-    li{
-      color: #999;
-      display: block;
-      font-size: 12px;
-      font-family: 'ProximaNovaBold';
-      text-transform: uppercase;
-      margin: 0;
-      padding: 0;
-    }
-  }
+
 }
 /*code, pre{
     border-radius: 3px;
@@ -513,6 +537,7 @@ object{
     margin: 0;
     padding: 6px 0;
     strong{
+      width: 40%;
       a{
         color: #333;
       }
@@ -523,7 +548,7 @@ object{
     span{
       float: right;
       text-align: left;
-      width: 30%;
+      width: 60%;
     }
   }
 }
@@ -697,8 +722,8 @@ footer{
 @media all and (min-width: 41em){
   body{font-size: 1.125em;}
   .container{
-    padding-left: 1em;
-    padding-right: 1em;
+    padding-left: 20px;
+    padding-right: 20px;
   }
   .row{
     margin-left: -1em;
@@ -712,7 +737,7 @@ footer{
   .col-3 { width: 25%; }
   .flow-opposite { float: right; }
   header{
-    padding: 1em;
+    padding: 20px 0 60px;
     h1{
       display: inline-block;
       a{
@@ -745,10 +770,9 @@ footer{
           color: #a7abb1;
           display: block;
           font-size: 15px;
-          font-family: 'Effra Regular', sans-serif;
-          text-transform: none;
           padding: 18px 20px 8px;
           text-align: center;
+          text-transform: uppercase;
           &:hover{
             color: #fff;
           }
@@ -774,9 +798,6 @@ footer{
 
   header h1{
     display: inline;
-  }
-  article{
-    padding: 60px 60px;
   }
   /*pre{
     width: 920px;

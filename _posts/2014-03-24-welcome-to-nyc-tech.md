@@ -7,7 +7,6 @@ excerpt: When I first moved here it was lonely and I felt ever so small. That wa
 tags:
 - life
 - advice
-- video
 comments: false
 ---
 

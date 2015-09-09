@@ -26,8 +26,10 @@
 			</ul>
 			{% endif %}
 
-	    {% if page.hero %}
-				<div class="hero"><span><img src="/assets/posts/{{ page.hero }}/hero.png"/></span></div>
+	    {% if page.video %}
+				<div class="hero"><span>
+					{{ page.video }}
+				</span></div>
 			{% endif %}
 
 		<div class="row">

@@ -2,33 +2,52 @@
 {% include nav.html %}
 
 
-<section id="intro">
+<!-- <section id="intro">
   <div class="container">
     <h1>{{ page.title }}</h1>
-  </div><!--/container-->
-</section>
+  </div>
+</section> -->
 
 
 <div class="container">
   <div class="page">
     <section class="content">
+      <h1>{{ page.title }}</h1>
+      <hr/>
 			<ul id="article-list">
 
 			  {% for post in site.posts %}
 				{% for tag in post.tags %}
 				{% if tag == page.tag %}
-			  <li>
-			    <div class="row">
-			      <div class="col-12">
-			        <p class="byline">{{ post.date | date: "%B %d, %Y" }}</p>
-			        {% if post.hero %}
-			        <a href="{{ post.url }}"><img src="/assets/posts/{{ post.hero }}/hero.png"/></a>
-			        {% endif %}
-			        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-			        <p>{{ post.excerpt }}</p>
-			      </div><!--/col-->
-			    </div><!--/row-->
-			  </li>
+        <li>
+          <div class="row">
+            <a href="{{ post.url }}">
+
+            <div class="col-3">
+              <p class="byline">{{ post.date | date: "%b %d %Y" }}</p>
+            </div><!--/col-->
+
+            {% if post.hero %}
+
+            <div class="col-6">
+              <h2>{{ post.title }}</h2>
+            </div><!--/col-->
+
+            <div class="col-3">
+                <img src="/assets/posts/{{ post.hero }}/hero.png"/>
+            </div><!--/col-->
+
+            {% else %}
+
+              <div class="col-9">
+                <h2>{{ post.title }}</h2>
+              </div><!--/col-->
+
+            {% endif %}
+
+            </a>
+          </div><!--/row-->
+        </li>
 				{% endif %}
 			  {% endfor %}
 				{% endfor %}
