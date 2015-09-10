@@ -7,6 +7,7 @@ excerpt: Until a few days ago I was bothered when people said “Just follow you
 tags:
 - passion
 - ideas
+- nycblogclub
 comments: false
 ---
 
