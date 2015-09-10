@@ -461,6 +461,52 @@ object{
     }
   }
 }
+
+.controls{
+  padding: 2%;
+  background: #37383A;
+  color: #eee;
+  text-align: center;
+  label{
+    margin: 0 .4em 0 0;
+    font-family: 'ProximaNovaLite', sans-serif;
+    text-transform: uppercase;
+  }
+  button{
+    background: none;
+    display: inline-block;
+    padding: .4em .8em;
+    border: 0;
+    color: rgba(255,255,255,0.5);
+    cursor: pointer;
+    color: #ddd;
+    padding: 15px;
+    font-family: 'ProximaNovaBold', sans-serif;
+    text-transform: uppercase;
+  }
+  button.active{
+    background: rgba(255,255,255,0.4);
+    border-radius: 3px;
+  }
+  button:focus{
+    outline: 0 none;
+  }
+  button + label{
+    margin-left: 1em;
+  }
+}
+
+.con{
+  .mix{
+    display: none;
+  }
+}
+#pros{
+  background-color: #37383A;
+}
+
+
+
 .pro{
   height: 600px;
   width: 100%;
