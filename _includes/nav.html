@@ -1,4 +1,8 @@
-<header class="clearfix">
+{% if page.url == "/projects/" %}
+  <header class="simple clearfix">
+  {% else %}
+  <header class="clearfix">
+{% endif %}
   <div class="container">
     <h1><a href="/">{% image logo.svg %}</a></h1>
     <a href="" class="menu"><i class="ss-icon ss-standard">&#x2026;</i></a>

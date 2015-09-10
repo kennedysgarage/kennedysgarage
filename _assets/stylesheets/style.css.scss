@@ -461,6 +461,150 @@ object{
     }
   }
 }
+.pro{
+  height: 600px;
+  width: 100%;
+  section{
+    height: 100%;
+    padding: 90px 20px 0;
+    text-align: center;
+    svg{
+      padding-bottom: 80px;
+      max-height: 400px;
+      max-width: 100%;
+      height: 100%;
+    }
+    img{
+      padding-bottom: 80px;
+      max-height: 400px;
+      max-width: 100%;
+      height: auto;
+    }
+    .title{
+      h3{
+        text-transform: uppercase;
+        margin: 0;
+      }
+      p{
+        margin: 0;
+      }
+    }
+  }
+  .light{
+    h3{
+      color: #fff;
+      letter-spacing: 11px;
+    }
+    p{
+      color: rgba(255,255,255,0.4);
+    }
+  }
+  .dark{
+    h3{
+      color: #000;
+      letter-spacing: 11px;
+    }
+    p{
+      color: rgba(0,0,0,0.4);
+    }
+  }
+  .adsperince{
+    background-color: #448AFF;
+  }
+  .gradespotter{
+    background-color: #292D33;
+  }
+  .kennedysgarage{
+    background-color: #252429;
+  }
+  .majesticsquare{
+    background-color: #536DFE;
+  }
+  .statuschart{
+    background-color: #304354;
+  }
+  .theronindustries{
+    background-color: #252429;
+  }
+  .hardawesometerriblegreat{
+    background-color: #fff;
+  }
+  .keystone{
+    background-color: #ECF0F1;
+  }
+  .arctap{
+    background-color: #fff;
+  }
+  .superdense{
+    background-color: #272729;
+  }
+  .cdm{
+    background-color: #232220;
+  }
+  .quinnsvoice{
+    background-color: #272C33;
+  }
+  .hivington{
+    background-color: #F1C40F;
+  }
+  .kenvak{
+      background-color: #252429;
+  }
+  .helm{
+    background-color: #888A8F;
+  }
+  .rehandbook{
+    background-color: #f2f2f2;
+  }
+  .theronhotels{
+    background-color: #1F1F1F;
+  }
+  .theronmoto{
+    background-color: #252429;
+  }
+  .theronproperties{
+    background-color: #22242E;
+  }
+  .theronstudios{
+    background-color: #EC4048;
+  }
+  .wearethehits{
+    background-color: #222426;
+  }
+  .williamalvarez{
+    background-color: #3D5AFE;
+  }
+  .midpoint{
+    background-color: #00ADF2;
+  }
+  .in{
+    background-color: #D8D2C4;
+  }
+  .lemonadestand{
+    background-color: #39230E;
+  }
+  .transittrainer{
+    background-color: #DBE2E7;
+  }
+  .todaywegive{
+    background-color: #283137;
+  }
+  .gigato{
+    background-color: #818f98;
+  }
+  .smedresmanlaw{
+    background-color: #fff;
+  }
+  .suitandaxe{
+    background-color: #fff;
+  }
+  .locatetime{
+    background-color: #f2f2f2;
+  }
+  .bringyourownmagnum{
+    background-color: #fff;
+  }
+}
 /* ========================================================= Project ===*/
 #project{
   h3{
@@ -747,6 +891,9 @@ footer{
     .menu{
       display: none;
     }
+  }
+  header.simple{
+    padding: 20px 0;
   }
   .page{
     margin-top: -40px;

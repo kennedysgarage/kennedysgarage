@@ -21,7 +21,7 @@ assets:
 navigation:
 - text: About
   url: /about/
-- text: Articles
-  url: /articles/
 - text: Projects
   url: /projects/
+- text: Articles
+  url: /articles/
