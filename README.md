@@ -5,3 +5,6 @@ Welcome to my Github repo. I figured I would toss my site up here so anyone coul
 ## Making it work
 * Start the local server ```jekyll serve --watch```
 * Deploying ```rake deploy```
+
+## Thanks
+* [jekyll-assets](http://jekyll-assets.github.io/jekyll-assets/)

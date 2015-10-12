@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /articles/why-we-design/
-title: Why we design
+title: Why We Design
 excerpt: I have been doing a lot of thinking on why people design things, including myself. I have boiled it down intro four main categories.
 hero: why-we-design
 tags:
