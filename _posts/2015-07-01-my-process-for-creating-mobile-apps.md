@@ -47,7 +47,7 @@ comments: false
 		</div><!--/column-->
 		<div class="col-9">
 			<h3>Planning</h3>
-			<p>Now that we have the why and who out of the way, we can start to focus on the what, where, and how. We start this step by laying the <mark>information architecture</mark>. This will act as a guide throughout the entire project. With this in hand we can start the <mark>discussion of the navigation</mark> and <mark>build out a site-map</mark>. If we have this down, we will start <mark>planning the project milestones</mark>. This will help to ensure that everyone is on the same page and we can start to head down the path to a successful relationship and project. At this point we will <mark>start to map out a launch plan</mark>.3</p>
+			<p>Now that we have the why and who out of the way, we can start to focus on the what, where, and how. We start this step by laying the <mark>information architecture</mark>. This will act as a guide throughout the entire project. With this in hand we can start the <mark>discussion of the navigation</mark> and <mark>build out a site-map</mark>. If we have this down, we will start <mark>planning the project milestones</mark>. This will help to ensure that everyone is on the same page and we can start to head down the path to a successful relationship and project. At this point we will <mark>start to map out a launch plan</mark>.</p>
 		</div><!--/column-->
 	</div><!--/row-->
 
