@@ -31,3 +31,14 @@ tags:
 <img src="/assets/posts/global-entry-photo/photo2.png"/>
 <figcaption>I haven't learned my lesson.</figcaption>
 </figure>
+
+<h2>Update #3</h2>
+<p><strong>10/26/2015</strong>
+
+<figure class="center">
+<img src="/assets/posts/global-entry-photo/photo3.png"/>
+<figcaption>I got caught taking a photo of this, the guy was more upset at me snapping the pic then my face not being in the photo. I think my smirk is progressing. Also, I love rocking my <a href="http://workingnotworking.com/">Working Not Working</a> shirt.</figcaption>
+</figure>
+
+<hr/>
+<p class="note">Thanks to <a href="https://twitter.com/soffes">Sam Soffes</a> for creating <a href="http://useredacted.com/">Redacted</a>, which is an app that makes it quick and easy to redact parts of an image.</p>
