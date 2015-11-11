@@ -77,4 +77,5 @@ comments: true
   <li><a href="http://ivomynttinen.com/blog/the-ios-7-design-cheat-sheet/">The iOS Design Cheat Sheet</a></li>
   <li><a href="http://click-labs.com/ios-8-design-cheat-sheet-and-free-iphone6plus-gui-psd/">iOS 8 Design Cheat Sheet for iPhone 6 and iPhone 6 Plus</a></li>
   <li><a href="http://taybenlor.com/2013/05/21/designing-for-ios.html">Starter's Guide to iOS Design</a></li>
+  <li><a href="https://designcode.io/iosdesign-guidelines">Designing for iOS 9</a></li>
 </ul>
