@@ -14,3 +14,5 @@ comments: false
 <p>Fortunately for me WeWork is the prefect situation for my ADHD. I get to work on a millions things both digital and physical, I get to hire, I get to build a team, I solve real problems, I work with very talented people across all departments, I get to teach others, and I get to improve the life's of others.</p>
 
 <p>And on top of all of that I still have time for my own personal projects and have a life outside of work.</p>
+
+<p class="note">I should give credit to my good friend <a href="https://twitter.com/jbensamo">Jonathan Bensamoun</a> as he cracked up when I told him this. He said he love that I was so "back and white" about it.</p>
