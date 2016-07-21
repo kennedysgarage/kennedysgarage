@@ -12,3 +12,5 @@ $(document).ready(function(){
     $('#pros').mixItUp();
 
 });
+
+  mixpanel.track("Pageview");
