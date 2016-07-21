@@ -5,6 +5,11 @@ email: kennedysgarage@gmail.com
 url: http://kennedysgarage.com
 markdown: kramdown
 
+gems:
+  - jekyll-assets
+  - uglifier
+  - sass
+
 exclude: ["CNAME","editorconfig.txt","Gemfile","Gemfile.lock","README.md", "RAKEFILE"]
 
 assets:
