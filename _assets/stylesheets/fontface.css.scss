@@ -69,3 +69,23 @@
     font-weight: normal;
     font-style: normal;
 }
+@font-face {
+    font-family: 'SuperiorTitleBold';
+    src: url(asset_path('superiortitle/SuperiorTitle-Bold.eot'));
+    src: url(asset_path('superiortitle/SuperiorTitle-Bold.eot?#iefix')) format('embedded-opentype'),
+         url(asset_path('superiortitle/SuperiorTitle-Bold.woff')) format('woff'),
+         url(asset_path('superiortitle/SuperiorTitle-Bold.ttf')) format('truetype'),
+         url(asset_path('superiortitle/pSuperiorTitle-Bold.svg#font')) format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'SuperiorTitleRegular';
+    src: url(asset_path('superiortitle/SuperiorTitle-Regular.eot'));
+    src: url(asset_path('superiortitle/SuperiorTitle-Regular.eot?#iefix')) format('embedded-opentype'),
+         url(asset_path('superiortitle/SuperiorTitle-Regular.woff')) format('woff'),
+         url(asset_path('superiortitle/SuperiorTitle-Regular.ttf')) format('truetype'),
+         url(asset_path('superiortitle/pSuperiorTitle-Regular.svg#font')) format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

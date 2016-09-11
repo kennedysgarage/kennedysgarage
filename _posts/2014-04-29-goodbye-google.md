@@ -10,6 +10,8 @@ tags:
 comments: false
 ---
 
+<div class="hero">{% image posts/goodbye-google/hero.png %}</div>
+
 <p>A few weeks ago I decided it was time for a change and I am pretty sure everyone saw it coming.</p>
 <p>Growing up I was always different from the rest of the kids. A lot of the time I felt very alone and hated that I never fit in. I have always had trouble working for someone else and respecting authority. I never understood why I was such a misfit. Over the years I have tried to conform to the norm and be like everyone else. It has never worked out for me that way.</p>
 

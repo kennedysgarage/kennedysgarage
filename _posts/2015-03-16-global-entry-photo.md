@@ -10,6 +10,8 @@ tags:
 - rant
 ---
 
+<div class="hero">{% image posts/global-entry-photo/hero.png %}</div>
+
 <p>I just got back from a little vacation / company retreat for <a href="http://theronstudios.com">Theron Studios</a> from Costa Rica. It was wonderful and much needed. In preparation for this trip I got my passport, <a href="http://www.tsa.gov/tsa-precheck-application-program">TSA Pre&#x2713;&trade;</a>, and my <a href="http://www.cbp.gov/global-entry/about">Global Entry</a> card.</p>
 
 <p>While going through customs and immigration at MCO I was able to skip the long line and go straight to the Global Entry kiosks. I scanned my passport, answered some quick questions, and took a photo.</p>

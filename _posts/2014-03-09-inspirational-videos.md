@@ -10,6 +10,8 @@ tags:
 comments: false
 ---
 
+<div class="hero">{% image posts/inspirational-videos/hero.png %}</div>
+
 <p>Sometime in life you need a punch in the face</p>
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/lsSC2vx7zFQ" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>

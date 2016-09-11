@@ -9,6 +9,8 @@ tags:
 comments: false
 ---
 
+<div class="hero">{% image posts/unleash-the-beast-after-thoughts/hero.png %}</div>
+
 <p>Last night I had the pleasure of speaking on a panel about Hackathons. I wanted to write a little follow up about some thoughts I was not able to express and clear up a few things that I talked about.</p>
 <p>First lets talk about what a hackathon is. To me a hackathon is platform for developers, designers, and biz devs to work together to build something. I feel hackatons are for the doers and the makers. The people that are willing work and learn.</p>
 <p>I feel that there might be a misunderstanding of what a hackathon is. I heard people last night talking about the need of lawyer, accountants, marketer, pr, angles, VCs, and a few other buzz words. I am not saying that these roles are not important, but maybe not need at this stage in the development process.</p>

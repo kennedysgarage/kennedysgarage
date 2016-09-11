@@ -11,6 +11,8 @@ tags:
 comments: true
 ---
 
+<div class="hero">{% image posts/octopus-watch/hero.png %}</div>
+
 <p>Recently I have been doing a lot of work with one of my financial clients which required a lot of research on my part. Not only did I research the US market, but I wanted to know what was happening in other countries. I quickly found that some places have special ways of paying - including the Oyster Card in London, Octopus Card in Hong Kong, along with many more. These cards allow people to pay for things such as the subway, buses, parking meters, vending machines, and even some small shops. I will spare you the details of the Octopus Card and the history of it; you can read it on <a href="https://en.wikipedia.org/wiki/Octopus_card">Wikipedia</a>. It is important to note that it did launch in 1997.</p>
 
 <div class="row">

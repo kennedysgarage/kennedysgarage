@@ -10,4 +10,6 @@ tags:
 comments: false
 ---
 
+<div class="hero">{% image posts/transit-trainer-pitch/hero.png %}</div>
+
 <!-- <a href="/projects/transit-trainer">Transit Trainer</a> (Google HTML5 Web App Hackathon 2011) -->

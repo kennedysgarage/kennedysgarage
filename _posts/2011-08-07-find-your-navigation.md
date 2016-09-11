@@ -10,6 +10,8 @@ tags:
 comments: false
 ---
 
+<div class="hero">{% image posts/find-your-navigation/hero.png %}</div>
+
 <p>I just wanted to share an experiment I did to help decide the structure of a site. I do not know where the idea originated from, maybe it was in my head from a few things I have done in the past or maybe someone wrote about this earlier. I am sure someone will enlighten me.</p>
 <p>I am currently building a website for a print publication that has never really had a website before. I often find myself trying to explain the differences between print and web to the team.  Sometimes this communication can be a real challenge for the both of us. Lately, one of the things we've both been stuck on is the navigation and sitemap.</p>
 <p>We went back and forth on a few suggested structures, but communication was still lost. I was thinking to myself, there has to be a better solution than plain text on paper. I made a mockup in Balsamiq with icons and arrows, but this didn't work too well either as it was almost the same thing as plain text on paper. Then it hit me... what if I made it more visual and interactive? </p>

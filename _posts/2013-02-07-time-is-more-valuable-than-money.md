@@ -9,6 +9,8 @@ tags:
 comments: false
 ---
 
+<div class="hero">{% image posts/time-is-more-valuable-than-money/hero.png %}</div>
+
 <p>You can always earn more money, but never more time. Time is always draining from our lives. You can never get time back.</p>
 <p>Back in the day the stone masons used a twenty-four inch gauge to measure and lay out their work. We can now use this tool as a way to teach us about the division of time and the right use of each day. The story goes that time could be broken down into three equal parts; eight hours for God, eight hours for labor, and eight for sleep.</p>
 <p>I don't want to talk about religion, but I don't know anyone that dedicated eight hours to God. My day is generally broken down into 16 hours for work, four hours for family, and four hours for sleep. I often end up spending even more time for work and even less for family and sleep. I'm not trying to brag about how many hours I put in. I do admit that I have a psychological issue that makes me want to put in that extra hour to be better then the next guy.</p>

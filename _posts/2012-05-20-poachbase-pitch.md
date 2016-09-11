@@ -10,6 +10,8 @@ tags:
 comments: false
 ---
 
+<div class="hero">{% image posts/poachbase-pitch/hero.png %}</div>
+
 <!-- <a href="/projects/poachbase">PoachBase</a> (TechCrunch Disrupt 2012) -->
 
 <h3>The team backstage after winning 2nd place at TechCrunch Disrupt 2012</h3>

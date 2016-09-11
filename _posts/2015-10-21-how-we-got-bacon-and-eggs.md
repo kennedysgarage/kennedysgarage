@@ -8,6 +8,8 @@ tags:
 comments: false
 ---
 
+<div class="hero">{% image posts/how-we-got-bacon-and-eggs/hero.png %}</div>
+
 <p>Last night I was chatting with my friend <a href="https://twitter.com/peignoir">Franck</a> about life. One of the talking points he brought up was how bacon and eggs came to be. I love hearing stories like this. Another good one is how the ad agency <a href="https://en.wikipedia.org/wiki/N._W._Ayer_%26_Son">N.W. Ayer</a> designed and executed a marketing strategy for De Beers to make diamonds the symbol of engagement rings.</p>
 
 <blockquote>

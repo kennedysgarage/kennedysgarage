@@ -10,4 +10,6 @@ tags:
 comments: false
 ---
 
+<div class="hero">{% image posts/career-hound-pitch/hero.png %}</div>
+
 <!-- <a href="http://careerhoundapp.com/">Career Hound</a> (TechCrunch Disrupt 2013) -->

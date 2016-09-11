@@ -9,4 +9,6 @@ tags:
 comments: false
 ---
 
+<div class="hero">{% image posts/organized-a-dodgeball-game-at-techcrunch-disrupt-2013/hero.png %}</div>
+
 <!-- Organized a dodgeball game at TechCrunch Disrupt 2013 -->

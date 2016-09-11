@@ -10,6 +10,8 @@ tags:
 comments: false
 ---
 
+<div class="hero">{% image posts/finance-for-freelancers/hero.png %}</div>
+
 <p class="note">Quick note, I am not an accountant nor do I have any formal education with math or money. I am just some guy that has made a lot of mistakes over the years and learned from them.</p>
 <p>Working as a freelancer is not easy, but it can be very rewarding if you do it right. One of the biggest struggles that I feel most of us have is with money. Some months we are on top of the world and other times we are wondering why we don't just take that full time job.  I could never really figure out how to solve this issue until recently and I would like to share what has been working for me. First I would like to talk about two quick things.</p>
 

@@ -8,14 +8,7 @@ tags:
 comments: false
 ---
 
-
-{% if page.hero %}
-  <div class="hero"><span>{% image posts/i-am-the-debater-entp-a/hero.png %}</span></div>
-{% endif %}
-
-<div class="row">
-<div class="content">
-<div class="col-12">
+<div class="hero">{% image posts/i-am-the-debater-entp-a/hero.png %}</div>
 
 <p>I figure I would share my results from taking a <a href="https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator">Myers-Briggs</a> test from <a href="https://www.16personalities.com/">16 Personalities</a>.</p>
 
@@ -36,7 +29,3 @@ comments: false
 <p>I forget what Benjamin ended up doing with these results. I am sure we had some kind of a meeting about it where I must have been daydreaming. The point of sharing this with you is to show that knowing these things about yourself can be a great asset. As for me, I took it as a bit of an acceptance for who I am.</p>
 
 <p>Don’t try to be something you are not. Accept who you are, try to fix the negative things of course, but own it and use who you are for your advantage.</p>
-
-</div><!--/col-->
-</div><!--/content-->
-</div><!--/row-->

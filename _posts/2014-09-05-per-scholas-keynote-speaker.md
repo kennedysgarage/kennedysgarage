@@ -9,6 +9,8 @@ tags:
 comments: false
 ---
 
+<div class="hero">{% image posts/per-scholas-keynote-speaker/hero.png %}</div>
+
 <p>Today the class of Cycle 11 at Per Scholas graduated and I was honored to be their keynote speaker. Per Scholas is a national non-profit organization based in New York City. Founded in 1994, they offer proven high-quality development opportunities to people in low-income, urban communities. Today, 18 young students finished their first chapter in this new adventure. I truly wish that something like this existed to help me build my foundation when I first started out. I shared my background and some tips for success with the students. Below is an abbreviated version of my speech, broken down into bite-size bits of information.</p>
 
 <figure>

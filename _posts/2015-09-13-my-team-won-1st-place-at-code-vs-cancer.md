@@ -9,6 +9,8 @@ tags:
 comments: false
 ---
 
+<div class="hero">{% image posts/my-team-won-1st-place-at-code-vs-cancer/hero.png %}</div>
+
 <p>I am excited to announced that my team <a href="http://circly.org/">Circly</a> won 1st place this weekend at the <a href="http://codersvscancer.splashthat.com/">Code vs. Cancer hackathon</a>. This was one of the most meaningful hackathons I have participated in. Cancer in my family seems inevitable. I happy to hack for a cause that is so close to me.</p>
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/EIfwwdese3M" frameborder="0" allowfullscreen></iframe>

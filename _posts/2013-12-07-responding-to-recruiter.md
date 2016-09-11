@@ -10,6 +10,8 @@ tags:
 comments: false
 ---
 
+<div class="hero">{% image posts/responding-to-recruiter/hero.png %}</div>
+
 <p>I will be the first to admit that I give recruiters a lot of shit, but I will also admit that a few of them are truly great at their job and have been a huge help. Most of the time it is just spam. I have received countless emails addressed to a different name and jobs that are not even close to what I do. Every once in a while I will receive a well written email or an email from a very large company. For the emails that are not spam I respond back with a generic email to at least touch base and say thanks. Here are a couple example that I actually use.</p>
 
 <h3>Thanks, but not thanks</h3>

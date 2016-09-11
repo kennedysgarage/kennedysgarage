@@ -11,6 +11,8 @@ tags:
 comments: false
 ---
 
+<div class="hero">{% image posts/php-extension-mcrypt-must-be-loaded-php-extension-curl-must-be-loaded/hero.png %}</div>
+
 <p>I ran into this little problem after watching <a title="Easy E-Commerce With Magento" href="http://net.tutsplus.com/videos/screencasts/easy-e-commerce-with-magento/">Easy E-Commerce With Magento</a> tut over at <a title="NetTuts" href="http://net.tutsplus.com">NetTuts</a>.</p>
 <p>I received this error during the installation process: PHP Extension "mcrypt" must be loaded &amp; PHP Extension "curl" must be loaded.</p>
 <p>{% image posts/php-extension-mcrypt-must-be-loaded-php-extension-curl-must-be-loaded/6.png %}</p>
