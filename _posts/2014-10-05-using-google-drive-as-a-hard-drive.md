@@ -27,7 +27,7 @@ comments: true
 <p>This includes information about clients, general documents for the business, project details, information for the website, blog post, and anything that involves the business.</p>
 
 <figure class="center">
-<img src="/assets/posts/using-google-drive-as-a-hard-drive/drive.png"/>
+{% image posts/using-google-drive-as-a-hard-drive/drive.png %}
 <figcaption>Even my Favorites are just shortcuts to my Google Drive folders.</figcaption>
 </figure>
 

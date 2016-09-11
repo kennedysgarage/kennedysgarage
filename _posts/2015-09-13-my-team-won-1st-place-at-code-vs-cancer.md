@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /articles/my-team-won-1st-place-at-code-vs-cancer
+permalink: /articles/my-team-won-1st-place-at-code-vs-cancer/
 hero: my-team-won-1st-place-at-code-vs-cancer
 title: My team won 1st place at Code vs. Cancer
 tags:

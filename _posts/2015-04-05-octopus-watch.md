@@ -16,13 +16,13 @@ comments: true
 <div class="row">
   <div class="column half">
     <figure>
-      <img src="/assets/posts/octopus-watch/card-front.jpg"/>
+      {% image posts/octopus-watch/card-front.jpg %}
       <figcaption>Front of the Octopus Card</figcaption>
     </figure>
   </div><!--/column-->
   <div class="column half">
     <figure>
-      <img src="/assets/posts/octopus-watch/card-back.jpg"/>
+      {% image posts/octopus-watch/card-back.jpg %}
       <figcaption>Back of the Octopus Card</figcaption>
     </figure>
   </div><!--/column-->
@@ -35,13 +35,13 @@ comments: true
 <div class="row">
   <div class="column half">
     <figure>
-      <img src="/assets/posts/octopus-watch/311-front.jpg"/>
+      {% image posts/octopus-watch/311-front.jpg %}
       <figcaption>Front of the Octopus Watch</figcaption>
     </figure>
   </div><!--/column-->
   <div class="column half">
     <figure>
-      <img src="/assets/posts/octopus-watch/311-back.jpg"/>
+      {% image posts/octopus-watch/311-back.jpg %}
       <figcaption>Back of the Octopus Watch</figcaption>
     </figure>
   </div><!--/column-->
@@ -68,7 +68,7 @@ comments: true
 <p>As a fashion accessory it is not the most glamours, it's pretty basic. I have yet to see anyone pay with a watch. I am predicting that once Americans start paying with the Apple Watch there will be a shift over here. I also predict because of this there will be a lot more options for the Octopus Watch.</p>
 
 <figure>
-  <img src="/assets/posts/octopus-watch/wearing-it.jpg"/>
+  {% image posts/octopus-watch/wearing-it.jpg %}
   <figcaption>Sporting the watch on the MTR</figcaption>
 </figure>
 

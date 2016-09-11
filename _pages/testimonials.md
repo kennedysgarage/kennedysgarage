@@ -11,7 +11,7 @@ title: Testimonials
       </div><!--/quote-->
       <div class="bio">
         <a href="">
-          <img src="/img/theron-thumb.jpg"/>
+          <!-- { image img/theron-thumb.jpg } -->
           <p>Tim Smith <span>Title</span></p>
         </a>
       </div><!--/bio-->
@@ -24,7 +24,7 @@ title: Testimonials
       </div><!--/quote-->
       <div class="bio">
         <a href="">
-          <img src="/img/theron-thumb.jpg"/>
+          <!-- { image img/theron-thumb.jpg } -->
           <p>Kevin Anderson <span>Title</span></p>
         </a>
       </div><!--/bio-->

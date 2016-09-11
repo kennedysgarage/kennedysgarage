@@ -1,10 +1,10 @@
 ---
 layout: post
-permalink: /articles/venus-fly-truck
+permalink: /articles/venus-fly-truck/
 hero: venus-fly-truck
 title: Venus Fly Truck
 tags:
-- Idea
+- idea
 comments: false
 ---
 

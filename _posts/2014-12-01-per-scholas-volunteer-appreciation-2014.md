@@ -9,7 +9,7 @@ comments: false
 ---
 
 <figure>
-  <img src="/assets/posts/per-scholas-volunteer-appreciation-2014/kennedyandbrian.jpg"/>
+  {% image posts/per-scholas-volunteer-appreciation-2014/kennedyandbrian.jpg %}
   <figcaption>Me and my good friend Brian were taken off guard but super excited to be there. Photo captured by Ken Moore Photo.</figcaption>
 </figure>
 

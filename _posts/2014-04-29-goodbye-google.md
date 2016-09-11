@@ -30,7 +30,7 @@ comments: false
 <p>In the short 6 months that I was there I have had the pleasure to work on a few different projects within the Drive Team. I am really glad that I could help get Add-Ons launched a few days before I left. Of course I also had a blast breaking it down on the dance floor in Atlantic City, winning best tasting beer, celebrating Google’s 15th Birthday, learning American Sign Language, taking over 30 gLearn courses, parting likes it’s 1999, snowboarding down the slopes, winning 3rd place at an eating competition, making awesome gifs, whiskey fridays, being apart of the NYC Emergency Response Team, playing on the Google basketball team, and spending some quality time with some of the most talented people I know.</p>
 
 <figure class="center">
-<img src="/assets/posts/goodbye-google/tall-googlers.gif"/>
+{% image posts/goodbye-google/tall-googlers.gif %}
 <figcaption>Me and all my tall friends at Google.</figcaption>
 </figure>
 
@@ -45,11 +45,11 @@ comments: false
 <p>So what’s next for me? Doing my own thing of course and following that passion. Something I have been wanting to do for a while is build an awesome team and create amazing fucking products. I am excited to announce <a href="http://theronstudios.com/">Theron</a>, a creative studio focused on mobile and wearables.</p>
 
 <figure>
-<img src="/assets/posts/goodbye-google/kennedy-brian.gif"/>
+{% image posts/goodbye-google/kennedy-brian.gif %}
 <figcaption>Kennedy &amp; Brian</figcaption>
 </figure>
 
-<img src="/assets/posts/goodbye-google/theron.png"/>
+{% image posts/goodbye-google/theron.png %}
 
 <p>Before launching we are already in the black and have work lined up for the next 12 weeks. It’s an amazing feeling to have such incredible people apart of your life to help you follow your dreams. I will be working closely with my childhood friend <a href="https://twitter.com/btrevak">Brian Revak</a>, who will be helping the company stay focused and keeping the business side of it running smoothly.</p>
 

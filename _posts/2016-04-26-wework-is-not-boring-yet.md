@@ -1,9 +1,9 @@
 ---
 layout: post
-permalink: /articles/wework-is-not-boring-yet
+permalink: /articles/wework-is-not-boring-yet/
 title: WeWork is not boring yet
 tags:
-- Work
+- work
 comments: false
 ---
 

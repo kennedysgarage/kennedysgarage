@@ -5,6 +5,8 @@ email: kennedysgarage@gmail.com
 url: http://kennedysgarage.com
 markdown: kramdown
 
+include: ['_pages']
+
 exclude:
   - CNAME
   - editorconfig.txt

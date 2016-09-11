@@ -12,7 +12,7 @@ comments: false
 <p>Today the class of Cycle 11 at Per Scholas graduated and I was honored to be their keynote speaker. Per Scholas is a national non-profit organization based in New York City. Founded in 1994, they offer proven high-quality development opportunities to people in low-income, urban communities. Today, 18 young students finished their first chapter in this new adventure. I truly wish that something like this existed to help me build my foundation when I first started out. I shared my background and some tips for success with the students. Below is an abbreviated version of my speech, broken down into bite-size bits of information.</p>
 
 <figure>
-<img src="/assets/posts/per-scholas-keynote-speaker/talking.jpg"/>
+{% image posts/per-scholas-keynote-speaker/talking.jpg %}
 <figcaption>I had a blast sharing some knowledge with the students.</figcaption>
 </figure>
 
@@ -76,21 +76,21 @@ comments: false
 <p>Thanks again, Per Scholas, for having me as your guest. I would like to congratulate and welcome the recent graduates on their new journey. Please feel free to reach out to me any time.</p>
 
 <figure>
-<img src="/assets/posts/per-scholas-keynote-speaker/pinning.jpg"/>
+{% image posts/per-scholas-keynote-speaker/pinning.jpg %}
 <figcaption>I was honored to be pinned by Mama Brown.</figcaption>
 </figure>
 
 <figure>
-<img src="/assets/posts/per-scholas-keynote-speaker/pin.jpg"/>
+{% image posts/per-scholas-keynote-speaker/pin.jpg %}
 <figcaption>Proud to have this pin.</figcaption>
 </figure>
 
 <figure>
-<img src="/assets/posts/per-scholas-keynote-speaker/pamphlet.jpg"/>
+{% image posts/per-scholas-keynote-speaker/pamphlet.jpg %}
 <figcaption>Graduation Ceremony Pamphlet.</figcaption>
 </figure>
 
 <figure>
-<img src="/assets/posts/per-scholas-keynote-speaker/pamphlet-inside.jpg"/>
+{% image posts/per-scholas-keynote-speaker/pamphlet-inside.jpg %}
 <figcaption>Keynote Speaker...Me</figcaption>
 </figure>

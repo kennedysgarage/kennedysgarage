@@ -1,10 +1,10 @@
 ---
 layout: post
-permalink: /articles/how-we-got-bacon-and-eggs
+permalink: /articles/how-we-got-bacon-and-eggs/
 hero: how-we-got-bacon-and-eggs
 title: How we got bacon & eggs
 tags:
-- Marketing
+- marketing
 comments: false
 ---
 
@@ -21,8 +21,8 @@ comments: false
 
 <p>Edward says that the newspaper throughout the country that had the headlines that said "4,500 physicians urge heavy breakfasts in order to improve the health of the american people". I decided to do a quick search to see if anyone else found any archives from old newspapers and I came up empty handed. So, I searched for myself and found an article in the Schenectady Gazette from August 21, 1922 with the headline "<a href="https://news.google.com/newspapers?nid=1917&dat=19220831&id=y00hAAAAIBAJ&sjid=HoIFAAAAIBAJ&pg=4608,5199245&hl=en">Physicians urge a heavy breakfast</a>".</p>
 
-<img src="/articles/how-we-got-bacon-and-eggs/schenectady-gazette-08-31-1922.png"/>
+{% image posts/how-we-got-bacon-and-eggs/schenectady-gazette-08-31-1922.png %}
 <p>And here is article up close.</p>
-<img src="/articles/how-we-got-bacon-and-eggs/physicians-urge-a-heavy-breakfast.png"/>
+{% image posts/how-we-got-bacon-and-eggs/physicians-urge-a-heavy-breakfast.png %}
 
 <p>It's amazing how things like this come to be. Sometimes it's nice to stop and think about why we do thing in life.</p>

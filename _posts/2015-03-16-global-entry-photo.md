@@ -17,7 +17,7 @@ tags:
 <p>As you can from the photo below the U.S. Government did not build this machine for tall people (I am 6'6") or little people. I know tall people don't normally bitch about accessibility for our height, but why should I have to lean down to get my whole face in the photo. My wife got mad at me in fear that we would not be allowed through. When we approached the finial station for getting back in the country the guy looked at the photo and then looked up at me and just rolled his eyes.</p>
 
 <figure class="center">
-<img src="/assets/posts/global-entry-photo/photo.jpg"/>
+{% image posts/global-entry-photo/photo.jpg %}
 <figcaption>Who needs to see my face anyways. #ThanksObama</figcaption>
 </figure>
 
@@ -28,7 +28,7 @@ tags:
 <p><strong>05/26/2015</strong>
 
 <figure class="center">
-<img src="/assets/posts/global-entry-photo/photo2.png"/>
+{% image posts/global-entry-photo/photo2.png %}
 <figcaption>I haven't learned my lesson.</figcaption>
 </figure>
 
@@ -36,7 +36,7 @@ tags:
 <p><strong>10/26/2015</strong>
 
 <figure class="center">
-<img src="/assets/posts/global-entry-photo/photo3.png"/>
+{% image posts/global-entry-photo/photo3.png %}
 <figcaption>I got caught taking a photo of this, the guy was more upset at me snapping the pic then my face not being in the photo. I think my smirk is progressing. Also, I love rocking my <a href="http://workingnotworking.com/">Working Not Working</a> shirt.</figcaption>
 </figure>
 
