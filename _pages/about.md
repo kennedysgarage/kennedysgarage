@@ -101,24 +101,35 @@ title: About Kennedy
 		<h3>Brand experience</h3>
 	</div><!--/col-->
 	<div class="col-9">
-		<div class="col-4 top">
-			{% image about/brands/google.png %}
-		</div><!--/col-->
-		<div class="col-4 top">
-			{% image about/brands/coke.png %}
-		</div><!--/col-->
-		<div class="col-4 top">
-			{% image about/brands/mlb.png %}
-		</div><!--/col-->
-		<div class="col-4">
-			{% image about/brands/porsche.png %}
-		</div><!--/col-->
-		<div class="col-4">
-			{% image about/brands/spotify.png %}
-		</div><!--/col-->
-		<div class="col-4">
-			{% image about/brands/winespectator.png %}
-		</div><!--/col-->
+		<div class="row">
+			<div class="col-4 top">
+				{% image about/brands/google.svg %}
+			</div><!--/col-->
+			<div class="col-4 top">
+				{% image about/brands/cocacola.svg %}
+			</div><!--/col-->
+			<div class="col-4 top">
+				{% image about/brands/mlb.png %}
+			</div><!--/col-->
+			<div class="col-4 top">
+				{% image about/brands/porsche.png %}
+			</div><!--/col-->
+			<div class="col-4 top">
+				{% image about/brands/spotify.png %}
+			</div><!--/col-->
+			<div class="col-4 top">
+				{% image about/brands/winespectator.png %}
+			</div><!--/col-->
+			<div class="col-4">
+				{% image about/brands/wework.svg %}
+			</div><!--/col-->
+			<div class="col-4">
+				{% image about/brands/citi.svg %}
+			</div><!--/col-->
+			<div class="col-4">
+				{% image about/brands/victoriassecret.svg %}
+			</div><!--/col-->
+		</div><!--/row-->
 	</div><!--/col-->
 </div><!--/row-->
 

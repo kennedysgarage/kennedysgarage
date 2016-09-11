@@ -3,20 +3,11 @@
 
 <div id="project">
 
-  <!-- <section id="intro">
-    <div class="container">
-      <h1>{{ page.title }}</h1>
-      {% if page.website %}<a href="{{ page.website }}" class="btn btn-ghost">Visit Site</a>{% endif %}
-    </div>
-  </section> -->
-
   <div class="container">
     <div class="page clearfix">
-      {% if page.file %}<div class="hero"><span><img src="/projects/hero/{{ page.file }}.png"/></span></div>{% endif %}
-      <div class="content">
-        <h1>{{ page.title }}</h1>
+
         {{ content }}
-      </div><!--/content-->
+
     </div><!--/page-->
   </div><!--/container-->
 

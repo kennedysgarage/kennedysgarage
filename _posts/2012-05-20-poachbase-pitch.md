@@ -10,7 +10,7 @@ tags:
 comments: false
 ---
 
-<div class="hero">{% image posts/poachbase-pitch/hero.png %}</div>
+<!-- <div class="hero">{% image posts/poachbase-pitch/hero.png %}</div> -->
 
 <!-- <a href="/projects/poachbase">PoachBase</a> (TechCrunch Disrupt 2012) -->
 

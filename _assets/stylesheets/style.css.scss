@@ -207,6 +207,18 @@ nav{
   .top{
     margin-bottom: 40px;
   }
+  .brands{
+    .col-4{
+      line-height: 160px;
+    }
+    h3{
+      margin-bottom: 30px;
+    }
+    img{
+      display: inline-block;
+      vertical-align: middle;
+    }
+  }
 }
 .skills{
   list-style: none;
@@ -221,14 +233,7 @@ nav{
     margin-bottom: 30px;
   }
 }
-.brands{
-  h3{
-    margin-bottom: 30px;
-  }
-  img{
-    max-height: 75px;
-  }
-}
+
 /* ========================================================= Resume ===*/
 .resume figure{
   margin: 0;
@@ -391,7 +396,6 @@ article{
     color: #344347;
     -moz-hyphens: auto;
     hyphens: auto;
-    text-align: justify;
   }
   img{
     border-radius: 3px;
@@ -400,7 +404,11 @@ article{
     max-width: 100%;
     margin: 0 auto 20px;
   }
-
+}
+article.video{
+  .hero{
+    margin: 0;
+  }
 }
 /*code, pre{
     border-radius: 3px;
@@ -503,7 +511,14 @@ object{
   }
 }
 #pros{
-  background-color: #37383A;
+  // background-color: #37383A;
+  padding: 1%;
+  .notice{
+    background-color: #FFF59D;
+    padding: 20px;
+    margin: .5% .5% 1% .5%;
+    border-radius: 3px;
+  }
 }
 
 
@@ -511,12 +526,14 @@ object{
 .pro{
   height: 600px;
   width: 100%;
+  padding: 1%;
+  vertical-align: top;
   section{
     height: 100%;
-    padding: 90px 20px 0;
+    padding: 5% 10% 0 10%;
     text-align: center;
     svg{
-      padding-bottom: 80px;
+      padding-bottom: 15%;
       max-height: 400px;
       max-width: 100%;
       height: 100%;
@@ -535,6 +552,16 @@ object{
       p{
         margin: 0;
       }
+    }
+    .tag-light{
+      color: rgba(255,255,255,0.4);
+      text-transform: uppercase;
+      margin: 0 0 10% 0;
+    }
+    .tag-dark{
+      color: rgba(0,0,0,0.4);
+      text-transform: uppercase;
+      margin: 0 0 10% 0;
     }
   }
   .light{
@@ -656,6 +683,9 @@ object{
   }
   .bringyourownmagnum{
     background-color: #fff;
+  }
+  .ws-top100{
+    background-color: #313746;
   }
 }
 /* ========================================================= Project ===*/
@@ -997,11 +1027,17 @@ footer{
       min-height: 315px;
     }
   }
+  .pro{
+    width: 49%;
+  }
 }
 @media all and (min-width: 960px){
 
   header h1{
     display: inline;
+  }
+  .pro{
+    width: 33%;
   }
   /*pre{
     width: 920px;
