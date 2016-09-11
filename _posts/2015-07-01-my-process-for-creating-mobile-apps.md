@@ -22,7 +22,7 @@ comments: false
 	<div class="row">
 		<div class="col-3">
 			<div class="step">
-				{% image articles/my-process-for-creating-mobile-apps/105-Livingroom2.svg %}
+				<img src="/articles/my-process-for-creating-mobile-apps/105-Livingroom2.svg"/>
 				<span>01</span>
 			</div><!--/step-->
 		</div><!--/column-->
@@ -41,7 +41,7 @@ comments: false
 	<div class="row">
 		<div class="col-3">
 			<div class="step">
-				{% image articles/my-process-for-creating-mobile-apps/311-Roadmap2.svg %}
+				<img src="/articles/my-process-for-creating-mobile-apps/311-Roadmap2.svg"/>
 				<span>02</span>
 			</div><!--/step-->
 		</div><!--/column-->
@@ -60,7 +60,7 @@ comments: false
 	<div class="row">
 		<div class="col-3">
 			<div class="step">
-				{% image articles/my-process-for-creating-mobile-apps/35-Blueprint2.svg %}
+				<img src="/articles/my-process-for-creating-mobile-apps/35-Blueprint2.svg"/>
 				<span>03</span>
 			</div><!--/step-->
 		</div><!--/column-->
@@ -79,7 +79,7 @@ comments: false
 	<div class="row">
 		<div class="col-3">
 			<div class="step">
-				{% image articles/my-process-for-creating-mobile-apps/373-Home2.svg %}
+				<img src="/articles/my-process-for-creating-mobile-apps/373-Home2.svg"/>
 				<span>04</span>
 			</div><!--/step-->
 		</div><!--/column-->
@@ -98,7 +98,7 @@ comments: false
 	<div class="row">
 		<div class="col-3">
 			<div class="step">
-				{% image articles/my-process-for-creating-mobile-apps/101-Iphones2.svg %}
+				<img src="/articles/my-process-for-creating-mobile-apps/101-Iphones2.svg"/>
 				<span>05</span>
 			</div><!--/step-->
 		</div><!--/column-->
@@ -117,7 +117,7 @@ comments: false
 	<div class="row">
 		<div class="col-3">
 			<div class="step">
-				{% image articles/my-process-for-creating-mobile-apps/32-Launch2.svg %}
+				<img src="/articles/my-process-for-creating-mobile-apps/32-Launch2.svg"/>
 				<span>06</span>
 			</div><!--/step-->
 		</div><!--/column-->
@@ -136,7 +136,7 @@ comments: false
 	<div class="row">
 		<div class="col-3">
 			<div class="step">
-				{% image articles/my-process-for-creating-mobile-apps/13-TechPower2.svg %}
+				<img src="/articles/my-process-for-creating-mobile-apps/13-TechPower2.svg "/>
 				<span>07</span>
 			</div><!--/step-->
 		</div><!--/column-->
@@ -155,7 +155,7 @@ comments: false
 	<div class="row">
 		<div class="col-3">
 			<div class="step">
-				{% image articles/my-process-for-creating-mobile-apps/92-Graph2.svg %}
+				<img src="/articles/my-process-for-creating-mobile-apps/92-Graph2.svg"/>
 				<span>08</span>
 			</div><!--/step-->
 		</div><!--/column-->

@@ -20,7 +20,7 @@ comments: false
   <li>Left click on the WAMP icon in notification area.</li>
   <li>Go to PHP</li>
   <li>Click php.ini</li>
-  <p><img src="/assets/posts/php-extension-mcrypt-must-be-loaded-php-extension-curl-must-be-loaded/1.png"/></p>
+  <p>{% image posts/php-extension-mcrypt-must-be-loaded-php-extension-curl-must-be-loaded/1.png %}</p>
   <li>Search for <code>mcrypt</code> in this document.</li>
   <p><img src="/assets/posts/php-extension-mcrypt-must-be-loaded-php-extension-curl-must-be-loaded/2.png"/></p>
   <li>You should be looking for <code>;extension=php_mcrypt.dll</code></li>

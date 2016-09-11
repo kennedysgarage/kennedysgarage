@@ -13,6 +13,6 @@ comments: false
 
 <p>A couple days another good friend of mine, <a href="https://github.com/kennedysgarage/kennedysgarage/commits/master?author=ttimsmith">Tim</a>, helped me out without asking or even saying anything. Things like this make my day. I can not even express how happy this makes me. So, thank you Tim. I really appreciate it. You can <a href="https://github.com/kennedysgarage/kennedysgarage/pull/7/commits/804dd71bc90be8976feca909c62da0be963a5792">view his suggested changes</a> on GitHub where my website code lives.</p>
 
-<a href="https://github.com/kennedysgarage/kennedysgarage/pull/7/commits/804dd71bc90be8976feca909c62da0be963a5792">{% image articles/fixing-some-typos-and-grammatical-errors/tim.png %}</a>
+<a href="https://github.com/kennedysgarage/kennedysgarage/pull/7/commits/804dd71bc90be8976feca909c62da0be963a5792"><img src="/articles/fixing-some-typos-and-grammatical-errors/tim.png"/></a>
 
 <p>The next time someone corrects your spelling or grammar, say thank you and try to learn from it.</p>

@@ -15,7 +15,7 @@ comments: false
 <p>So I took the Personality Test as Benjamin had instructed and got the results back immediately. It said that I was <a href="https://www.16personalities.com/profiles/56eaedb591b9e">“The Debater” (ENTP-A)</a>. When I read the title I was a bit taken aback. I said there was no way that I was the Debater, whatever that meant. Then I thought, I was actually debating with myself whether I was the Debater or not. I texted my wife to ask if it sounded right. Of course she said it did, with one little exception, “They refuse to worry too much and do not push themselves too hard when it comes to achieving goals” (I guess this means I don’t worry and I push myself too hard, all of which is true).</p>
 
 <figure>
-{% image articles/i-am-the-debater-entp-a/text.jpg %}
+<img src="/articles/i-am-the-debater-entp-a/text.jpg"/>
 <figcaption>Why did I call her "my wife" in these posts? Why not just Sara? Everyone should know by now. It has been over 6 years.</figcaption>
 </figure>
 
