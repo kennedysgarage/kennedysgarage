@@ -21,7 +21,7 @@ description: Here are some of the projects I have worked on over the years.
 
 <div class="notice">
   <h2>Shareable Work</h2>
-  <p class="last">I have with worked with powerful brands such as Google, Wine Spectator, Porsche, Spotify, Citi, IBM, Victoria's Secret, MLB, and WeWork. Becuase of this I can not publicly share some of my more recent work, either because the products has not launched or I am under some kind of contract. Thanks for understanding.</p>
+  <p class="last">I have with worked with powerful brands such as Google, Wine Spectator, Porsche, Spotify, Citi, IBM, Victoria's Secret, MLB, and WeWork. Becuase of this I can not publicly share some of my more recent work, either because the products have not launched or I am under some kind of contract. Thanks for understanding.</p>
 </div><!--/notice-->
 
 <!-- <div class="pro mix website hackathon">

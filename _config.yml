@@ -4,7 +4,7 @@ author: Kennedy
 email: kennedysgarage@gmail.com
 url: http://kennedysgarage.com
 title: Kennedy's Garage
-description: Kennedy is a naively-optimistic entrepreneur living in New York City.
+description: Kennedy is a naively optimistic entrepreneur living in New York City.
 markdown: kramdown
 
 include: ['_pages']

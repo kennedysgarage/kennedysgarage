@@ -2,7 +2,7 @@
 layout: about
 permalink: /about/
 title: About Kennedy
-description: Kennedy is a naively-optimistic entrepreneur living in New York City.
+description: Kennedy is a naively optimistic entrepreneur living in New York City.
 image: /assets/about/chiangmai.jpg
 ---
 
