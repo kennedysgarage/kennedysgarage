@@ -1,8 +1,9 @@
 ---
 layout: post
 permalink: /articles/venus-fly-truck/
-image: /assets/posts/venus-fly-truck/hero.png
 title: Venus Fly Truck
+description: We have all seen Venus flytrap, some of you might have owned one at some point. They devour flys while sucking up the sun. I am thinking that we could cook a few of these up and sell them as the center piece on a nice salad. 
+image: /assets/posts/venus-fly-truck/hero.png
 tags:
 - idea
 comments: false

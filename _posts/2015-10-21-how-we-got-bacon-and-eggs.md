@@ -1,8 +1,9 @@
 ---
 layout: post
 permalink: /articles/how-we-got-bacon-and-eggs/
+title: How we got bacon &amp; eggs
+description: Last night I was chatting with my friend Franck about life. One of the talking points he brought up was how bacon and eggs came to be.
 image: /assets/posts/how-we-got-bacon-and-eggs/hero.png
-title: How we got bacon & eggs
 tags:
 - marketing
 comments: false

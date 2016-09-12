@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /pt-cto/
 title: Part-time CTO
 ---
 

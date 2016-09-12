@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /logos/
 title: Logos
 ---
 <div id="about">

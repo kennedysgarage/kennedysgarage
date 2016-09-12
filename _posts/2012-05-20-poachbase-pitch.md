@@ -2,6 +2,7 @@
 layout: video
 permalink: /articles/poachbase-pitch/
 title: PoachBase Pitch at TechCrunch Disrupt 2012
+description: Here is the video from pitching PoachBase at TechCrunch Disrupt 2012.
 image: /assets/posts/poachbase-pitch/hero.png
 video: <iframe width="950" height="513" src="http://www.youtube.com/embed/dKhBwHX96-Q?wmode=opaque" frameborder="0" allowfullscreen></iframe>
 tags:

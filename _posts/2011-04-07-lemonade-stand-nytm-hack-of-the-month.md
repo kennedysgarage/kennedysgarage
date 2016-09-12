@@ -2,6 +2,7 @@
 layout: video
 permalink: /articles/lemonade-stand-nytm-hack-of-the-month/
 title: Lemonade Stand NYTM Hack of The Month
+description: Here is the video from pitching Lemonade Stand at NYTM Hack of The Month.
 image: /assets/posts/lemonade-stand-nytm-hack-of-the-month/hero.png
 video: <iframe width="950" height="513" src="http://www.youtube.com/embed/DC-AiiclmV0?wmode=opaque" frameborder="0" allowfullscreen></iframe>
 tags:

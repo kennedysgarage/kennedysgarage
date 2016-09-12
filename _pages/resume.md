@@ -1,6 +1,8 @@
 ---
 layout: default
+permalink: /resume/
 title: Resume
+description: Here are some nice things people have said over the years.
 ---
 
 <section class="resume">

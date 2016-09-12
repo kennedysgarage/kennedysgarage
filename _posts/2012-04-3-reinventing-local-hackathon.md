@@ -2,6 +2,7 @@
 layout: video
 permalink: /articles/reinventing-local-hackathon/
 title: Reinventing Local Hackathon
+description: Here is the video that I am in at the Reinventing Local Hackathon.
 image: /assets/posts/reinventing-local-hackathon/hero.png
 video: <iframe width="950" height="513" src="http://www.youtube.com/embed/sf3mpcAp_GE?rel=0?wmode=opaque" frameborder="0" allowfullscreen></iframe>
 tags:

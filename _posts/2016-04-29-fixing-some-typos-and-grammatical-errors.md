@@ -2,6 +2,7 @@
 layout: post
 permalink: /articles/fixing-some-typos-and-grammatical-errors/
 title: Fixing some typos and grammatical errors
+description: Any reader of mine knows that I am pretty much the worst at spelling and grammar. The sad part is that I will go over my writing a few times to make sure that there are no errors.
 tags:
 - personal
 comments: false

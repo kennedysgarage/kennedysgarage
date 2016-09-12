@@ -1,6 +1,7 @@
 ---
 layout: post
 permalink: /articles/my-team-won-1st-place-at-code-vs-cancer/
+description: I am excited to announced that my team Circly won 1st place this weekend at the Code vs. Cancer hackathon.
 image: /assets/posts/my-team-won-1st-place-at-code-vs-cancer/hero.png
 title: My team won 1st place at Code vs. Cancer
 tags:
@@ -16,11 +17,11 @@ comments: false
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/EIfwwdese3M" frameborder="0" allowfullscreen></iframe>
 
 <h3>Team</h3>
-<p class="last">I want to give a special thanks to my team members.</p>
+<p class="last">I want to give a special thanks to my team.</p>
 <ul>
   <li><a href="https://twitter.com/mik3cap">Mike Caprio</a></li>
   <li><a href="https://twitter.com/madelenamak">Madelena Mak</a></li>
-  <li><a href="https://twitter.com/spelsasaurus">Sarah Pels</a></li>
+  <li><a href="https://www.linkedin.com/in/sarah-lebovitz-23037219">Sarah Pels</a></li>
 </ul>
 
 <p>I also want to give a special thanks <a href="http://www.gyro.com/">Gyro</a> for hosting the hackathon and <a href="http://www.jpmorganchase.com/">JPMorgan Chase &amp; Co</a> for the $10,000 prize.</p>

@@ -2,6 +2,7 @@
 layout: post
 permalink: /articles/wework-is-not-boring-yet/
 title: WeWork is not boring yet
+description: A lot of people have been asking me how the new job at WeWork is going; very typical conversation starter. The simple black and white answer I give them is that “I am not bored yet.”
 tags:
 - work
 comments: false

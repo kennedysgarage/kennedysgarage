@@ -2,6 +2,7 @@
 layout: video
 permalink: /articles/status-chart-nytm-hack-of-the-month/
 title: Status Chart NYTM Hack of The Month
+description: Here is the video from pitching Status Chart at NYTM Hack of The Month.
 image: /assets/posts/status-chart-nytm-hack-of-the-month/hero.png
 video: <iframe width="560" height="315" src="http://www.youtube.com/embed/8d-SUIxGiu8" frameborder="0" allowfullscreen></iframe>
 tags:

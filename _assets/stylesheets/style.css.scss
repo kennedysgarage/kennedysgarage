@@ -691,6 +691,9 @@ object{
   .whoworksat{
     background-color: #0080B4;
   }
+  .circly{
+    background-color: #F1D8C4;
+  }
 }
 /* ========================================================= Project ===*/
 #project{
@@ -896,10 +899,12 @@ footer{
     p{
       color: rgba(255,255,255,0.6);
     }
-    img{
-      float: left;
-      padding: 0 30px 0 0;
-      width: 15%;
+    .col-9{
+      img{
+        float: left;
+        padding: 0 30px 0 0;
+        width: 15%;
+      }
     }
     .copy{
       float: left;
@@ -919,6 +924,10 @@ footer{
           text-shadow: none;
           &:hover{
             color: #fff;
+          }
+          img{
+            height: 18px;
+            width: 18px;
           }
         }
       }
