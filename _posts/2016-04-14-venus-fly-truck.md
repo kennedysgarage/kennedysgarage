@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /articles/venus-fly-truck/
-hero: venus-fly-truck
+image: venus-fly-truck
 title: Venus Fly Truck
 tags:
 - idea

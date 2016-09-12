@@ -3,7 +3,7 @@ layout: post
 permalink: /articles/fake-it-till-you-make-it/
 title: Fake it till you make it
 excerpt: Eventually you are going to actually fake it until you made it. Then what?
-hero: fake-it-till-you-make-it
+image: fake-it-till-you-make-it
 tags:
 - life
 - advice

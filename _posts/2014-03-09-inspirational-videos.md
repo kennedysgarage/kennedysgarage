@@ -2,7 +2,7 @@
 layout: post
 permalink: /articles/inspirational-videos/
 title: Inspirational videos
-hero: inspirational-videos
+image: inspirational-videos
 excerpt: Sometime in life you need a punch in the face
 tags:
 - inspiration

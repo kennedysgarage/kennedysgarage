@@ -2,7 +2,7 @@
 layout: post
 permalink: /articles/iphone-template/
 title: iPhone Template PSD
-hero: iphone-template
+image: iphone-template
 excerpt: I just got back from vacation and I took this photo while on the boat. I made it so it is supper easy to replace the screenshot with yours.
 tags:
 - resource

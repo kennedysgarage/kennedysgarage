@@ -2,7 +2,7 @@
 layout: post
 permalink: /articles/date-night/
 title: Date Night
-hero: date-night
+image: date-night
 excerpt: Quick tip for all of those hard workers burning the midnight oil that have someone special in their life. Have a dedicated date night.
 tags:
 - life

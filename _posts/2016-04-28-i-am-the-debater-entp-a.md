@@ -2,7 +2,7 @@
 layout: post
 permalink: /articles/i-am-the-debater-entp-a/
 title: I am “The Debater” (ENTP-A)
-hero: i-am-the-debater-entp-a
+image: i-am-the-debater-entp-a
 tags:
 - personal
 comments: false

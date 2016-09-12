@@ -2,7 +2,7 @@
 layout: post
 permalink: /articles/responding-to-recruiter/
 title: Responding to recruiters
-hero: responding-to-recruiter
+image: responding-to-recruiter
 excerpt: I will be the first to admit that I give recruiters a lot of shit, but I will also admit that a few of them are truly great at their job and have been a huge help.
 tags:
 - email

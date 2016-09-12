@@ -2,7 +2,7 @@
 layout: post
 permalink: /articles/welcome-to-nyc-tech/
 title: Welcome to NYC Tech
-hero: welcome-to-nyc-tech
+image: welcome-to-nyc-tech
 excerpt: When I first moved here it was lonely and I felt ever so small. That was until I met the amazing tech community of NYC.
 tags:
 - life

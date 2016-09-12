@@ -27,14 +27,14 @@
               <p class="byline">{{ post.date | date: "%b %d %Y" }}</p>
             </div><!--/col-->
 
-            {% if post.hero %}
+            {% if post.image %}
 
             <div class="col-6">
               <h2>{{ post.title }}</h2>
             </div><!--/col-->
 
             <div class="col-3">
-                <img src="/assets/posts/{{ post.hero }}/hero.png"/>
+                <img src="/assets/posts/{{ post.image }}/hero.png"/>
             </div><!--/col-->
 
             {% else %}

@@ -2,7 +2,7 @@
 layout: post
 permalink: /articles/mobile-shortcuts/
 title: Mobile Shortcuts
-hero: mobile-shortcuts
+image: mobile-shortcuts
 excerpt: One of the most repetitive task that I do on my mobile devices is enter in my username and email address. I noticed a lot of people still typing each character.
 tags:
 - tutorial

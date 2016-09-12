@@ -2,7 +2,7 @@
 layout: post
 permalink: /articles/php-extension-mcrypt-must-be-loaded-php-extension-curl-must-be-loaded/
 title: PHP Extension "mcrypt" must be loaded PHP Extension "curl" must be loaded
-hero: php-extension-mcrypt-must-be-loaded-php-extension-curl-must-be-loaded
+image: php-extension-mcrypt-must-be-loaded-php-extension-curl-must-be-loaded
 excerpt: I ran into this little problem after watching "Easy E-Commerce With Magento" tut over at NetTuts
 tags:
 - tutorial

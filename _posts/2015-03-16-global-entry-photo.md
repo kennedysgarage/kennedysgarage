@@ -3,7 +3,7 @@ layout: post
 permalink: /articles/global-entry-photo/
 title: Global Entry Photo
 excerpt: I know tall people don't normally bitch about accessibility for our height, but why should I have to lean down to get my whole face in the photo.
-hero: global-entry-photo
+image: global-entry-photo
 comments: false
 tags:
 - ux
