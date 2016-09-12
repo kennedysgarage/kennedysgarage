@@ -473,7 +473,8 @@ object{
 
 .controls{
   padding: 2%;
-  background: #37383A;
+  background-color: #37383A;
+  background-color: #1A2026;
   color: #eee;
   text-align: center;
   label{
@@ -686,6 +687,9 @@ object{
   }
   .ws-top100{
     background-color: #313746;
+  }
+  .whoworksat{
+    background-color: #0080B4;
   }
 }
 /* ========================================================= Project ===*/

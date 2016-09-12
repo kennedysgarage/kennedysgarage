@@ -56,7 +56,7 @@ title: About Kennedy
 		<h3>How I work</h3>
 	</div><!--/col-->
 	<div class="col-9">
-		<p>You are an agency that needs a mercenary to quickly knock out that project. Or you're a startup that needs an MVP to show the investors. Either way I will hand-craft your mobile design to fit the brand. We will start off discussing the overall goal and vision. From there we will make a few sketches then start getting the flow down in wireframes. After we agree that we are on the right path I will take everything into Sketch to finalize the pixel-perfect design. The final step is to get those gorgeous assets to the developer. Don't worry, I won't leave you high and dry; I will be there for those last-minute changes.</p>
+		<p>You are an agency that needs a mercenary to quickly knock out that project. Or you're a startup that needs an MVP to show the investors. Either way I will hand-craft your mobile design to fit the brand. We will start off discussing the overall goal and vision. From there we will make a few sketches then start getting the flow down in wireframes. After we agree that we are on the right path I will take everything into Sketch to finalize the pixel-perfect design. The final step is to get those gorgeous assets to the developer. Don't worry, I won't leave you high and dry; I will be there for those last-minute changes. You can already read more about <a href="/articles/my-process-for-creating-mobile-apps/">my process for creating mobile apps</a> if you want to know more.</p>
 	</div><!--/col-->
 </div><!--/row-->
 
