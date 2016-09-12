@@ -30,7 +30,7 @@ comments: true
   </div><!--/column-->
 </div><!--/row-->
 
-<p>A few weeks back when I decided to take holiday to Asia I made it a priority of mine to understand how the locals use the Octopus Card in Hong Kong. The first place I decided to observe people using it in the wild was at the <a href="https://en.wikipedia.org/wiki/MTR">MTR</a> (they don't call it the subway here).</p>
+<p>A few weeks back when I decided to take a holiday to Asia I made it a priority of mine to understand how the locals use the Octopus Card in Hong Kong. The first place I decided to observe people using it in the wild was at the <a href="https://en.wikipedia.org/wiki/MTR">MTR</a> (they don't call it the subway here).</p>
 
 <p>The Octopus Card looks and feels like a credit card. You have to purchase the actual card for $150HKD ($19.34USD) and preload it with a minimum of $50HKD ($6.45USD). While doing my research I discovered that you can purchase a <a href="http://www.octopus.com.hk/get-your-octopus/choose-your-octopus/licensed-octopus-products/en/index.html">Octopus Watch</a> along with <a href="http://www.octopus.com.hk/get-your-octopus/choose-your-octopus/en/index.html">other items</a> and use it in the same method. I went to purchase my card, and I was happily surprised that they had Octopus Watches available. So naturally I decided to get one. The <a href="http://www.citykeys.com.hk/online-boutique/">Citikeys</a> <a href="http://www.citykeys.com.hk/product/black-spirit-adult/">Adult 311</a> was only $348KHD ($44.87USD). It was the least expensive adult watch they had.</p>
 
@@ -53,7 +53,7 @@ comments: true
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/oRO9WpFFP0k" frameborder="0" allowfullscreen></iframe>
 
-<p>Of course that was just the start. I quickly remembered that I could use it elsewhere, such as one of the many 7-Elevens they have here. It was just a simple tap and pay (or touch and go as they call it).</p>
+<p>Of course, that was just the start. I quickly remembered that I could use it elsewhere, such as one of the many 7-Elevens they have here. It was just a simple tap and pay (or touch and go as they call it).</p>
 
 <p>It didn't always go as smoothly as I would have liked, but I am pretty sure that was my fault for being too excited and trying to go in the turnstile too fast.</p>
 

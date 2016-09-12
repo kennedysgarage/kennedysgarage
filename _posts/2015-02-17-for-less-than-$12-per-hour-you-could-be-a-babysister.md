@@ -13,7 +13,7 @@ comments: false
 <figcaption>Screenshot from the Craigslist post</figcaption>
 </figure>
 
-<p>Late last night my wife brought to my attention an ad for someone looking for babysitter to watch their four kids for $10 or less an hour. The only requirements are “must love children and be very dependable," oh and a “non-smoker." Not a lot skills required to be responsible for four little humans. I understand that companies have large budgets whereas most families do not, but it’s crazy to think of the type of people that would babysit four random kids for $10 an hour. My first thought was: I guess they will get what they pay for.
+<p>Late last night my wife brought to my attention an ad for someone looking for a babysitter to watch their four kids for $10 or less an hour. The only requirements are “must love children and be very dependable," oh and a “non-smoker." Not a lot of skills required to be responsible for four little humans. I understand that companies have large budgets whereas most families do not, but it’s crazy to think of the type of people that would babysit four random kids for $10 an hour. My first thought was: I guess they will get what they pay for.
 
 <figure class="center">
 {% image posts/for-less-than-12-per-hour-you-could-be-a-babysister/care.jpg %}

@@ -15,7 +15,7 @@ comments: false
 
 <p>A few weeks ago my colleague <a href="https://twitter.com/bgadbaw">Benjamin</a> wanted to see what types of personalities we were and how this knowledge could be used for the team-work within <a href="https://twitter.com/weworkux">WeWork UX</a> team. I have never taken this test before. But I remember my wife talking about it a few times while she was in school. She would always say “you are such an XXXX”. I could never remember what the letters were.</p>
 
-<p>So I took the Personality Test as Benjamin had instructed and got the results back immediately. It said that I was <a href="https://www.16personalities.com/profiles/56eaedb591b9e">“The Debater” (ENTP-A)</a>. When I read the title I was a bit taken aback. I said there was no way that I was the Debater, whatever that meant. Then I thought, I was actually debating with myself whether I was the Debater or not. I texted my wife to ask if it sounded right. Of course she said it did, with one little exception, “They refuse to worry too much and do not push themselves too hard when it comes to achieving goals” (I guess this means I don’t worry and I push myself too hard, all of which is true).</p>
+<p>So I took the Personality Test as Benjamin had instructed and got the results back immediately. It said that I was <a href="https://www.16personalities.com/profiles/56eaedb591b9e">“The Debater” (ENTP-A)</a>. When I read the title I was a bit taken aback. I said there was no way that I was the Debater, whatever that meant. Then I thought, I was actually debating with myself whether I was the Debater or not. I texted my wife to ask if it sounded right. Of course, she said it did, with one little exception, “They refuse to worry too much and do not push themselves too hard when it comes to achieving goals” (I guess this means I don’t worry and I push myself too hard, all of which is true).</p>
 
 <figure>
 {% image posts/i-am-the-debater-entp-a/text.jpg %}
@@ -29,4 +29,4 @@ comments: false
 
 <p>I forget what Benjamin ended up doing with these results. I am sure we had some kind of a meeting about it where I must have been daydreaming. The point of sharing this with you is to show that knowing these things about yourself can be a great asset. As for me, I took it as a bit of an acceptance for who I am.</p>
 
-<p>Don’t try to be something you are not. Accept who you are, try to fix the negative things of course, but own it and use who you are for your advantage.</p>
+<p>Don’t try to be something you are not. Accept who you are, try to fix the negative things of course, but own it and use who you are to your advantage.</p>

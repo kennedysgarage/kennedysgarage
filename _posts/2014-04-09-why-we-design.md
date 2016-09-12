@@ -26,4 +26,4 @@ comments: false
 <p>Your main passion is cash in the bank.</p>
 
 <p>There is no right or wrong answer for who you are. For me having a better understanding of why I design helps gives a better direction for which projects I take on.</p>
-<p>I understand we design for more then just the four categories mentioned above. The main goal was to boil the reasons down into the main points.</p>
+<p>I understand we design for more than just the four categories mentioned above. The main goal was to boil the reasons down into the main points.</p>

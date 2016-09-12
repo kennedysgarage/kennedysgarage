@@ -14,7 +14,7 @@ title: Newsletter
     </form>
 
     <h3>About The Newsletters</h3>
-    <p>A few of you have suggested that I do this, so here I am. I don't plan on sending out that many email, honestly I will probable forget about this whole thing. I figure it might be better to break the emails apart, as my aunt could care less about tech stuff and so on. I will post examples once I send one out. Oh and of course I will never sell or spam you, should go without saying.</p>
+    <p>A few of you have suggested that I do this, so here I am. I don't plan on sending out that many emails, honestly I will probably forget about this whole thing. I figure it might be better to break the emails apart, as my aunt could care less about tech stuff and so on. I will post examples once I send one out. Oh and of course I will never sell or spam you, should go without saying.</p>
   </div><!--/col-->
 </div><!--/row-->
 

@@ -40,7 +40,7 @@ title: Part-time CTO
   <div class="row">
   <div class="col-12">
     <h3>Your new team members</h3>
-    <p>I'm an award-winning interactive designer with a keen eye for details while keeping a clear vision of the big picture. I have worked with powerful brands such as Google, Wine Spectator, Porsche, Coca-Cola, Spotify, and MLB. Although, lately I have been getting paid as a designer I have front-end and backend development skills.</p>
+    <p>I'm an award-winning interactive designer with a keen eye for details while keeping a clear vision of the big picture. I have worked with powerful brands such as Google, Wine Spectator, Porsche, Coca-Cola, Spotify, and MLB. Although lately I have been getting paid as a designer I have front-end and backend development skills.</p>
 
 <p>What more could you ask for? </p>
 

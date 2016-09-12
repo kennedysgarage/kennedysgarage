@@ -13,4 +13,4 @@ comments: false
   <figcaption>Me and my good friend Brian were taken off guard but super excited to be there. Photo captured by Ken Moore Photo.</figcaption>
 </figure>
 
-<p>Per Scholas invited me to addend this special night because recently <a href="/articles/per-scholas-keynote-speaker/">at a Per Scholas graduation was the keynote speaker</a>. It was a huge honor for me. I took great pride in having the opportunity to be a part of the community.</p>
+<p>Per Scholas invited me to added this special night because recently <a href="/articles/per-scholas-keynote-speaker/">at a Per Scholas graduation was the keynote speaker</a>. It was a huge honor for me. I took great pride in having the opportunity to be a part of the community.</p>

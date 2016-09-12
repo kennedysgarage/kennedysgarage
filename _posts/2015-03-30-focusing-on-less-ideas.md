@@ -18,7 +18,7 @@ comments: true
 
 <p>Real estate is where my heart is. Everything about it makes me excited. I don't plan on becoming an agent to sell houses, although I do plan on getting my license to have a better understanding of that side of things. I want to learn as many pain points as possible and in the process invest in some properties. The goal of this is to build something out of it.</p>
 
-<p>There is still a lot of self education I want to explore before I switch over doing real estate full time. In the meantime I will continue building my <a href="http://theronstudios.com">creative studios</a> with my awesome cofounder <a href="https://twitter.com/brianrevak">Brian Revak</a> and help our clients build their business through strategy and execute it with amazing design.</p>
+<p>There is still a lot of self-education I want to explore before I switch over doing real estate full time. In the meantime I will continue building my <a href="http://theronstudios.com">creative studios</a> with my awesome co-founder <a href="https://twitter.com/brianrevak">Brian Revak</a> and help our clients build their business through strategy and execute it with amazing design.</p>
 
 <p>Because of my new focus I will be sharing my ideas that I don't plan on doing. I plan on sharing the details and any other assets that I might have come up with along the way. This is not going to be easy, but it's for the better and I hope some people can be inspired to build something great.</p>
 

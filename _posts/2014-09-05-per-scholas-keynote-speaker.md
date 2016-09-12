@@ -43,9 +43,9 @@ comments: false
 
 <h3>Choosing a path</h3>
 <ul>
-  <li>When I first started out in life, I had no clue what I wanted to be or do. I have been a dishwasher, lawn mower, server, bartender, cook, security guard, ocean rescuer (lifeguard on the beach), EMT at a ER, Airplane mechanic while in the Air Force, barista, teacher, developer, designer, and have held about 20 other odds jobs here and there.</li>
+  <li>When I first started out in life, I had no clue what I wanted to be or do. I have been a dishwasher, lawn mower, server, bartender, cook, security guard, ocean rescue (lifeguard on the beach), EMT at an ER, Airplane mechanic while in the Air Force, barista, teacher, developer, designer, and have held about 20 other odds jobs here and there.</li>
   <li>You are not alone. Most people are in the same boat.</li>
-  <li>For the longest time I asked myself, “What do I want to do?”. I found out later that I was asking the wrong question. What I <em>should</em> have asked myself is, “What will people pay me the most to do?” or “What pays the most and is in my skillset?”</li>
+  <li>For the longest time I asked myself, “What do I want to do?”. I found out later that I was asking the wrong question. What I <em>should</em> have asked myself is, “What will people pay me the most to do?” or “What pays the most and is in my skill set?”</li>
 </ul>
 
 <h3>3 key reasons for your success</h3>
@@ -69,13 +69,13 @@ comments: false
   <li>Show up 15 minutes early everywhere you go. This will give you time to get caught up on all the small things you have to do throughout the day. Also, do you honestly think your time is worth more than other people’s? Don’t spend their time by making them wait for you.</li>
   <li>Money doesn’t necessarily buy you happiness. It does take a lot of stress away. It really buys you freedom to do whatever you want.</li>
   <li>If you want to be hired for something and don’t have that skill, be honest. I would much rather hire someone with no skill than a person with no passion. Most people love teaching others their craft. It’s their way of giving back.</li>
-  <li>Trust your gut and train it. Your gut reaction is based off experience and knowledge. The more you learn and do, the better your gut will be.</li>
+  <li>Trust your gut and train it. Your gut reaction is based on experience and knowledge. The more you learn and do, the better your gut will be.</li>
   <li>There are a lot of shitty people out there. If the people around you are negative, cut them out of your life. Surround yourself with positive people that are moving forward.</li>
   <li>Don’t worry about what other people think of you. One of my biggest issues in life is that I have always felt alone in whatever I was doing. Especially in the entrepreneur world.</li> <a href="https://www.youtube.com/watch?v=b7oLy8lhKew&feature=youtu.be&t=2755">I recently had the chance to ask Marc Ecko (fashion designer) if he ever feels alone</a>. He said “Of course I do, welcome to trying to do shit differently”.</li>
   <li>The last thing I want to leave you with is that pain is temporary. If you have something shitty happening in your life, maybe you think it’s not even worth living. Trust me when I say it will pass. You must face that life just fucking sucks sometimes. If you work hard enough, you can start to avoid shitty situations. Remember that pain is only temporary.</li>
 </ul>
 
-<p>Thanks again, Per Scholas, for having me as your guest. I would like to congratulate and welcome the recent graduates on their new journey. Please feel free to reach out to me any time.</p>
+<p>Thanks again, Per Scholas, for having me as your guest. I would like to congratulate and welcome the recent graduates on their new journey. Please feel free to reach out to me anytime.</p>
 
 <figure>
 {% image posts/per-scholas-keynote-speaker/pinning.jpg %}
