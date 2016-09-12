@@ -1,10 +1,10 @@
 ---
 layout: video
 permalink: /articles/deploying-a-jekyll-site-with-a-rakefile/
-image: deploying-a-jekyll-site-with-a-rakefile
-video: <iframe width="480" height="360" src="http://www.youtube.com/embed/MJrX-FKj3uY" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
 title: Deploying a Jekyll site with a Rakefile
-excerpt: You have an awesome website built with Jekyll, but you need an easy way to publish it.
+description: You have an awesome website built with Jekyll, but you need an easy way to publish it.
+image: /assets/posts/deploying-a-jekyll-site-with-a-rakefile/hero.png
+video: <iframe width="480" height="360" src="http://www.youtube.com/embed/MJrX-FKj3uY" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
 tags:
 - tutorial
 - video

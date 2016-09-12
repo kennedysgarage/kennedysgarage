@@ -1,9 +1,9 @@
 ---
 layout: video
 permalink: /articles/voronoi-diacam-pitch/
-image: voronoi-diacam-pitch
-video: <iframe width="950" height="513" src="http://www.youtube.com/embed/sGxzZ-H4aTA?rel=0?wmode=opaque" frameborder="0" allowfullscreen></iframe>
 title: Voronoi Diacam at Photo Hack Day II
+image: /assets/posts/voronoi-diacam-pitch/hero.png
+video: <iframe width="950" height="513" src="http://www.youtube.com/embed/sGxzZ-H4aTA?rel=0?wmode=opaque" frameborder="0" allowfullscreen></iframe>
 tags:
 - video
 - pitch

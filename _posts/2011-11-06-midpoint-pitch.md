@@ -1,9 +1,9 @@
 ---
 layout: video
 permalink: /articles/midpoint-pitch/
-image: midpoint-pitch
-video: <iframe width="560" height="315" src="http://www.youtube.com/embed/PLxAxMXWt6o" frameborder="0" allowfullscreen></iframe>
 title: Midpoint Pitch
+image: /assets/posts/midpoint-pitch/hero.png
+video: <iframe width="560" height="315" src="http://www.youtube.com/embed/PLxAxMXWt6o" frameborder="0" allowfullscreen></iframe>
 tags:
 - video
 - pitch

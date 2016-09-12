@@ -2,8 +2,8 @@
 layout: post
 permalink: /articles/per-scholas-keynote-speaker/
 title: Per Scholas Keynote Speaker
-excerpt: Today the class of Cycle 11 at Per Scholas graduated and I was honored to be their keynote speaker.
-image: per-scholas-keynote-speaker
+description: Today the class of Cycle 11 at Per Scholas graduated and I was honored to be their keynote speaker.
+image: /assets/posts/per-scholas-keynote-speaker/hero.png
 tags:
 - honor
 comments: false

@@ -2,7 +2,7 @@
 layout: post
 permalink: /articles/stick-to-your-guns/
 title: Stick to your guns
-excerpt: About six months ago I started to build a website for a talented musician named Kevin Anderson. I first heard about him when I was listening to Jango and one thing led to another and I was building him a website. Not only do I love his music, he is a kickass person. We still
+description: About six months ago I started to build a website for a talented musician named Kevin Anderson. I first heard about him when I was listening to Jango and one thing led to another and I was building him a website. Not only do I love his music, he is a kickass person. We still
 tags:
 - advice
 comments: false

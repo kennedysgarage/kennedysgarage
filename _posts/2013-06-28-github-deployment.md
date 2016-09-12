@@ -2,8 +2,8 @@
 layout: post
 permalink: /articles/github-deployment/
 title: GitHub Deployment
-excerpt: I want to share with you how I deploy some websites with GitHub Service Hooks. The other day I needed to deploy to domain.com and dev.domain.com from the same repo.
-image: github-deployment
+description: I want to share with you how I deploy some websites with GitHub Service Hooks. The other day I needed to deploy to domain.com and dev.domain.com from the same repo.
+image: /assets/posts/github-deployment/hero.png
 tags:
 - git
 - tutorial

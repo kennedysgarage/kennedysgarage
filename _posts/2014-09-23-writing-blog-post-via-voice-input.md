@@ -2,7 +2,7 @@
 layout: post
 permalink: /articles/writing-blog-post-via-voice-input/
 title: Writing blog post via voice input
-excerpt: We had to get copy from a flat image and retype it out. We are talking over 20 pages worth. Brian had idea "why don't we just use the voice to text input on the iPhone?”.
+description: We had to get copy from a flat image and retype it out. We are talking over 20 pages worth. Brian had idea "why don't we just use the voice to text input on the iPhone?”.
 tags:
 - idea
 comments: false

@@ -2,8 +2,8 @@
 layout: post
 permalink: /articles/polaroid-psd/
 title: Polaroid (PSD)
-image: polaroid-psd
-excerpt: I recently had to work on a little project that I required some polaroid images. I figured I would release for all to use.
+image: /assets/posts/polaroid-psd/hero.png
+description: I recently had to work on a little project that I required some polaroid images. I figured I would release for all to use.
 tags:
 - resource
 - psd

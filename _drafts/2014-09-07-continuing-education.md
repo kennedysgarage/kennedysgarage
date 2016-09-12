@@ -2,7 +2,7 @@
 layout: post
 permalink: /articles/continuing-education/
 title: Continuing education
-excerpt: This is a list courses I have completed or want to take. I will be adding to this as time goes on.
+description: This is a list courses I have completed or want to take. I will be adding to this as time goes on.
 tags:
 - education
 comments: true

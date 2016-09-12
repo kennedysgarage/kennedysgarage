@@ -2,8 +2,8 @@
 layout: post
 permalink: /articles/fake-it-till-you-make-it/
 title: Fake it till you make it
-excerpt: Eventually you are going to actually fake it until you made it. Then what?
-image: fake-it-till-you-make-it
+description: Eventually you are going to actually fake it until you made it. Then what?
+image: /assets/posts/fake-it-till-you-make-it/hero.png
 tags:
 - life
 - advice

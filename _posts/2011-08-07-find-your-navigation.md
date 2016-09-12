@@ -2,8 +2,8 @@
 layout: post
 permalink: /articles/find-your-navigation/
 title: Find Your Navigation
-image: find-your-navigation
-excerpt: An experiment I did to help decide the structure of a site. I took a few 3x5 blank index cards and wrote the title of the page names, categories and subcategories (basically all main structures) on each card. Then we sorted this pile to help make sense of the navigation.
+image: /assets/posts/find-your-navigation/hero.png
+description: An experiment I did to help decide the structure of a site. I took a few 3x5 blank index cards and wrote the title of the page names, categories and subcategories (basically all main structures) on each card. Then we sorted this pile to help make sense of the navigation.
 tags:
 - ux
 - process

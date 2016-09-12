@@ -3,7 +3,7 @@ layout: post
 permalink: /blog/our-process-for-creating-mobile-apps/
 title: Our process for creating mobile apps
 author: Kennedy
-excerpt:
+description:
 comments: false
 ---
 

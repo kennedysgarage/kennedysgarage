@@ -2,8 +2,8 @@
 layout: post
 permalink: /articles/why-we-design/
 title: Why We Design
-excerpt: I have been doing a lot of thinking on why people design things, including myself. I have boiled it down intro four main categories.
-image: why-we-design
+description: I have been doing a lot of thinking on why people design things, including myself. I have boiled it down intro four main categories.
+image: /assets/posts/why-we-design/hero.png
 tags:
 - thoughts
 comments: false

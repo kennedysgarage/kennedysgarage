@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /articles/how-we-got-bacon-and-eggs/
-image: how-we-got-bacon-and-eggs
+image: /assets/posts/how-we-got-bacon-and-eggs/hero.png
 title: How we got bacon & eggs
 tags:
 - marketing

@@ -2,8 +2,8 @@
 layout: post
 permalink: /articles/unleash-the-beast-after-thoughts/
 title: Unleash The Beast After Thoughts
-image: unleash-the-beast-after-thoughts
-excerpt: Last night I had the pleasure of speaking on a panel about Hackathons. I wanted to write a little follow up about some thoughts I was not able to express and clear up a few things that I talked about.
+description: Last night I had the pleasure of speaking on a panel about Hackathons. I wanted to write a little follow up about some thoughts I was not able to express and clear up a few things that I talked about.
+image: /assets/posts/unleash-the-beast-after-thoughts/hero.png
 tags:
 - hackathon
 comments: false

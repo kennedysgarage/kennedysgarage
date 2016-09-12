@@ -3,7 +3,7 @@ layout: post
 permalink: /articles/i-am-the-debater-entp-a/
 title: I am “The Debater” (ENTP-A)
 description: I figure I would share my results from taking a Myers-Briggs test from 16 Personalities.
-image: i-am-the-debater-entp-a
+image: /assets/posts/i-am-the-debater-entp-a/hero.png
 tags:
 - personal
 comments: false

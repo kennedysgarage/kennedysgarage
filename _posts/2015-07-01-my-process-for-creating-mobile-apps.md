@@ -2,7 +2,7 @@
 layout: post
 permalink: /articles/my-process-for-creating-mobile-apps/
 title: My process for creating mobile apps
-excerpt: This systematic approach is something that we have successfully been using on all of our projects, large and small. It helps guide us down the right path and it's a way to ensure everyone is on the same page.
+description: This systematic approach is something that we have successfully been using on all of our projects, large and small. It helps guide us down the right path and it's a way to ensure everyone is on the same page.
 tags:
 - mobile
 - process

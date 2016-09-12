@@ -2,7 +2,7 @@
 layout: post
 permalink: /articles/per-scholas-volunteer-appreciation-night-2014/
 title: Per Scholas Volunteer Appreciation Night 2014
-excerpt: Per Scholas invited me to attend this special night because recently I was the keynote speaker at their graduation.
+description: Per Scholas invited me to attend this special night because recently I was the keynote speaker at their graduation.
 tags:
 - honor
 comments: false

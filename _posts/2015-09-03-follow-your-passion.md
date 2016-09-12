@@ -1,9 +1,9 @@
 ---
 layout: post
 permalink: /articles/follow-your-passion/
-image: follow-your-passion
 title: Follow your passion
-excerpt: Until a few days ago I was bothered when people said “Just follow your passion". I am still not the biggest fan. I’m also guilty of saying it to others. I could never really find my passion, until now.
+description: Until a few days ago I was bothered when people said “Just follow your passion". I am still not the biggest fan. I’m also guilty of saying it to others. I could never really find my passion, until now.
+image: /assets/posts/follow-your-passion/hero.png
 tags:
 - passion
 - ideas

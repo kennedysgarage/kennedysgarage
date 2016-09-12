@@ -2,8 +2,8 @@
 layout: post
 permalink: /articles/welcome-to-nyc-tech/
 title: Welcome to NYC Tech
-image: welcome-to-nyc-tech
-excerpt: When I first moved here it was lonely and I felt ever so small. That was until I met the amazing tech community of NYC.
+description: When I first moved here it was lonely and I felt ever so small. That was until I met the amazing tech community of NYC.
+image: /assets/posts/welcome-to-nyc-tech/hero.png
 tags:
 - life
 - advice

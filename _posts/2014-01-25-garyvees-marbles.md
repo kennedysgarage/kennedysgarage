@@ -2,7 +2,7 @@
 layout: post
 permalink: /articles/garyvees-marbles/
 title: Finding Garyvee's Marbles
-excerpt: The day I noticed Gary is everywhere
+description: The day I noticed Gary is everywhere
 tags:
 - open letter
 comments: false

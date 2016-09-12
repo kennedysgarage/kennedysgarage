@@ -2,7 +2,7 @@
 layout: post
 permalink: /articles/my-design-setup-for-ios-apps/
 title: My design setup for iOS apps
-excerpt: I am starting to build an app that will work on iPhone 6 and 6 Plus. As these have new sizes I reevaluated my design workflow.
+description: I am starting to build an app that will work on iPhone 6 and 6 Plus. As these have new sizes I reevaluated my design workflow.
 tags:
 - ios
 - setup

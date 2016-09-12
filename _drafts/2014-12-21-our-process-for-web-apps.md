@@ -3,7 +3,7 @@ layout: post
 permalink: /blog/our-process-for-web-apps/
 title: Our process for web apps
 author: Kennedy
-excerpt:
+description:
 ---
 
 <p>Clients and other designers often want know how I work. Generally I follow this process for every project.</p>

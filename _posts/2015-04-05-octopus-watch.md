@@ -1,9 +1,9 @@
 ---
 layout: post
 permalink: /articles/octopus-watch/
-image: octopus-watch
 title: Octopus Watch
-excerpt: We have been doing a bunch of research on payment system around the world and I had the pleasure of using a watch to pay for things in Hong Kong.
+description: We have been doing a bunch of research on payment system around the world and I had the pleasure of using a watch to pay for things in Hong Kong.
+image: /assets/postsoctopus-watchhero.png
 tags:
 - apple pay
 - wearable

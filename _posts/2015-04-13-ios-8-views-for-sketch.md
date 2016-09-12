@@ -2,7 +2,7 @@
 layout: post
 permalink: /articles/iphone-sketch/
 title: iPhone Mocks for Sketch
-excerpt: We are releasing iOS 8 iPhone 6 @1x for Sketch. We are proud of where it has been and can't wait to see where it goes.
+description: We are releasing iOS 8 iPhone 6 @1x for Sketch. We are proud of where it has been and can't wait to see where it goes.
 tags:
 - iphone
 - sketch

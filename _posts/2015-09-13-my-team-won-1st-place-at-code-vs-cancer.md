@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /articles/my-team-won-1st-place-at-code-vs-cancer/
-image: my-team-won-1st-place-at-code-vs-cancer
+image: /assets/posts/my-team-won-1st-place-at-code-vs-cancer/hero.png
 title: My team won 1st place at Code vs. Cancer
 tags:
 - video
