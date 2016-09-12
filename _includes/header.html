@@ -42,7 +42,7 @@
   <meta content="{{ site.url }}/about/" property="article:author">
 {% endif %}
 {% if page.image %}
-	<meta content="/assets/posts/{{ page.image }}/hero.png" property="og:image">
+	<meta content="{{ site.url }}/assets/posts/{{ page.image }}/hero.png" property="og:image">
 {% else %}
   <meta content="{% asset_path fb/image.png %}" property="og:image">
 {% endif %}
