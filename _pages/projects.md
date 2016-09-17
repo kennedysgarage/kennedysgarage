@@ -9,7 +9,7 @@ description: Here are some of the projects I have worked on over the years.
 <div class="container">
   <!-- <label>Filter:</label> -->
   <button class="filter" data-filter="all">All</button>
-  <button class="filter" data-filter=".website">Website</button>
+  <button class="filter" data-filter=".web">Web</button>
   <button class="filter" data-filter=".ios-design">iOS Design</button>
   <button class="filter" data-filter=".android-design">Android Design</button>
   <button class="filter" data-filter=".identity">Identity</button>
@@ -24,7 +24,7 @@ description: Here are some of the projects I have worked on over the years.
   <p class="last">I have with worked with powerful brands such as Google, Wine Spectator, Porsche, Spotify, Citi, IBM, Victoria's Secret, MLB, and WeWork. Becuase of this I can not publicly share some of my more recent work, either because the products have not launched or I am under some kind of contract. Thanks for understanding.</p>
 </div><!--/notice-->
 
-<!-- <div class="pro mix website hackathon">
+<div class="pro mix identity web hackathon">
   <a href="/projects/circly/">
   <section class="circly">
   <p class="tag-dark">Identity &amp; Website</p>
@@ -50,7 +50,7 @@ description: Here are some of the projects I have worked on over the years.
     </div>
   </section>
   </a>
-</div> -->
+</div>
 
 <div class="pro mix identity">
   <section class="williamalvarez">
@@ -86,7 +86,7 @@ description: Here are some of the projects I have worked on over the years.
   </section>
 </div><!--/pro-->
 
-<div class="pro mix identity website">
+<div class="pro mix identity web">
   <section class="wearethehits">
     <p class="tag-light">Identity &amp; Website</p>
     <svg width="400px" height="400px" viewBox="0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
@@ -138,7 +138,7 @@ description: Here are some of the projects I have worked on over the years.
   </section>
 </div><!--/pro-->
 
-<div class="pro mix website">
+<div class="pro mix web">
   <a href="/projects/hitlist/">
   <section class="hitlist">
     <p class="tag-dark">Website</p>
@@ -162,7 +162,7 @@ description: Here are some of the projects I have worked on over the years.
   </section>
   </a>
 </div><!--/pro-->
-<!-- Website Redesign -->
+<!-- Web Redesign -->
 
 <div class="pro mix identity">
   <section class="rehandbook">
@@ -187,6 +187,30 @@ description: Here are some of the projects I have worked on over the years.
     </div><!--/title-->
   </section>
 </div><!--/pro-->
+
+<div class="pro mix ios">
+  <section class="citi">
+  <p class="tag-light">iOS &amp;  Watch Design</p>
+  <svg width="526px" height="300px" viewBox="0 0 526 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <g id="Projects" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+          <g id="citi" transform="translate(-217.000000, -120.000000)">
+              <g id="Logo-2" transform="translate(215.000000, 120.000000)">
+                  <path d="M144.441673,241.728 L143.620503,242.5728 C130.192805,256.2672 114.609836,263.508 98.5548743,263.508 C65.0361992,263.508 40.7069246,238.44 40.7069246,203.8968 C40.7069246,169.356 65.0361992,144.2832 98.5548743,144.2832 C114.609836,144.2832 130.192805,151.524 143.620503,165.2328 L144.441673,166.0704 L166.030503,140.0856 L165.467002,139.404 C147.552969,118.284 126.007485,108.0096 99.6072244,108.0096 C73.0672921,108.0096 48.8054449,116.868 31.2791199,132.9504 C12.3247776,150.3528 2.30698259,174.8808 2.30698259,203.8968 C2.30698259,232.9152 12.3247776,257.4432 31.2791199,274.8504 C48.8054449,290.9304 73.0672921,299.7888 99.6072244,299.7888 C126.007485,299.7888 147.552969,289.5192 165.467002,268.392 L166.030503,267.7128 L144.441673,241.728" id="Fill-1" fill="#FFFFFF"></path>
+                  <polygon id="Fill-3" fill="#FFFFFF" points="187.814391 111.0024 225.867563 111.0024 225.867563 296.2416 187.814391 296.2416"></polygon>
+                  <path d="M375.060464,255.96 C364.910222,262.1208 355.443888,265.2384 346.914313,265.2384 C334.587128,265.2384 329.089381,258.792 329.089381,244.3416 L329.089381,146.0712 L367.812012,146.0712 L367.812012,111.192 L329.089381,111.192 L329.089381,53.5176 L291.736973,73.4544 L291.736973,111.192 L259.535542,111.192 L259.535542,146.0712 L291.736973,146.0712 L291.736973,250.6128 C291.736973,279.108 308.699797,298.5768 333.958607,299.0616 C351.12853,299.3856 361.454565,294.3528 367.722911,290.5416 L368.093762,290.316 L377.283162,254.6064 L375.060464,255.96" id="Fill-4" fill="#FFFFFF"></path>
+                  <polygon id="Fill-5" fill="#FFFFFF" points="406.577988 111.0024 444.65765 111.0024 444.65765 296.2416 406.577988 296.2416"></polygon>
+                  <path d="M468.606441,81.0384 C436.852921,33.5928 378.212698,0.0984 315.587031,0.1224 C253.934246,0.1464 195.306064,32.6232 162.509826,81.0384 L206.270251,81.0384 C236.135803,50.3736 274.848801,33.6912 315.587031,33.6696 C355.583559,33.6504 394.932302,50.3736 424.846015,81.0384 L468.606441,81.0384" id="Fill-6" fill="#D82331"></path>
+                  <path d="M524.42675,70.5792 C524.42675,80.0736 517.171074,87.3048 507.646944,87.3048 C498.117998,87.3048 490.859913,80.0736 490.859913,70.5792 C490.859913,61.0848 498.117998,53.856 507.646944,53.856 C517.171074,53.856 524.42675,61.0848 524.42675,70.5792 L524.42675,70.5792 Z M527.639188,70.5792 C527.639188,59.2632 519.001248,50.6544 507.646944,50.6544 C496.29264,50.6544 487.647476,59.2632 487.647476,70.5792 C487.647476,81.8976 496.29264,90.5064 507.646944,90.5064 C519.001248,90.5064 527.639188,81.8976 527.639188,70.5792 L527.639188,70.5792 Z M516.785774,65.8896 C516.785774,61.3608 513.515542,59.3184 509.64087,59.3184 L500.05413,59.3184 L500.05413,81.0672 L503.765048,81.0672 L503.765048,72.6768 L507.974449,72.6768 L512.241644,81.0672 L516.614797,81.0672 L512.133279,72.2928 C514.9556,71.4624 516.785774,69.3096 516.785774,65.8896 L516.785774,65.8896 Z M513.01706,66 C513.01706,68.1528 511.521615,69.0912 509.527689,69.0912 L503.765048,69.0912 L503.765048,62.9064 L509.527689,62.9064 C511.521615,62.9064 513.01706,63.9552 513.01706,66 L513.01706,66 Z" id="Fill-7" fill="#FFFFFF"></path>
+              </g>
+          </g>
+      </g>
+  </svg>
+    <div class="title light">
+      <h3>Citi Bank</h3>
+      <p>April 2015</p>
+    </div>
+  </section>
+</div>
 
 <div class="pro mix identity">
   <section class="hivington">
@@ -218,7 +242,7 @@ description: Here are some of the projects I have worked on over the years.
   </section>
 </div><!--/pro-->
 
-<div class="pro mix identity website">
+<div class="pro mix identity web">
   <section class="theronmoto">
     <p class="tag-light">Identity &amp; Website</p>
     <svg width="562px" height="442px" viewBox="0 0 562 442" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -265,7 +289,7 @@ description: Here are some of the projects I have worked on over the years.
 ***** 2014 *****
 ~~~~~~~~~~~~~-->
 
-<div class="pro mix website">
+<div class="pro mix web">
   <a href="/projects/smedresmanlaw/">
   <section class="smedresmanlaw">
     <p class="tag-dark">Website</p>
@@ -277,7 +301,7 @@ description: Here are some of the projects I have worked on over the years.
   </section>
   </a>
 </div><!--/pro-->
-<!-- Website Redesign -->
+<!-- Web Redesign -->
 
 <div class="pro mix identity">
   <section class="superdense">
@@ -344,22 +368,62 @@ description: Here are some of the projects I have worked on over the years.
   </section>
 </div><!--/pro-->
 
-<div class="pro mix identity website">
-  <section class="kennedysgarage">
-    <p class="tag-light">Identity &amp; Website</p>
-    <svg width="461px" height="399px" viewBox="0 0 461 399" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-        <g id="Projects" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-            <g id="kennedysgarage" sketch:type="MSArtboardGroup" transform="translate(-250.000000, -67.000000)" stroke-width="8" stroke="#FFFFFF">
-                <path d="M480.5,83 L697,458 L264,458 L480.5,83 Z M385.445039,333.549451 L433.247237,250.756044 L528.851632,250.756044 L576.65383,333.549451 L528.851632,416.342857 L433.247237,416.342857 L385.445039,333.549451 Z" sketch:type="MSShapeGroup"></path>
-            </g>
-        </g>
-    </svg>
-    <div class="title light">
-      <h3>Kennedy's Garage</h3>
-      <p>March 2014</p>
-    </div><!--/title-->
+<div class="pro mix ios">
+  <section class="google">
+  <p class="tag-dark">Web App, iOS, &amp; Android</p>
+  <svg width="749px" height="258px" viewBox="0 0 749 258" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+          <linearGradient x1="54.9102758%" y1="-0.269077427%" x2="54.9102758%" y2="100.005657%" id="linearGradient-1">
+              <stop stop-color="#196EEF" offset="0%"></stop>
+              <stop stop-color="#186DEE" offset="50%"></stop>
+              <stop stop-color="#1065E7" offset="100%"></stop>
+          </linearGradient>
+          <linearGradient x1="51.1860952%" y1="-0.216790593%" x2="51.1860952%" y2="100.059363%" id="linearGradient-2">
+              <stop stop-color="#DE5744" offset="0%"></stop>
+              <stop stop-color="#DB4632" offset="50%"></stop>
+              <stop stop-color="#D13D29" offset="100%"></stop>
+          </linearGradient>
+          <linearGradient x1="54.3092848%" y1="-0.129717078%" x2="54.3092848%" y2="100.048066%" id="linearGradient-3">
+              <stop stop-color="#1A6FEF" offset="0%"></stop>
+              <stop stop-color="#1E72EF" offset="25%"></stop>
+              <stop stop-color="#166BEC" offset="50%"></stop>
+              <stop stop-color="#1267E9" offset="75%"></stop>
+              <stop stop-color="#1063E5" stop-opacity="0.87" offset="100%"></stop>
+          </linearGradient>
+          <linearGradient x1="49.3305106%" y1="-0.220706834%" x2="49.3305106%" y2="100.107931%" id="linearGradient-4">
+              <stop stop-color="#0AA561" offset="0%"></stop>
+              <stop stop-color="#009B58" offset="50%"></stop>
+              <stop stop-color="#00914B" offset="100%"></stop>
+          </linearGradient>
+          <linearGradient x1="52.7085715%" y1="-0.216790593%" x2="52.7085715%" y2="99.8460816%" id="linearGradient-5">
+              <stop stop-color="#DE5644" offset="0%"></stop>
+              <stop stop-color="#DA4531" offset="50%"></stop>
+              <stop stop-color="#CE3A28" offset="100%"></stop>
+          </linearGradient>
+          <linearGradient x1="51.6002965%" y1="-0.0147340868%" x2="51.6002965%" y2="99.8460816%" id="linearGradient-6">
+              <stop stop-color="#FFC01A" offset="0%"></stop>
+              <stop stop-color="#FFBA03" offset="50%"></stop>
+              <stop stop-color="#FFB300" offset="100%"></stop>
+          </linearGradient>
+      </defs>
+      <g id="Projects" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+          <g id="google" transform="translate(-105.000000, -141.000000)">
+              <g transform="translate(105.000000, 141.000000)">
+                  <path d="M115.92,125.41 L148.13,125.41 L148.13,170.65 C138.08,173.88 125.39,175.65 112.2,175.65 C58.74,175.65 27.32,129.87 27.32,85.16 C27.32,41.31 55.74,10.55 95.39,10.55 C120.48,10.55 135.08,19.05 148.14,30.89 L148.14,45.65 L172.63,21.16 C157.14,10.68 134.71,0.72 102.65,0.72 C32.27,0.72 0.1,51.07 0.1,92.45 C0.1,151.35 43,186.83 96.91,186.83 C123.05,186.83 146.26,182.84 173.07,175.38 L173.07,128.64 C173.07,126.25 174.12,124.61 175.69,123.17 L184.15,114.71 L126.7,114.71 L115.92,125.41 Z" id="path4423" fill="url(#linearGradient-1)"></path>
+                  <path d="M260.21,63.93 C219.7,63.93 194.6,93.53 194.6,124.95 C194.6,152.07 214.82,184.27 255.79,184.27 C295.2,184.27 319.38,154.61 319.38,122.64 C319.38,92.86 295.75,63.94 260.21,63.94 L260.21,63.93 Z M253.49,72.56 C282.05,72.56 294.77,109.77 294.77,136.31 C294.77,175.78 265.16,176.56 261.62,176.56 C248.07,176.56 238.6,168.37 231.51,157.63 C225.27,147.73 219.17,129.34 219.17,111.37 C219.17,93.47 225.03,84.73 234.25,78.3 C241.79,73.48 248.85,72.56 253.48,72.56 L253.49,72.56 Z" id="path4425" fill="url(#linearGradient-2)"></path>
+                  <path d="M525.02,63.92 C489.64,63.92 470.5,86.32 470.5,111.33 C470.5,130.37 484.14,151.85 512.28,151.85 L519.4,151.85 C519.4,151.85 517.46,156.56 517.45,161.11 C517.45,167.82 519.86,171.59 524.98,177.39 C476.56,180.34 457.1,199.87 457.1,220.86 C457.1,239.24 474.7,257.33 511.69,257.33 C555.48,257.33 578.16,233.02 578.16,209.16 C578.16,192.34 569.78,183.12 548.56,167.22 C542.32,162.37 541.11,159.28 541.11,155.65 C541.11,150.45 544.22,147.01 545.36,145.71 C547.37,143.59 550.85,141.17 552.15,140.01 C559.28,133.97 569.35,125.03 569.35,107.19 C569.35,94.95 564.26,84.42 552.66,74.56 L566.82,74.56 L577.46,63.92 L525.03,63.92 L525.02,63.92 Z M515.26,71.88 C521.68,71.88 527.04,74.15 532.7,78.86 C538.98,84.52 549.01,99.73 549.01,118.55 C549.01,138.86 533.23,144.42 524.69,144.42 C520.51,144.42 515.5,143.25 511.26,140.35 C501.84,134.24 492.49,117.98 492.49,98.63 C492.49,81.17 502.89,71.88 515.26,71.88 L515.26,71.88 Z M529.27,185.1 C531.97,185.1 533.91,185.32 533.91,185.32 C533.91,185.32 540.28,189.87 544.73,193.27 C555.09,201.46 561.55,207.72 561.55,218.87 C561.55,234.2 547.33,246.22 524.3,246.22 C499.02,246.22 479.7,234.45 479.7,215.23 C479.7,199.31 492.94,185.61 529.27,185.1 L529.27,185.1 Z" id="path4429" fill="url(#linearGradient-3)"></path>
+                  <path d="M585.12,180.76 L633.69,180.76 L641.09,173.36 L627.16,171.62 C623.41,171.16 621.18,167.92 621.18,164.78 L621.18,18.07 C621.18,15.18 622.52,13.7 623.5,12.76 L632.26,4 L590.84,4 L580.06,14.78 L596.16,14.78 L596.16,166.75 C596.16,168.91 595.48,170.38 594.02,171.89 L585.12,180.76 Z" id="path4433" fill="url(#linearGradient-4)"></path>
+                  <path d="M699.5,63.93 C672.38,63.93 643.57,84.6 643.57,121.71 C643.57,152.36 664.24,184.27 702.86,184.27 C712.49,184.27 720.42,183.03 727.85,179.62 C735.82,175.95 743.49,169.99 749.09,162.5 C738.52,167.83 729.9,171.33 718.45,171.33 C696.69,171.33 675.71,155.63 668.37,126.77 L745.24,95.7 C740.8,79.87 728.28,63.93 699.51,63.93 L699.5,63.93 Z M694.48,72.42 C709.03,72.42 719.55,84.39 719.55,93.76 C719.55,96.79 717.65,98.39 713.89,99.87 L666.64,118.98 C666.64,118.98 665.36,113.03 665.36,106.6 C665.36,79.63 684.86,72.42 694.48,72.42 L694.48,72.42 Z" id="path4435" fill="url(#linearGradient-5)"></path>
+                  <path d="M397.67,63.93 C357.16,63.93 332.06,93.53 332.06,124.95 C332.06,152.07 352.28,184.27 393.25,184.27 C432.66,184.27 456.84,154.61 456.84,122.64 C456.84,92.86 433.21,63.94 397.67,63.94 L397.67,63.93 Z M390.95,72.56 C419.51,72.56 432.23,109.77 432.23,136.31 C432.23,175.78 402.62,176.56 399.08,176.56 C385.53,176.56 376.06,168.37 368.97,157.63 C362.73,147.73 356.63,129.34 356.63,111.37 C356.63,93.47 362.49,84.73 371.71,78.3 C379.25,73.48 386.31,72.56 390.94,72.56 L390.95,72.56 Z" id="path4439" fill="url(#linearGradient-6)"></path>
+              </g>
+          </g>
+      </g>
+  </svg>
+    <div class="title dark">
+      <h3>Google</h3>
+      <p>April 2014</p>
+    </div>
   </section>
-</div><!--/pro-->
+</div>
 
 <div class="pro mix identity">
   <section class="helm">
@@ -393,7 +457,7 @@ description: Here are some of the projects I have worked on over the years.
   </section>
 </div><!--/pro-->
 
-<div class="pro mix identity website">
+<div class="pro mix identity web">
   <section class="theronproperties">
     <p class="tag-light">Identity &amp; Website</p>
     <svg width="658px" height="240px" viewBox="0 0 658 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
@@ -421,7 +485,7 @@ description: Here are some of the projects I have worked on over the years.
   </section>
 </div><!--/pro-->
 
-<div class="pro mix identity website">
+<div class="pro mix identity web">
   <section class="theronindustries">
     <p class="tag-light">Identity &amp; Website</p>
     <svg width="685px" height="206px" viewBox="0 0 685 206" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
@@ -448,7 +512,7 @@ description: Here are some of the projects I have worked on over the years.
   </section>
 </div><!--/pro-->
 
-<div class="pro mix identity website">
+<div class="pro mix identity web">
   <section class="theronstudios">
     <p class="tag-light">Identity &amp; Website</p>
     <svg width="700px" height="104px" viewBox="0 0 700 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
@@ -482,13 +546,13 @@ description: Here are some of the projects I have worked on over the years.
   </section>
 </div><!--/pro-->
 
-<div class="pro mix identity website">
+<div class="pro mix identity web">
   <section class="kenvak">
     <p class="tag-light">Identity &amp; Website</p>
-    <svg width="591px" height="402px" viewBox="0 0 591 402" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-        <g id="Projects" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-            <g id="kenvak" transform="translate(-185.000000, -69.000000)" fill="#FFFFFF">
-                <path d="M469.848751,198.747579 L410.306071,71.0578902 C409.611895,69.5692242 407.82041,68.9119101 406.315774,69.6135335 L396.525783,74.1786812 C395.02269,74.879585 394.368166,76.6645215 395.06731,78.1638411 L451.296431,198.747579 L469.848751,198.747579 Z M532.573146,333.260478 L592.528971,461.836159 C593.228115,463.335478 592.573591,465.120415 591.070498,465.821319 L581.280507,470.386466 C579.775871,471.08809 577.984386,470.430776 577.29021,468.94211 L514.020826,333.260478 L532.573146,333.260478 Z M185,305.133831 C185,306.707632 186.210616,308.03931 187.905479,308.03931 L198.5589,308.03931 C200.132701,308.03931 201.464379,306.707632 201.464379,305.133831 L201.464379,268.21004 L233.061459,307.191878 C233.303582,307.555063 234.029952,308.03931 235.240568,308.03931 L248.436283,308.03931 C250.857515,308.03931 251.826008,305.375954 250.615392,303.802153 L216.718142,263.246514 L248.315222,227.654401 C249.889022,225.838477 248.678406,223.296183 246.378236,223.296183 L234.272075,223.296183 C233.18252,223.296183 232.456151,223.901491 231.971904,224.506799 L201.464379,258.888296 L201.464379,226.201662 C201.464379,224.627861 200.132701,223.296183 198.5589,223.296183 L187.905479,223.296183 C186.210616,223.296183 185,224.627861 185,226.201662 L185,305.133831 Z M289.153338,305.739139 C289.153338,306.949755 290.121831,308.03931 291.453508,308.03931 L340.725583,308.03931 C342.057261,308.03931 343.025754,306.949755 343.025754,305.739139 L343.025754,295.812087 C343.025754,294.601471 342.057261,293.511917 340.725583,293.511917 L304.891347,293.511917 L304.891347,272.326135 L334.793564,272.326135 C336.00418,272.326135 337.093735,271.357642 337.093735,270.025964 L337.093735,259.977851 C337.093735,258.767235 336.00418,257.67768 334.793564,257.67768 L304.891347,257.67768 L304.891347,237.823576 L340.725583,237.823576 C342.057261,237.823576 343.025754,236.734022 343.025754,235.523406 L343.025754,225.596354 C343.025754,224.385738 342.057261,223.296183 340.725583,223.296183 L291.453508,223.296183 C290.121831,223.296183 289.153338,224.385738 289.153338,225.596354 L289.153338,305.739139 Z M385.558732,305.739139 C385.558732,306.949755 386.648287,308.03931 387.858903,308.03931 L398.875509,308.03931 C400.207187,308.03931 401.17568,306.949755 401.17568,305.739139 L401.17568,253.682647 L401.296742,253.682647 L451.900494,309.249926 L454.805973,309.249926 C456.016589,309.249926 457.106143,308.281433 457.106143,307.070817 L457.106143,225.596354 C457.106143,224.385738 456.016589,223.296183 454.805973,223.296183 L443.668305,223.296183 C442.336627,223.296183 441.368134,224.385738 441.368134,225.596354 L441.368134,275.594798 L441.247072,275.594798 L390.885443,222.085567 L387.858903,222.085567 C386.648287,222.085567 385.558732,223.05406 385.558732,224.264676 L385.558732,305.739139 Z M530.751955,307.918248 C531.11514,308.644618 531.720448,309.249926 532.810003,309.249926 L534.020619,309.249926 C535.110173,309.249926 535.715481,308.644618 536.078666,307.918248 L573.607765,226.443785 C574.334135,224.869984 573.365642,223.296183 571.549718,223.296183 L559.201434,223.296183 C558.111879,223.296183 557.385509,224.022553 557.143386,224.627861 L533.899557,276.684353 L533.052126,276.684353 L509.808297,224.627861 C509.566174,224.022553 508.839804,223.296183 507.75025,223.296183 L495.401966,223.296183 C493.586041,223.296183 492.617549,224.869984 493.343918,226.443785 L530.751955,307.918248 Z M594.833901,308.03931 L605.366261,308.03931 C607.303246,308.03931 608.392801,306.828694 608.877047,305.618077 L614.809066,292.543424 L651.006487,292.543424 L656.938506,305.618077 C657.785937,307.31294 658.633368,308.03931 660.449293,308.03931 L670.981653,308.03931 C672.797577,308.03931 673.76607,306.465509 673.0397,304.891708 L635.752724,223.417245 C635.38954,222.690875 634.905293,222.085567 633.694677,222.085567 L632.484061,222.085567 C631.394506,222.085567 630.789198,222.690875 630.426014,223.417245 L592.775853,304.891708 C592.049484,306.465509 593.017976,308.03931 594.833901,308.03931 Z M620.741085,279.105585 L632.605123,252.472031 L632.968307,252.472031 L645.074468,279.105585 L620.741085,279.105585 Z M709.277475,305.133831 C709.277475,306.707632 710.488091,308.03931 712.182954,308.03931 L722.836375,308.03931 C724.410176,308.03931 725.741854,306.707632 725.741854,305.133831 L725.741854,268.21004 L757.338934,307.191878 C757.581057,307.555063 758.307427,308.03931 759.518043,308.03931 L772.713758,308.03931 C775.13499,308.03931 776.103483,305.375954 774.892867,303.802153 L740.995617,263.246514 L772.592696,227.654401 C774.166497,225.838477 772.955881,223.296183 770.655711,223.296183 L758.54955,223.296183 C757.459995,223.296183 756.733626,223.901491 756.249379,224.506799 L725.741854,258.888296 L725.741854,226.201662 C725.741854,224.627861 724.410176,223.296183 722.836375,223.296183 L712.182954,223.296183 C710.488091,223.296183 709.277475,224.627861 709.277475,226.201662 L709.277475,305.133831 Z"></path>
+    <svg width="352px" height="239px" viewBox="0 0 352 239" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <g id="Logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+            <g id="kenvak-copy-8" transform="translate(-127.000000, -181.000000)" fill="#FFFFFF">
+                <path d="M295.895135,260 L260.06932,183.171292 C259.362308,181.655101 257.579871,181.011155 256.078086,181.711448 L252.453453,183.401643 C250.956518,184.099675 250.30373,185.890932 251.006242,187.397475 L284.861356,260 L295.895135,260 Z M333.199748,340 L367.406045,413.355641 C368.108557,414.862184 367.455769,416.653441 365.958834,417.351473 L362.334201,419.041667 C360.832416,419.741961 359.049979,419.098015 358.342967,417.581824 L322.165968,340 L333.199748,340 Z M127.552,323.272 C127.552,324.208 128.272,325 129.28,325 L135.616,325 C136.552,325 137.344,324.208 137.344,323.272 L137.344,301.312 L156.136,324.496 C156.28,324.712 156.712,325 157.432,325 L165.28,325 C166.72,325 167.296,323.416 166.576,322.48 L146.416,298.36 L165.208,277.192 C166.144,276.112 165.424,274.6 164.056,274.6 L156.856,274.6 C156.208,274.6 155.776,274.96 155.488,275.32 L137.344,295.768 L137.344,276.328 C137.344,275.392 136.552,274.6 135.616,274.6 L129.28,274.6 C128.272,274.6 127.552,275.392 127.552,276.328 L127.552,323.272 Z M189.496,323.632 C189.496,324.352 190.072,325 190.864,325 L220.168,325 C220.96,325 221.536,324.352 221.536,323.632 L221.536,317.728 C221.536,317.008 220.96,316.36 220.168,316.36 L198.856,316.36 L198.856,303.76 L216.64,303.76 C217.36,303.76 218.008,303.184 218.008,302.392 L218.008,296.416 C218.008,295.696 217.36,295.048 216.64,295.048 L198.856,295.048 L198.856,283.24 L220.168,283.24 C220.96,283.24 221.536,282.592 221.536,281.872 L221.536,275.968 C221.536,275.248 220.96,274.6 220.168,274.6 L190.864,274.6 C190.072,274.6 189.496,275.248 189.496,275.968 L189.496,323.632 Z M246.832,323.632 C246.832,324.352 247.48,325 248.2,325 L254.752,325 C255.544,325 256.12,324.352 256.12,323.632 L256.12,292.672 L256.192,292.672 L286.288,325.72 L288.016,325.72 C288.736,325.72 289.384,325.144 289.384,324.424 L289.384,275.968 C289.384,275.248 288.736,274.6 288.016,274.6 L281.392,274.6 C280.6,274.6 280.024,275.248 280.024,275.968 L280.024,305.704 L279.952,305.704 L250,273.88 L248.2,273.88 C247.48,273.88 246.832,274.456 246.832,275.176 L246.832,323.632 Z M333.184,324.928 C333.4,325.36 333.76,325.72 334.408,325.72 L335.128,325.72 C335.776,325.72 336.136,325.36 336.352,324.928 L358.672,276.472 C359.104,275.536 358.528,274.6 357.448,274.6 L350.104,274.6 C349.456,274.6 349.024,275.032 348.88,275.392 L335.056,306.352 L334.552,306.352 L320.728,275.392 C320.584,275.032 320.152,274.6 319.504,274.6 L312.16,274.6 C311.08,274.6 310.504,275.536 310.936,276.472 L333.184,324.928 Z M371.296,325 L377.56,325 C378.712,325 379.36,324.28 379.648,323.56 L383.176,315.784 L404.704,315.784 L408.232,323.56 C408.736,324.568 409.24,325 410.32,325 L416.584,325 C417.664,325 418.24,324.064 417.808,323.128 L395.632,274.672 C395.416,274.24 395.128,273.88 394.408,273.88 L393.688,273.88 C393.04,273.88 392.68,274.24 392.464,274.672 L370.072,323.128 C369.64,324.064 370.216,325 371.296,325 Z M386.704,307.792 L393.76,291.952 L393.976,291.952 L401.176,307.792 L386.704,307.792 Z M439.36,323.272 C439.36,324.208 440.08,325 441.088,325 L447.424,325 C448.36,325 449.152,324.208 449.152,323.272 L449.152,301.312 L467.944,324.496 C468.088,324.712 468.52,325 469.24,325 L477.088,325 C478.528,325 479.104,323.416 478.384,322.48 L458.224,298.36 L477.016,277.192 C477.952,276.112 477.232,274.6 475.864,274.6 L468.664,274.6 C468.016,274.6 467.584,274.96 467.296,275.32 L449.152,295.768 L449.152,276.328 C449.152,275.392 448.36,274.6 447.424,274.6 L441.088,274.6 C440.08,274.6 439.36,275.392 439.36,276.328 L439.36,323.272 Z" id="Combined-Shape"></path>
             </g>
         </g>
     </svg>
@@ -556,7 +620,7 @@ description: Here are some of the projects I have worked on over the years.
   </section>
 </div><!--/pro-->
 
-<div class="pro mix identity website">
+<div class="pro mix identity web">
   <a href="/projects/bring-your-own-magnum/">
   <section class="bringyourownmagnum">
     <p class="tag-dark">Identity &amp; Website</p>
@@ -602,7 +666,7 @@ description: Here are some of the projects I have worked on over the years.
   </section>
 </div><!--/pro-->
 
-<div class="pro mix identity website">
+<div class="pro mix identity web">
   <a href="/projects/quinnsvoice/">
   <section class="quinnsvoice">
     <p class="tag-light">Identity &amp; Website</p>
@@ -628,7 +692,7 @@ description: Here are some of the projects I have worked on over the years.
 ***** 2012 *****
 ~~~~~~~~~~~~~-->
 
-<div class="pro mix identity website">
+<div class="pro mix identity web">
   <section class="majesticsquare">
     <p class="tag-light">Identity &amp; Website</p>
     <svg width="411px" height="411px" viewBox="0 0 411 411" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
@@ -656,7 +720,7 @@ description: Here are some of the projects I have worked on over the years.
   </section>
 </div><!--/pro-->
 
-<div class="pro mix identity website">
+<div class="pro mix identity web">
   <a href="/projects/statuschart/">
   <section class="statuschart">
     <p class="tag-light">Identity &amp; Website</p>
@@ -681,7 +745,7 @@ description: Here are some of the projects I have worked on over the years.
   </section>
   </a>
 </div><!--/pro-->
-<!-- Website / Logo -->
+<!-- Web / Logo -->
 
 <div class="pro mix identity">
   <section class="adsperince">
@@ -700,7 +764,7 @@ description: Here are some of the projects I have worked on over the years.
   </section>
 </div><!--/pro-->
 
-<div class="pro mix identity website">
+<div class="pro mix identity web">
   <a href="/projects/arctap/">
   <section class="arctap">
     <p class="tag-dark">Identity &amp; Website</p>
@@ -727,7 +791,7 @@ description: Here are some of the projects I have worked on over the years.
   </a>
 </div><!--/pro-->
 
-<div class="pro mix identity website ios-design">
+<div class="pro mix identity web ios-design">
   <a href="/projects/grade-spotter/">
   <section class="gradespotter">
     <p class="tag-light">Identity, Website, &amp; iOS Design</p>
@@ -745,7 +809,7 @@ description: Here are some of the projects I have worked on over the years.
   </section>
   </a>
 </div><!--/pro-->
-<!--/iPhone / Website / Logo-->
+<!--/iPhone / Web / Logo-->
 
 <!--~~~~~~~~~~~~~
 ***** 2011 *****
@@ -776,7 +840,7 @@ description: Here are some of the projects I have worked on over the years.
   </a>
 </div><!--/pro-->
 
-<div class="pro mix identity website hackathon">
+<div class="pro mix identity web hackathon">
   <a href="/projects/transit-trainer/">
   <section class="transittrainer">
     <p class="tag-dark">Identity, Website, &amp; Hackathon</p>
@@ -817,7 +881,7 @@ description: Here are some of the projects I have worked on over the years.
   </a>
 </div><!--/pro-->
 
-<div class="pro mix identity website ios-design android-design hackathon">
+<div class="pro mix identity web ios-design android-design hackathon">
   <a href="/projects/lemonade-stand/">
   <section class="lemonadestand">
     <p class="tag-light">Design &amp; Hackathon</p>
@@ -837,7 +901,7 @@ description: Here are some of the projects I have worked on over the years.
 </div><!--/pro-->
 <!--Hackathon Project-->
 
-<div class="pro mix identity website">
+<div class="pro mix identity web">
   <a href="/projects/in/">
   <section class="in">
     <p class="tag-dark">Identity &amp; Website</p>
@@ -877,6 +941,27 @@ description: Here are some of the projects I have worked on over the years.
     <div class="title light">
       <h3>Today We Give</h3>
       <p>December 2010</p>
+    </div><!--/title-->
+  </section>
+</div><!--/pro-->
+
+<!--~~~~~~~~~~~~~
+***** 2007 *****
+~~~~~~~~~~~~~-->
+
+<div class="pro mix identity web">
+  <section class="kennedysgarage">
+    <p class="tag-light">Identity &amp; Website</p>
+    <svg width="461px" height="399px" viewBox="0 0 461 399" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+        <g id="Projects" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+            <g id="kennedysgarage" sketch:type="MSArtboardGroup" transform="translate(-250.000000, -67.000000)" stroke-width="8" stroke="#FFFFFF">
+                <path d="M480.5,83 L697,458 L264,458 L480.5,83 Z M385.445039,333.549451 L433.247237,250.756044 L528.851632,250.756044 L576.65383,333.549451 L528.851632,416.342857 L433.247237,416.342857 L385.445039,333.549451 Z" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </svg>
+    <div class="title light">
+      <h3>Kennedy's Garage</h3>
+      <p>Feburay 207</p>
     </div><!--/title-->
   </section>
 </div><!--/pro-->
