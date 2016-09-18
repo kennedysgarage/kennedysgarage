@@ -692,6 +692,23 @@ description: Here are some of the projects I have worked on over the years.
 ***** 2012 *****
 ~~~~~~~~~~~~~-->
 
+<div class="pro mix identity">
+  <section class="fourk">
+    <p class="tag-light">Identity</p>
+    <svg width="587px" height="400px" viewBox="0 0 587 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <g id="Projects" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+            <g id="4kimagestock" transform="translate(-187.000000, -70.000000)" fill="#FFFFFF">
+                <path d="M504.163121,228.126012 L638.347518,70 L768.843972,70 L618.489362,240.780142 L773.950355,467.163121 L641.751773,467.163121 L541.893617,319.64539 L504.163121,361.62721 L504.163121,470 L397.496454,470 L397.496454,392.836879 L205.156028,392.836879 L187,315.106383 L392.957447,70 L504.163121,70 L504.163121,228.126012 Z M302.744681,311.134752 L397.496454,311.134752 L397.496454,197.092199 L302.744681,311.134752 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </svg>
+    <div class="title light">
+      <h3>4K Image Stock</h3>
+      <p>November 2012</p>
+    </div><!--/title-->
+  </section>
+</div><!--/pro-->
+
 <div class="pro mix identity web">
   <section class="majesticsquare">
     <p class="tag-light">Identity &amp; Website</p>
