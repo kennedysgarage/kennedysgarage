@@ -11,7 +11,7 @@ tags:
 comments: false
 ---
 
-<div class="hero">{% image posts/follow-your-passion/hero.png %}</div>
+<div class="hero">{% asset posts/follow-your-passion/hero.png %}</div>
 
 <p>Until a few days ago I was bothered when people said: “Just follow your passion". I am still not the biggest fan. I’m also guilty of saying it to others. I think this phrase has been making me upset lately because I could never really find my passion, until now.</p>
 <p>I have always had a passion for learning. Don't get me wrong- I love what I do for a living, but I have always identified myself as a jack of all trades and a master of none. I have done and tried everything. Some of the highlights include ocean rescue, bartending, EMT in an ER, being a mechanic on airplanes, window tinter, designer, pizza maker, coffee roaster, and much more. I have enjoyed almost everything I’ve tried, but I wasn't overly passionate about anything on that list.</p>

@@ -14,71 +14,71 @@ comments: false
 <h2>Designed by Kennedy for Kennedy</h2>
 
 <figure>
-  {% image posts/fashionable-startup-swag/kennedy-1.jpeg %}
+  {% asset posts/fashionable-startup-swag/kennedy-1.jpeg %}
   <figcaption>Attempting to get to inbox zero</figcaption>
 </figure>
 
 <figure>
-  {% image posts/fashionable-startup-swag/kennedy-2.jpeg %}
+  {% asset posts/fashionable-startup-swag/kennedy-2.jpeg %}
   <figcaption>Hailing a cab</figcaption>
 </figure>
 
 <figure>
-  {% image posts/fashionable-startup-swag/kennedy-3.jpeg %}
+  {% asset posts/fashionable-startup-swag/kennedy-3.jpeg %}
   <figcaption>Suiting up</figcaption>
 </figure>
 
 <figure>
-  {% image posts/fashionable-startup-swag/scarf-1.jpeg %}
+  {% asset posts/fashionable-startup-swag/scarf-1.jpeg %}
   <figcaption>Theron’s iconic pattern with vibrant colors</figcaption>
 </figure>
 
 <figure>
-  {% image posts/fashionable-startup-swag/scarf-2.jpeg %}
+  {% asset posts/fashionable-startup-swag/scarf-2.jpeg %}
   <figcaption>Lightweight and breathable</figcaption>
 </figure>
 
 <figure>
-  {% image posts/fashionable-startup-swag/scarf-3.jpeg %}
+  {% asset posts/fashionable-startup-swag/scarf-3.jpeg %}
   <figcaption>Looking at Brian through the silk</figcaption>
 </figure>
 
 <h2><a href="https://twitter.com/brianrevak">Brian Revak</a></h2>
 
 <figure>
-  {% image posts/fashionable-startup-swag/brian-1.jpeg %}
+  {% asset posts/fashionable-startup-swag/brian-1.jpeg %}
   <figcaption>Rocking the beard</figcaption>
 </figure>
 
 <figure>
-  {% image posts/fashionable-startup-swag/brian-2.jpeg %}
+  {% asset posts/fashionable-startup-swag/brian-2.jpeg %}
   <figcaption>Feeling inspired</figcaption>
 </figure>
 
 <figure>
-  {% image posts/fashionable-startup-swag/brian-3.jpeg %}
+  {% asset posts/fashionable-startup-swag/brian-3.jpeg %}
   <figcaption>Dressed down</figcaption>
 </figure>
 
 <figure>
-  {% image posts/fashionable-startup-swag/brian-4.jpeg %}
+  {% asset posts/fashionable-startup-swag/brian-4.jpeg %}
   <figcaption>Tagged with the wordmark at the end</figcaption>
 </figure>
 
 <h2>Molly, lovable random poodle</h2>
 
 <figure>
-  {% image posts/fashionable-startup-swag/dog-1.jpeg %}
+  {% asset posts/fashionable-startup-swag/dog-1.jpeg %}
   <figcaption>Kennedy attempting to make friends with Molly</figcaption>
 </figure>
 
 <figure>
-  {% image posts/fashionable-startup-swag/dog-2.jpeg %}
+  {% asset posts/fashionable-startup-swag/dog-2.jpeg %}
   <figcaption>Pet friendly and K-9 approved</figcaption>
 </figure>
 
 <figure>
-  {% image posts/fashionable-startup-swag/scarf-4.jpeg %}
+  {% asset posts/fashionable-startup-swag/scarf-4.jpeg %}
   <figcaption>Floating in the wind</figcaption>
 </figure>
 
@@ -92,7 +92,7 @@ comments: false
 <p>Please email us at <a href="mailto:kennedysgarage@gmail.com">kennedysgarage@gmail.com</a> to buy one.</p>
 
 <figure>
-  {% image posts/fashionable-startup-swag/scarf-5.jpeg %}
+  {% asset posts/fashionable-startup-swag/scarf-5.jpeg %}
   <figcaption>The original design</figcaption>
 </figure>
 

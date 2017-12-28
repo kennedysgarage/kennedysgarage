@@ -10,6 +10,6 @@ tags:
 comments: false
 ---
 
-<!-- <div class="hero">{% image posts/coca-cola-and-spotify-hackden-2012/hero.png %}</div> -->
+<!-- <div class="hero">{% asset posts/coca-cola-and-spotify-hackden-2012/hero.png %}</div> -->
 
 <!-- Coca-Cola and Spotify Hackden -->

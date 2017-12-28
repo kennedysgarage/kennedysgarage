@@ -9,7 +9,7 @@ tags:
 comments: false
 ---
 
-<div class="hero">{% image posts/lost-at-sea-with-little-hope/hero.png %}</div>
+<div class="hero">{% asset posts/lost-at-sea-with-little-hope/hero.png %}</div>
 
 It was a Wednesday afternoon with nothing going on. I get a phone call with desperation on the other end, it was my kid brother. "Hey, what are you doing? The jet ski is not working, it won't turn on." With nothing better going on, I decided to investigate and get out of the house.  I arrive at the end of [Jungle Hut Road](http://maps.google.com/maps/ms?hl=en&ie=UTF8&msa=0&ll=29.582228,-81.175125&spn=0.016552,0.032895&z=16&iwloc=00048eeaf4af45d3e318b&msid=107650749134476812869.00048eeaefdb79e0df8f4) with a purple sky behind me. As I am walking South down the beach I see Jake and our friend Justin. At this point Jake runs up and tells me that the jet ski will not start, Justin then tells me that he must go now or his parents will be upset with him. Justin gets on his jet ski and rides off and Jake and I start working on our jet ski. After about an hour we narrowed it down to be an electrical problem. I dry off the main panel and it started right up. We both jump up and down in excitement for as we have just solved the problem to get the jet ski back to the [dock](http://maps.google.com/maps/ms?hl=en&ie=UTF8&msa=0&msid=107650749134476812869.00048eeaefdb79e0df8f4&ll=29.692359,-81.214156&spn=0.016534,0.032895&z=16&iwloc=00048eeb06a7095c3afa2) in time before the sunset. That was only the first small problem of much more to come.
 

@@ -1,5 +1,6 @@
 _site
 .asset-cache
+.jekyll-cache
 
 # Numerous always-ignore extensions
 *.diff

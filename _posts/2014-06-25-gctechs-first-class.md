@@ -12,7 +12,7 @@ comments: false
 <p>The startups at GCTech will occupy Facebook's former sales and marketing office space (15,000 square feet) which is directly across from Grand Central Terminal. We are excited to call GCTech home.</p>
 
 <figure>
-<a href="http://instagram.com/p/pH5rLwN2Rc/">{% image posts/gctechs-first-class/founders.jpeg %}</a>
+<a href="http://instagram.com/p/pH5rLwN2Rc/">{% asset posts/gctechs-first-class/founders.jpeg %}</a>
 <figcaption>Brian, Charles, Matt, &amp; Kennedy at GCTech launch party.</figcaption>
 </figure>
 

@@ -11,16 +11,16 @@ comments: false
 <p>Here is your guide for woot.com. Woot is “is an online store and community that focuses on selling cool stuff cheap”. It is a great place to buy all kinds of things. Anything from a Bag of California Jumbo Premium Pistachios to an iRobot Roomba Sage for cheap, real cheap.</p>
 <p>Normal Woot Day: They sell one item for a 24 hour period, until it is sold out. After this 24 hour period, whether the item is sold out or not, they will post a new item for the next 24 hours.</p>
 
-{% image posts/woot-explained/iwantone.jpg %}
+{% asset posts/woot-explained/iwantone.jpg %}
 <p>Bouncing “I Want One!”:</strong> There are only a few left, so buy it now if you want one.</p>
 
-{% image posts/woot-explained/wootoff.JPG %}
+{% asset posts/woot-explained/wootoff.JPG %}
 <p><strong>Woot Off!:</strong> This lasts anywhere from 24 -72 hours and is a constant stream of great deals. During this time they will sell a Bag O’ Crap (maybe). When the bar is full (all orange) the deal just started. When the bar is empty (all white) the item is sold out.</p>
 
-{% image posts/woot-explained/bagocrap-150x150.jpg %}
+{% asset posts/woot-explained/bagocrap-150x150.jpg %}
 <p><strong>Bag O’ Crap:</strong> The Bag of Crap cost $1 + $5 for shipping. It is a random assortment of randomness. There is always one during a Woot Off! Example: Anything from a bag of Texas Air to 10 men’s Bulova Watches. Watch what people receive in there boc on YouTube.</p>
 
-{% image posts/woot-explained/2fortuesday.jpg %}
+{% asset posts/woot-explained/2fortuesday.jpg %}
 <p><strong>2-for-Tuesday:</strong> This is where they offer 2 items for the price of one.</p>
 
 <p><strong>Shipping:</strong> It cost $5 for shipping no matter how big or how many you buy.</p>
@@ -132,7 +132,7 @@ For example: [img class="aligncenter" ] http://www.google.com/intl/en_ALL/images
 </ul>
 
 <p>People own letter/word change = Bagles Originate Constipation, Bushels of Corn, Basket of Crackers, Busch Oil Cans, Barney on Cleopatra, Barns on Clouds , Barak Obama’s Candy, Barack Obama’s Credibility, Big Ole Catfish, Bullwinkle on Couch, Big Ole’ Calliope, Battle Of Carthage, Barge of Concrete, Beijing Olympics, China, Bales of Cocaine, Brotherhood of Catfishermen, Bolivian Ox Carts, Basket of Carnivores, Blinged-Out Cabbage, Bag of Condoms, Barnacled Old Canoe, and Big Old Clown</p>
-{% image posts/woot-explained/28fe043e-c578-40c3-9f72-7a34a742f7d4.jpg %}
+{% asset posts/woot-explained/28fe043e-c578-40c3-9f72-7a34a742f7d4.jpg %}
 
 <hr/>
 <h4>Update - 10/23/2016</h4>

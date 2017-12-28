@@ -9,7 +9,7 @@ tags:
 comments: false
 ---
 
-<div class="hero">{% image posts/rental-interior-paint/hero.png %}</div>
+<div class="hero">{% asset posts/rental-interior-paint/hero.png %}</div>
 
 <p>When I purchased by first duplex I did some extensive research on pretty much everything. I made my own research notes so I could remember in the future for any other properties that I buy. I was recently asked by a couple of other rental property owners what paint I used. They found this information valuable, so I thought I should maybe share it with you.</p>
 <p>There are a few options you can run with. The cheap solution is to buy whatever is the cheapest paint is that is currently on sale while using a coupon. The simple solution would just paint the interior white. These options are not bad and they can save you some money, but I like doing things the hard way. Or maybe I am just inexperienced haven't learned my lesson yet. Or maybe I want to treat my tenants with respect and give them a benefit of the doubt and treat them the way I would want to be treated. So my option is the quality solution where I care about the details.</p>

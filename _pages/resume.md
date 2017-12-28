@@ -9,7 +9,7 @@ description: Here are some nice things people have said over the years.
     <div class="row">
         <div class="col-3">
             <figure>
-                {% image about/portrait.jpg %}
+                {% asset about/portrait.jpg %}
             </figure>
         </div><!--/col-->
         <div class="col-9">

@@ -12,7 +12,7 @@ comments: true
 
 
 
-<div class="hero">{% image posts/debugging-css-before-debugging-tools/hero.png %}</div>
+<div class="hero">{% asset posts/debugging-css-before-debugging-tools/hero.png %}</div>
 
 <p><a href="http://getfirebug.com/">Firebug</a> changed my front-end development career, thanks <a href="https://twitter.com/joehewitt">Joe Hewitt</a> for creating it. Before Firebug was around there wasn't much for debugging your code. I remember years ago working on an e-commerce website and having to print out all the code, on physical paper, so I could like match up all the divs. Keep in mind we were using <a href="https://notepad-plus-plus.org/">Notepad ++</a> back then and there wasn't really any other good options. One of the tricks that we did was highlighting the elements with wildcards. You also have to remember we didn't have much for standards back then, shit inline CSS was still acceptable. This saved me more time than I can count.</p>
 
@@ -41,11 +41,11 @@ comments: true
 <h3>Examples from the wild</h3>
 <p>I spent the last 30 minutes trying to find old sites that had poorly written HTML and it was shockly harder than I thought. Here a few, not so great, examples.</p>
 <figure>
-{% image posts/debugging-css-before-debugging-tools/kennedysgarage.png %}
+{% asset posts/debugging-css-before-debugging-tools/kennedysgarage.png %}
 <figcaption>My home page</figcaption>
 </figure>
 <figure>
-{% image posts/debugging-css-before-debugging-tools/dribbble.png %}
+{% asset posts/debugging-css-before-debugging-tools/dribbble.png %}
 <figcaption>dribbble.com/about</figcaption>
 </figure>
 

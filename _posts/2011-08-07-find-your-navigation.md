@@ -10,7 +10,7 @@ tags:
 comments: false
 ---
 
-<div class="hero">{% image posts/find-your-navigation/hero.png %}</div>
+<div class="hero">{% asset posts/find-your-navigation/hero.png %}</div>
 
 <p>I just wanted to share an experiment I did to help decide the structure of a site. I do not know where the idea originated from, maybe it was in my head from a few things I have done in the past or maybe someone wrote about this earlier. I am sure someone will enlighten me.</p>
 <p>I am currently building a website for a print publication that has never really had a website before. I often find myself trying to explain the differences between print and web to the team.  Sometimes this communication can be a real challenge for the both of us. Lately, one of the things we've both been stuck on is the navigation and sitemap.</p>

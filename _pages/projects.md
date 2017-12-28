@@ -275,7 +275,7 @@ description: Here are some of the projects I have worked on over the years.
   <a href="/projects/gigato/">
   <section class="gigato">
     <p class="tag-dark">Android Design</p>
-    <div class="img">{% image projects/gigato/hero.png %}</div>
+    <div class="img">{% asset projects/gigato/hero.png %}</div>
     <div class="title dark">
       <h3>Gigato</h3>
       <p>Janurary 2015</p>
@@ -293,7 +293,7 @@ description: Here are some of the projects I have worked on over the years.
   <a href="/projects/smedresmanlaw/">
   <section class="smedresmanlaw">
     <p class="tag-dark">Website</p>
-    <div class="img">{% image projects/smedresmanlaw/hero.png %}</div>
+    <div class="img">{% asset projects/smedresmanlaw/hero.png %}</div>
     <div class="title dark">
       <h3>Smedresman Law</h3>
       <p>August 2014</p>
@@ -624,7 +624,7 @@ description: Here are some of the projects I have worked on over the years.
   <a href="/projects/bring-your-own-magnum/">
   <section class="bringyourownmagnum">
     <p class="tag-dark">Identity &amp; Website</p>
-    <div class="img">{% image projects/bringyourownmagnum/hero.png %}</div>
+    <div class="img">{% asset projects/bringyourownmagnum/hero.png %}</div>
     <div class="title dark">
       <h3>Bring Your Own Magnum</h3>
       <p>May 2013</p>
@@ -1026,49 +1026,49 @@ description: Here are some of the projects I have worked on over the years.
 <!--
 <div class="col-12">
     <a href="/projects/galore/">
-    <{% image projects/hero/galore.png %}
+    <{% asset projects/hero/galore.png %}
     <p><strong>Galore</strong> Website Redesign - 2014</p>
     </a>
 </div>
 <div class="col-3">
     <a href="/projects/startupbus/">
-    {% image projects/hero/startupbus.png %}
+    {% asset projects/hero/startupbus.png %}
     <p><strong>StartupBus</strong> Foursquare Badge</p>
     </a>
 </div>
 <div class="col-3">
     <a href="/projects/djkevinquinn/">
-    {% image projects/hero/djkevinquinn.png %}
+    {% asset projects/hero/djkevinquinn.png %}
     <p><strong>DJ Kevin Quinn</strong> Website</p>
     </a>
 </div>
 <div class="col-3">
     <a href="/projects/kristinastpeter/">
-    {% image projects/hero/kristinastpeter.png %}
+    {% asset projects/hero/kristinastpeter.png %}
     <p><strong>Kristina St. Peter</strong> Website</p>
     </a>
 </div>
 <div class="col-3">
     <a href="/projects/predictthesky/">
-    {% image projects/hero/predictthesky.png %}
+    {% asset projects/hero/predictthesky.png %}
     <p><strong>Predict The Sky</strong> Hackathon Project</p>
     </a>
 </div>
 <div class="col-3">
     <a href="/projects/mrkennedy/">
-    {% image projects/hero/mrkennedy.png %}
+    {% asset projects/hero/mrkennedy.png %}
     <p><strong>Mr. Kennedy</strong> Personal Project</p>
     </a>
 </div>
 <div class="col-3">
     <a href="/projects/mlb/">
-    {% image projects/hero/mlb.png %}
+    {% asset projects/hero/mlb.png %}
     <p><strong>MLB</strong> Design</p>
     </a>
 </div>
 <div class="col-3">
     <a href="/projects/night-gator/">
-    {% image projects/hero/nightgator.png %}
+    {% asset projects/hero/nightgator.png %}
     <p><strong>Night Gator</strong> Side Project</p>
     </a>
 </div>
@@ -1082,7 +1082,7 @@ description: Here are some of the projects I have worked on over the years.
 
 <!-- <div class="col-4">
     <a href="/projects/katalystlive/">
-    {% image projects/hero/katalystlive.png %}
+    {% asset projects/hero/katalystlive.png %}
     <p><strong>Katalyst Live</strong> Identity</p>
     </a>
 </div> -->

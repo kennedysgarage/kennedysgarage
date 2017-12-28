@@ -11,7 +11,7 @@ image: /assets/about/chiangmai.jpg
     <h2>Kennedy</h2>
   </div><!--/col-->
     <div class="col-9">
-        <p>I am Kennedy, a naively optimistic entrepreneur. When I am not building my own products I am hired as a UX strategist &amp; mobile UI designer. I live full time in NYC, but I can often be found in SF for my clients out West. My side hobby is real estate, so I occasionally spend time in Florida near where I grew up. When I am not working I enjoy spending time with my wife, surfing, motorcycles, eating cookies, continuing my self-education, and drinking coffee.</p>
+        <p>I am Kennedy, a naively optimistic entrepreneur. When I am not building my own products I am hired as a UX strategist &amp; mobile UI designer. I live full time in NYC, but I can often be found in SF for my clients out West. My side hobby is real estate, so I occasionally spend time in Florida near where I grew up. When I am not working I enjoy spending time surfing, motorcycles, eating cookies, continuing my self-education, and drinking coffee.</p>
     </div><!--/col-->
 </div><!--/row-->
 
@@ -68,31 +68,31 @@ image: /assets/about/chiangmai.jpg
     </div><!--/col-->
     <div class="col-9">
         <div class="col-4 thumbnail top">
-            {% image about/techdrinkup.png %}
+            {% asset about/techdrinkup.png %}
             <p class="caption"><span>For building <a href="/projects/statuschart">Status Chart</a><br/>(2013)</span></p>
         </div><!--/col-->
         <div class="col-4 thumbnail top">
-            {% image about/hackofthemonth.png %}
+            {% asset about/hackofthemonth.png %}
             <p class="caption"><span>For building <a href="/projects/statuschart">Status Chart</a><br/>(2012)</span></p>
         </div><!--/col-->
         <div class="col-4 thumbnail top">
-            {% image about/hackofthemonth.png %}
+            {% asset about/hackofthemonth.png %}
             <p class="caption"><span>For building <a href="/projects/lemonade-stand">Lemonade Stand</a><br/>(2011)</span></p>
         </div><!--/col-->
         <div class="col-3 thumbnail">
-            {% image about/trophy.svg %}
+            {% asset about/trophy.svg %}
             <p class="caption"><span>3rd Place - <a href="http://www.mikebloomberg.com/index.cfm?objectid=64301AA0-C29C-7CA2-F609C88A4873FD53">NYC BigApps</a><br/>(2013)</span></p>
         </div><!--/col-->
         <div class="col-3 thumbnail">
-            {% image about/trophy.svg %}
+            {% asset about/trophy.svg %}
             <p class="caption"><span>2nd Place - <a href="http://techcrunch.com/2012/05/20/introducing-our-2012-disrupt-nyc-hackathon-winners-thingscription-poachbase-and-practikhan/">TechCrunch Disrupt Hackathon NYC</a><br/>(2012)</span></p>
         </div><!--/col-->
         <div class="col-3 thumbnail">
-            {% image about/trophy.svg %}
+            {% asset about/trophy.svg %}
             <p class="caption"><span>One of <a href="http://betabeat.com/2012/04/betabeats-spring-2012-most-poachable-players-in-tech/#slide22">Betabeat's Most Poachable Players in Tech</a><br/>(2012)</span></p>
         </div><!--/col-->
         <div class="col-3 thumbnail">
-            {% image about/trophy.svg %}
+            {% asset about/trophy.svg %}
             <p class="caption"><span>1st Place - <a href="http://youtu.be/qPcVn4Im1ck">Photo Hack Day I Food Easting Contest</a><br/>(2011)</span></p>
         </div><!--/col-->
     </div><!--/col-->
@@ -105,31 +105,31 @@ image: /assets/about/chiangmai.jpg
     <div class="col-9">
         <div class="row">
             <div class="col-4 top">
-                {% image about/brands/google.svg %}
+                {% asset about/brands/google.svg %}
             </div><!--/col-->
             <div class="col-4 top">
-                {% image about/brands/cocacola.svg %}
+                {% asset about/brands/cocacola.svg %}
             </div><!--/col-->
             <div class="col-4 top">
-                {% image about/brands/mlb.png %}
+                {% asset about/brands/mlb.png %}
             </div><!--/col-->
             <div class="col-4 top">
-                {% image about/brands/porsche.png %}
+                {% asset about/brands/porsche.png %}
             </div><!--/col-->
             <div class="col-4 top">
-                {% image about/brands/spotify.png %}
+                {% asset about/brands/spotify.png %}
             </div><!--/col-->
             <div class="col-4 top">
-                {% image about/brands/winespectator.png %}
+                {% asset about/brands/winespectator.png %}
             </div><!--/col-->
             <div class="col-4">
-                {% image about/brands/wework.svg %}
+                {% asset about/brands/wework.svg %}
             </div><!--/col-->
             <div class="col-4">
-                {% image about/brands/citi.svg %}
+                {% asset about/brands/citi.svg %}
             </div><!--/col-->
             <div class="col-4">
-                {% image about/brands/victoriassecret.svg %}
+                {% asset about/brands/victoriassecret.svg %}
             </div><!--/col-->
         </div><!--/row-->
     </div><!--/col-->
@@ -168,7 +168,7 @@ image: /assets/about/chiangmai.jpg
             <p>Although 1941 was a different time and the business was building cars, nothing has changed as far as working hard. The key to his success was the long term relationships that he developed with his customers and the community. Today I still value those traditions and enjoy the old fashioned handshake. The original Kennedy&#8217;s Garage was shut down after the passing of Theron. I later reclaimed the name and wanted to keep the same values of my grandfather. Since then the family has moved away from building cars, but we still have a deep passion for them.</p>
         </div><!--/col-->
         <div class="col-6">
-            {% image about/theron.png %}
+            {% asset about/theron.png %}
         </div><!--/col-->
     </div><!--/col-->
 </div><!--/row-->

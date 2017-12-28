@@ -11,20 +11,20 @@ tags:
 comments: true
 ---
 
-<div class="hero">{% image posts/octopus-watch/hero.png %}</div>
+<div class="hero">{% asset posts/octopus-watch/hero.png %}</div>
 
 <p>Recently I have been doing a lot of work with one of my financial clients which required a lot of research on my part. Not only did I research the US market, but I wanted to know what was happening in other countries. I quickly found that some places have special ways of paying - including the Oyster Card in London, Octopus Card in Hong Kong, along with many more. These cards allow people to pay for things such as the subway, buses, parking meters, vending machines, and even some small shops. I will spare you the details of the Octopus Card and the history of it; you can read it on <a href="https://en.wikipedia.org/wiki/Octopus_card">Wikipedia</a>. It is important to note that it did launch in 1997.</p>
 
 <div class="row">
   <div class="column half">
     <figure>
-      {% image posts/octopus-watch/card-front.jpg %}
+      {% asset posts/octopus-watch/card-front.jpg %}
       <figcaption>Front of the Octopus Card</figcaption>
     </figure>
   </div><!--/column-->
   <div class="column half">
     <figure>
-      {% image posts/octopus-watch/card-back.jpg %}
+      {% asset posts/octopus-watch/card-back.jpg %}
       <figcaption>Back of the Octopus Card</figcaption>
     </figure>
   </div><!--/column-->
@@ -37,19 +37,19 @@ comments: true
 <div class="row">
   <div class="column half">
     <figure>
-      {% image posts/octopus-watch/311-front.jpg %}
+      {% asset posts/octopus-watch/311-front.jpg %}
       <figcaption>Front of the Octopus Watch</figcaption>
     </figure>
   </div><!--/column-->
   <div class="column half">
     <figure>
-      {% image posts/octopus-watch/311-back.jpg %}
+      {% asset posts/octopus-watch/311-back.jpg %}
       <figcaption>Back of the Octopus Watch</figcaption>
     </figure>
   </div><!--/column-->
 </div><!--/row-->
 
-<p>I have never been more excited to pay for something in my life. I made my wife record me as I tapped my new watch on the turnstile and passed right through. It felt amazing, quick, and seamless.</p>
+<p>I have never been more excited to pay for something in my life. I record it as I tapped my new watch on the turnstile and passed right through. It felt amazing, quick, and seamless.</p>
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/oRO9WpFFP0k" frameborder="0" allowfullscreen></iframe>
 
@@ -70,7 +70,7 @@ comments: true
 <p>As a fashion accessory it is not the most glamours, it's pretty basic. I have yet to see anyone pay with a watch. I am predicting that once Americans start paying with the Apple Watch there will be a shift over here. I also predict because of this there will be a lot more options for the Octopus Watch.</p>
 
 <figure>
-  {% image posts/octopus-watch/wearing-it.jpg %}
+  {% asset posts/octopus-watch/wearing-it.jpg %}
   <figcaption>Sporting the watch on the MTR</figcaption>
 </figure>
 

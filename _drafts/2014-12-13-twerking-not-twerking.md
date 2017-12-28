@@ -7,7 +7,7 @@ comments: false
 ---
 
 <figure>
-{% image posts/twerking-not-twerking/giant.gif %}
+{% asset posts/twerking-not-twerking/giant.gif %}
 <figcaption>A giant attempting to twerk...on top of a giant attempting to twerk.</figcaption>
 </figure>
 
@@ -18,22 +18,22 @@ comments: false
 <p>We want to give a special thanks to Working Not Working. If it wasn't for our latest project that came through their site Theron Studios may very well have died. WNW literally saved our asses and our business, and for that we will be forever grateful. You can find Kennedy's profile on the site at <a href="http://workingnotworking.com/kennedysgarage">http://workingnotworking.com/kennedysgarage</a>.</p>
 
 <figure>
-{% image posts/twerking-not-twerking/eyeseeyou.png %}
+{% asset posts/twerking-not-twerking/eyeseeyou.png %}
 <figcaption>Trying to stay focused.</figcaption>
 </figure>
 
 <figure>
-{% image posts/twerking-not-twerking/updownbox.gif %}
+{% asset posts/twerking-not-twerking/updownbox.gif %}
 <figcaption>The ups and downs of the startup life.</figcaption>
 </figure>
 
 <figure>
-{% image posts/twerking-not-twerking/backandforth.gif %}
+{% asset posts/twerking-not-twerking/backandforth.gif %}
 <figcaption>Signed, sealed, and delivered.</figcaption>
 </figure>
 
 <figure>
-{% image posts/twerking-not-twerking/heyyou.png %}
+{% asset posts/twerking-not-twerking/heyyou.png %}
 </figure>
 
 <blockquote>

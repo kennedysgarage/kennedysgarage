@@ -5,7 +5,7 @@ description: I had the honor of designing Porsche's Bring Your Own Magnum websit
 image: /assets/projects/hero/bringyourownmagnum.png
 ---
 
-<div class="hero">{% image projects/hero/bringyourownmagnum.png %}</div>
+<div class="hero">{% asset projects/hero/bringyourownmagnum.png %}</div>
 
 <div class="content">
   <h1>{{ page.title }}</h1>
@@ -34,12 +34,12 @@ image: /assets/projects/hero/bringyourownmagnum.png
 
     <h3>Texture</h3>
     <p>Since this was a promotional website for the brand new 2014 Porsche Cayman and I wanted to add a lot of the texture from the car. I decided that I would focus on the inside as most the of the pictures on the site would be of the outside. I don't want to get into a debate about skeuomorphic, but this was my first of my designs in that direction.</p>
-    {% image projects/bringyourownmagnum/texture.png %}
+    {% asset projects/bringyourownmagnum/texture.png %}
 
     <h3>Loading animation</h3>
     <p>As a final little touch I wanted to create a custom loading animation. My first thought was either make a gage or a steering wheel, both have moving parts that everyone knows. After looking at the interior of the Porsche for a while the steering wheel really stood out to me. For such a small icon I am very happy that I was able to fit in the details of the wheel, such as the grips, cutouts, and the basic shape of the logo.</p>
     <figure>
-      {% image projects/bringyourownmagnum/porsche.jpg %}
+      {% asset projects/bringyourownmagnum/porsche.jpg %}
       <figcaption>Image credit Porsche. Photo of a <a href="http://www.porsche.com/usa/models/cayman/cayman/">Porsche Cayman</a> interior that I used for inspiration.</figcaption>
     </figure>
     <p>When I first started to build the animation I debated between just doing it in CSS3 or making a gif in Photoshop. CSS3 would have been the easy way out, but it would not necessary looked the best. I could not have gotten the same rotating results as I did in Photoshop.</p>
@@ -51,18 +51,18 @@ image: /assets/projects/hero/bringyourownmagnum.png
     <p>After building the first version I noticed that something looked off. I realized that I was spinning the wheel on the outer axis, but the Porsche steering wheel's center hub is not perfectly centered. I then had to figure out how to transform and rotate the wheel from the center hub. The diagram to the right you can see that the center hub is slightly off center. Check out the gifs below and can see something looks off on the first draft. It helps if you focus your eyes on the center hub to see what I am talking about.</p>
   </div><!--/col-->
   <div class="col-6">
-    {% image projects/bringyourownmagnum/lines.jpg %}
+    {% asset projects/bringyourownmagnum/lines.jpg %}
   </div><!--/col-->
 </div><!--/row-->
 
 <div class="row">
   <div class="col-6">
     <h4>First draft</h4>
-    {% image projects/bringyourownmagnum/bad.gif %}
+    {% asset projects/bringyourownmagnum/bad.gif %}
   </div><!--/col-->
   <div class="col-6">
     <h4>Final</h4>
-    {% image projects/bringyourownmagnum/good.gif %}
+    {% asset projects/bringyourownmagnum/good.gif %}
   </div><!--/col-->
 </div><!--/row-->
 

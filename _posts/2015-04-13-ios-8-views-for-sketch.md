@@ -13,7 +13,7 @@ comments: false
 <p>Over the past couple years we have been working on our own version of iPhone views that are commonly used. These may look a lot like <a href="http://www.teehanlax.com/tools/iphone-sketch-app/">teehan+lax iPhone GUI elements</a>, that's because they were a huge inspiration along the way. Every time they created a new resource we always downloaded it and checked it out. They were beautiful and you could tell a lot of hard work went into every detail. Like everyone else, we have used it in the past for some projects. But, we wanted something more. Their screens lack common naming conventions, the elements were sometimes strangely grouped, it wasn't @1x, and they were missing some commonly used native items.</p>
 
 <figure class="center">
-{% image posts/iphone-sketch/birdeyeview.jpg %}
+{% asset posts/iphone-sketch/birdeyeview.jpg %}
 <figcaption>iOS 8 iPhone 6 @1x - Version 001</figcaption>
 </figure>
 

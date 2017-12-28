@@ -9,7 +9,7 @@ tags:
 comments: false
 ---
 
-<div class="hero">{% image posts/unleash-the-beast-after-thoughts/hero.png %}</div>
+<div class="hero">{% asset posts/unleash-the-beast-after-thoughts/hero.png %}</div>
 
 <p>Last night I had the pleasure of speaking on a panel about Hackathons. I wanted to write a little follow up about some thoughts I was not able to express and clear up a few things that I talked about.</p>
 <p>First let's talk about what a hackathon is. To me, a hackathon is a platform for developers, designers, and biz devs to work together to build something. I feel hackathons are for the doers and the makers. The people that are willing work and learn.</p>

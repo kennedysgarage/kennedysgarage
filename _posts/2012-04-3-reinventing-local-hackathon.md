@@ -10,6 +10,6 @@ tags:
 comments: false
 ---
 
-<!-- <div class="hero">{% image posts/reinventing-local-hackathon/hero.png %}</div> -->
+<!-- <div class="hero">{% asset posts/reinventing-local-hackathon/hero.png %}</div> -->
 
 <!-- <a href="/projects/midpoint">Midpoint</a> (Reinventing Local Hackathon at General Assembly 2012) -->

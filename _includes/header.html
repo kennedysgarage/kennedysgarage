@@ -45,11 +45,11 @@
   <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
   <meta content="{{ site.url }}/about/" property="article:author">
 {% endif %}
-{% if page.image %}
+<!-- {% if page.image %}
 	<meta content="{{ site.url }}{{ page.image }}" property="og:image">
 {% else %}
-  <meta content="{{ site.url }}{% asset_path fb/image.png %}" property="og:image">
-{% endif %}
+  <meta content="{{ site.url }}{% asset fb/image.png %}" property="og:image">
+{% endif %} -->
 {% if page.categories %}
   {% for category in page.categories limit:1 %}
   <meta content="{{ category }}" property="article:section">
@@ -80,8 +80,8 @@
 	<meta name="mobile-web-app-capable" content="yes" />
 	<meta name="theme-color" content="#1fbc9a" />
 
-	{% stylesheet style %}
-	{% javascript vendor/modernizr.min.js %}
+	{% asset style.css %}
+	{% asset vendor/modernizr.min.js %}
 	<script type="text/javascript">
 	  var _gaq = _gaq || [];
 	  _gaq.push(['_setAccount', 'UA-17557746-1']);

@@ -19,7 +19,7 @@ title: EPK
     <h3>Short (357 characters.)</h3>
     <p>Kennedy is a naively-optimistic entrepreneur. When he is not building his own products he is hired as a UX strategist &amp; mobile UI designer. Currently he live full time in NYC where he has worked with powerful brands such as Google, Wine Spectator, Porsche, Spotify, Citi, IBM, Victoria's Secret, Euler Hermes, and MLB. Follow him on Twitter <a href="https://twitter.com/kennedysgarage">@KennedysGarage</a>.</p>
     <h3>Long (658 characters)</h3>
-    <p>Kennedy is a naively-optimistic entrepreneur. When he is not building his own products he is hired as a UX strategist &amp; mobile UI designer. He has with worked with powerful brands such as Google, Wine Spectator, Porsche, Spotify, Citi, IBM, Victoria's Secret, Euler Hermes, and MLB. Currently he live full time in NYC, but can often be found in SF for his clients out West. His side hobby is real estate, so he occasionally spend time in Florida near where he grew up. When he is not working he enjoy spending time with his wife, surfing, motorcycles, eating cookies, continuing his self education, and drinking coffee. Follow him on Twitter <a href="https://twitter.com/kennedysgarage">@KennedysGarage</a>.</p>
+    <p>Kennedy is a naively-optimistic entrepreneur. When he is not building his own products he is hired as a UX strategist &amp; mobile UI designer. He has with worked with powerful brands such as Google, Wine Spectator, Porsche, Spotify, Citi, IBM, Victoria's Secret, Euler Hermes, and MLB. Currently he live full time in NYC, but can often be found in SF for his clients out West. His side hobby is real estate, so he occasionally spend time in Florida near where he grew up. When he is not working he enjoy spending time surfing, motorcycles, eating cookies, continuing his self education, and drinking coffee. Follow him on Twitter <a href="https://twitter.com/kennedysgarage">@KennedysGarage</a>.</p>
   </div><!--/col-->
 </div><!--/row-->
 
@@ -29,11 +29,11 @@ title: EPK
   </div><!--/col-->
   <div class="col-9">
     <div class="col-6 thumbnail">
-      {% image epk/kennedy-casual-small.jpg %}
+      {% asset epk/kennedy-casual-small.jpg %}
       <p class="caption"><strong>Kennedy (Casual)</strong> <span><a href="{{ 'epk/kennedy-casual.jpg' | asset_path }}">JPG</a> </span></p>
     </div><!--/col-->
     <div class="col-6 thumbnail">
-      {% image epk/kennedy-face.jpg %}
+      {% asset epk/kennedy-face.jpg %}
       <p class="caption"><strong>Kennedy (Face)</strong> <span><a href="{{ 'epk/kennedy-face.jpg' | asset_path }}">JPG</a> </span></p>
     </div><!--/col-->
   </div><!--/col-->
@@ -95,11 +95,11 @@ title: EPK
   </div><!--/col-->
   <div class="col-9">
     <div class="col-6 thumbnail">
-      {% image epk/logo-solid.jpg %}
+      {% asset epk/logo-solid.jpg %}
       <p class="caption"><strong>Logo (Solid)</strong> <span><a href="{{ 'epk/logo-solid.jpg' | asset_path }}">JPG</a><!-- &bull; <a href="/assets/epk/kennedysgarage.eps">EPS</a>--></span></p>
     </div><!--/col-->
     <div class="col-6 thumbnail">
-      {% image epk/logo-outline.jpg %}
+      {% asset epk/logo-outline.jpg %}
       <p class="caption"><strong>Logo (Outline)</strong> <span><a href="{{ 'epk/logo-outline.jpg' | asset_path }}">JPG</a><!-- &bull; <a href="/assets/epk/kennedysgarage.eps">EPS</a>--></span></p>
     </div><!--/col-->
   </div><!--/col-->
@@ -111,15 +111,15 @@ title: EPK
   </div><!--/col-->
   <div class="col-9">
     <div class="col-4 thumbnail">
-      {% image epk/oil.jpg %}
+      {% asset epk/oil.jpg %}
       <p class="caption"><strong>Oil</strong> <span>#252429</span></p>
     </div><!--/col-->
     <div class="col-4 thumbnail">
-      {% image epk/brass.jpg %}
+      {% asset epk/brass.jpg %}
       <p class="caption"><strong>Brass</strong> <span>#c7a04a</span></p>
     </div><!--/col-->
     <div class="col-4 thumbnail">
-      {% image epk/patina.jpg %}
+      {% asset epk/patina.jpg %}
       <p class="caption"><strong>Patina</strong> <span>#1fbc9a</span></p>
     </div><!--/col-->
   </div><!--/col-->

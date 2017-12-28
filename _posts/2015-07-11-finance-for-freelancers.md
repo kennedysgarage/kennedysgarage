@@ -10,13 +10,13 @@ tags:
 comments: false
 ---
 
-<div class="hero">{% image posts/finance-for-freelancers/hero.png %}</div>
+<div class="hero">{% asset posts/finance-for-freelancers/hero.png %}</div>
 
 <p class="note">Quick note, I am not an accountant nor do I have any formal education with math or money. I am just some guy that has made a lot of mistakes over the years and learned from them.</p>
 <p>Working as a freelancer is not easy, but it can be very rewarding if you do it right. One of the biggest struggles that I feel most of us have is with money. Some months we are on top of the world and other times we are wondering why we don't just take that full-time job.  I could never really figure out how to solve this issue until recently and I would like to share what has been working for me. First I would like to talk about two quick things.</p>
 
 <h3>24 Paychecks</h3>
-<p>That's right I give myself a paycheck as if I am working for the man. I pay myself the same amount of money on the 1st and the 15th of every month. I know some months are longer than others, but I like to keep things simple. My wife also loves this as she always can count on a paycheck.</p>
+<p>That's right I give myself a paycheck as if I am working for the man. I pay myself the same amount of money on the 1st and the 15th of every month. I know some months are longer than others, but I like to keep things simple.</p>
 
 <h3>Quarter life</h3>
 <p>I spend about a 1/4 of life relaxing or most likely waiting in between projects. This means I budget to only work 39 weeks out of the 52. If everything worked out as I would want it to, I would work all 52 weeks.</p>

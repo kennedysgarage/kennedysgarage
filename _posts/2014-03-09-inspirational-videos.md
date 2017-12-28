@@ -10,7 +10,7 @@ tags:
 comments: false
 ---
 
-<div class="hero">{% image posts/inspirational-videos/hero.png %}</div>
+<div class="hero">{% asset posts/inspirational-videos/hero.png %}</div>
 
 <p>Sometime in life you need a punch in the face</p>
 

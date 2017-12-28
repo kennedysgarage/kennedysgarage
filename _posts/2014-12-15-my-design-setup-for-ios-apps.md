@@ -35,7 +35,7 @@ comments: true
 <div class="col-6">
 
 <figure>
-{% image posts/my-design-setup-for-ios-apps/size.png %}
+{% asset posts/my-design-setup-for-ios-apps/size.png %}
 <figcaption>All Screens at @1x.</figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ comments: true
 <div class="col-6">
 
 <figure>
-{% image posts/my-design-setup-for-ios-apps/screens.png %}
+{% asset posts/my-design-setup-for-ios-apps/screens.png %}
 <figcaption>Screenshots at @1x on top of each other.</figcaption>
 </figure>
 

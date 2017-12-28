@@ -27,11 +27,11 @@ comments: true
 <p>This includes information about clients, general documents for the business, project details, information for the website, blog post, and anything that involves the business.</p>
 
 <figure class="center">
-{% image posts/using-google-drive-as-a-hard-drive/drive.png %}
+{% asset posts/using-google-drive-as-a-hard-drive/drive.png %}
 <figcaption>Even my Favorites are just shortcuts to my Google Drive folders.</figcaption>
 </figure>
 
-<p>This is my main structures for the folders. I also have a lot of subfolders that I share with other people. For example, I have a folder that I share with my wife called finances. There's are some issues with syncing but overall it works pretty great. I imagine you could do the same thing with Dropbox but since I have 1TB free from Google I figured I would start there.  There are some negatives, someone could hack into your Google Drive and delete all your files, you'd be pretty screwed. And I'm sure not a lot of people feel comfortable with allowing Google to have all access to everything that's not relevant to working documents. I do make backups to Amazon S3 every once in a while, but probably not as often as I should. I can explain that process on another day.</p>
+<p>This is my main structures for the folders. I also have a lot of subfolders that I share with other people. For example, I have a folder that I share called finances. There's are some issues with syncing but overall it works pretty great. I imagine you could do the same thing with Dropbox but since I have 1TB free from Google I figured I would start there.  There are some negatives, someone could hack into your Google Drive and delete all your files, you'd be pretty screwed. And I'm sure not a lot of people feel comfortable with allowing Google to have all access to everything that's not relevant to working documents. I do make backups to Amazon S3 every once in a while, but probably not as often as I should. I can explain that process on another day.</p>
 <p>If you have any questions about how my folders are structure please feel free to ask and I'll try to help out as much as I can.</p>
 
 <p><small>This post was transcribed via voice to text on my phone.</small></p>

@@ -12,6 +12,6 @@ tags:
 comments: false
 ---
 
-<!-- <div class="hero">{% image posts/lemonade-stand-nytm-hack-of-the-month/hero.png %}</div> -->
+<!-- <div class="hero">{% asset posts/lemonade-stand-nytm-hack-of-the-month/hero.png %}</div> -->
 
 <!-- <a href="/projects/lemonade-stand">Lemonade Stand</a> (NYTM Hack of The Month 2011) -->

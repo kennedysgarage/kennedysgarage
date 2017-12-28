@@ -9,12 +9,12 @@ tags:
 comments: false
 ---
 
-<div class="hero">{% image posts/per-scholas-keynote-speaker/hero.png %}</div>
+<div class="hero">{% asset posts/per-scholas-keynote-speaker/hero.png %}</div>
 
 <p>Today the class of Cycle 11 at Per Scholas graduated and I was honored to be their keynote speaker. Per Scholas is a national non-profit organization based in New York City. Founded in 1994, they offer proven high-quality development opportunities to people in low-income, urban communities. Today, 18 young students finished their first chapter in this new adventure. I truly wish that something like this existed to help me build my foundation when I first started out. I shared my background and some tips for success with the students. Below is an abbreviated version of my speech, broken down into bite-size bits of information.</p>
 
 <figure>
-{% image posts/per-scholas-keynote-speaker/talking.jpg %}
+{% asset posts/per-scholas-keynote-speaker/talking.jpg %}
 <figcaption>I had a blast sharing some knowledge with the students.</figcaption>
 </figure>
 
@@ -78,21 +78,21 @@ comments: false
 <p>Thanks again, Per Scholas, for having me as your guest. I would like to congratulate and welcome the recent graduates on their new journey. Please feel free to reach out to me anytime.</p>
 
 <figure>
-{% image posts/per-scholas-keynote-speaker/pinning.jpg %}
+{% asset posts/per-scholas-keynote-speaker/pinning.jpg %}
 <figcaption>I was honored to be pinned by Mama Brown.</figcaption>
 </figure>
 
 <figure>
-{% image posts/per-scholas-keynote-speaker/pin.jpg %}
+{% asset posts/per-scholas-keynote-speaker/pin.jpg %}
 <figcaption>Proud to have this pin.</figcaption>
 </figure>
 
 <figure>
-{% image posts/per-scholas-keynote-speaker/pamphlet.jpg %}
+{% asset posts/per-scholas-keynote-speaker/pamphlet.jpg %}
 <figcaption>Graduation Ceremony Pamphlet.</figcaption>
 </figure>
 
 <figure>
-{% image posts/per-scholas-keynote-speaker/pamphlet-inside.jpg %}
+{% asset posts/per-scholas-keynote-speaker/pamphlet-inside.jpg %}
 <figcaption>Keynote Speaker...Me</figcaption>
 </figure>

@@ -12,6 +12,6 @@ tags:
 comments: false
 ---
 
-<!-- <div class="hero">{% image posts/status-chart-nytm-hack-of-the-month/hero.png %}</div> -->
+<!-- <div class="hero">{% asset posts/status-chart-nytm-hack-of-the-month/hero.png %}</div> -->
 
 <!-- <a href="https://www.statuschart.com">Status Chart</a> (NYTM Hack of The Month 2012) -->

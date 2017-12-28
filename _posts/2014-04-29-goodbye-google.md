@@ -10,7 +10,7 @@ tags:
 comments: false
 ---
 
-<div class="hero">{% image posts/goodbye-google/hero.png %}</div>
+<div class="hero">{% asset posts/goodbye-google/hero.png %}</div>
 
 <p>A few weeks ago I decided it was time for a change and I am pretty sure everyone saw it coming.</p>
 <p>Growing up I was always different from the rest of the kids. A lot of the time I felt very alone and hated that I never fit in. I have always had trouble working for someone else and respecting authority. I never understood why I was such a misfit. Over the years I have tried to conform to the norm and be like everyone else. It has never worked out for me that way.</p>
@@ -32,11 +32,10 @@ comments: false
 <p>In the short 6 months that I was there I have had the pleasure to work on a few different projects within the Drive Team. I am really glad that I could help get Add-Ons launched a few days before I left. Of course I also had a blast breaking it down on the dance floor in Atlantic City, winning best tasting beer, celebrating Google’s 15th Birthday, learning American Sign Language, taking over 30 gLearn courses, partying likes it’s 1999, snowboarding down the slopes, winning 3rd place at an eating competition, making awesome GIFs, whiskey Fridays, being a part of the NYC Emergency Response Team, playing on the Google basketball team, and spending some quality time with some of the most talented people I know.</p>
 
 <figure class="center">
-{% image posts/goodbye-google/tall-googlers.gif %}
+{% asset posts/goodbye-google/tall-googlers.gif %}
 <figcaption>Me and all my tall friends at Google.</figcaption>
 </figure>
 
-<p>Leaving Google was not an easy decision. I talked it over with my wife and she completely understood. She is one of the few people that I feel that “get me”. It’s almost unbelievable how fortunate I am to have such an amazing person in my life that will support me no matter how crazy I am. Thank you, Sara, for being a huge supporter, a great friend, and a caring wife.</p>
 <p>I also want to thank some of the Googlers for making my life a fucking blast while there. Pretty much everyone there was amazing, I want to give special thanks to my manager Sarah and a good friend Dom for putting up with me daily.</p>
 
 <blockquote>
@@ -47,11 +46,11 @@ comments: false
 <p>So what’s next for me? Doing my own thing of course and following that passion. Something I have been wanting to do for a while is built an awesome team and create amazing fucking products. I am excited to announce <a href="http://theronstudios.com/">Theron</a>, a creative studio focused on mobile and wearables.</p>
 
 <figure>
-{% image posts/goodbye-google/kennedy-brian.gif %}
+{% asset posts/goodbye-google/kennedy-brian.gif %}
 <figcaption>Kennedy &amp; Brian</figcaption>
 </figure>
 
-{% image posts/goodbye-google/theron.png %}
+{% asset posts/goodbye-google/theron.png %}
 
 <p>Before launching we are already in the black and have work lined up for the next 12 weeks. It’s an amazing feeling to have such incredible people apart of your life to help you follow your dreams. I will be working closely with my childhood friend <a href="https://twitter.com/btrevak">Brian Revak</a>, who will be helping the company stay focused and keeping the business side of it running smoothly.</p>
 

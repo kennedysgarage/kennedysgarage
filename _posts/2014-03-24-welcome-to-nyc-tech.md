@@ -10,7 +10,7 @@ tags:
 comments: false
 ---
 
-<div class="hero">{% image posts/welcome-to-nyc-tech/hero.png %}</div>
+<div class="hero">{% asset posts/welcome-to-nyc-tech/hero.png %}</div>
 
 <p>Welcome to NYC,</p>
 <p>When I first moved here it was lonely and I felt ever so small. That was until I met the amazing tech community of NYC. I was a complete nobody that had nothing to offer and they welcomed me into their lives. From that point on I made sure whenever someone was new to town to help them out as much as I could.</p>

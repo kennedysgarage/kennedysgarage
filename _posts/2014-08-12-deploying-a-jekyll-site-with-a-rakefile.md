@@ -11,7 +11,7 @@ tags:
 comments: false
 ---
 
-<!-- <div class="hero">{% image posts/deploying-a-jekyll-site-with-a-rakefile/hero.png %}</div> -->
+<!-- <div class="hero">{% asset posts/deploying-a-jekyll-site-with-a-rakefile/hero.png %}</div> -->
 
 <p>You have an awesome website built with Jekyll, but you need an easy way to publish it...</p>
 

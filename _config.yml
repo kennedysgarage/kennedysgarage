@@ -18,22 +18,16 @@ exclude:
   - README.md
   - RAKEFILE
 
-gems:
+plugins:
   - jekyll-assets
   - uglifier
   - sass
-  - rouge
-
-assets:
-  dirname: assets
-  baseurl: /assets/
-  cache: false
 
 sources:
+  - _assets/css
   - _assets/fonts
   - _assets/images
-  - _assets/javascripts
-  - _assets/stylesheets
+  - _assets/js
 
 navigation:
 - text: About
@@ -42,5 +36,3 @@ navigation:
   url: /projects/
 - text: Articles
   url: /articles/
-- text: Hire
-  url: mailto:kennedysgarage@gmail.com?subject=I Want To Hire You

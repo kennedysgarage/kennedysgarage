@@ -11,9 +11,9 @@ tags:
 comments: false
 ---
 
-<!-- <div class="hero">{% image posts/voronoi-diacam-pitch/hero.png %}</div> -->
+<!-- <div class="hero">{% asset posts/voronoi-diacam-pitch/hero.png %}</div> -->
 
-{% image posts/voronoi-diacam-pitch/kennedy.jpg %}
+{% asset posts/voronoi-diacam-pitch/kennedy.jpg %}
 
 <h3>Winning the food eating competition at Photo Hack Day II 2011</h3>
 <iframe width="950" height="513" src="http://www.youtube.com/embed/qPcVn4Im1ck?rel=0?wmode=opaque" frameborder="0" allowfullscreen></iframe>

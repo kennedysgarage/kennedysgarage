@@ -9,7 +9,7 @@ tags:
 comments: false
 ---
 
-<div class="hero">{% image posts/why-we-design/hero.png %}</div>
+<div class="hero">{% asset posts/why-we-design/hero.png %}</div>
 
 <p>I have been doing a lot of thinking on why people design things, including myself. I have boiled it down intro four main categories. Designing for yourself, designing for clients, designing for the greater good, and designing for money. I think a designer could (and should) fall under all these categories. I also think that each designer tends to do their job for one main category.</p>
 

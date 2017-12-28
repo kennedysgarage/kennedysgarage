@@ -9,7 +9,7 @@ tags:
 comments: false
 ---
 
-<div class="hero">{% image posts/so-many-paths/hero.png %}</div>
+<div class="hero">{% asset posts/so-many-paths/hero.png %}</div>
 
 <p>I am in a bit of a funk right now and I mostly blame it on not knowing what I want to do with my life or even what I want out of it. I'm happily married, live in an awesome place with a great view, making decent money, and successful in my own eyes. The only real goal I have ever had was to be rich, not to buy things, but to be free.</p>
 <p>The opportunities of life are everywhere. Recently in a job interview, I was asked the typical question of "Where do you see yourself in 5 years?". I am sure he was looking for some typical answer, but I told him "Honestly? I don't see how it could get much better". The only realistic thing I could think of was having more money in my bank account or maybe a first child.</p>

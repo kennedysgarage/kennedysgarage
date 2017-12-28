@@ -9,7 +9,7 @@ tags:
 comments: false
 ---
 
-<div class="hero">{% image posts/time-is-more-valuable-than-money/hero.png %}</div>
+<div class="hero">{% asset posts/time-is-more-valuable-than-money/hero.png %}</div>
 
 <p>You can always earn more money, but never more time. Time is always draining from our lives. You can never get time back.</p>
 <p>Back in the day the stone masons used a twenty-four-inch gauge to measure and lay out their work. We can now use this tool as a way to teach us about the division of time and the right use of each day. The story goes that time could be broken down into three equal parts; eight hours for God, eight hours for labor, and eight for sleep.</p>

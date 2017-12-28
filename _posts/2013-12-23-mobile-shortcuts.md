@@ -9,7 +9,7 @@ tags:
 comments: false
 ---
 
-<div class="hero">{% image posts/mobile-shortcuts/hero.png %}</div>
+<div class="hero">{% asset posts/mobile-shortcuts/hero.png %}</div>
 
 <p>One of the most repetitive tasks that I do on my mobile devices is enter in my username and email address. I noticed a lot of people still typing each character in. I would share how to make your life a little more efficient. On both iPhone and Android devices you can setup keyboard shortcuts. I have the following saved in my settings.</p>
 
