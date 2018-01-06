@@ -1,9 +1,9 @@
-desc 'deploy to kg via rsync'
+desc 'deploy to kg41 via rsync'
 task :deploy do
-  puts 'Deploying to kennedysgarage.com, silence is golden...'
+  puts 'Deploying to kg41.com, silence is golden...'
   user = 'kg41.com'
   server = 's107775.gridserver.com'
-  path = 'domains/kennedysgarage.com/html'
+  path = 'domains/kg41.com/html'
   sh "rsync -rtzh --delete _site/ #{user}@#{server}:#{path}"
   puts 'Finished Mother Fucker!'
 end
