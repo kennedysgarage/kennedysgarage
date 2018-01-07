@@ -22,7 +22,7 @@ title: Articles
       </div><!--/col-->
 
       <div class="col-3">
-          <img src="{{ post.image }}"/>
+          <!-- <img src="{ post.image } "/> -->
       </div><!--/col-->
 
       {% else %}
