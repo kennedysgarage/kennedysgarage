@@ -1,22 +1,24 @@
 {% include header.html %}
-{% include nav.html %}
 
 <div id="home">
-  <!-- <section id="intro">
-    <div class="container">
-      <h1>Kennedy's Garage</h1>
-      <a href="http://workingnotworking.com/kennedysgarage" class="btn btn-ghost">For Hire</a>
-    </div>
-  </section> -->
-
   <div class="container">
-    <div class="page">
-      <div class="hero"><span>{% asset home/kennedy-train.jpg %}</span></div>
       <section class="content">
-          {{ content }}
+        {% include nav.html %}
+        {{ content }}
+
+        <div class="row">
+            <div class="col-3">
+            <h2>Contact</h2>
+          </div><!--/col-->
+            <div class="col-9">
+                <p>Let <a href="http://kennedysgarage.com/">Kennedy</a> know how he can help you with your UX needs. If you want to work together, feel free to email him at <a href="mailto:kennedysgarage@gmail.com?subject=I want to hire you">kennedysgarage@gmail.com</a>.</p>
+            </div><!--/col-->
+        </div><!--/row-->
+
       </section><!--/content-->
-    </div><!--/page-->
   </div><!--/container-->
 </div><!--/home-->
+
+
 
 {% include footer.html %}

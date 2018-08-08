@@ -1,5 +1,14 @@
 {% include header.html %}
-{% include nav.html %}
+
+
+<div id="home">
+  <div class="container">
+      <section class="content">
+        {% include nav.html %}
+      </section><!--/content-->
+  </div><!--/container-->
+</div><!--/home-->
+
 
 <div id="project">
 
@@ -9,6 +18,16 @@
         {{ content }}
 
     </div><!--/page-->
+
+    <div class="row">
+        <div class="col-3">
+        <h2>Contact</h2>
+      </div><!--/col-->
+        <div class="col-9">
+            <p>Let <a href="http://kennedysgarage.com/">Kennedy</a> know how he can help you with your UX needs. If you want to work together, feel free to email him at <a href="mailto:kennedysgarage@gmail.com?subject=I want to hire you">kennedysgarage@gmail.com</a>.</p>
+        </div><!--/col-->
+    </div><!--/row-->
+
   </div><!--/container-->
 
 </div><!--/project-->

@@ -14,13 +14,7 @@ html,body{
   background-color: #efeff4;
   background-color: #f8f8f8;
   background: #eeeeee;
-  background: -moz-linear-gradient(top,  #eeeeee 0%, #f8f8f8 30%);
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#eeeeee), color-stop(30%,#f8f8f8));
-  background: -webkit-linear-gradient(top,  #eeeeee 0%,#f8f8f8 30%);
-  background: -o-linear-gradient(top,  #eeeeee 0%,#f8f8f8 30%);
-  background: -ms-linear-gradient(top,  #eeeeee 0%,#f8f8f8 30%);
-  background: linear-gradient(to bottom,  #eeeeee 0%,#f8f8f8 30%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', endColorstr='#f8f8f8',GradientType=0 );
+  background: #fff;
   color: #3d464d;
   font-family: 'ProximaNova', sans-serif;
   font-size: 1em;
@@ -33,8 +27,7 @@ html,body{
   -webkit-text-size-adjust: 100%;
 }
 header{
-  background-color: #262628;
-  background-color: #28303a;
+
   h1{
     display: inline-block;
     line-height: 0;
@@ -120,6 +113,7 @@ nav{
 }
 /* ========================================================= Home ===*/
 #home{
+  padding: 3% 0 0;
   #intro{
     .btn{
       float: right;
@@ -473,6 +467,7 @@ object{
 }
 
 .controls{
+  margin: 0 0 1%;
   padding: 2%;
   background-color: #37383A;
   background-color: #1A2026;
@@ -514,11 +509,13 @@ object{
 }
 #pros{
   // background-color: #37383A;
-  padding: 1%;
+  // padding: 1%;
+  margin: 0 -1%;
   .notice{
     background-color: #FFF59D;
     padding: 20px;
-    margin: .5% .5% 1% .5%;
+    // margin: .5% .5% 1% .5%;
+    margin: 0 0 1%;
     border-radius: 3px;
   }
 }
@@ -878,101 +875,7 @@ object{
 /* ========================================================= Partners ===*/
 
 /* ========================================================= Footer ===*/
-// trying to get foot to be accorss
-// footer{
-//   #cta{
-//     p{
-//       display: block;
-//     }
-//     .btn{
-//       display: block;
-//     }
-//   }
-// }
-footer{
-  #cta{
-    background-color: #505154;
-    padding: 30px 0;
-    p{
-      color: #ccc;
-      display: inline-block;
-      margin: 12px 0 0;
-    }
-    a{
-      float: right;
-    }
-  }
-  #foot{
-    background-color: #37383A;
-    background-color: #28303a;
-    padding: 40px 0;
-    h4{
-      color: rgba(255,255,255,0.8);
-    }
-    p{
-      color: rgba(255,255,255,0.6);
-    }
-    .col-9{
-      img{
-        border-radius: 26px;
-        margin-right: 3%;
-        float: left;
-        width: 11%;
-      }
-    }
-    .copy{
-      float: left;
-      width: 85%;
-    }
-    #social{
-      list-style: none;
-      margin: 0 auto;
-      padding: 0;
-      li{
-        display: inline-block;
-        margin: 0;
-        padding: 0;
-        a{
-          color: #aaa;
-          padding: 6px 10px 6px 0;
-          text-shadow: none;
-          &:hover{
-            color: #fff;
-          }
-          img{
-            height: 18px;
-            width: 18px;
-          }
-        }
-      }
-    }
-  }
-}
-// #status{
-//   background-color: #1FBC9A;
-//   border-radius: 4px;
-//   color: #fff;
-//   margin: 0 0 30px;
-//   padding: 10px;
-// }
-// #status img{
-//   float: left;
-//   margin: 0 5px 0 0;
-// }
-// #status p{
-//   color: #ddd;
-//   font-size: 16px;
-//   margin: 6px 0 0 0;
-//   text-align: center;
-// }
-// #status a{
-//   color: #fff;
-//   text-decoration: underline;
-// }
-// #status i{
-//   font-size: 18px;
-//   vertical-align: middle;
-// }
+
 /* ========================================================= Respond ===*/
 @media all and (min-width: 41em){
   body{font-size: 1.125em;}
@@ -992,11 +895,15 @@ footer{
   .col-3 { width: 25%; }
   .flow-opposite { float: right; }
   header{
-    padding: 20px 0 60px;
+
     h1{
-      display: inline-block;
+      color: #333;
       a{
+        color: #333;
         padding: 0;
+        &:hover{
+          color: #fff;
+        }
       }
     }
     .menu{
@@ -1006,9 +913,7 @@ footer{
   header.simple{
     padding: 20px 0;
   }
-  .page{
-    margin-top: -40px;
-  }
+
   /* -------------
   -- Navigation --
   ------------- */
@@ -1028,14 +933,14 @@ footer{
         display: inline-block;
         padding: 0;
         a{
-          color: rgba(255,255,255,0.8);
+          color: #333;
           display: block;
           font-size: 15px;
           padding: 18px 20px 8px;
           text-align: center;
           text-transform: uppercase;
           &:hover{
-            color: #fff;
+            color: #333;
           }
         }
       }
