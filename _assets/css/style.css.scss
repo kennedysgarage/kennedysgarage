@@ -467,10 +467,12 @@ object{
 }
 
 .controls{
-  margin: 0 0 1%;
-  padding: 2%;
-  background-color: #37383A;
-  background-color: #1A2026;
+  margin: 0 0 2%;
+  padding: 1.5%;
+  border-radius: 5px;
+  box-shadow: 0 10px 50px rgba(0,16,36,.20);
+  box-shadow: 0 8px 26px rgba(0, 16, 36, 0.15);
+
   color: #eee;
   text-align: center;
   label{
@@ -481,18 +483,23 @@ object{
   button{
     background: none;
     display: inline-block;
-    padding: .4em .8em;
+    padding: .4em .8em .3em;
     border: 0;
     color: rgba(255,255,255,0.5);
     cursor: pointer;
-    color: #ddd;
+    color: #C8CCD4;
     padding: 15px;
     font-family: 'ProximaNovaBold', sans-serif;
     text-transform: uppercase;
   }
+  button:hover{
+    background-color: #80BBFF;
+    border-radius: 5px;
+  }
   button.active{
-    background: rgba(255,255,255,0.4);
-    border-radius: 3px;
+    background: #0077FF;
+    border-radius: 5px;
+    color: #fff;
   }
   button:focus{
     outline: 0 none;
@@ -524,8 +531,8 @@ object{
 
 .pro{
   height: 600px;
-  width: 100%;
-  padding: 1%;
+  width: 98%;
+  margin: 1%;
   vertical-align: top;
   section{
     height: 100%;
@@ -580,6 +587,13 @@ object{
     p{
       color: rgba(0,0,0,0.4);
     }
+  }
+  .notready{
+    opacity: 0.4;
+    cursor: not-allowed;
+  }
+  .wework{
+    background-color: #F4F4F4;
   }
   .circly{
     background-color: #fff;
@@ -960,7 +974,7 @@ object{
     }
   }
   .pro{
-    width: 49%;
+    width: 47%;
   }
 }
 @media all and (min-width: 960px){
@@ -969,7 +983,7 @@ object{
     display: inline;
   }
   .pro{
-    width: 33%;
+    width: 31%;
   }
   /*pre{
     width: 920px;
