@@ -8,12 +8,12 @@ h1, h2, h3, h4 {
   line-height: 1.2;
 }
 h1{
-  font-size: 37px;
+  font-size: 50px;
   margin: 0 0 30px;
 }
 h2{
   color: #343E3D;
-  font-size: 28px;
+  font-size: 37px;
   font-weight: 400;
   margin: 0 0 5px;
   padding: 0;
@@ -23,7 +23,7 @@ h3{
   color: #343E3D;
   display: block;
   font-weight: 400;
-  font-size: 21px;
+  font-size: 28px;
   margin: 0 0 5px;
   margin: 1em 0 0.4em;
   margin: 0 0 0.4em;
@@ -32,11 +32,12 @@ h4{
   color: #4C4C4C;
   font-family: 'Effra Heavy', sans-serif;
   font-weight: 400;
-  font-size: 16px;
+  font-size: 21px;
   margin: 5px 0;
 }
 p{
   color: #5C5C5C;
+  color: #768093;
   line-height: 1.5;
   margin: 0 0 1.3em;
 }
@@ -51,12 +52,14 @@ ul, ol{
 }
 li{
   color: #5C5C5C;
+  color: #768093;
   font-family: 'ProximaNova', sans-serif;
   font-size: 1em;
   line-height: 1.5;
 }
 dl{
   color: #5C5C5C;
+  color: #768093;
   font-family: 'ProximaNova', sans-serif;
   font-size: 1em;
   line-height: 1.5;

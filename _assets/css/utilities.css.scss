@@ -1,16 +1,19 @@
 /* ========================================================= Utility ===*/
 .btn{
-  background-color: #1FBC9A;
+  background-color: $dodgers;
   border: 1px solid rgba(0,0,0,0.3);
   border-radius: 3px;
   box-shadow: 0 0 0 2px rgba(255,255,255,0.1) inset, 0 1px 0px rgba(0,0,0,0.3);
   color: #fff;
-  font-size: 18px;
+  display: inline-block;
+  font-family: 'Effra Medium', sans-serif;
+  font-size: 16px;
+  letter-spacing: 1px;
   padding: 8px 30px;
-  text-transform: capitalize;
+  text-transform: uppercase;
   text-shadow: none;
   &:hover{
-    background-color: #22d6af;
+    background-color: darken( $dodgers, 10% );
     color: #fff;
   }
   i{
@@ -18,20 +21,49 @@
     vertical-align: middle;
   }
 }
-.btn-ghost{
+.btn-outline{
   background: none;
-  border: 1px solid #1FBC9A;
+  border: 1px solid #2979FF;
   box-shadow: none;
   color: #1FBC9A;
   &:hover{
     color: #fff;
   }
 }
+.btn-ghost{
+  background: none;
+  border: none;
+  box-shadow: none;
+  color: #2979FF;
+  padding: 0;
+  &:hover{
+    background: none;
+    color: #2979FF;
+  }
+}
+.eyebrow{
+  color: #1D1D1F;
+  display: block;
+  font-family: 'Effra Medium', sans-serif;
+  font-size: 14px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  margin: 0 0 40px;
+}
+.spine{
+  transform: rotate(-90deg) translate3d(0px, 0px, 0px);
+  position: absolute;
+  display: block;
+  margin-left: -15%;
+  margin-top: 10%;
+  letter-spacing: 6px;
+  font-size: 12px;
+}
 .last{
   margin-bottom: 0;
 }
 hr{
-    background: none repeat scroll 0 0 #a4aaae;
+    background: none repeat scroll 0 0 #C8C9CC;
     border: medium none;
     box-shadow: 0 1px 0 #F7F6F5;
     clear: both;
