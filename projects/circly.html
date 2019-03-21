@@ -9,84 +9,66 @@ image: /assets/projects/hero/circly.png
 <div class="hero">{% asset projects/hero/circly.png %}</div>
 
 <div class="content">
-  <h1>{{ page.title }}</h1>
 
-<div class="row project-intro">
-  <div class="col-12">
-  <p>Circly will help you, your friends, and family lower your risk of breast cancer. Tell us a little about yourself so we can understand what your risks are.</p>
-  <p>With some friends we built Circly at the Code vs. Cancer hackathon. Big thnks to <a href="https://www.gyro.com/">gyro</a> for hosting this hackathon. Not only did we have a great time, but we won first place and took home a $10,000 cash prize thanks to <a href="http://www.jpmorganchase.com/">JPMorgan Chase &amp; Co</a>. The goal of what we were trying to do was provoke a reaction to help share how important getting a breast exam is.</p>
-  </div><!--/col-->
-</div><!--/row-->
+  <div class="project-intro">
+  <grid columns=12>
+      <c span=row>
+        <h1>{{ page.title }}</h1>
+        <p>Circly will help you, your friends, and family lower your risk of breast cancer. Tell us a little about yourself so we can understand what your risks are.</p>
+        <p>With some friends we built Circly at the Code vs. Cancer hackathon. Big thnks to <a href="https://www.gyro.com/">gyro</a> for hosting this hackathon. Not only did we have a great time, but we won first place and took home a $10,000 cash prize thanks to <a href="http://www.jpmorganchase.com/">JPMorgan Chase &amp; Co</a>. The goal of what we were trying to do was provoke a reaction to help share how important getting a breast exam is.</p>
+      </c>
+  </grid>
+  </div><!--/project-intro-->
 
-<hr/>
+  <hr/>
 
-<!-- Website -->
-
-<div class="row">
-  <div class="col-4">
-    <h2>Website</h2>
-  </div><!--/column-->
-  <div class="col-8">
-    <p>This was our landing page for the website.</p>
-    {% asset projects/circly/website.png %}
-  </div><!--/column-->
-</div><!--/row-->
-
-<hr/>
-
-<!-- Wizard -->
-
-<div class="row">
-  <div class="col-4">
-    <h2>Wizard</h2>
-  </div><!--/column-->
-  <div class="col-8">
-    <p>The idea behind this was to collect your information along the way. We ended up building a pretty extensive website built in Python. The site would allow you to login, enter in your info, and invite your loved ones. One you did this you had a circle of trust that would relied on each other to ensure they were taking care of each other.</p>
-    {% asset projects/circly/wizard.png %}
-  </div><!--/column-->
-</div><!--/row-->
-
-<hr/>
-
-<!-- Testing -->
-
-<div class="row">
-  <div class="col-4">
-    <h2>Testing</h2>
-  </div><!--/column-->
-  <div class="col-8">
-    <p>We testest our idea on my mom. I sent her a quick nip pic to see what kind of reaction I would get out of her. To my suprize she was not even phased and actually thanked me.</p>
-    {% asset projects/circly/phone.png %}
-  </div><!--/column-->
-</div><!--/row-->
+  <grid columns=12>
+    <c span=1-2 span-s=row>
+      <h3>Website</h3>
+    </c>
+    <c span=4-12 span-s=row>
+      <p>This was our landing page for the website.</p>
+      <p>{% asset projects/circly/website.png %}</p>
+    </c>
+    <c span=row><hr/></c>
+    <c span=1-2 span-s=row>
+      <h3>Wizard</h3>
+    </c>
+    <c span=4-12 span-s=row>
+      <p>The idea behind this was to collect your information along the way. We ended up building a pretty extensive website built in Python. The site would allow you to login, enter in your info, and invite your loved ones. One you did this you had a circle of trust that would relied on each other to ensure they were taking care of each other.</p>
+      <p>{% asset projects/circly/wizard.png %}</p>
+    </c>
+    <c span=row><hr/></c>
+    <c span=1-2 span-s=row>
+      <h3>Testing</h3>
+    </c>
+    <c span=4-12 span-s=row>
+      <p>We testest our idea on my mom. I sent her a quick nip pic to see what kind of reaction I would get out of her. To my suprize she was not even phased and actually thanked me.</p>
+      <p>{% asset projects/circly/phone.png %}</p>
+    </c>
+    <c span=row><hr/></c>
+    <c span=1-2 span-s=row>
+      <h3>Pitch</h3>
+    </c>
+    <c span=4-12 span-s=row>
+      <iframe width="1280" height="720" src="https://www.youtube.com/embed/EIfwwdese3M" frameborder="0" allowfullscreen></iframe>
+    </c>
+  </grid>
 
 <hr/>
-
-<!-- Pitch -->
-
-<div class="row">
-  <div class="col-4">
-    <h2>Pitch</h2>
-  </div><!--/column-->
-  <div class="col-12">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/EIfwwdese3M" frameborder="0" allowfullscreen></iframe>
-  </div><!--/column-->
-</div><!--/row-->
-
-<hr/>
-
-<div class="row">
-  <div class="col-4">
-    <h2>Credits</h2>
-  </div><!--/col-->
-  <div class="col-8">
-    <ul class="credit">
+  <grid columns=12>
+    <c span=1-2 span-s=row>
+      <h2>Credits</h2>
+    </c>
+    <c span=4-12 span-s=row>
+      <ul class="credit">
         <li><strong><a href="https://twitter.com/KennedysGarage">Kennedy</a></strong><span>Designer</span></li>
         <li><strong><a href="https://twitter.com/madelenamak">Madelena Mak</a></strong><span>Designer</span></li>
         <li><strong><a href="https://twitter.com/mik3cap">Mike Caprio</a></strong><span>Developer</span></li>
         <li><strong><a href="https://www.linkedin.com/in/sarah-lebovitz-23037219">Sarah Pels</a></strong><span>Biz Dev</span></li>
-    </ul>
-  </div><!--/col-->
-</div><!--/row-->
+      </ul>
+    </c>
+  </grid>
+
 
 </div><!--/content-->

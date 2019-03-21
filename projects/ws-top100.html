@@ -1,56 +1,56 @@
 ---
 layout: project
 permalink: /ws-top100/
-title: Wine Spectator
+title: Wine Spectator Top 100
 description: I had the honor of designing Wine Spectator's Top 100 of 2013 identity &amp; website.
 image: /assets/projects/hero/wstop100.png
 ---
 
-<div class="hero">{% asset projects/hero/wstop100.png %}</div>
+<div class="hero">{% asset projects/hero/wstop100.svg %}</div>
 
 <div class="content">
-  <h1>Wine Spectator Top 100</h1>
 
-    <div class="row project-intro">
-      <div class="col-12">
-      <p>Every year Wine Spectator releases their Top 100 list. I had the honor to desing the 2013 Wine Spectator Top 100 list. The website is still live if you want to check it out <a href="http://2013.top100.winespectator.com/">http://2013.top100.winespectator.com/</a>.</p>
-      </div><!--/col-->
-    </div><!--/row-->
+  <div class="project-intro">
+  <grid columns=12>
+      <c span=row>
+        <h1>{{ page.title }}</h1>
+        <p>Every year Wine Spectator releases their Top 100 list. I had the honor to desing the 2013 Wine Spectator Top 100 list. The website is still live if you want to check it out <a href="http://2013.top100.winespectator.com/">http://2013.top100.winespectator.com/</a>.</p>
+      </c>
+  </grid>
+  </div><!--/project-intro-->
 
-    <hr/>
+<hr/>
 
-  <!-- Solution -->
+<grid columns=12>
+  <c span=1-2 span-s=row>
+    <h3>Home View</h3>
+  </c>
+  <c span=4-12 span-s=row>
+    <p>{% asset projects/wstop100/home.png %}</p>
+  </c>
+  <c span=row><hr/></c>
+  <c span=1-2 span-s=row>
+    <h3>Wine View</h3>
+  </c>
+  <c span=4-12 span-s=row>
+    <p>{% asset projects/wstop100/number1.png %}</p>
+  </c>
+</grid>
 
-  <div class="row">
-    <div class="col-12">
-      <h3>Home View</h3>
-      <p>{% asset projects/wstop100/home.png %}</p>
-    </div><!--/column-->
+<hr/>
 
-    </div><!--/row-->
-
-<div class="row">
-    <div class="col-12">
-      <h3>Wine View</h3>
-      <p>{% asset projects/wstop100/number1.png %}</p>
-    </div><!--/column-->
-  </div><!--/row-->
-</div><!--/column-->
+<grid columns=12>
+  <c span=1-2 span-s=row>
+    <h2>Credits</h2>
+  </c>
+  <c span=4-12 span-s=row>
+    <ul class="credit">
+        <li><strong><a href="https://twitter.com/KennedysGarage">Kennedy</a></strong><span>Design</span></li>
+        <li><strong><a href="https://www.linkedin.com/in/stephenwcannizzaro">Stephen Cannizzaro</a></strong><span>Front-end Dev</span></li>
+    </ul>
+  </c>
+</grid>
 
 
-
-    <hr/>
-
-    <div class="row">
-      <div class="col-4">
-        <h2>Credits</h2>
-      </div><!--/column-->
-      <div class="col-8">
-        <ul class="credit">
-            <li><strong><a href="https://twitter.com/KennedysGarage">Kennedy</a></strong><span>Lead Design, Web Design, &amp; Front-end Dev</span></li>
-            <li><strong><a href="https://www.linkedin.com/in/stephenwcannizzaro">Stephen Cannizzaro</a></strong><span>Front-end Dev</span></li>
-        </ul>
-      </div><!--/column-->
-    </div><!--/row-->
 
   </div><!--/content-->

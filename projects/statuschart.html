@@ -7,118 +7,145 @@ image: /assets/projects/hero/statuschart.png
 website: https://www.statuschart.com
 ---
 
-<div class="hero">{% asset projects/hero/statuschart.png %}</div>
+<div class="hero">{% asset projects/hero/statuschart.svg %}</div>
 
 <div class="content">
-  <h1>Status Chart</h1>
 
-          <div class="col-9 description">
-            <h3>Project Description</h3>
-            <p>Status Chart is your professional dashboard. The simplest way track and share your professional milestones and all of the important things that make you who you are.</p>
-          </div><!--/col-->
-          <div class="col-3 role">
-            <h3>My Role</h3>
-            <ul>
-              <li><i class="ss-icon ss-standard">&#x2713;</i> Founder</li>
-              <li><i class="ss-icon ss-standard">&#x2713;</i> Designer</li>
-            </ul>
-          </div><!--/col-->
+  <div class="project-intro">
+  <grid columns=12>
+      <c span=row>
+        <h1>{{ page.title }}</h1>
+        <p>Status Chart is your professional dashboard. The simplest way track and share your professional milestones and all of the important things that make you who you are.</p>
+      </c>
+  </grid>
+  </div><!--/project-intro-->
 
-          <div class="col-12">
-            <h3>Website</h3>
-              <img src="{{ 'projects/statuschart/website.png' | asset_path }}" class="poppop"/>
+  <hr/>
 
-            <!-- <h3>Logo</h3> -->
+  <grid columns=12>
+    <c span=1-2 span-s=row>
+      <h3>Website</h3>
+    </c>
+    <c span=4-12 span-s=row>
+      <p>{% asset projects/statuschart/website.png %}</p>
+    </c>
+    <c span=row><hr/></c>
+    <c span=1-2 span-s=row>
+      <h3>Stickers</h3>
+    </c>
+    <c span=4-12 span-s=row>
+      <p>What startup and would be compete without stickers? We order some high quality 3"x3" circle stickers from <a href="http://www.stickermule.com/unlock?ref_id=6658329601">Sticker Mule</a>.</p>
+    </c>
+    <c span=4-7 span-s=row>
+      {% asset projects/statuschart/stickers-single.png %}
+    </c>
+    <c span=9-12 span-s=row>
+      {% asset projects/statuschart/stickers-group.png %}
+    </c>
+    <c span=row><hr/></c>
+    <c span=1-2 span-s=row>
+      <h3>Awards</h3>
+    </c>
+    <c span=4-12 span-s=row>
+      <p>I am supper excited that a project that I worked so hard on was honored with Hack of the Month by NY Tech Meetup &amp; was a Featured Startup at #techdrinkup.</p>
+    </c>
+    <c span=4-7 span-s=row>
+      <p>{% asset about/hackofthemonth.png %}</p>
+    </c>
+    <c span=9-12 span-s=row>
+      <p>{% asset about/techdrinkup.png %}</p>
+    </c>
+    <c span=row><hr/></c>
+    <c span=1-2 span-s=row>
+      <h3>Videos</h3>
+    </c>
+    <c span=4-12 span-s=row>
+      <iframe width="560" height="315" src="http://www.youtube.com/embed/8d-SUIxGiu8" frameborder="0" allowfullscreen></iframe>
+    </c>
+    <c span=row><hr/></c>
+    <c span=1-2 span-s=row>
+      <h3>Press</h3>
+    </c>
+    <c span=1-12 span-s=row>
+      <ul id="press-coverage">
+        <!-- <li>
+          <a href="">
+             image press.png"
+            <p><small></small></p><i class="ss-icon ss-standard">&#x25B9;</i>
+          </a>
+        </li> -->
+        <li>
+          <a href="http://www.cbc.ca/spark/episodes/2013/06/14/blog-and-aut-title-217-the-future-of-work-workplace-science-rethinking-recruiting-and-the-resume-the/">
+            {% asset press/spark.png %} <!-- Spark with Nora Young -->
+            <p>221: The Future of Work. Workplace Science. Rethinking Recruiting and the Resume. The Automated Workforce. Live/work Homestead Design. The Information Economy.<small>June 14th 2013</small></p><i class="ss-icon ss-standard">&#x25B9;</i>
+          </a>
+        </li>
+        <li>
+          <a href="http://betabeat.com/pitch/the-pitch-season-2-episode-three-status-chart-a-new-kind-of-resume/">
+            {% asset press/betabeat.png %} <!-- alt="Betabeat" -->
+            <p>The Pitch Season 2, Episode Three: Status Chart &mdash; A New Kind of Resume<small>April 25th, 2013</small></p><i class="ss-icon ss-standard">&#x25B9;</i>
+          </a>
+        </li>
+        <li>
+          <a href="http://antyweb.pl/status-chart-sposob-na-nudne-cv-dla-branzy-technologicznej/">
+            {% asset press/antyweb.png %} <!-- alt="antyweb" -->
+            <p>Status Chart - How to boring CV for the technology industry<small>October 24th, 2012</small></p><i class="ss-icon ss-standard">&#x25B9;</i>
+          </a>
+        </li>
+        <li>
+          <a href="http://betabeat.com/2012/08/meet-statuschart-porn-for-self-quantifiers/">
+            {% asset press/betabeat.png %} <!-- alt="Betabeat" -->
+            <p>Meet Status Chart, Porn for Self-Quantifiers <small>October 22nd, 2012</small></p><i class="ss-icon ss-standard">&#x25B9;</i>
+          </a>
+        </li>
+        <li>
+          <a href="http://youtu.be/8d-SUIxGiu8">
+            {% asset press/nytechmeetup.png %} <!-- alt="NY Tech Meetup" -->
+            <p>Status Chart - NY Tech Meetup<small>September 5th, 2012</small></p><i class="ss-icon ss-standard">&#x25B9;</i>
+          </a>
+        </li>
+        <li>
+          <a href="www.100shiki.com/archives/2012/09/status_chart.html">
+            {% asset press/100shiki.png %} <!-- alt="100Shiki" -->
+            <p>"Status Chart" new resume for freelance<small>September 5th, 2012</small></p><i class="ss-icon ss-standard">&#x25B9;</i>
+          </a>
+        </li>
+        <li>
+          <a href="http://betabeat.com/2012/09/status-chart-the-resume-porn-for-self-quantifiers-officially-beta-launches-today/">
+            {% asset press/betabeat.png %} <!-- alt="Betabeat" -->
+            <p>Status Chart, the Résumé Porn for Self-Quantifiers, Officially Beta-Launches Today<small>September 5th, 2012</small></p><i class="ss-icon ss-standard">&#x25B9;</i>
+          </a>
+        </li>
+      </ul><!--/press-coverage-->
+    </c>
+    <c span=row><hr/></c>
+    <c span=1-2 span-s=row>
+      <h3>Pictures</h3>
+    </c>
+    <c span=4-7 span-s=row>
+      <p>{% asset projects/statuschart/techdrinkup-tabel.png %}</p>
+    </c>
+    <c span=9-12 span-s=row>
+      <p>{% asset projects/statuschart/chalkboardwall.png %}</p>
+    </c>
+  </grid>
 
-            <h3>Stickers</h3>
-            <p>What startup and would be compete without stickers? We order some high quality 3"x3" circle stickers from <a href="http://www.stickermule.com/unlock?ref_id=6658329601">Sticker Mule</a>.</p>
-            </div><!--/col-->
+  <hr/>
 
-            <div class="col-6">
-            {% asset projects/statuschart/stickers-single.png %}
-            </div><!--/col-->
-            <div class="col-6">
-            {% asset projects/statuschart/stickers-group.png %}
-            </div><!--/col-->
+  <grid columns=12>
+    <c span=1-2 span-s=row>
+      <h2>Credits</h2>
+    </c>
+    <c span=4-12 span-s=row>
+      <ul class="credit">
+          <li><strong><a href="https://twitter.com/KennedysGarage">Kennedy</a></strong><span>Design</span></li>
+      </ul>
+    </c>
+  </grid>
 
-            <div class="col-12">
-            <h3>Awards</h3>
-            </div><!--/col-->
 
-            <div class="col-6">
-              <p>I am supper excited that a project that I worked so hard on was honored with Hack of the Month by NY Tech Meetup &amp; was a Featured Startup at #techdrinkup.</p>
-            </div><!--/col-->
-            <div class="col-3">
-              {% asset about/hackofthemonth.png %}
-            </div><!--/col-->
-            <div class="col-3">
-              {% asset about/techdrinkup.png %}
-            </div><!--/col-->
 
-          <div class="col-12">
-            <h3>Videos</h3>
-            <iframe width="560" height="315" src="http://www.youtube.com/embed/8d-SUIxGiu8" frameborder="0" allowfullscreen></iframe>
 
-            <h3>Press</h3>
-            <ul id="press-coverage">
-              <!-- <li>
-                <a href="">
-                   image press.png"
-                  <p><small></small></p><i class="ss-icon ss-standard">&#x25B9;</i>
-                </a>
-              </li> -->
-              <li>
-                <a href="http://www.cbc.ca/spark/episodes/2013/06/14/blog-and-aut-title-217-the-future-of-work-workplace-science-rethinking-recruiting-and-the-resume-the/">
-                  {% asset press/spark.png %} <!-- Spark with Nora Young -->
-                  <p>221: The Future of Work. Workplace Science. Rethinking Recruiting and the Resume. The Automated Workforce. Live/work Homestead Design. The Information Economy.<small>June 14th 2013</small></p><i class="ss-icon ss-standard">&#x25B9;</i>
-                </a>
-              </li>
-              <li>
-                <a href="http://betabeat.com/pitch/the-pitch-season-2-episode-three-status-chart-a-new-kind-of-resume/">
-                  {% asset press/betabeat.png %} <!-- alt="Betabeat" -->
-                  <p>The Pitch Season 2, Episode Three: Status Chart &mdash; A New Kind of Resume<small>April 25th, 2013</small></p><i class="ss-icon ss-standard">&#x25B9;</i>
-                </a>
-              </li>
-              <li>
-                <a href="http://antyweb.pl/status-chart-sposob-na-nudne-cv-dla-branzy-technologicznej/">
-                  {% asset press/antyweb.png %} <!-- alt="antyweb" -->
-                  <p>Status Chart - How to boring CV for the technology industry<small>October 24th, 2012</small></p><i class="ss-icon ss-standard">&#x25B9;</i>
-                </a>
-              </li>
-              <li>
-                <a href="http://betabeat.com/2012/08/meet-statuschart-porn-for-self-quantifiers/">
-                  {% asset press/betabeat.png %} <!-- alt="Betabeat" -->
-                  <p>Meet Status Chart, Porn for Self-Quantifiers <small>October 22nd, 2012</small></p><i class="ss-icon ss-standard">&#x25B9;</i>
-                </a>
-              </li>
-              <li>
-                <a href="http://youtu.be/8d-SUIxGiu8">
-                  {% asset press/nytechmeetup.png %} <!-- alt="NY Tech Meetup" -->
-                  <p>Status Chart - NY Tech Meetup<small>September 5th, 2012</small></p><i class="ss-icon ss-standard">&#x25B9;</i>
-                </a>
-              </li>
-              <li>
-                <a href="www.100shiki.com/archives/2012/09/status_chart.html">
-                  {% asset press/100shiki.png %} <!-- alt="100Shiki" -->
-                  <p>"Status Chart" new resume for freelance<small>September 5th, 2012</small></p><i class="ss-icon ss-standard">&#x25B9;</i>
-                </a>
-              </li>
-              <li>
-                <a href="http://betabeat.com/2012/09/status-chart-the-resume-porn-for-self-quantifiers-officially-beta-launches-today/">
-                  {% asset press/betabeat.png %} <!-- alt="Betabeat" -->
-                  <p>Status Chart, the Résumé Porn for Self-Quantifiers, Officially Beta-Launches Today<small>September 5th, 2012</small></p><i class="ss-icon ss-standard">&#x25B9;</i>
-                </a>
-              </li>
-            </ul><!--/press-coverage-->
 
-            <h3>Pictures</h3>
-          </div><!--/col-->
-
-          <div class="col-6">
-            {% asset projects/statuschart/techdrinkup-tabel.png %}
-            </div><!--/col-->
-            <div class="col-6">
-            {% asset projects/statuschart/chalkboardwall.png %}
-          </div><!--/col-->
 
 </div><!--/content-->

@@ -74,16 +74,21 @@ nav{
       a{
         color: #ddd;
         display: block;
-        padding: 15px;
+        padding: 8px 10px 4px;
+        margin: 0 5px;
         font-family: 'Effra Medium', sans-serif;
         text-align: center;
         text-transform: uppercase;
-        word-spacing: 4px;
         &:hover{
           color: #fff;
+          border-bottom: 3px solid #1D1D1F;
         }
         &:last-child{
-          border: none;
+          // border: none;
+        }
+        &.current{
+          border-bottom: 3px solid #1D1D1F;
+          color: #1D1D1F;
         }
       }
     }
@@ -260,8 +265,13 @@ nav{
       margin-bottom: 30px;
     }
     img{
-      display: inline-block;
+      border: none;
+      display: block;
       vertical-align: middle;
+      border-radius: 4px;
+      margin: 0 auto;
+      height: 128px;
+      padding: 22px 30px;
     }
   }
 }
@@ -517,7 +527,7 @@ object{
 }
 
 .controls{
-  margin: 0 0 2%;
+  margin: 0;
   padding: 1.5%;
   // border-radius: 5px;
   // box-shadow: 0 10px 50px rgba(0,16,36,.20);
@@ -535,27 +545,30 @@ object{
     background-color: none;
     border: 1px solid red;
     display: inline-block;
-    padding: .4em .8em .3em;
+    padding: 8px 10px 4px;
+    margin: 0 5px;
     border: 0;
-    color: #000;
+    color: #1D1D1F;
     cursor: pointer;
-    color: #C8CCD4;
+    color: #666;
     padding: 15px;
-    font-family: 'ProximaNova', sans-serif;
+    font-size: 15px;
+    font-family: 'Effra Medium', sans-serif;
     text-transform: uppercase;
-  }
-  button:hover{
-    border-bottom: 3px solid #000;
-  }
-  button.active{
-    border-bottom: 3px solid #000;
-    color: #000;
-  }
-  button:focus{
-    outline: 0 none;
-  }
-  button + label{
-    margin-left: 1em;
+      &:hover{
+        border-bottom: 3px solid #1D1D1F;
+        color: #1D1D1F;
+      }
+      &.active{
+        border-bottom: 3px solid #1D1D1F;
+        color: #1D1D1F;
+      }
+      &:focus{
+        outline: 0 none;
+      }
+      & + label{
+      margin-left: 1em;
+    }
   }
 }
 
@@ -564,14 +577,17 @@ object{
     display: none;
   }
 }
-#pros{
-  // background-color: #37383A;
-  padding: 1%;
-  margin: 0;
+#cards{
+  background-color: #F3F4F8;
+  display: flex;
+  justify-content: space-between;
+
+ flex-wrap: wrap;
+  padding: 1% 1% 0;
   .notice{
     background-color: #FFF59D;
     padding: 20px;
-    // margin: .5% .5% 1% .5%;
+
     margin: 0 0 1%;
     border-radius: 3px;
   }
@@ -579,51 +595,69 @@ object{
 
 
 
-.pro{
-  height: 600px;
-  width: 98%;
-  margin: 1%;
-  vertical-align: top;
+.card{
+  flex: 0 1 100%;
+  // height: 480px;
+  // width: 98%;
+  margin: 0 0 1%;
+  // vertical-align: top;
+  -webkit-transition: all .25s ease-in, background .25s ease-in, opacity .25s ease-in;
+	-moz-transition: all .25s ease-in, background .25s ease-in, opacity .25s ease-in;
+	-ms-transition: all .25s ease-in, background .25s ease-in, opacity .25s ease-in;
+	-o-transition: all .25s ease-in, background .25s ease-in, opacity .25s ease-in;
+	transition: all .25s ease-in, background .25s ease-in, opacity .25s ease-in;
+  &:hover{
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.2);
+    transform: scale(1.04);
+  }
+  &.notready{
+    visibility: hidden;
+    cursor: not-allowed;
+    display: none !important;
+  }
   section{
     height: 100%;
-    padding: 5% 10% 0 10%;
+    padding: 5% 10%;
     text-align: center;
     svg{
       padding-bottom: 15%;
-      max-height: 400px;
+      max-height: 220px;
       max-width: 100%;
       height: 100%;
     }
     img{
-      padding-bottom: 80px;
-      max-height: 400px;
+      padding-bottom: 15%;
+      max-height: 220px;
       max-width: 100%;
       height: auto;
     }
     .title{
       h3{
-        text-transform: uppercase;
-        margin: 0;
+        margin: 0 0 5px;
       }
       p{
+        font-size: 14px;
         margin: 0;
+        text-transform: uppercase;
       }
     }
     .tag-light{
       color: rgba(255,255,255,0.4);
       text-transform: uppercase;
-      margin: 0 0 10% 0;
+      margin: 0 0 15% 0;
+      font-size: 14px;
     }
     .tag-dark{
       color: rgba(0,0,0,0.4);
       text-transform: uppercase;
-      margin: 0 0 10% 0;
+      margin: 0 0 15% 0;
+      font-size: 14px;
     }
   }
   .light{
     h3{
       color: #fff;
-      letter-spacing: 11px;
+      letter-spacing: 2px;
     }
     p{
       color: rgba(255,255,255,0.4);
@@ -632,15 +666,14 @@ object{
   .dark{
     h3{
       color: #000;
-      letter-spacing: 11px;
+      letter-spacing: 2px;
     }
     p{
       color: rgba(0,0,0,0.4);
     }
   }
-  .notready{
-    opacity: 0.4;
-    cursor: not-allowed;
+  .fistatus{
+    background-color: #fff;
   }
   .galore{
     background-color: #1E1E21;
@@ -657,11 +690,17 @@ object{
   .adsperince{
     background-color: #448AFF;
   }
+  .beachhair{
+    background-color: #fff;
+  }
   .gradespotter{
     background-color: #292D33;
   }
   .kennedysgarage{
     background-color: #252429;
+  }
+  .logosbg{
+    background-color: #000;
   }
   .majesticsquare{
     background-color: #536DFE;
@@ -717,6 +756,9 @@ object{
   .wearethehits{
     background-color: #222426;
   }
+  .wework{
+    background-color: #fff;
+  }
   .williamalvarez{
     background-color: #3D5AFE;
   }
@@ -734,6 +776,9 @@ object{
   }
   .todaywegive{
     background-color: #283137;
+  }
+  .paosymbol{
+    background-color: #fff;
   }
   .gigato{
     background-color: #818f98;
@@ -772,6 +817,16 @@ object{
     background-color: #D32F2F;
   }
 }
+.logos{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 1% 1% 0;
+  .logo{
+    // flex: 0 1 100%;
+    margin: 0 0 4%;
+  }
+}
 /* ========================================================= Project ===*/
 #project{
   h3{
@@ -787,7 +842,6 @@ object{
     }
   }
   .project-intro{
-    padding: 20px 0 0;
     img{
       border-radius: 10px;
       width: 60px;
@@ -1018,16 +1072,17 @@ object{
           color: #333;
           display: block;
           font-size: 15px;
-          padding: 15px 20px 8px;
+          padding: 8px 10px 4px;
+          margin: 8px 5px 0;
           text-align: center;
           text-transform: uppercase;
           &:hover{
             color: #333;
           }
+          &.current{
+
+          }
         }
-      }
-      .current a{
-        color: #fff;
       }
     }
   }
@@ -1041,8 +1096,11 @@ object{
       min-height: 315px;
     }
   }
-  .pro{
-    width: 47%;
+  .card{
+    flex: 0 1 calc(50% - 1em);
+  }
+  .logo{
+    flex: 0 1 calc(50% - 1em);
   }
 }
 @media all and (min-width: 960px){
@@ -1050,8 +1108,11 @@ object{
   header h1{
     display: inline;
   }
-  .pro{
-    width: 31%;
+  .card{
+    flex: 0 1 24%;
+  }
+  .logo{
+    flex: 0 1 33%;
   }
   /*pre{
     width: 920px;

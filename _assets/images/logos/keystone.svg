@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="960px" height="540px" viewBox="0 0 960 540" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>keystone</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12.1883258,19.9758557 L168,0 L323.811674,19.9758557 C330.975227,20.8942599 336.037921,27.4459808 335.119516,34.6095339 C335.069841,34.9969996 335.002829,35.382045 334.918682,35.7635114 L274.437442,309.945133 C273.32861,314.971841 269.373963,318.880424 264.33461,319.93029 L168,340 L71.6653899,319.93029 C66.626037,318.880424 62.6713902,314.971841 61.5625577,309.945133 L1.08131756,35.7635114 C-0.474410869,28.7108759 3.98171279,21.732418 11.0343483,20.1766896 C11.4158147,20.0925426 11.8008601,20.0255308 12.1883258,19.9758557 Z" id="path-1"></path>
+    </defs>
+    <g id="keystone" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bw" transform="translate(312.000000, 100.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-5-Copy-11" fill="#1D1D1F" fill-rule="nonzero" xlink:href="#path-1"></use>
+            <polygon id="Rectangle-5-Copy-10" fill="#ECF0F1" fill-rule="nonzero" opacity="0.2" mask="url(#mask-2)" points="-2 21.7948718 272.615385 318.205128 168 340 63.3846154 318.205128"></polygon>
+            <polygon id="Rectangle-5-Copy-9" fill="#ECF0F1" fill-rule="nonzero" opacity="0.2" mask="url(#mask-2)" points="338 21.7948718 272.615385 318.205128 168 340 63.3846154 318.205128"></polygon>
+        </g>
+    </g>
+</svg>

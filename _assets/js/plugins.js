@@ -9,7 +9,7 @@ $(document).ready(function(){
     $(".container").fitVids();
 
     // MixitUp by KunkaLabs
-    $('#pros').mixItUp();
+    $('#cards').mixItUp();
 
 });
 

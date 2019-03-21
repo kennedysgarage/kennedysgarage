@@ -1,11 +1,12 @@
+{% assign current = page.url | downcase | split: '/' %}
 <header>
   <div class="container">
     <a href="/">{% asset logo-outline.svg %}</a>
     <nav>
       <ul>
-        <li><a href="/about/">About</a></li>
-        <li><a href="/projects/">Projects</a></li>
-        <li><a href="/contact/">Contact</a></li>
+        <li><a href="/about/" {% if current[1] == 'about' %}class='current'{% endif %}>About</a></li>
+        <li><a href="/projects/" {% if current[1] == 'projects' %}class='current'{% endif %}>Projects</a></li>
+        <li><a href="/contact/" {% if current[1] == 'contact' %}class='current'{% endif %}>Contact</a></li>
       </ul>
     </nav>
   </div><!--/container-->

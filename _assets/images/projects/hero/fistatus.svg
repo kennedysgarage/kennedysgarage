@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="960px" height="540px" viewBox="0 0 960 540" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>fistatus</title>
+    <desc>Created with Sketch.</desc>
+    <g id="fistatus" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="960" height="540"></rect>
+        <g id="Group-2-Copy" transform="translate(310.000000, 100.000000)" fill-rule="nonzero">
+            <rect id="Rectangle" fill="#2979FF" x="0" y="0" width="340" height="340" rx="11.038961"></rect>
+            <g id="Group" transform="translate(81.688312, 88.311688)" fill="#FFFFFF">
+                <rect id="Rectangle" opacity="0.2" x="0" y="61.8181818" width="176.623377" height="39.7402597" rx="19.8701299"></rect>
+                <rect id="Rectangle" opacity="0.2" x="0" y="123.636364" width="176.623377" height="39.7402597" rx="19.8701299"></rect>
+                <rect id="Rectangle" x="0" y="0" width="176.623377" height="39.7402597" rx="19.8701299"></rect>
+                <rect id="Rectangle" x="0" y="61.8181818" width="88.3116883" height="39.7402597" rx="19.8701299"></rect>
+                <rect id="Rectangle" x="0" y="123.636364" width="39.7402597" height="39.7402597" rx="19.8701299"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

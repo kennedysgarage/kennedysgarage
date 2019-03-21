@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="960px" height="540px" viewBox="0 0 960 540" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>midpoint</title>
+    <desc>Created with Sketch.</desc>
+    <g id="midpoint" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bw" transform="translate(310.000000, 100.000000)">
+            <rect id="Rectangle-38-Copy" fill="#1D1D1F" transform="translate(229.500000, 111.031250) rotate(-45.000000) translate(-229.500000, -111.031250) " x="197.625" y="106.25" width="63.75" height="9.5625"></rect>
+            <rect id="Rectangle-38-Copy-2" fill="#1D1D1F" transform="translate(109.968750, 230.562500) rotate(-45.000000) translate(-109.968750, -230.562500) " x="78.09375" y="225.78125" width="63.75" height="9.5625"></rect>
+            <circle id="Oval-21" stroke="#1D1D1F" stroke-width="19.125" cx="290.0625" cy="49.9375" r="49.9375"></circle>
+            <circle id="Oval-21-Copy" stroke="#1D1D1F" stroke-width="19.125" cx="170" cy="170" r="49.9375"></circle>
+            <circle id="Oval-21-Copy-2" stroke="#1D1D1F" stroke-width="19.125" cx="49.9375" cy="290.0625" r="49.9375"></circle>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="960px" height="540px" viewBox="0 0 960 540" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>katalyst live</title>
+    <desc>Created with Sketch.</desc>
+    <g id="katalyst-live" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(310.000000, 131.000000)" fill="#1D1D1F">
+            <path d="M0.14601227,3.36519 C-0.318445808,1.50676 0.854519427,0 2.77631902,0 L68.8343558,0 L338.961227,275.522325 C340.303149,276.89078 339.840777,278 337.919673,278 L68.8343558,278 L0.14601227,3.36519 Z" id="Fill-1" fill-opacity="0.6"></path>
+            <path d="M0.14601227,274.63481 C-0.318445808,276.49324 0.854519427,278 2.77631902,278 L68.8343558,278 L338.961227,2.477675 C340.303149,1.10922 339.840777,0 337.919673,0 L68.8343558,0 L0.14601227,274.63481 Z" id="Fill-2" fill-opacity="0.8"></path>
+            <polyline id="Fill-3" points="68.8343558 0 34.0695297 139 68.8343558 278 205.112474 139 68.8343558 0"></polyline>
+        </g>
+    </g>
+</svg>
