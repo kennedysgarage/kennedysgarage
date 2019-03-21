@@ -35,7 +35,7 @@ html,body{
   padding: 0 2%;
 }
 header{
-  margin: 0 0 32px;
+  margin: 10px 0 32px;
   h1{
     display: inline-block;
     line-height: 0;
@@ -65,18 +65,37 @@ header{
 -- Navigation --
 ------------- */
 nav{
-  background-color: #1FBC9A;
-  display: none;
-  width: 100%;
+  // background-color: #1FBC9A;
+  // display: none;
+  // width: 100%;
+  background: none;
+  display: inline-block;
+  float: right;
+  text-align: right;
+  width: inherit;
   ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
     li{
       border-bottom: 1px solid rgba(0,0,0,0.1);
+      border: none;
+      display: inline-block;
+      padding: 0;
       a{
         color: #ddd;
         display: block;
         padding: 8px 10px 4px;
         margin: 0 5px;
         font-family: 'Effra Medium', sans-serif;
+        text-align: center;
+        text-transform: uppercase;
+        color: #333;
+        display: block;
+        font-size: 15px;
+        padding: 8px 10px 4px;
+        margin: 8px 5px 0;
         text-align: center;
         text-transform: uppercase;
         &:hover{
