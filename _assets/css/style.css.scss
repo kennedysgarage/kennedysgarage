@@ -155,7 +155,7 @@ nav{
 /* ========================================================= Home ===*/
 #home{
   .welcome{
-    padding: 100px 0 100px;
+    padding: 30px 0 30px;
     .chip{
       background-color: #BEFFC1;
       border-radius: 3px;
@@ -1068,7 +1068,11 @@ object{
   header.simple{
     padding: 20px 0;
   }
-
+  #home{
+    .welcome{
+      padding: 100px 0 100px;
+    }
+  }
   /* -------------
   -- Navigation --
   ------------- */
