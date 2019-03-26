@@ -157,16 +157,22 @@ nav{
   .welcome{
     padding: 30px 0 30px;
     .chip{
-      background-color: #BEFFC1;
       border-radius: 3px;
-      color: #098A37;
       display: inline-block;
       font-family: 'Effra Medium', sans-serif;
       font-size: 12px;
-      letter-spacing: 1;
+      letter-spacing: 1px;
       margin: 0 0 15px;
       padding: 8px 16px;
       text-transform: uppercase;
+    }
+    .available{
+      background-color: #BEFFC1;
+      color: #098A37;
+    }
+    .unavailable{
+      background-color: #FC9999;
+      color: #754747;
     }
     h1{
       margin: 0 0 2px;
