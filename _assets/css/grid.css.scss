@@ -386,6 +386,10 @@ grid>c[span=row] {
 [flow-cols="6"] {-webkit-column-count: 6;column-count: 6}
 [flow-cols="7"] {-webkit-column-count: 7;column-count: 7}
 [flow-cols="8"] {-webkit-column-count: 8;column-count: 8}
+[flow-cols="9"] {-webkit-column-count: 9;column-count: 9}
+[flow-cols="10"] {-webkit-column-count: 10;column-count: 10}
+[flow-cols="11"] {-webkit-column-count: 11;column-count: 11}
+[flow-cols="12"] {-webkit-column-count: 12;column-count: 12}
 
 @media only screen and (max-width:600px) {
     [flow-cols-s="1"] {-webkit-column-count: 1;column-count: 1}
@@ -396,6 +400,10 @@ grid>c[span=row] {
     [flow-cols-s="6"] {-webkit-column-count: 6;column-count: 6}
     [flow-cols-s="7"] {-webkit-column-count: 7;column-count: 7}
     [flow-cols-s="8"] {-webkit-column-count: 8;column-count: 8}
+    [flow-cols-s="9"] {-webkit-column-count: 9;column-count: 9}
+    [flow-cols-s="10"] {-webkit-column-count: 10;column-count: 10}
+    [flow-cols-s="11"] {-webkit-column-count: 11;column-count: 11}
+    [flow-cols-s="12"] {-webkit-column-count: 12;column-count: 12}
 }
 
 @media only screen and (min-width:1599px) {
@@ -407,6 +415,10 @@ grid>c[span=row] {
     [flow-cols-l="6"] {-webkit-column-count: 6;column-count: 6}
     [flow-cols-l="7"] {-webkit-column-count: 7;column-count: 7}
     [flow-cols-l="8"] {-webkit-column-count: 8;column-count: 8}
+    [flow-cols-l="9"] {-webkit-column-count: 9;column-count: 9}
+    [flow-cols-l="10"] {-webkit-column-count: 10;column-count: 10}
+    [flow-cols-l="11"] {-webkit-column-count: 11;column-count: 11}
+    [flow-cols-l="12"] {-webkit-column-count: 12;column-count: 12}
 }
 
 
@@ -438,3 +450,54 @@ grid.compact {
         display: none
     }
 }
+
+// .show-base-grid {
+//     background-image: repeating-linear-gradient(0deg, hsla(0, 0%, 47.1%, .05), hsla(0, 0%, 47.1%, .05) 1px, transparent 0, transparent calc(var(--baseline)/2), rgba(20, 230, 245, .3) calc(var(--baseline)/2), rgba(20, 230, 245, .3) calc(var(--baseline)/2 + 1px), transparent calc(var(--baseline)/2 + 1px), transparent var(--baseline));
+//     background-repeat: repeat-y;
+//     background-size: 100% var(--baseline);
+//     background-position: 0 .5px
+// }
+//
+// .single-line {
+//     white-space: nowrap;
+//     overflow: hidden;
+//     text-overflow: ellipsis
+// }
+//
+// .block {
+//     display: block
+// }
+//
+// .inline {
+//     display: inline-block
+// }
+//
+// .flex-h {
+//     display: flex;
+//     flex-direction: row
+// }
+//
+// .flex-v {
+//     display: flex;
+//     flex-direction: column
+// }
+//
+// .left {
+//     text-align: left
+// }
+//
+// .right {
+//     text-align: right
+// }
+//
+// .center {
+//     text-align: center
+// }
+//
+// .flex-v.center {
+//     align-self: center
+// }
+//
+// .flex-h .bottom {
+//     align-self: flex-end
+// }
