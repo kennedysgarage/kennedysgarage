@@ -7,7 +7,7 @@ title: Partners
 <div id="partners">
   <div class="row">
     <div class="col-12">
-      <p>A trusted group of people &amp; companies I work with. These fine folks are good people and make amazing things happen. When I can't take on new projects, these are the ones that I would refer you to.</p>
+      <p>A trusted group of people &amp; companies I work with. These fine folks are good people and make amazing things happen. When I can't take on new work, these are the ones that I would refer you to.</p>
       <h3>Individuals</h3>
     </div><!--/col-->
   </div><!--/row-->

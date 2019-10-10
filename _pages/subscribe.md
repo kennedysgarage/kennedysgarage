@@ -21,7 +21,7 @@ title: Subscribe
 <div class="row">
   <div class="col-4">
     <h4>Default</h4>
-    <p>These will be general emails about things happening at Kennedy's Garage. This could include new blog posts, new projects, new resources, and stuff along those lines.</p>
+    <p>These will be general emails about things happening at Kennedy's Garage. This could include new blog posts, new work, new resources, and stuff along those lines.</p>
   </div><!--/col-->
   <div class="col-4">
     <h4>Life</h4>

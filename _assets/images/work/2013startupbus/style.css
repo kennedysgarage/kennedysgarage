@@ -1,0 +1,50 @@
+#startupbus2013{
+
+}
+#startupbus2013 #intro{
+  background: url("/work/assets/2013startupbus/asphalt.png");
+  border-bottom: 1px solid #000;
+  box-shadow: 0 1px 0 rgba(255,255,255,0.8);
+  height: 340px;
+  margin: -40px 0 -30px;
+}
+#startupbus2013 #intro .copy{
+  float: left;
+  margin: 85px 0 0;
+  width: 600px;
+}
+#startupbus2013 #intro h3{
+  color: #fff;
+  font-size: 32px;
+  margin: 0;
+  text-shadow: 0 1px 0 #000;
+}
+#startupbus2013 #intro p{
+  color: #ccc;
+  text-shadow: 0 1px 0 #000;
+}
+#startupbus2013 #intro img{
+  float: right;
+  margin: 45px 0 0;
+}
+#startupbus2013 section{
+  background-color: #eff1f5;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgb(239, 241, 245)), to(rgb(219, 220, 225)));
+  background-image: -webkit-linear-gradient(top, rgb(239, 241, 245), rgb(219, 220, 225));
+  background-image: -moz-linear-gradient(top, rgb(239, 241, 245), rgb(219, 220, 225));
+  background-image: -o-linear-gradient(top, rgb(239, 241, 245), rgb(219, 220, 225));
+  background-image: -ms-linear-gradient(top, rgb(239, 241, 245), rgb(219, 220, 225));
+  background-image: linear-gradient(top, rgb(239, 241, 245), rgb(219, 220, 225));
+  filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,StartColorStr='#eff1f5', EndColorStr='#dbdce1');
+  border-bottom: 1px solid #afb0b2;
+  padding: 30px;
+}
+#startupbus2013 #help{
+  border-radius: 3px 3px 0 0;
+}
+#startupbus2013 #sponsorship{
+
+}
+#startupbus2013 #history{
+
+}

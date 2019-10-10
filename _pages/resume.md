@@ -14,7 +14,7 @@ description: Here are some nice things people have said over the years.
         </div><!--/col-->
         <div class="col-9">
             <h2>Christopher M. Kennedy</h2>
-            <p>I am currently a design co-founder at <a href="http://theronstudios.com/">Theron Studios</a>. At this time I am not taking on any new projects, but I know <a href="/partners/">a few good people</a> that are. Checkout out a full list of all the projects, hackathons, events, speeches, honors, and what I have coming up on my <a href="https://www.statuschart.com/kennedysgarage">Status Chart</a>.</p>
+            <p>I am currently a design co-founder at <a href="http://theronstudios.com/">Theron Studios</a>. At this time I am not taking on any new work, but I know <a href="/partners/">a few good people</a> that are. Checkout out a full list of all the work, hackathons, events, speeches, honors, and what I have coming up on my <a href="https://www.statuschart.com/kennedysgarage">Status Chart</a>.</p>
         </div><!--/col-->
     </div><!--/row-->
 
@@ -49,7 +49,7 @@ description: Here are some nice things people have said over the years.
             <p class="position">Designer in New York, NY <span>March 2011 - Present</span></p>
             <p class="company"><a href="http://48hourapps.com">48HOURapps</a></p>
             <ul>
-                <li>UX Designer &amp; Front-End Developer of web/tablet/mobile apps in 48 hours. I work with four awesome guys that love to hack on projects. We've built some pretty cool apps and people wanted us to build apps for them so we said... hey, why not? </li>
+                <li>UX Designer &amp; Front-End Developer of web/tablet/mobile apps in 48 hours. I work with four awesome guys that love to hack on work. We've built some pretty cool apps and people wanted us to build apps for them so we said... hey, why not? </li>
             </ul>
 
             <p class="position">Root Member in New York, NY <span>October 2011 - Present</span></p>
@@ -63,7 +63,7 @@ description: Here are some nice things people have said over the years.
             <ul>
                 <li>Responsible for diagramming workflow and production tools to support new products.</li>
                 <li>Create low-fidelity and high-fidelity wireframe concepts for new products.</li>
-                <li>Able to balance multiple projects over varying delivery dates.</li>
+                <li>Able to balance multiple work over varying delivery dates.</li>
                 <li>Identify and create opportunities for user feedback in the development of new and existing features.</li>
                 <li>Self-motivated and able to produce results independently as well as in a team environment.</li>
                 <li>Passionate about the details while always keeping the big picture in mind.</li>
@@ -71,7 +71,7 @@ description: Here are some nice things people have said over the years.
             </ul>
 
             <p class="position">Co-Founder in New York, NY <span>March 2011 - June 2011</span></p>
-            <p class="company"><a href="/projects/lemonade-stand">Lemonade Stand</a></p>
+            <p class="company"><a href="/work/lemonade-stand">Lemonade Stand</a></p>
             <ul>
                 <li>We created this company on the <a href="http://www.startupbus.com/">StartupBus</a>. We had 48 hours to complete this project with a team of 5 others. I designed the logo and both Android &amp; iPhone UI for our team. All the hard worked help the team reach the semifinals, finishing in the top 12 of 38 teams. After SXSW we were celebrated as an impressive technical achievement at New York Tech Meetup's <a href="http://www.youtube.com/watch?v=DC-AiiclmV0&feature=youtu.be">Hack of the Month</a>. </li>
             </ul>
@@ -79,14 +79,14 @@ description: Here are some nice things people have said over the years.
             <p class="position">Buspreneur in New York, NY <span>March 2011</span></p>
             <p class="company"><a href="http://www.startupbus.com/">Startup Bus</a></p>
             <ul>
-                <li>A bus of 25 strangers traveling at 60 miles an hour and over 48 hours on the road between New York, NY and Austin,TX attempted the challenge of starting a company under unique (and some would say extreme) time and resource constraints and produce something valuable. At the end, we will present the project to a panel of high-profile investors. Designed the logo and both Android &amp; iPhone UI for our team <a href="/projects/lemonade-stand">Lemonade Stand</a> while on a bus traveling from New York City to Austin, TX. All the hard worked help the team reach the semifinals, finishing in the top 12 of 38 teams. Fun Note, I was so excited I did not take my first nap until I hit 50 hours, I was nicked named <em>The Machine</em>.</li>
+                <li>A bus of 25 strangers traveling at 60 miles an hour and over 48 hours on the road between New York, NY and Austin,TX attempted the challenge of starting a company under unique (and some would say extreme) time and resource constraints and produce something valuable. At the end, we will present the project to a panel of high-profile investors. Designed the logo and both Android &amp; iPhone UI for our team <a href="/work/lemonade-stand">Lemonade Stand</a> while on a bus traveling from New York City to Austin, TX. All the hard worked help the team reach the semifinals, finishing in the top 12 of 38 teams. Fun Note, I was so excited I did not take my first nap until I hit 50 hours, I was nicked named <em>The Machine</em>.</li>
             </ul>
 
             <p class="position">Marketing Producer in New York, NY <span>April 2010 - March 2011</span></p>
             <p class="company"><a href="http://mlb.com">Major League Baseball</a></p>
             <ul>
                 <li>Optimized overall performance of team sites in order to increase traffic, registered users and revenue generation</li>
-                <li>Coordinated with design, editorial, and technical teams during new feature/functionality development projects</li>
+                <li>Coordinated with design, editorial, and technical teams during new feature/functionality development work</li>
                 <li>Implemented site wide form template using HTML5 &amp; CSS3</li>
                 <li>Designed and developed all Fan Club pages using CSS3</li>
                 <li>Developed an internal documentation for standards and guidelines</li>
@@ -96,7 +96,7 @@ description: Here are some nice things people have said over the years.
             <p class="company">City College of New York</p>
             <ul>
                 <li>Taught introduction course to web design</li>
-                <li>Developed curriculum and class projects </li>
+                <li>Developed curriculum and class work </li>
             </ul>
 
             <p class="position">Head Lieutenant in Flagler Beach, FL <span>May 2000 - September 2006</span></p>
