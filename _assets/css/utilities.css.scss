@@ -1,4 +1,7 @@
 /* ========================================================= Utility ===*/
+.sep{
+  margin: 100px 0;
+}
 .btn{
   background-color: $dodgers;
   border: 1px solid rgba(0,0,0,0.3);
@@ -184,6 +187,24 @@ blockquote small {
   display: block;
   color: #A9A9A9;
   font-size: 20px;
+}
+.chip{
+  border-radius: 3px;
+  display: inline-block;
+  font-family: 'Effra Medium', sans-serif;
+  font-size: 12px;
+  letter-spacing: 1px;
+  margin: 0 0 15px;
+  padding: 8px 16px;
+  text-transform: uppercase;
+}
+.available{
+  background-color: #BEFFC1;
+  color: #098A37;
+}
+.unavailable{
+  background-color: #FC9999;
+  color: #754747;
 }
 /* ========================================================= Thumbnail ===*/
 .thumbnail{

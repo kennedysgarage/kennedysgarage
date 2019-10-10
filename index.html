@@ -4,51 +4,93 @@ description: Portfolio of Kennedys Garage
 ---
 
 <div id="home">
-
     <div class="container">
 
       <div class="welcome">
-        <grid columns=8>
-          <c span=1-6 span-s=row>
-            <a href="/contact/"><span class="chip available">Available For Hire</span></a>
-            <!-- <a href="/contact/"><span class="chip unavailable">Unavailable For Hire</span></a> -->
-            <h2>The working portfolio of Kennedy.</h2>
-            <p>A Senior UX Designer at the intersection of products and services living in San Francisco.</p>
+        <grid columns=12>
+          <c span=1-8 span-s=row>
+            <h1>Hi, I’m Kennedy.</h1>
+            <p>I am a designer raised on saltwater and gasoline currently living in SF.</p>
           </c>
-          <c span=7-8 span-s=row>
+          <c span=10-12 span-s=row>
             {% asset cmk.png %}
           </c>
         </grid>
       </div><!--/welcome-->
 
-  </div><!--/container-->
 
+    <grid columns=12>
+      <c span=1-12 span-s=row>
+        <hr class="sep"/>
+      </c>
+    </grid>
 
-  <div class="feats">
-      <div class="container">
-
-          <div class="feat">
-
+        <h2>Latest Products</h2>
             <grid columns=8>
-              <c span=1-5 span-s=row>
-                <!-- <a href="/fistatus/">{% asset laptop.png %}</a> -->
-                <a href="https://www.vanimal.co/">{% asset home/dribbble.png %}</a>
+              <c span=1-4 span-s=row>
+                <a href="">
+                  <span class="latest">{% asset home/vanimal.png %}</span>
+                  <h4>Vanimal</h4>
+                  <p>A project I created it as a way to express some visual thoughts I wanted to explore. It’s also a place to test simple experiments.</p>
+                </a>
               </c>
-              <c span=6-8 span-s=row><br/><br/>
-                <span class="eyebrow">Featured Work</span>
-                <h2>Vanimal</h2>
-                <!-- <p>FiStatus is a personal project of mine. It tracks your personal net worth and cash flow to help you focus on achieving Financial Independence.</p> -->
-                <p>Vanimal is a personal project of mine. I built it as way for me to express some design ideas, to test some hypothesis, and a way to document and share my travels.</p>
-                <a href="https://www.vanimal.co/" class="btn btn-ghost">View Project</a>
+              <c span=5-8 span-s=row>
+                <a href="">
+                  <span class="latest">{% asset home/fistatus.png %}</span>
+                  <h4>FiStatus</h4>
+                  <p>I create an app that lets me keep track of my cash flow and net worth. The crazy part is that I am sharing my personal dashboard publicly.</p>
+                </a>
               </c>
             </grid>
 
-          </div><!--/feat-->
+
+            <div class="book">
+            <grid columns=12>
+              <c span=1-4 span-s=row>
+                {% asset home/book.png %}
+              </c>
+              <c span=5-12 span-s=row>
+                <div class="copy">
+                  <h2>Productcosm</h2>
+                  <p>A book that I am writing where I walk you through the macro and micro workflow of building products as a team in the real world.</p>
+                  <p class="soon">coming soon</p>
+                </div><!--/copy-->
+              </c>
+            </grid>
+            </div><!--/book-->
 
 
-        </div><!--/container-->
-  </div><!--/feats-->
+
+            <grid columns=12>
+              <c span=1-12 span-s=row>
+                <hr class="sep"/>
+              </c>
+            </grid>
+
+
+            <div class="follow">
+
+            <h3>Photos</h3>
+            <p>Follow me <a href="https://www.instagram.com/kennedysgarage/">@kennedysgarage {% asset home/ig.svg %}</a></p>
+            <div class="clear"></div>
+            <grid columns=12>
+              <c span=1-3 span-s=row>
+                <a href="https://www.instagram.com/p/B3VpryppvmM/">{% asset home/ig1.png %}</a>
+              </c>
+              <c span=4-6 span-s=row>
+                <a href="https://www.instagram.com/p/BzbOnQIp-lr/">{% asset home/ig2.png %}</a>
+              </c>
+              <c span=7-9 span-s=row>
+                <a href="https://www.instagram.com/p/BzZRg7upR-X/">{% asset home/ig3.png %}</a>
+              </c>
+              <c span=10-12 span-s=row>
+                <a href="https://www.instagram.com/p/Bl3KQgMljWg/">{% asset home/ig4.png %}</a>
+              </c>
+            </grid>
+            </div><!--/follow-->
 
 
 
+
+</div><!--/container-->
 </div><!--/home-->

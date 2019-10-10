@@ -20,13 +20,8 @@ html {
     text-size-adjust: 100%;
 }
 html,body{
-  background-color: #dadedf;
-  background-color: #efeff4;
-  background-color: #f8f8f8;
-  background: #eeeeee;
   background: #fff;
-  color: #3d464d;
-  color: #768093;
+  color: #57586E;
   font-family: 'ProximaNova', sans-serif;
   font-weight: 400;
   width: 100%;
@@ -37,7 +32,7 @@ html,body{
 .container{
   margin-left: auto;
   margin-right: auto;
-  max-width: 1000px;
+  max-width: 860px;
   padding: 0 2%;
 }
 header{
@@ -54,6 +49,11 @@ header{
       &:active{
         outline: none;
       }
+    }
+  }
+  .logo{
+    img{
+      display: inline-block;
     }
   }
   .menu{
@@ -90,18 +90,16 @@ nav{
       display: inline-block;
       padding: 0;
       a{
-        color: #ddd;
+        color: #101131;
         display: block;
-        padding: 8px 10px 4px;
+        padding: 4px 10px 4px;
         margin: 0 5px;
-        font-family: 'Effra Medium', sans-serif;
+        font-family: 'ProximaNova', sans-serif;
         text-align: center;
         text-transform: uppercase;
-        color: #333;
         display: block;
-        font-size: 15px;
-        padding: 8px 10px 4px;
-        margin: 8px 5px 0;
+        font-size: 12px;
+        margin: 0 5px;
         text-align: center;
         text-transform: uppercase;
         &:hover{
@@ -162,47 +160,64 @@ nav{
 #home{
   .welcome{
     padding: 30px 0 30px;
-    .chip{
-      border-radius: 3px;
-      display: inline-block;
-      font-family: 'Effra Medium', sans-serif;
-      font-size: 12px;
-      letter-spacing: 1px;
-      margin: 0 0 15px;
-      padding: 8px 16px;
-      text-transform: uppercase;
-    }
-    .available{
-      background-color: #BEFFC1;
-      color: #098A37;
-    }
-    .unavailable{
-      background-color: #FC9999;
-      color: #754747;
-    }
     h1{
-      margin: 0 0 2px;
+      margin: 10px 0 10px;
     }
     p{
-      font-family: 'Effra Light', sans-serif;
+      font-family: 'ProximaNova', sans-serif;
       font-size: 28px;
+      line-height: 1.2;
     }
   }
-  .feats{
-    background-color: #F3F4F8;
-    padding: 20px 0;
+  .latest{
+    background-color: #F1F3F2;
+    border-radius: 5px;
+    display: block;
+    padding: 20px;
+    margin: 0 0 30px;
   }
-  .feat{
-    margin: 120px 0 90px;
-    padding: 0;
-    h2{
-      margin: 0 0 .5em;
+  .book{
+    background-color: #F1F3F2;
+    margin: 90px 0 0;
+    padding: 30px;
+    .copy{
+      display: flex;
+      justify-content: center;
+      flex-direction: column;
+      height: 100%;
+      h2{
+        font-size: 40px;
+        margin: 10px 0 0;
+      }
+      p{
+        font-size: 21px;
+        line-height: 1.3;
+      }
+      .soon{
+        color: #F95B5B;
+        font-family: "NorthwellAlt";
+        font-size: 60px;
+        text-align: right;
+        line-height: 0.5;
+        margin: 0;
+      }
+    }
+  }
+  .follow{
+    h3{
+      display: inline-block;
     }
     p{
-      margin: 0 0 1.5em;
-    }
-    img{
-      margin: 0 0 30px;
+      display: inline-block;
+      float: right;
+      font-size: 14px;
+      margin: 0;
+      img{
+        margin: 0 0 0 5px
+      }
+      a{
+        color: #57586E;
+      }
     }
   }
   .availability{
@@ -1028,19 +1043,31 @@ object{
 
 /* ========================================================= Footer ===*/
 .cta{
-  margin: 120px 0;
+  margin: 0 0 120px;
   text-align: center;
   .eyebrow{
     margin: 0 0 2px;
   }
   h2{
-    margin: 0 0 1.2em;
+    margin: 0 0 10px;
   }
   p{
     margin: 0 0 2em;
   }
   .btn{
     text-transform: lowercase;
+  }
+}
+footer{
+  border-top: 1px solid #D5D7D7;
+  padding: 20px 0;
+  p{
+    color: #D5D7D7;
+    font-size: 12px;
+    margin: 0;
+  }
+  .made{
+    text-align: right;
   }
 }
 /* ========================================================= Respond ===*/
@@ -1082,7 +1109,7 @@ object{
   }
   #home{
     .welcome{
-      padding: 100px 0 100px;
+      padding: 100px 0 0;
     }
   }
   /* -------------
@@ -1106,9 +1133,9 @@ object{
         a{
           color: #333;
           display: block;
-          font-size: 15px;
+          font-size: 14px;
           padding: 8px 10px 4px;
-          margin: 8px 5px 0;
+          margin: 0 5px 0;
           text-align: center;
           text-transform: uppercase;
           &:hover{

@@ -1,7 +1,7 @@
 ---
 layout: default
-permalink: /newsletter/
-title: Newsletter
+permalink: /subscribe/
+title: Subscribe
 ---
 
 <div class="row">

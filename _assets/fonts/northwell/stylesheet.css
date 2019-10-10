@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'Northwell';
+    src: url(font_path('northwell/Northwell.eot'));
+    src: url(font_path('northwell/Northwell.eot?#iefix')) format('embedded-opentype'),
+        url(font_path('northwell/Northwell.woff')) format('woff'),
+        url(font_path('northwell/Northwell.ttf')) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NorthwellSwash';
+    src: url(font_path('northwell/Northwell-Swash.eot'));
+    src: url(font_path('northwell/Northwell-Swash.eot?#iefix')) format('embedded-opentype'),
+        url(font_path('northwell/Northwell-Swash.woff')) format('woff'),
+        url(font_path('northwell/Northwell-Swash.ttf')) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NorthwellAlt';
+    src: url(font_path('northwell/Northwell-Alt.eot'));
+    src: url(font_path('northwell/Northwell-Alt.eot?#iefix')) format('embedded-opentype'),
+        url(font_path('northwell/Northwell-Alt.woff')) format('woff'),
+        url(font_path('northwell/Northwell-Alt.ttf')) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}

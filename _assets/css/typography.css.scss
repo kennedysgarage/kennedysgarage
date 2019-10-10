@@ -1,8 +1,8 @@
 /* ========================================================= Typography ===*/
 // Type Scale: 5 7 9 12 16 21 28 37 50 83 111
 h1, h2, h3, h4 {
-  color: #343E3D;
-  font-family: 'Effra Medium', sans-serif;
+  color: #101131;
+  font-family: 'NoeDisplayBold', sans-serif;
   margin: 1.414em 0 0.5em;
   font-weight: normal;
   line-height: 1.2;
@@ -12,16 +12,12 @@ h1{
   margin: 0 0 30px;
 }
 h2{
-  color: #343E3D;
   font-size: 37px;
   font-weight: 400;
-  margin: 0 0 5px;
+  margin: 0 0 10px;
   padding: 0;
 }
 h3{
-  // border-bottom: 3px solid #b6b6bf;
-  color: #343E3D;
-  display: block;
   font-weight: 400;
   font-size: 28px;
   margin: 0 0 5px;
@@ -29,21 +25,19 @@ h3{
   margin: 0 0 0.4em;
 }
 h4{
-  color: #4C4C4C;
-  font-family: 'Effra Heavy', sans-serif;
+  font-family: "ProximaNovaBold";
   font-weight: 400;
   font-size: 21px;
   margin: 5px 0;
 }
 p{
-  color: #5C5C5C;
-  color: #768093;
+  color: #57586E;
   font-size: 16px;
   line-height: 1.5;
   margin: 0 0 1.3em;
 }
 strong{
-  color: #262628;
+  color: #101131;
 }
 small, .font_small{
   font-size: 0.707em;
@@ -52,16 +46,14 @@ ul, ol{
   margin: 0 0 1.5em;
 }
 li{
-  color: #5C5C5C;
-  color: #768093;
+  color: #57586E;
   font-family: 'ProximaNova', sans-serif;
   font-size: 1em;
   line-height: 1.5;
   font-size: 16px;
 }
 dl{
-  color: #5C5C5C;
-  color: #768093;
+  color: #57586E;
   font-family: 'ProximaNova', sans-serif;
   font-size: 1em;
   line-height: 1.5;
@@ -71,7 +63,7 @@ dt{
   font-weight: bold;
 }
 dd{
-  color: #5C5C5C;
+  color: #57586E;
   font-size: 1em;
   margin: 0 0 10px 10px;
 }
