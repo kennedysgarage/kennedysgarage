@@ -1,10 +1,10 @@
-name: "KG41"
+name: "Kennedys Garage"
 permalink: pretty
 author: Kennedy
 email: kennedysgarage@gmail.com
 url: http://kennedysgarage.com
-title: KG41
-description: Portfolio of Kennedys Garage
+title: Kennedys Garage
+description: Kennedys Garage personal website
 markdown: kramdown
 highlighter: rouge
 

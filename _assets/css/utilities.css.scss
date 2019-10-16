@@ -3,20 +3,20 @@
   margin: 100px 0;
 }
 .btn{
-  background-color: $dodgers;
-  border: 1px solid rgba(0,0,0,0.3);
-  border-radius: 3px;
-  box-shadow: 0 0 0 2px rgba(255,255,255,0.1) inset, 0 1px 0px rgba(0,0,0,0.3);
+  background-color: #ff5e60;
+  border:none;
+  border-radius: 5px;
   color: #fff;
   display: inline-block;
-  font-family: 'Effra Medium', sans-serif;
+  font-family: 'ProximaNovaBold', sans-serif;
   font-size: 16px;
   letter-spacing: 1px;
-  padding: 8px 30px;
+  padding: 12px 35px 10px;
   text-transform: uppercase;
   text-shadow: none;
+  text-decoration: none;
   &:hover{
-    background-color: darken( $dodgers, 10% );
+    background-color: darken( #ff5e60, 5% );
     color: #fff;
   }
   i{
@@ -45,13 +45,13 @@
   }
 }
 .eyebrow{
-  color: #1D1D1F;
+  color: #57586E;
   display: block;
   font-family: 'Effra Medium', sans-serif;
-  font-size: 14px;
-  letter-spacing: 3px;
+  font-size: 12px;
+  letter-spacing: 1px;
   text-transform: uppercase;
-  margin: 0 0 40px;
+  // margin: 0 0 40px;
 }
 .spine{
   transform: rotate(-90deg) translate3d(0px, 0px, 0px);
@@ -140,36 +140,34 @@ form input[type=text], form input[type=email]{
     background-color: #feffe3;
     background: none;
     border:none;
-    border-bottom: 1px dotted #94949c;
+    font-size: 18px;
+    padding: 10px 0;
+    border-bottom: 2px solid #101131;
     border-radius: 3px 3px 0 0;
-    max-width: 260px;
     width: 100%;
+    margin: 0 0 40px;
 }
-form input[type=text].address{
-    max-width: 500px;
-}
-form button{
-
-    background-color: #1FBC9A;
-    border:none;
-    border-bottom-color: #18967b;
-    border-bottom-style: solid;
-    border-bottom-width: 4px;
-    border-radius: 5px;
-    color: #fff;
-    display: inline-block;
-    margin: 10px 0;
-    padding: 10px 30px;
-    text-shadow: 1px 1px 1px #18967b;
-    -o-transition: 0.3s;
-    -ms-transition: 0.3s;
-    -moz-transition: 0.3s;
-    -webkit-transition: 0.3s;
-    transition: 0.3s;
-}
-form button:hover{
-    background: #1db392;
-}
+// form button{
+//     background-color: #1FBC9A;
+//     border:none;
+//     border-bottom-color: #18967b;
+//     border-bottom-style: solid;
+//     border-bottom-width: 4px;
+//     border-radius: 5px;
+//     color: #fff;
+//     display: inline-block;
+//     margin: 10px 0;
+//     padding: 10px 30px;
+//     text-shadow: 1px 1px 1px #18967b;
+//     -o-transition: 0.3s;
+//     -ms-transition: 0.3s;
+//     -moz-transition: 0.3s;
+//     -webkit-transition: 0.3s;
+//     transition: 0.3s;
+// }
+// form button:hover{
+//     background: #1db392;
+// }
 /* ========================================================= Blockquote ===*/
 blockquote {
   margin: 3em 0 2.5em;
@@ -197,14 +195,23 @@ blockquote small {
   margin: 0 0 15px;
   padding: 8px 16px;
   text-transform: uppercase;
+  a{
+    text-decoration: none;
+  }
 }
 .available{
   background-color: #BEFFC1;
   color: #098A37;
+  a{
+    color: #098A37;
+  }
 }
 .unavailable{
   background-color: #FC9999;
   color: #754747;
+  a{
+    color: #754747;
+  }
 }
 /* ========================================================= Thumbnail ===*/
 .thumbnail{
