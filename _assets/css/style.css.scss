@@ -281,7 +281,7 @@ nav{
       }
     }
   }
-  .featuredwork{
+  .featuredg{
     a{
       color: #1FBC9A;
       img{
@@ -341,8 +341,7 @@ nav{
     vertical-align: middle;
     border-radius: 4px;
     margin: 0 auto;
-    height: 55px;
-    padding: 0 12px;
+    padding: 0 10px;
   }
 }
 .experience{
@@ -607,6 +606,9 @@ object{
   h4{
     display: inline-block;
     font-size: 21px;
+  }
+  h5{
+    margin: 0 0 10px;
   }
   .chip{
     float: right;
