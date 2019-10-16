@@ -42,11 +42,11 @@
 	  <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
 	  <meta content="http://kennedysgarage.com/about/" property="article:author">
 	{% endif %}
-	{% if page.image %}
+	<!-- {% if page.image %}
 	  <meta content="http://kennedysgarage.com/img/srcset/{{ page.image }}" property="og:image">
 	{% else %}
-	  <meta content="http://kennedysgarage.com/opengraph/cmk.jpeg" property="og:image">
-	{% endif %}
+	  <meta content="http://kennedysgarage.com/cmk.jpeg" property="og:image">
+	{% endif %} -->
 	{% if page.categories %}
 	  {% for category in page.categories limit:1 %}
 	  <meta content="{{ category }}" property="article:section">
