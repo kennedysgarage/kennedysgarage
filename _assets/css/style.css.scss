@@ -173,12 +173,12 @@ nav{
     font-size: 83px;
     margin: 0 0 30px;
   }
-  .intro{
-    font-size: 21px;
-  }
   .eyebrow{
     margin: 0;
   }
+}
+.intro{
+  font-size: 21px;
 }
 /* ========================================================= Home ===*/
 #home{
@@ -334,7 +334,7 @@ nav{
   }
 }
 .brands{
-  margin: 60px 0 100px;
+  margin: 60px 0 0;
   img{
     border: none;
     display: block;
@@ -594,6 +594,16 @@ object{
 }
 
 /* ========================================================= Work ===*/
+.work{
+  img{
+    border-radius: 5px;
+  }
+  figure{
+    a{
+      text-decoration: none;
+    }
+  }
+}
 .work-history{
   p{
     // font-size: 21px;
