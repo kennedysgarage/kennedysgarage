@@ -196,6 +196,17 @@ blockquote small {
     text-decoration: none;
   }
 }
+.callout{
+  border-radius: 5px;
+  display: inline-block;
+  font-size: 12px;
+  letter-spacing: 1px;
+  margin: 0 0 15px;
+  padding: 18px 16px;
+  a{
+    text-decoration: none;
+  }
+}
 .available{
   background-color: #BEFFC1;
   color: #098A37;
@@ -208,6 +219,13 @@ blockquote small {
   color: #754747;
   a{
     color: #754747;
+  }
+}
+.info{
+  background-color: #FCEC99;
+  color: #7A734A;
+  a{
+    color: #7A734A;
   }
 }
 /* ========================================================= Thumbnail ===*/
