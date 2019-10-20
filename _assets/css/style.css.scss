@@ -159,7 +159,7 @@ nav{
 
   // border-radius: 2px;
   // box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
-  margin: 100px 0;
+  margin: 100px 0 60px;
   position: relative;
   z-index: 5;
   // img{
@@ -341,7 +341,7 @@ nav{
     vertical-align: middle;
     border-radius: 4px;
     margin: 0 auto;
-    padding: 0 10px;
+    padding: 0;
   }
 }
 .experience{
@@ -622,9 +622,18 @@ object{
   }
   .chip{
     float: right;
+    font-size: 12px;
   }
-  .details{
-
+  .detail{
+    font-size: 12px;
+    margin: 0 0 10px;
+    strong{
+      color: #101131;
+      display: block;
+      font-family: 'Effra Medium', sans-serif;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+    }
   }
 }
 .products{
@@ -637,7 +646,7 @@ object{
 }
 
 .controls{
-  margin: 0 0 30px;
+  margin: 0 0 40px;
   padding: 10px 0;
   span{
     font-family: "Effra Heavy";
@@ -679,7 +688,9 @@ object{
   }
 }
 .card{
-
+  hr{
+    margin: 60px 0;
+  }
 }
 .cards{
 
@@ -710,7 +721,6 @@ object{
       letter-spacing: 1px;
       text-transform: uppercase;
     }
-
   }
 }
 #project{
