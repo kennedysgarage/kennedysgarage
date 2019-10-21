@@ -1,21 +1,153 @@
 ---
-layout: work
+layout: project
 permalink: /mshanken/
 title: M. Shanken
 description: I had the honor of working for M. Shanken.
 image: /assets/work/hero/mshanken.png
 ---
-        <div class="col-9 description">
-          <h3>Project Description</h3>
-          <p></p>
-        </div><!--/col-->
-        <div class="col-3 role">
-          <h3>My Role</h3>
-          <ul>
-            <li><i class="ss-icon ss-standard">&#x2713;</i> UX Strategist</li>
-          </ul>
-        </div><!--/col-->
 
-        <div class="col-12">
-          <h3>Bring Your Own Magnum</h3>
-        </div><!--/col-->
+<h1 class="title">{{ page.title }}</h1>
+<div class="details">
+  <grid columns=8>
+      <c span=1-2 span-s=row>
+        <p><strong>Engagement</strong>Full-time</p>
+      </c>
+      <c span=3-4 span-s=row>
+        <p><strong>Role</strong>Lead UX Strategist</p>
+      </c>
+      <c span=5-6 span-s=row>
+        <p><strong>Platforms</strong>iOS, Android, Web</p>
+      </c>
+      <c span=7-8 span-s=row>
+        <p><strong>Timeframe</strong>Mar 2011 - Aug 2013</p>
+      </c>
+  </grid>
+</div><!--/details-->
+
+
+
+<grid columns=12>
+  <c span=12 span-s=row>
+    <h2>Wine Spectator Top 100</h2>
+    <p class="intro">Every year Wine Spectator releases their Top 100 list. I had the honor to desing the identity and website for the 2013 Wine Spectator Top 100 list.</p><br/><br/>
+    <!-- The website is still live if you want to check it out <a href="http://2013.top100.winespectator.com/">http://2013.top100.winespectator.com/</a>. -->
+    </c>
+</grid>
+
+
+<grid columns=8>
+  <c span=2 span-s=row>
+    <h3>Home View</h3>
+  </c>
+  <c span=6 span-s=row>
+    <p>{% asset work/wstop100/home.png %}</p>
+  </c>
+  <c span=8 span-s=row><hr/></c>
+  <c span=2 span-s=row>
+    <h3>Wine View</h3>
+  </c>
+  <c span=6 span-s=row>
+    <p>{% asset work/wstop100/number1.png %}</p>
+  </c>
+</grid>
+
+<grid columns=12>
+  <c span=1-12 span-s=row>
+    <hr class="sep"/>
+  </c>
+</grid>
+
+<grid columns=12>
+  <c span=12 span-s=row>
+    <h2>Bring Your Own Magnum</h2>
+    <!-- I had the honor of designing Porsche's Bring Your Own Magnum website. -->
+    <p class="intro">While working for M. Shanken communications I was put in charge with coming up with the creative for Wine Spectator's annual Bring Your Own Magnum. We create a microsite and a couple of promotional materials. The goal was to create a website that would pull in images from Instagram and Twitter based off the hashtag #WSporsche.</p>
+    </c>
+</grid>
+
+<grid columns=8>
+  <c span=2 span-s=row>
+    <h3>Website</h3>
+  </c>
+  <c span=6 span-s=row>
+    <p>The website evolved along the way as we found out new requirements and once we received Porsche's Style Guide. For example, the white header came along later in the project once we discovered that the Porsche logo had to be on a white background. We used <a href="http://twitter.github.io/bootstrap/index.html">Twitter Bootstrap</a> for the base of the site because it is easier for the developers to work with and the short deadline. Originally we were going to just pull images from Instagram, but we later decided that including images from Twitter would be a great addition. Because of this there was a bunch of different sizes so we use <a href="http://masonry.desandro.com/">Masonry</a> to help build a dynamic grid.</p>
+    <p>{% asset work/bringyourownmagnum/website.png %}</p>
+  </c>
+  <c span=8 span-s=row><hr/></c>
+  <c span=2 span-s=row>
+    <h3>Texture</h3>
+  </c>
+  <c span=6 span-s=row>
+    <p>Since this was a promotional website for the brand new 2014 Porsche Cayman and I wanted to add a lot of the texture from the car. I decided that I would focus on the inside as most the of the pictures on the site would be of the outside. I don't want to get into a debate about skeuomorphic, but this was my first of my designs in that direction.</p>
+    {% asset work/bringyourownmagnum/texture.png %}
+  </c>
+  <c span=8 span-s=row><hr/></c>
+  <c span=2 span-s=row>
+    <h3>Loading animation</h3>
+  </c>
+  <c span=6 span-s=row>
+    <p>As a final little touch I wanted to create a custom loading animation. My first thought was either make a gage or a steering wheel, both have moving parts that everyone knows. After looking at the interior of the Porsche for a while the steering wheel really stood out to me. For such a small icon I am very happy that I was able to fit in the details of the wheel, such as the grips, cutouts, and the basic shape of the logo.</p>
+    <figure>
+      {% asset work/bringyourownmagnum/porsche.jpg %}
+      <figcaption>Image credit Porsche. Photo of a <a href="http://www.porsche.com/usa/models/cayman/cayman/">Porsche Cayman</a> interior that I used for inspiration.</figcaption>
+    </figure>
+    <p>When I first started to build the animation I debated between just doing it in CSS3 or making a gif in Photoshop. CSS3 would have been the easy way out, but it would not necessary looked the best. I could not have gotten the same rotating results as I did in Photoshop.</p>
+    <p>After building the first version I noticed that something looked off. I realized that I was spinning the wheel on the outer axis, but the Porsche steering wheel's center hub is not perfectly centered. I then had to figure out how to transform and rotate the wheel from the center hub. The diagram to the right you can see that the center hub is slightly off center. Check out the gifs below and can see something looks off on the first draft. It helps if you focus your eyes on the center hub to see what I am talking about.</p>
+    </c>
+    <c span=3-4 span-s=row>
+    <h4>Grid</h4>
+    <p>{% asset work/bringyourownmagnum/lines.jpg %}</p>
+    </c>
+    <c span=5-6 span-s=row>
+    <h4>First draft</h4>
+    <p>{% asset work/bringyourownmagnum/bad.gif %}</p>
+    </c>
+    <c span=7-8 span-s=row>
+    <h4>Final</h4>
+    <p>{% asset work/bringyourownmagnum/good.gif %}</p>
+  </c>
+  <c span=8 span-s=row><hr/></c>
+  <c span=2 span-s=row>
+    <h3>Promotional material</h3>
+  </c>
+  <c span=6 span-s=row>
+    <p>We ended up only created two promotional material. A 11"x17" board that would be used to display the main information and a 3"x3.5" that looked like a Polaroid with information they could take home.</p>
+    </c>
+  <c span=3-5 span-s=row>
+    <figure>
+      <p>{% asset work/bringyourownmagnum/card-front.png %}</p>
+      <figcaption>Front of the  Polaroid sized card</figcaption>
+    </figure>
+    </c>
+    <c span=6-8 span-s=row>
+    <figure>
+      <p>{% asset work/bringyourownmagnum/card-back.png %}</p>
+      <figcaption>Back of the  Polaroid sized card</figcaption>
+    </figure>
+  </c>
+</grid>
+
+<hr/>
+
+
+
+
+<grid columns=8>
+  <c span=2 span-s=row>
+    <h2>Credits</h2>
+  </c>
+  <c span=6 span-s=row>
+    <ul class="credit">
+        <li><strong><a href="https://www.linkedin.com/in/kennedysgarage/">C.M. Kennedy</a></strong><span>Design</span></li>
+        <li><strong><a href="https://www.linkedin.com/in/stephenwcannizzaro">Stephen Cannizzaro</a></strong><span>Front-end Dev</span></li>
+    </ul>
+  </c>
+</grid>
+
+
+<!--
+
+  Notes
+  URL: http://byom.winespectator.com
+
+-->
