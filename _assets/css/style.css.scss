@@ -707,7 +707,7 @@ object{
   }
 }
 /* ========================================================= Project ===*/
-.project{
+#project{
   p, li{
     font-size: 18px;
   }
@@ -723,72 +723,72 @@ object{
     }
   }
 }
-#project{
-  h3{
-    a{
-      color: #101131;
-      text-decoration: underline;
-    }
-    img{
-      margin: -5px 10px 0 0;
-      vertical-align: middle;
-    }
-    span{
-      display: inline-block;
-    }
-  }
-  .project-intro{
-    img{
-      border-radius: 10px;
-      width: 60px;
-      vertical-align: text-top;
-      margin: 0 10px 0 0;
-    }
-    h1{
-      font-family: 'ProximaNovaLight', sans-serif;
-      margin-bottom: 10px;
-      font-size: 60px;
-      text-transform: uppercase;
-    }
-    p{
-      font-size: 20px;
-    }
-  }
-  #intro{
-    .btn{
-      float: right;
-      i{
-        margin: 0 0 0 5px;
-        vertical-align: middle;
-        font-size: 0.875em;
-      }
-    }
-  }
-  .role{
-    h3{
-      margin-top: 0;
-    }
-    ul{
-      list-style: none;
-      margin: 0 0 1em;
-      padding: 0;
-      li{
-        margin: 0;
-        padding: 0;
-        i{
-          font-size: 14px;
-          vertical-align: middle;
-        }
-      }
-    }
-  }
-  .description h3{
-    margin-top: 0;
-  }
-  .poppop{
-    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.2);
-  }
-}
+// #project{
+//   h3{
+//     a{
+//       color: #101131;
+//       text-decoration: underline;
+//     }
+//     img{
+//       margin: -5px 10px 0 0;
+//       vertical-align: middle;
+//     }
+//     span{
+//       display: inline-block;
+//     }
+//   }
+//   .project-intro{
+//     img{
+//       border-radius: 10px;
+//       width: 60px;
+//       vertical-align: text-top;
+//       margin: 0 10px 0 0;
+//     }
+//     h1{
+//       font-family: 'ProximaNovaLight', sans-serif;
+//       margin-bottom: 10px;
+//       font-size: 60px;
+//       text-transform: uppercase;
+//     }
+//     p{
+//       font-size: 20px;
+//     }
+//   }
+//   #intro{
+//     .btn{
+//       float: right;
+//       i{
+//         margin: 0 0 0 5px;
+//         vertical-align: middle;
+//         font-size: 0.875em;
+//       }
+//     }
+//   }
+//   .role{
+//     h3{
+//       margin-top: 0;
+//     }
+//     ul{
+//       list-style: none;
+//       margin: 0 0 1em;
+//       padding: 0;
+//       li{
+//         margin: 0;
+//         padding: 0;
+//         i{
+//           font-size: 14px;
+//           vertical-align: middle;
+//         }
+//       }
+//     }
+//   }
+//   .description h3{
+//     margin-top: 0;
+//   }
+//   .poppop{
+//     box-shadow: 0 1px 8px rgba(0, 0, 0, 0.2);
+//   }
+// }
 .credit{
   list-style: none;
   margin: 0;
